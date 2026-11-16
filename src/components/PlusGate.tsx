@@ -12,7 +12,7 @@ export default function PlusGate({ flag, title, children }: { flag: FeatureFlag;
     <div className="card text-center">
       <h1 className="h1">{title} es una función Plus</h1>
       <p className="muted mb-3">Activa Plus en la pantalla de suscripción (simulada) para probarla.</p>
-      <Link className="btn btn-primary" to="/subscription">Ver suscripción</Link>
+      <Link className="btn btn-primary" to="/suscripcion">Ver suscripción</Link>
     </div>
   )
 }

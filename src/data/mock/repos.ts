@@ -1,6 +1,6 @@
 import type { Activity, Attendance, Gigslist, Tag, User } from '@/domain/types'
 import type {
-  AgendaItem, AgendaQuery, GigDetail, GigView, ImportCandidate, ProfileView, ReviewView, UpcomingSaved,
+  AgendaItem, AgendaQuery, FriendAttendanceView, GigDetail, GigView, ImportCandidate, ProfileView, ReviewView, UpcomingSaved,
 } from '@/domain/views'
 import type {
   AgendaProvider, AttendanceRepository, AttendanceUpsert, FriendRepository, GigRepository,
@@ -25,8 +25,12 @@ const gigs: GigRepository = {
         const t = Date.parse(g.date)
         if (filter.scope === 'past' && t >= now) return false
         if (filter.scope === 'upcoming' && t < now) return false
+        if (filter.from && g.date.slice(0, 10) < filter.from) return false
+        if (filter.to && g.date.slice(0, 10) > filter.to) return false
         if (filter.onlyMine && !mineIds.has(g.id)) return false
         if (tagged && !tagged.has(g.id)) return false
+        if (filter.artistId && !g.artistIds.includes(filter.artistId)) return false
+        if (filter.venueId && g.venueId !== filter.venueId) return false
         const v = db.venues.find((x) => x.id === g.venueId)!
         if (filter.city && v.city !== filter.city) return false
         const arts = g.artistIds.map((id) => db.artists.find((a) => a.id === id)!)
@@ -39,7 +43,9 @@ const gigs: GigRepository = {
       })
       list = list.sort((a, b) => a.date.localeCompare(b.date))
       if ((filter.sort ?? (filter.scope === 'upcoming' ? 'date-asc' : 'date-desc')) === 'date-desc') list.reverse()
-      return list.slice(0, 200).map((g) => gigView(db, g))
+      let views = list.map((g) => gigView(db, g))
+      if (filter.minRating !== undefined) views = views.filter((v) => (v.avgRating ?? 0) >= filter.minRating!)
+      return views.slice(0, 200)
     }, [])
   },
   async get(gigId): Promise<GigDetail> {
@@ -59,6 +65,7 @@ const gigs: GigRepository = {
         ...view,
         friendsAttended: atts.filter((a) => a.status === 'attended' && fol.has(a.userId)).map((a) => userOf(a.userId)),
         friendsGoing: atts.filter((a) => a.status === 'going' && fol.has(a.userId)).map((a) => userOf(a.userId)),
+        attendeeCount: atts.filter((a) => a.status === 'attended').length,
         reviews,
         inGigslistIds: db.gigslists.filter((l) => l.userId === db.meta.currentUserId && l.items.some((i) => i.gigId === gigId)).map((l) => l.id),
       }
@@ -69,7 +76,9 @@ const gigs: GigRepository = {
     return simRead(() => ({
       cities: [...new Set(db.venues.map((v) => v.city))].sort((a, b) => a.localeCompare(b)),
       genres: [...new Set(db.artists.map((a) => a.genre))].sort((a, b) => a.localeCompare(b)),
-    }), { cities: [], genres: [] })
+      artists: db.artists.map((a) => ({ id: a.id, name: a.name })).sort((a, b) => a.name.localeCompare(b.name)),
+      venues: db.venues.map((v) => ({ id: v.id, name: v.name, city: v.city })).sort((a, b) => a.name.localeCompare(b.name)),
+    }), { cities: [], genres: [], artists: [], venues: [] })
   },
 }
 
@@ -78,7 +87,7 @@ const attendances: AttendanceRepository = {
     const db = await getDb()
     return simRead(() =>
       db.attendances
-        .filter((a) => a.userId === db.meta.currentUserId && (!opts.tagId || a.tagIds.includes(opts.tagId)))
+        .filter((a) => a.userId === db.meta.currentUserId && (!opts.tagId || a.tagIds.includes(opts.tagId)) && (!opts.status || a.status === opts.status))
         .map((a) => attendanceView(db, a))
         .sort((a, b) => b.gig.gig.date.localeCompare(a.gig.gig.date)), [])
   },
@@ -118,14 +127,14 @@ const attendances: AttendanceRepository = {
       persist(db)
     })
   },
-  async reviews(scope) {
+  async reviews(scope, limit = 100) {
     const db = await getDb()
     return simRead(() => {
       const fol = followingIds(db)
       return db.attendances
         .filter((a) => a.review && (scope === 'mine' ? a.userId === db.meta.currentUserId : fol.has(a.userId)))
         .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
-        .slice(0, 100)
+        .slice(0, limit)
         .map((a): ReviewView => ({ attendance: a, user: db.users.find((u) => u.id === a.userId)!, gig: gigView(db, db.gigs.find((g) => g.id === a.gigId)!) }))
     }, [])
   },
@@ -209,11 +218,17 @@ const profiles: ProfileRepository = {
       const cities = new Set([...venues].map((v) => db.venues.find((x) => x.id === v)!.city))
       const artistSet = new Set(gigsOf.flatMap((g) => g.artistIds))
       const myGigIds = new Set(db.attendances.filter((a) => a.userId === db.meta.currentUserId).map((a) => a.gigId))
+      const byLoggedDateDesc = (a: Attendance, b: Attendance) => b.createdAt.localeCompare(a.createdAt)
       return {
         user,
         stats: { gigs: atts.length, artists: artistSet.size, venues: venues.size, cities: cities.size },
-        favorites: atts.filter((a) => (a.rating ?? 0) >= 4.5).sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0)).slice(0, 4).map((a) => attendanceView(db, a)),
-        recentActivity: db.activities.filter((a) => a.userId === userId).sort((a, b) => b.createdAt.localeCompare(a.createdAt)).slice(0, 8).map((a) => activityView(db, a.id)!),
+        favorites: atts.filter((a) => (a.rating ?? 0) >= 4.5).sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0)).slice(0, 5).map((a) => attendanceView(db, a)),
+        recentGigs: [...atts].sort(byLoggedDateDesc).slice(0, 5).map((a) => attendanceView(db, a)),
+        recentReviews: db.attendances
+          .filter((a) => a.userId === userId && a.review)
+          .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
+          .slice(0, 5)
+          .map((a): ReviewView => ({ attendance: a, user, gig: gigView(db, db.gigs.find((g) => g.id === a.gigId)!) })),
         followers: db.follows.filter((f) => f.followeeId === userId).length,
         following: db.follows.filter((f) => f.followerId === userId).length,
         isMe: userId === db.meta.currentUserId,
@@ -275,6 +290,21 @@ const friends: FriendRepository = {
         .slice(0, 60)
         .map((a) => activityView(db, a.id)!)
     }, [])
+  },
+  async recentConcerts(limit = 5) {
+    const db = await getDb()
+    return simRead(() => {
+      const fol = followingIds(db)
+      return db.attendances
+        .filter((a) => a.status === 'attended' && fol.has(a.userId))
+        .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
+        .slice(0, limit)
+        .map((a): FriendAttendanceView => ({
+          user: db.users.find((u) => u.id === a.userId)!,
+          attendance: a,
+          gig: gigView(db, db.gigs.find((g) => g.id === a.gigId)!),
+        }))
+    }, [] as FriendAttendanceView[])
   },
 }
 

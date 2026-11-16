@@ -2,7 +2,7 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { isFlagEnabled, type FeatureFlag } from '@/config/flags'
 import type { AgendaQuery, GigFilter, ImportConfirmation } from '@/domain/views'
-import type { UUID } from '@/domain/types'
+import type { AttendanceStatus, UUID } from '@/domain/types'
 import { repos } from '.'
 import type { AttendanceUpsert } from './repositories'
 
@@ -11,8 +11,9 @@ export const qk = {
   gigs: (f?: GigFilter) => ['gigs', f ?? {}] as const,
   gig: (id: string) => ['gig', id] as const,
   filterOptions: ['filterOptions'] as const,
-  myAttendances: (tagId?: string) => ['attendances', 'mine', tagId ?? null] as const,
-  reviews: (s: string) => ['reviews', s] as const,
+  myAttendances: (tagId?: string, status?: string) => ['attendances', 'mine', tagId ?? null, status ?? null] as const,
+  reviews: (s: string, limit?: number) => ['reviews', s, limit ?? null] as const,
+  friendConcerts: (limit: number) => ['friendConcerts', limit] as const,
   gigslists: ['gigslists'] as const,
   upcomingSaved: ['upcomingSaved'] as const,
   profile: (id: string) => ['profile', id] as const,
@@ -32,10 +33,12 @@ export const useFlag = (flag: FeatureFlag) => {
 export const useGigs = (f?: GigFilter) => useQuery({ queryKey: qk.gigs(f), queryFn: () => repos.gigs.list(f) })
 export const useGig = (id: string) => useQuery({ queryKey: qk.gig(id), queryFn: () => repos.gigs.get(id) })
 export const useGigFilterOptions = () => useQuery({ queryKey: qk.filterOptions, queryFn: () => repos.gigs.filterOptions() })
-export const useMyAttendances = (tagId?: UUID) =>
-  useQuery({ queryKey: qk.myAttendances(tagId), queryFn: () => repos.attendances.listMine({ tagId }) })
-export const useReviews = (scope: 'mine' | 'friends') =>
-  useQuery({ queryKey: qk.reviews(scope), queryFn: () => repos.attendances.reviews(scope) })
+export const useMyAttendances = (tagId?: UUID, status?: AttendanceStatus) =>
+  useQuery({ queryKey: qk.myAttendances(tagId, status), queryFn: () => repos.attendances.listMine({ tagId, status }) })
+export const useReviews = (scope: 'mine' | 'friends', limit?: number) =>
+  useQuery({ queryKey: qk.reviews(scope, limit), queryFn: () => repos.attendances.reviews(scope, limit) })
+export const useFriendsRecentConcerts = (limit = 5) =>
+  useQuery({ queryKey: qk.friendConcerts(limit), queryFn: () => repos.friends.recentConcerts(limit) })
 export const useGigslists = () => useQuery({ queryKey: qk.gigslists, queryFn: () => repos.gigslists.listWithItems() })
 export const useUpcomingSaved = () => useQuery({ queryKey: qk.upcomingSaved, queryFn: () => repos.gigslists.upcomingSaved() })
 export const useProfile = (id: UUID | undefined) =>

@@ -2,7 +2,7 @@
 // Un adaptador "real" (Supabase, etc.) debe implementar exactamente lo mismo.
 import type { Attendance, AttendanceStatus, Gigslist, Tag, User, UUID } from '@/domain/types'
 import type {
-  ActivityView, AgendaItem, AgendaQuery, AttendanceView, GigDetail, GigFilter, GigFilterOptions,
+  ActivityView, AgendaItem, AgendaQuery, AttendanceView, FriendAttendanceView, GigDetail, GigFilter, GigFilterOptions,
   GigslistView, GigView, ImportConfirmation, ImportResult, ProfileView, ReviewView, TagWithCount, UpcomingSaved,
 } from '@/domain/views'
 
@@ -21,12 +21,12 @@ export interface AttendanceUpsert {
 }
 
 export interface AttendanceRepository {
-  /** Mis asistencias (opcionalmente filtradas por tag). */
-  listMine(opts?: { tagId?: UUID }): Promise<AttendanceView[]>
+  /** Mis asistencias (opcionalmente filtradas por tag y/o estado). */
+  listMine(opts?: { tagId?: UUID; status?: AttendanceStatus }): Promise<AttendanceView[]>
   /** Crea o actualiza mi asistencia a un gig. */
   upsert(input: AttendanceUpsert): Promise<Attendance>
   remove(gigId: UUID): Promise<void>
-  reviews(scope: 'mine' | 'friends'): Promise<ReviewView[]>
+  reviews(scope: 'mine' | 'friends', limit?: number): Promise<ReviewView[]>
 }
 
 export interface GigslistRepository {
@@ -52,6 +52,8 @@ export interface FriendRepository {
   follow(userId: UUID): Promise<void>
   unfollow(userId: UUID): Promise<void>
   feed(): Promise<ActivityView[]>
+  /** Ultimos conciertos logados por la gente que sigo (para Home). */
+  recentConcerts(limit?: number): Promise<FriendAttendanceView[]>
 }
 
 export interface TagRepository {

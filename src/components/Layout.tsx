@@ -6,15 +6,11 @@ import { resetMockData } from '@/data/mock/db'
 import { getSimMode, setSimMode, type SimMode } from '@/data/mock/sim'
 
 const links = [
-  { to: '/', label: 'Perfil', end: true },
-  { to: '/gigs', label: 'Gigs' },
-  { to: '/gigslist', label: 'Gigslist' },
-  { to: '/reviews', label: 'Reviews' },
-  { to: '/tags', label: 'Tags' },
-  { to: '/friends', label: 'Amigos' },
+  { to: '/', label: 'Home', end: true },
+  { to: '/perfil', label: 'Perfil' },
   { to: '/agenda', label: 'Agenda', plus: 'agenda' as const },
-  { to: '/import', label: 'Importar', plus: 'bulkImport' as const },
-  { to: '/subscription', label: 'Suscripción' },
+  { to: '/gigs', label: 'Gigs' },
+  { to: '/suscripcion', label: 'Suscripción' },
 ]
 
 function DevBar() {

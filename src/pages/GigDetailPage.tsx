@@ -80,6 +80,10 @@ export default function GigDetailPage() {
             <p className="muted"><Link to="/gigs" className="underline">Gigs</Link> / ficha</p>
             <h1 className="text-xl font-semibold">{g.gig.title}</h1>
             <p className="text-sm">{fmtDateLong(g.gig.date)}</p>
+            <p className="text-sm">
+              <span className="muted" title="Asistencias registradas en Gigbox, no el aforo del recinto">Asistieron:</span> {g.attendeeCount} {g.attendeeCount === 1 ? 'persona' : 'personas'}
+              {g.friendsAttended.length > 0 && <span className="muted"> · {g.friendsAttended.length} {g.friendsAttended.length === 1 ? 'amigo tuyo fue' : 'amigos tuyos fueron'}</span>}
+            </p>
             <p className="text-sm">{g.venue.name}, {g.venue.city} ({g.venue.country})</p>
             <p className="mt-1 text-sm"><span className="muted">Cartel:</span> {g.artists.map((a) => `${a.name} (${a.genre})`).join(' · ')}</p>
             <p className="mt-1 text-sm">{g.avgRating !== null ? <><Rating value={Math.round(g.avgRating * 2) / 2} /> <span className="muted">media de {g.ratingCount} notas · {g.reviewCount} reseñas</span></> : <span className="muted">Sin notas todavía</span>}</p>

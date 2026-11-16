@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useAddToGigslist, useGigslists } from '@/data/hooks'
-import type { ActivityView, GigView, ReviewView } from '@/domain/views'
+import type { ActivityView, FriendAttendanceView, GigView, ReviewView } from '@/domain/views'
 import { fmtDate, fmtRating } from '@/lib'
 import { Avatar, ErrorBox, Rating, UserLink } from './ui'
 
@@ -24,6 +24,22 @@ export function GigCard({ view, extra }: { view: GigView; extra?: React.ReactNod
         {view.avgRating !== null && <span title={`${view.ratingCount} notas`}>{fmtRating(view.avgRating)}★</span>}
         {extra}
       </div>
+    </div>
+  )
+}
+
+export function FriendAttendanceRow({ v }: { v: FriendAttendanceView }) {
+  return (
+    <div className="card flex items-center gap-2">
+      <Avatar user={v.user} size={32} />
+      <div className="min-w-0 flex-1">
+        <p className="text-sm">
+          <UserLink user={v.user} /> <span className="muted">asistió a</span>{' '}
+          <Link to={`/gigs/${v.gig.gig.id}`} className="font-medium hover:underline">{v.gig.gig.title}</Link>
+        </p>
+        <p className="muted truncate">{fmtDate(v.gig.gig.date)} · {v.gig.venue.name}, {v.gig.venue.city}</p>
+      </div>
+      {v.attendance.rating !== null && <span className="shrink-0 text-sm">{fmtRating(v.attendance.rating)}★</span>}
     </div>
   )
 }

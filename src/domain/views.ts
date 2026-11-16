@@ -22,6 +22,8 @@ export interface ReviewView {
 export interface GigDetail extends GigView {
   friendsAttended: User[]
   friendsGoing: User[]
+  /** Gente total que registro asistencia a este gig. */
+  attendeeCount: number
   reviews: ReviewView[]
   inGigslistIds: UUID[]
 }
@@ -32,11 +34,25 @@ export interface AttendanceView {
   tags: Tag[]
 }
 
+/** Asistencia de un amigo, con su usuario (para Home). */
+export interface FriendAttendanceView {
+  user: User
+  attendance: Attendance
+  gig: GigView
+}
+
 export interface GigFilter {
   q?: string
   scope?: 'all' | 'past' | 'upcoming'
+  /** Rango de fechas YYYY-MM-DD (inclusive). */
+  from?: string
+  to?: string
+  artistId?: UUID
+  venueId?: UUID
   city?: string
   genre?: string
+  /** Nota media minima (0.5-5). */
+  minRating?: number
   /** Solo gigs a los que fui / voy yo. */
   onlyMine?: boolean
   tagId?: UUID
@@ -46,6 +62,8 @@ export interface GigFilter {
 export interface GigFilterOptions {
   cities: string[]
   genres: string[]
+  artists: { id: UUID; name: string }[]
+  venues: { id: UUID; name: string; city: string }[]
 }
 
 export interface ProfileStats {
@@ -65,8 +83,12 @@ export interface ActivityView {
 export interface ProfileView {
   user: User
   stats: ProfileStats
+  /** Los 5 favoritos (nota de 4,5 o mas). */
   favorites: AttendanceView[]
-  recentActivity: ActivityView[]
+  /** Actividad reciente: ultimos conciertos logados. */
+  recentGigs: AttendanceView[]
+  /** Resenas recientes del usuario. */
+  recentReviews: ReviewView[]
   followers: number
   following: number
   isMe: boolean

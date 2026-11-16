@@ -15,9 +15,15 @@ npm run seed         # regenera public/data/*.json (reproducible)
 
 ## Pantallas
 
-Perfil (`/`, `/u/:id`), Gigs (`/gigs`, `/gigs/:id`), Gigslist (`/gigslist`), Reviews (`/reviews`), Tags (`/tags`), Amigos (`/friends`), Agenda Plus (`/agenda`), Importacion masiva Plus (`/import`), Suscripcion simulada (`/subscription`).
+Secciones principales: Home (`/`), Perfil (`/perfil`), Agenda Plus (`/agenda`), Gigs (`/gigs`, `/gigs/:id`), Suscripcion simulada (`/suscripcion`).
 
-Usuario dummy: Alex Demo (Madrid), plan Free. Activa Plus en `/subscription` para ver Agenda e Importacion. En el pie hay un panel "Mock" para simular listas vacias o errores y restablecer los datos locales.
+- Home: ultimos 5 conciertos logados de tus amigos y ultimas 5 reviews de tus amigos.
+- Perfil: resumen (mis 5 favoritos, actividad reciente = ultimos conciertos logados, reviews recientes) con submenu: Gigs (mis conciertos registrados, `/perfil/gigs`), Tags (`/perfil/tags`), Friends (`/perfil/friends`), Giglists (`/perfil/gigslists`), Agenda y Suscripcion.
+- Gigs: catalogo con filtrado por fecha (desde/hasta), artista, lugar, genero y puntuacion minima; ficha de gig con fecha, amigos que fueron y asistentes totales.
+- Agenda: contenido dummy (vista Plus existente: lista y calendario con radio/fechas/genero).
+- Importacion masiva Plus (`/import`, enlace desde el resumen del perfil). Perfiles ajenos: `/u/:id`.
+
+Usuario dummy: Alex Demo (Madrid), plan Free. Activa Plus en `/suscripcion` para ver Agenda e Importacion. En el pie hay un panel "Mock" para simular listas vacias o errores y restablecer los datos locales.
 
 ## Arquitectura
 
@@ -53,4 +59,24 @@ Regla: las pantallas nunca importan de `src/data/mock` (salvo el panel de desarr
 
 ## Feature flags
 
-`src/config/flags.ts`: `agenda` y `bulkImport`, ambos ligados a `User.plus`. El usuario dummy alterna Plus desde `/subscription`.
+`src/config/flags.ts`: `agenda` y `bulkImport`, ambos ligados a `User.plus`. El usuario dummy alterna Plus desde `/suscripcion`.
+
+## Cambios v2
+
+Home y Perfil ahora son páginas separadas. Las rutas antiguas /friends, /tags,
+/gigslist y /subscription redirigen a sus equivalentes; /reviews sigue disponible.
+Los favoritos conservan el criterio del MVP (las cinco mejores notas de 4,5 o más).
+La actividad reciente se ordena por fecha de registro, no por fecha del concierto.
+El total de asistentes de la ficha cuenta registros con estado "attended" en Gigbox,
+no el aforo ni la asistencia real del recinto. Todos los datos siguen siendo dummy.
+
+### Publicar en Vercel
+
+Incluye vercel.json con fallback SPA para que las rutas profundas funcionen al
+recargar o abrir un enlace directo. Comando de build: npm run build. Carpeta: dist.
+
+### Actualizar tu repositorio existente
+
+Copia el contenido del proyecto sobre tu copia local, sin reemplazar su carpeta
+.git. Después ejecuta git add ., git commit y git push desde tu copia habitual.
+El zip también incluye el historial original y el nuevo commit de esta versión.

@@ -19,7 +19,7 @@ export default function ImportPage() {
         <h1 className="h1">Importación completada</h1>
         <p className="text-sm">{confirm.data.created} conciertos añadidos · {confirm.data.skipped} omitidos (duplicados o sin coincidencia).</p>
         <div className="mt-3 flex justify-center gap-2">
-          <Link className="btn btn-primary" to="/gigs">Ver mis gigs</Link>
+          <Link className="btn btn-primary" to="/perfil/gigs">Ver mis gigs</Link>
           <button className="btn" onClick={() => { confirm.reset(); parse.reset(); setRows(null); setText('') }}>Importar otro email</button>
         </div>
       </div>
