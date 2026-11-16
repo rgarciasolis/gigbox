@@ -1,0 +1,322 @@
+[
+ {
+  "id": "9972daab-2c86-459f-9d78-3fe1be4e3280",
+  "name": "Sala Apolo",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.3745,
+  "lon": 2.1695
+ },
+ {
+  "id": "af9c0078-d60d-4708-840f-2fc887062cd7",
+  "name": "Razzmatazz",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.3975,
+  "lon": 2.1912
+ },
+ {
+  "id": "7ccf5173-090d-4e98-bea5-354dbddb8234",
+  "name": "Sala Bóveda",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.4048,
+  "lon": 2.1744
+ },
+ {
+  "id": "484b13a8-aeb1-4d16-b16e-f1231c045c7b",
+  "name": "Palau de la Música Dummy",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.3875,
+  "lon": 2.1753
+ },
+ {
+  "id": "9ce613b8-ef47-442d-85d2-1efe90ea6f94",
+  "name": "La Riviera",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4121,
+  "lon": -3.7211
+ },
+ {
+  "id": "569852ba-4b73-47b1-bee3-6e8b4b19b250",
+  "name": "Sala But",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4345,
+  "lon": -3.7121
+ },
+ {
+  "id": "c9e71779-d221-492d-b5b3-396929a75534",
+  "name": "Sala Caracol",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4055,
+  "lon": -3.6984
+ },
+ {
+  "id": "a0e353ca-6421-4d5e-82bc-a2e0e8359a7d",
+  "name": "Teatro Barceló",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4283,
+  "lon": -3.701
+ },
+ {
+  "id": "2f0cb4b5-4a46-4607-b8fe-92fd292b8f4a",
+  "name": "Wizink Dummy Arena",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4237,
+  "lon": -3.6717
+ },
+ {
+  "id": "656f6baf-6656-4553-be9c-8b963c534c52",
+  "name": "Sala Mon",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.415,
+  "lon": -3.706
+ },
+ {
+  "id": "ab382bb1-501f-400a-9335-7b61b6e9cf70",
+  "name": "Sala Roxy",
+  "city": "Valencia",
+  "country": "ES",
+  "lat": 39.4705,
+  "lon": -0.3768
+ },
+ {
+  "id": "27de86d7-e473-459e-8e35-638bfc7ddcd7",
+  "name": "Loco Club",
+  "city": "Valencia",
+  "country": "ES",
+  "lat": 39.462,
+  "lon": -0.359
+ },
+ {
+  "id": "be0d112b-81ad-42fd-90a1-d6da995972e0",
+  "name": "Sala Moon",
+  "city": "Valencia",
+  "country": "ES",
+  "lat": 39.469,
+  "lon": -0.388
+ },
+ {
+  "id": "ae59f0a0-54d8-465d-8515-a5b9f4e177b5",
+  "name": "La Cartuja Sala",
+  "city": "Sevilla",
+  "country": "ES",
+  "lat": 37.403,
+  "lon": -6
+ },
+ {
+  "id": "2545230c-4a70-41b7-8bc8-32aa84717875",
+  "name": "Sala X",
+  "city": "Sevilla",
+  "country": "ES",
+  "lat": 37.386,
+  "lon": -5.989
+ },
+ {
+  "id": "6c544e25-8144-478c-a56f-220025f111de",
+  "name": "Custom Club",
+  "city": "Sevilla",
+  "country": "ES",
+  "lat": 37.379,
+  "lon": -5.981
+ },
+ {
+  "id": "6e8019d2-0e5e-4ab3-9018-f7c0a9cb8cce",
+  "name": "Kafe Antzokia",
+  "city": "Bilbao",
+  "country": "ES",
+  "lat": 43.2565,
+  "lon": -2.925
+ },
+ {
+  "id": "862d1318-0f43-4cab-8ffa-05655648d589",
+  "name": "Santana 27",
+  "city": "Bilbao",
+  "country": "ES",
+  "lat": 43.261,
+  "lon": -2.949
+ },
+ {
+  "id": "34f1f344-84dc-4faf-91cf-4f7ec08caf8d",
+  "name": "Sala Azkena",
+  "city": "Vitoria-Gasteiz",
+  "country": "ES",
+  "lat": 42.8467,
+  "lon": -2.6716
+ },
+ {
+  "id": "8bf7fbc4-4fa1-4add-a3e0-51e1695688d6",
+  "name": "Sala Rocksound",
+  "city": "Zaragoza",
+  "country": "ES",
+  "lat": 41.65,
+  "lon": -0.88
+ },
+ {
+  "id": "9edeb126-49f6-4c46-a1c5-bdb62fd8e78b",
+  "name": "Sala López",
+  "city": "Zaragoza",
+  "country": "ES",
+  "lat": 41.6488,
+  "lon": -0.8891
+ },
+ {
+  "id": "78127fe4-ac6b-419d-b784-0b2a181f60d4",
+  "name": "Velvet Club",
+  "city": "Málaga",
+  "country": "ES",
+  "lat": 36.7213,
+  "lon": -4.4214
+ },
+ {
+  "id": "d6ae1508-45b3-45db-a0e8-e35819a03d7a",
+  "name": "Sala París 15",
+  "city": "Málaga",
+  "country": "ES",
+  "lat": 36.715,
+  "lon": -4.43
+ },
+ {
+  "id": "4742b884-7c97-4bc8-b0eb-1d0f08573d3a",
+  "name": "Sala Industrial Copera",
+  "city": "Granada",
+  "country": "ES",
+  "lat": 37.1773,
+  "lon": -3.5986
+ },
+ {
+  "id": "fd94d757-a608-4ccc-a034-c9812315c56e",
+  "name": "Sala Mondo",
+  "city": "Pamplona",
+  "country": "ES",
+  "lat": 42.8125,
+  "lon": -1.6458
+ },
+ {
+  "id": "deca7ef3-2c25-4dac-b4c5-3d22a89a8e34",
+  "name": "Sala Mardi Gras",
+  "city": "Valladolid",
+  "country": "ES",
+  "lat": 41.6523,
+  "lon": -4.7245
+ },
+ {
+  "id": "ec85be0c-f594-480c-93b6-c240dc742ea4",
+  "name": "Sala Karma",
+  "city": "Salamanca",
+  "country": "ES",
+  "lat": 40.9701,
+  "lon": -5.6635
+ },
+ {
+  "id": "8130da16-22fe-4678-829e-7cac28fad458",
+  "name": "Sala Mephisto",
+  "city": "A Coruña",
+  "country": "ES",
+  "lat": 43.3623,
+  "lon": -8.4115
+ },
+ {
+  "id": "3484c372-7c40-4f08-9c5d-6d40810aaa10",
+  "name": "Sala Master Club",
+  "city": "Vigo",
+  "country": "ES",
+  "lat": 42.2406,
+  "lon": -8.7207
+ },
+ {
+  "id": "e6c3a8cf-0d96-4c7b-8379-739304b500b0",
+  "name": "Sala Garage",
+  "city": "Murcia",
+  "country": "ES",
+  "lat": 37.9922,
+  "lon": -1.1307
+ },
+ {
+  "id": "2e5eb9ee-479e-4776-8b91-7e7177c01fb7",
+  "name": "Sala Trui Teatre",
+  "city": "Palma",
+  "country": "ES",
+  "lat": 39.5696,
+  "lon": 2.6502
+ },
+ {
+  "id": "98f2d57a-02e9-4f84-bcae-8e9cdaaafbfa",
+  "name": "Sala Moog Dummy",
+  "city": "Alicante",
+  "country": "ES",
+  "lat": 38.3452,
+  "lon": -0.481
+ },
+ {
+  "id": "f7cff5cf-2816-4e08-bddf-adc653d774ec",
+  "name": "Sala Sonic",
+  "city": "Santander",
+  "country": "ES",
+  "lat": 43.4623,
+  "lon": -3.8099
+ },
+ {
+  "id": "a740275f-b90c-433d-9e5f-a2f968cabd04",
+  "name": "Sala Gruta 77",
+  "city": "Oviedo",
+  "country": "ES",
+  "lat": 43.3614,
+  "lon": -5.8593
+ },
+ {
+  "id": "afe04197-e677-41d7-a150-7687fe2c9813",
+  "name": "Paradiso Dummy",
+  "city": "Ámsterdam",
+  "country": "NL",
+  "lat": 52.3622,
+  "lon": 4.8836
+ },
+ {
+  "id": "a4cb6f98-d564-462b-b92e-adb5918ba1e5",
+  "name": "Academy Dummy",
+  "city": "Londres",
+  "country": "GB",
+  "lat": 51.465,
+  "lon": -0.115
+ },
+ {
+  "id": "c5000f18-e800-4886-8ebe-a20067d35832",
+  "name": "La Maroquinerie Dummy",
+  "city": "París",
+  "country": "FR",
+  "lat": 48.87,
+  "lon": 2.388
+ },
+ {
+  "id": "bea70ca0-96d9-446a-9669-973122b5bb48",
+  "name": "Lux Dummy",
+  "city": "Lisboa",
+  "country": "PT",
+  "lat": 38.714,
+  "lon": -9.124
+ },
+ {
+  "id": "ecf16e98-56aa-4ae4-b157-e882ea3b2651",
+  "name": "Festivalgelände Dummy",
+  "city": "Berlín",
+  "country": "DE",
+  "lat": 52.52,
+  "lon": 13.405
+ },
+ {
+  "id": "fb81f905-a69a-4d40-b639-f24e83633749",
+  "name": "Estadio Dummy",
+  "city": "Ciudad de México",
+  "country": "MX",
+  "lat": 19.4326,
+  "lon": -99.1332
+ }
+]

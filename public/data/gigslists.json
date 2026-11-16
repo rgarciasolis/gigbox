@@ -1,0 +1,1882 @@
+[
+ {
+  "id": "142375a9-e9ed-4e1b-bb46-10bcc81ec647",
+  "userId": "60e8a917-92db-45f3-bb3c-27afab133334",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "7d39d357-63d8-4009-8e5b-a291394fac40",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "93260baf-66d1-4628-9118-0fc4482efb8e",
+    "addedAt": "2026-10-19T00:00:00.000Z"
+   },
+   {
+    "gigId": "b677bda9-1228-4970-9b5e-6a100db8079a",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ff3a779-2c54-4e5b-867f-7828b51f862d",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "592e0b97-1d50-49ef-8167-29118ad3ae8d",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "5e49e73e-eddf-43a3-a64b-002736eb1972",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "aa268d29-e006-4f45-9498-99198e4076dd",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "0dc1f473-2ffb-41b8-811e-c2e7f1e919a9",
+    "addedAt": "2026-11-11T00:00:00.000Z"
+   },
+   {
+    "gigId": "5d48ef2d-c43d-4fc7-a415-15bb8ae33099",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "3c55ff2b-c681-4585-94ac-ee973866151c",
+  "userId": "60e8a917-92db-45f3-bb3c-27afab133334",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "62c228ff-94a4-424c-8a3e-e1972d145554",
+    "addedAt": "2026-11-07T00:00:00.000Z"
+   },
+   {
+    "gigId": "c0790cf9-210c-4ae2-93c4-21f04ee9c19b",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "e63a3b3e-ea15-495e-8e0c-563033902733",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "c12afc7e-8c15-4cb8-b52a-614bf195b0d0",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "925141a0-3c70-440c-a6ca-2a48a33743bb",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "39708d46-77c7-4f83-90e9-153a8583554e",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "3919c994-606e-4b1e-93f6-8a197d01f893",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "084d9c63-ef55-45e6-9587-3e066f834a9c",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "3ee81b11-1a89-4442-9bc4-5ac7ecd6f902",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "634a12f4-d7d7-46b6-acac-68b73e1d92d8",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "d86e18e0-ac8c-4897-b099-e7f4a54c19e6",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "04ceabd7-c232-4721-a873-6aee341a2d2b",
+  "userId": "60e8a917-92db-45f3-bb3c-27afab133334",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "81644a99-a528-48a2-ab74-69c367f183db",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "c4f9ed95-2e25-4c05-9683-f33298094eed",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "3f31f9e1-4a23-44a8-9771-9f5b942f72f1",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf1b54b9-ced2-4c12-8e91-00bf11832605",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "aeb54d59-7e9d-4283-a50f-bac6ad3ba849",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "f9682d2d-3f64-4e97-b319-b5a5311f71a6",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "925141a0-3c70-440c-a6ca-2a48a33743bb",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf5dab2f-2945-433b-ba52-ae6acf78e1ad",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "b8bc47b5-f452-45ca-9a54-fae55de2a829",
+  "userId": "51d8ac4c-6230-4999-8b3e-89e5d13f0ac8",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "3042e816-c240-4ce7-9f97-bf8c15de76a7",
+    "addedAt": "2026-11-09T00:00:00.000Z"
+   },
+   {
+    "gigId": "15ec4aae-3652-4d64-abfb-a7284a3c15e4",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ef19203-d65b-467d-b699-37986ef27468",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   },
+   {
+    "gigId": "777e38c3-1429-4a65-b68b-fb2ca4ca10e6",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "a9d85efa-663e-4632-95b9-352315c5cd09",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "4d078d76-56c4-4540-91f7-1da4ead79935",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "ef273fab-6781-40ba-ba95-64e06f39ba34",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "34bc5fcc-dfb3-4d26-a58c-119014d69fa0",
+  "userId": "d19a8ec3-088d-403d-b92b-b0772c804838",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "3ee81b11-1a89-4442-9bc4-5ac7ecd6f902",
+    "addedAt": "2026-10-19T00:00:00.000Z"
+   },
+   {
+    "gigId": "6cc1390b-9730-46c4-88d5-7363906241b2",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   },
+   {
+    "gigId": "f86a67ff-60e5-4aae-8e9e-14a4ae73be3c",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "925141a0-3c70-440c-a6ca-2a48a33743bb",
+    "addedAt": "2026-11-11T00:00:00.000Z"
+   },
+   {
+    "gigId": "f5c903f7-5e31-46b6-92e3-df67d5953701",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "da0f67f7-481b-46a4-a860-714f79834090",
+  "userId": "d19a8ec3-088d-403d-b92b-b0772c804838",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "3e8eedf5-7054-491c-8377-2341b6481aa6",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "cf4dbf9c-07e4-4a28-98f6-4dc29cf16741",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "39708d46-77c7-4f83-90e9-153a8583554e",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "084d9c63-ef55-45e6-9587-3e066f834a9c",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "3f31f9e1-4a23-44a8-9771-9f5b942f72f1",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "3bcb5c67-e1c6-4017-ae8a-5d74603a8b76",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "46ba427d-a6b1-4924-9c2e-06348e702d47",
+  "userId": "bf87e9f6-9025-4cae-b077-0ed74c121e57",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "ad3ebf8d-c0d8-4bd1-a12f-a62841407f64",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "86833ca2-fb36-47e7-80c9-f80e7dff325b",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "cf4dbf9c-07e4-4a28-98f6-4dc29cf16741",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "90c86dd9-221d-4796-9b18-35cf3bf57ee7",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   },
+   {
+    "gigId": "88b091d5-0467-43e0-801a-57817455c238",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "9d666587-125d-4a02-b54f-882a6ea30716",
+  "userId": "34240aa5-eac0-44c0-a900-4e72886071ed",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "c12afc7e-8c15-4cb8-b52a-614bf195b0d0",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "cf4dbf9c-07e4-4a28-98f6-4dc29cf16741",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "f86a67ff-60e5-4aae-8e9e-14a4ae73be3c",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "8789aee8-0a66-4c6f-acd9-656fd98e4494",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "ca41d15c-42c1-4aec-b84a-662d0bb37ddf",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "04c955f4-6e67-449a-8011-c839ff042b9b",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "ef273fab-6781-40ba-ba95-64e06f39ba34",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   },
+   {
+    "gigId": "18a727da-6f13-461a-8674-a7d6cd3a9c47",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "cea38c93-411e-427b-bc39-8d0c0cf8c96a",
+  "userId": "34240aa5-eac0-44c0-a900-4e72886071ed",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "8789aee8-0a66-4c6f-acd9-656fd98e4494",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "90c86dd9-221d-4796-9b18-35cf3bf57ee7",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf73597f-1ed4-494e-ad4a-ecc96f617b9e",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "084d9c63-ef55-45e6-9587-3e066f834a9c",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "d0a7e3cd-da85-451a-9450-a6a8f775535a",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "ef273fab-6781-40ba-ba95-64e06f39ba34",
+    "addedAt": "2026-11-15T00:00:00.000Z"
+   },
+   {
+    "gigId": "aa268d29-e006-4f45-9498-99198e4076dd",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "646b8487-8679-4c54-9551-fe85bbdc0528",
+  "userId": "34240aa5-eac0-44c0-a900-4e72886071ed",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "4363b501-6750-4ed9-bccb-e6c2b32092a4",
+    "addedAt": "2026-11-15T00:00:00.000Z"
+   },
+   {
+    "gigId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "1f29dd0b-94d1-4108-bd89-d8fd72ddc805",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   },
+   {
+    "gigId": "15ec4aae-3652-4d64-abfb-a7284a3c15e4",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   },
+   {
+    "gigId": "6cc1390b-9730-46c4-88d5-7363906241b2",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf73597f-1ed4-494e-ad4a-ecc96f617b9e",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "e5891cfb-486e-4386-aa85-e6873cb6d21e",
+  "userId": "17900934-29aa-4ee3-9f75-b54ff59a947c",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "6b6dbe27-fcdf-4538-8607-b776c83aa511",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "aa268d29-e006-4f45-9498-99198e4076dd",
+    "addedAt": "2026-11-15T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ff3a779-2c54-4e5b-867f-7828b51f862d",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "b21f9f94-94e7-437f-8ef3-06ca65a3b93b",
+  "userId": "17900934-29aa-4ee3-9f75-b54ff59a947c",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "5e49e73e-eddf-43a3-a64b-002736eb1972",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ff3a779-2c54-4e5b-867f-7828b51f862d",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "3380fac0-995d-4f95-a276-bd865b70314e",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "242cf52c-b51f-4e27-9f6f-f3cad8d8d6c7",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "3bcb5c67-e1c6-4017-ae8a-5d74603a8b76",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "09118dbf-7dca-4b5e-96fd-5074515fcc18",
+  "userId": "17900934-29aa-4ee3-9f75-b54ff59a947c",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "94028bcc-9563-4353-bfe0-d537747bf718",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "777e38c3-1429-4a65-b68b-fb2ca4ca10e6",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "8e72a751-5574-4624-a10a-0fee40bef2f2",
+  "userId": "ef0a0ee3-b79f-40de-8325-a1997a373d56",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "c4f9ed95-2e25-4c05-9683-f33298094eed",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "4059d753-c974-42de-a07c-974a3ff0bee0",
+    "addedAt": "2026-11-11T00:00:00.000Z"
+   },
+   {
+    "gigId": "90c86dd9-221d-4796-9b18-35cf3bf57ee7",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "3f31f9e1-4a23-44a8-9771-9f5b942f72f1",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "7df47127-7035-44d6-b276-5fa2db798c71",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "4d078d76-56c4-4540-91f7-1da4ead79935",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf73597f-1ed4-494e-ad4a-ecc96f617b9e",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf5dab2f-2945-433b-ba52-ae6acf78e1ad",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "e09e99e6-6b3d-41d0-abec-d7af763931dd",
+  "userId": "ba4d290e-301b-4242-8c5b-f4ace4ae7a82",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "e5606560-3328-475e-8556-75e8e2cef677",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   },
+   {
+    "gigId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "3919c994-606e-4b1e-93f6-8a197d01f893",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "cc098811-2a36-41f1-bf21-c0909e71b0c7",
+  "userId": "ba4d290e-301b-4242-8c5b-f4ace4ae7a82",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "cf4dbf9c-07e4-4a28-98f6-4dc29cf16741",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "78170e7a-280c-4913-a364-a73406bdd026",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "d8db22c1-e855-43c9-8c25-880f6b3a33b2",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-11-01T00:00:00.000Z"
+   },
+   {
+    "gigId": "31cd26e1-6212-48a7-a024-2ac8b68b7a3c",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "7652ca5a-7af4-4a42-b87e-2f25e8680003",
+  "userId": "647a8526-c962-4a34-a2eb-176fa47d9ab5",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "1f29dd0b-94d1-4108-bd89-d8fd72ddc805",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "084d9c63-ef55-45e6-9587-3e066f834a9c",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "ec65ae19-53ef-4f18-a216-60326e421871",
+    "addedAt": "2026-11-15T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "3e0242f2-0870-45bc-a9c5-496c10716faf",
+  "userId": "1b502b94-4ad7-463f-91ef-4a77298cc516",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "d0a7e3cd-da85-451a-9450-a6a8f775535a",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "aa268d29-e006-4f45-9498-99198e4076dd",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "94028bcc-9563-4353-bfe0-d537747bf718",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "65cf264d-92b2-4953-b331-5e02e71cbc32",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   },
+   {
+    "gigId": "f1c5fa94-c6bc-4501-ba61-c7c8478a22d7",
+    "addedAt": "2026-11-07T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "53265d92-ea22-41ac-9e93-8e692898c4a7",
+  "userId": "03a27b5a-53d7-4647-ad9c-d1e2084718b5",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "b66579da-49b0-4514-97a5-2804bcbb0fb9",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "d86e18e0-ac8c-4897-b099-e7f4a54c19e6",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "ec65ae19-53ef-4f18-a216-60326e421871",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "c4f9ed95-2e25-4c05-9683-f33298094eed",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "5d48ef2d-c43d-4fc7-a415-15bb8ae33099",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "04c955f4-6e67-449a-8011-c839ff042b9b",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "31cd26e1-6212-48a7-a024-2ac8b68b7a3c",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "22217d30-7749-4294-829c-a7bb5efedffa",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "a43aacbd-201e-4ecc-acc4-81cbbf4cdc53",
+  "userId": "03a27b5a-53d7-4647-ad9c-d1e2084718b5",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "bd93c073-0086-436e-b251-169de801a34a",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   },
+   {
+    "gigId": "37fffa15-a68d-4b43-947c-e2b56f057121",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "592e0b97-1d50-49ef-8167-29118ad3ae8d",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "aeb54d59-7e9d-4283-a50f-bac6ad3ba849",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "93260baf-66d1-4628-9118-0fc4482efb8e",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "4d078d76-56c4-4540-91f7-1da4ead79935",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "6b6dbe27-fcdf-4538-8607-b776c83aa511",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "9e556e29-9c41-4cef-8a21-63948948dda5",
+  "userId": "03a27b5a-53d7-4647-ad9c-d1e2084718b5",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "93260baf-66d1-4628-9118-0fc4482efb8e",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ebd4ef1-8199-4906-84be-fa464784aaa5",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "6cc1390b-9730-46c4-88d5-7363906241b2",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "3f31f9e1-4a23-44a8-9771-9f5b942f72f1",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "bb1a2bc4-161f-4ade-b329-a14cfb2355f7",
+  "userId": "f83b635a-0694-4f4a-841e-c55c8f501b25",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "ca41d15c-42c1-4aec-b84a-662d0bb37ddf",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "242cf52c-b51f-4e27-9f6f-f3cad8d8d6c7",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "aa268d29-e006-4f45-9498-99198e4076dd",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ef19203-d65b-467d-b699-37986ef27468",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "65cf264d-92b2-4953-b331-5e02e71cbc32",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "19da42a1-6db4-4578-8dde-f48cd3b8e9d4",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   },
+   {
+    "gigId": "7df47127-7035-44d6-b276-5fa2db798c71",
+    "addedAt": "2026-11-15T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "7a063ee7-f526-445e-8000-eec151cd025a",
+  "userId": "f83b635a-0694-4f4a-841e-c55c8f501b25",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "e47afbbe-cbee-41ea-8398-c747a8823f22",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf73597f-1ed4-494e-ad4a-ecc96f617b9e",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "79576098-0867-4b6d-9010-147165d62190",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "120ad8ee-17a3-4490-898a-7434dc26cfab",
+  "userId": "f83b635a-0694-4f4a-841e-c55c8f501b25",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "81644a99-a528-48a2-ab74-69c367f183db",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "f86a67ff-60e5-4aae-8e9e-14a4ae73be3c",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "bd93c073-0086-436e-b251-169de801a34a",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "1f29dd0b-94d1-4108-bd89-d8fd72ddc805",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "3042e816-c240-4ce7-9f97-bf8c15de76a7",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "6af4a787-2cbb-4d3e-9433-3f9727ed8a2a",
+  "userId": "2a4c7827-d091-4356-80b2-8ce7deae25ce",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "65cf264d-92b2-4953-b331-5e02e71cbc32",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   },
+   {
+    "gigId": "0dd96879-6b0b-44e6-827c-d5ed3fe980ae",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   },
+   {
+    "gigId": "6cc1390b-9730-46c4-88d5-7363906241b2",
+    "addedAt": "2026-11-09T00:00:00.000Z"
+   },
+   {
+    "gigId": "fc7422f2-3ac5-4cc5-8a7c-34b175f9ed9c",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "508418b2-dc34-4704-9134-53359038ef33",
+  "userId": "2a4c7827-d091-4356-80b2-8ce7deae25ce",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "6ef7398d-6d0e-4ef1-80f9-6a1220463a7b",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "0342f561-27da-474d-8421-5c0371f549c9",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "7df47127-7035-44d6-b276-5fa2db798c71",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "88113c6f-0484-4a8f-b9c8-a32ab914bdab",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "04c955f4-6e67-449a-8011-c839ff042b9b",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "cdc172de-af1b-4179-b98c-cc29a13d7cf0",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "592e0b97-1d50-49ef-8167-29118ad3ae8d",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "65b215f2-db20-4c90-a932-1b40a2fdcdab",
+  "userId": "2a4c7827-d091-4356-80b2-8ce7deae25ce",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "592e0b97-1d50-49ef-8167-29118ad3ae8d",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+    "addedAt": "2026-11-01T00:00:00.000Z"
+   },
+   {
+    "gigId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "200468a7-b7c2-40de-b752-6f9a260157f6",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "3042e816-c240-4ce7-9f97-bf8c15de76a7",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "37fffa15-a68d-4b43-947c-e2b56f057121",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "0b83a640-b7b5-4b84-8fb6-c0986745ed47",
+  "userId": "f0e2f947-9d8a-46fe-8ee8-733648db30cf",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-11-09T00:00:00.000Z"
+   },
+   {
+    "gigId": "3042e816-c240-4ce7-9f97-bf8c15de76a7",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "65cf264d-92b2-4953-b331-5e02e71cbc32",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "0dd96879-6b0b-44e6-827c-d5ed3fe980ae",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "3380fac0-995d-4f95-a276-bd865b70314e",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   },
+   {
+    "gigId": "ce999c5f-27cf-4739-86de-a8ed4e272427",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "634a12f4-d7d7-46b6-acac-68b73e1d92d8",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "3e8eedf5-7054-491c-8377-2341b6481aa6",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "978a3da6-dba1-425f-b0f0-c40e689f8da8",
+  "userId": "f0e2f947-9d8a-46fe-8ee8-733648db30cf",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "d86e18e0-ac8c-4897-b099-e7f4a54c19e6",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "0342f561-27da-474d-8421-5c0371f549c9",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   },
+   {
+    "gigId": "65cf264d-92b2-4953-b331-5e02e71cbc32",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ebd4ef1-8199-4906-84be-fa464784aaa5",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf1b54b9-ced2-4c12-8e91-00bf11832605",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "90c86dd9-221d-4796-9b18-35cf3bf57ee7",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "37fffa15-a68d-4b43-947c-e2b56f057121",
+    "addedAt": "2026-11-11T00:00:00.000Z"
+   },
+   {
+    "gigId": "d8db22c1-e855-43c9-8c25-880f6b3a33b2",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "810b6578-86ee-49ec-b299-cc06b0fd5dbc",
+  "userId": "511222ab-b138-4ca7-85f8-d7466729619c",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "ca41d15c-42c1-4aec-b84a-662d0bb37ddf",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "fc7422f2-3ac5-4cc5-8a7c-34b175f9ed9c",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "37fffa15-a68d-4b43-947c-e2b56f057121",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "75cf88b0-c81f-452b-8dc5-c2534acd907c",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "634a12f4-d7d7-46b6-acac-68b73e1d92d8",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ebd4ef1-8199-4906-84be-fa464784aaa5",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "3aed0b28-86bf-469a-ac49-797c34adb491",
+  "userId": "511222ab-b138-4ca7-85f8-d7466729619c",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "65cf264d-92b2-4953-b331-5e02e71cbc32",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "7d39d357-63d8-4009-8e5b-a291394fac40",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "c12afc7e-8c15-4cb8-b52a-614bf195b0d0",
+    "addedAt": "2026-11-15T00:00:00.000Z"
+   },
+   {
+    "gigId": "3919c994-606e-4b1e-93f6-8a197d01f893",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ef7398d-6d0e-4ef1-80f9-6a1220463a7b",
+    "addedAt": "2026-11-01T00:00:00.000Z"
+   },
+   {
+    "gigId": "e63a3b3e-ea15-495e-8e0c-563033902733",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "aa268d29-e006-4f45-9498-99198e4076dd",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "9db0910b-955f-4573-b85f-dc2c195f36a4",
+  "userId": "5f819df3-e862-4fac-bcfc-7e9516ed2678",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "b677bda9-1228-4970-9b5e-6a100db8079a",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "0dc1f473-2ffb-41b8-811e-c2e7f1e919a9",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "88113c6f-0484-4a8f-b9c8-a32ab914bdab",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "bd93c073-0086-436e-b251-169de801a34a",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "62614291-2b55-4ec1-baf2-e88da1e511c2",
+  "userId": "5f819df3-e862-4fac-bcfc-7e9516ed2678",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "83d10037-4b59-4ee0-85ab-42a8a15de2cd",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "242cf52c-b51f-4e27-9f6f-f3cad8d8d6c7",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "0dd96879-6b0b-44e6-827c-d5ed3fe980ae",
+    "addedAt": "2026-11-16T00:00:00.000Z"
+   },
+   {
+    "gigId": "e63a3b3e-ea15-495e-8e0c-563033902733",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "81644a99-a528-48a2-ab74-69c367f183db",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "3ee81b11-1a89-4442-9bc4-5ac7ecd6f902",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf5dab2f-2945-433b-ba52-ae6acf78e1ad",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "ab520027-d130-46cf-9074-ddcc05b76af3",
+  "userId": "3031746e-7cd2-447a-bad1-6da617abe318",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "925141a0-3c70-440c-a6ca-2a48a33743bb",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "4d078d76-56c4-4540-91f7-1da4ead79935",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "777e38c3-1429-4a65-b68b-fb2ca4ca10e6",
+    "addedAt": "2026-11-07T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "d4d17159-a16a-4d98-ae05-d981eb553bdc",
+  "userId": "3031746e-7cd2-447a-bad1-6da617abe318",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "f5c903f7-5e31-46b6-92e3-df67d5953701",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ef19203-d65b-467d-b699-37986ef27468",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "86833ca2-fb36-47e7-80c9-f80e7dff325b",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "ad3ebf8d-c0d8-4bd1-a12f-a62841407f64",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "3bad5fbd-e32b-4494-ae3e-7b436e349966",
+  "userId": "8a27beee-946a-49f4-9142-9b93a22f4242",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "88113c6f-0484-4a8f-b9c8-a32ab914bdab",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "5beb385e-abb6-44dd-aa11-69402c4ef11b",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "0df96c6a-1294-44f7-9d45-a0b959e6326a",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "c0905b9c-5c29-430c-ab38-c219f3560bf6",
+  "userId": "8a27beee-946a-49f4-9142-9b93a22f4242",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "6b6dbe27-fcdf-4538-8607-b776c83aa511",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "fc7422f2-3ac5-4cc5-8a7c-34b175f9ed9c",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "592e0b97-1d50-49ef-8167-29118ad3ae8d",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "75cf88b0-c81f-452b-8dc5-c2534acd907c",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "f25781ca-21c0-48b7-b47d-263c7b28d21d",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "084d9c63-ef55-45e6-9587-3e066f834a9c",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "e405a0b5-15ce-407e-80e4-b1bb8a2faaa1",
+  "userId": "3a83acf9-e2e4-4519-8996-7634946b2ae3",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "04c955f4-6e67-449a-8011-c839ff042b9b",
+    "addedAt": "2026-11-11T00:00:00.000Z"
+   },
+   {
+    "gigId": "e47afbbe-cbee-41ea-8398-c747a8823f22",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "79576098-0867-4b6d-9010-147165d62190",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "d93c4a9e-f259-494c-83c5-e07d41c477ff",
+  "userId": "3a83acf9-e2e4-4519-8996-7634946b2ae3",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "bf1b54b9-ced2-4c12-8e91-00bf11832605",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "e5606560-3328-475e-8556-75e8e2cef677",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+    "addedAt": "2026-11-11T00:00:00.000Z"
+   },
+   {
+    "gigId": "15ec4aae-3652-4d64-abfb-a7284a3c15e4",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "60942bc2-0400-42c0-a558-7b06e4f369b0",
+  "userId": "34fc3a40-cb76-4e1d-9374-21eaffff15b8",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "31cd26e1-6212-48a7-a024-2ac8b68b7a3c",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "a9d85efa-663e-4632-95b9-352315c5cd09",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "3bcb5c67-e1c6-4017-ae8a-5d74603a8b76",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "c12afc7e-8c15-4cb8-b52a-614bf195b0d0",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "c4f9ed95-2e25-4c05-9683-f33298094eed",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "cdc172de-af1b-4179-b98c-cc29a13d7cf0",
+    "addedAt": "2026-11-09T00:00:00.000Z"
+   },
+   {
+    "gigId": "81644a99-a528-48a2-ab74-69c367f183db",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "8789aee8-0a66-4c6f-acd9-656fd98e4494",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "f5b6870b-be3c-47f5-abf4-9c1b83bc1994",
+  "userId": "34fc3a40-cb76-4e1d-9374-21eaffff15b8",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "93260baf-66d1-4628-9118-0fc4482efb8e",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "d8db22c1-e855-43c9-8c25-880f6b3a33b2",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "8789aee8-0a66-4c6f-acd9-656fd98e4494",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-11-01T00:00:00.000Z"
+   },
+   {
+    "gigId": "cedc5c3a-4f2b-42ff-ac83-786dc0c97da6",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "9edff39b-e777-47c8-8ba9-2a086f73fd99",
+  "userId": "2d4b195a-a03d-4be4-8ffb-5b7c327b6ebd",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "3f31f9e1-4a23-44a8-9771-9f5b942f72f1",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "3042e816-c240-4ce7-9f97-bf8c15de76a7",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "fc7422f2-3ac5-4cc5-8a7c-34b175f9ed9c",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "d8db22c1-e855-43c9-8c25-880f6b3a33b2",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "04c955f4-6e67-449a-8011-c839ff042b9b",
+    "addedAt": "2026-11-09T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "5905f19c-608a-4b10-8f0e-5883e008c0db",
+  "userId": "2d4b195a-a03d-4be4-8ffb-5b7c327b6ebd",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "e6e1aed2-3795-47b3-afa4-0747ecde2248",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "6cc1390b-9730-46c4-88d5-7363906241b2",
+    "addedAt": "2026-10-25T00:00:00.000Z"
+   },
+   {
+    "gigId": "1f29dd0b-94d1-4108-bd89-d8fd72ddc805",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "5beb385e-abb6-44dd-aa11-69402c4ef11b",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "4363b501-6750-4ed9-bccb-e6c2b32092a4",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "7d39d357-63d8-4009-8e5b-a291394fac40",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "7b016525-c500-4970-9324-10a996caa354",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "5f52dd72-15ab-4c9b-a139-c13174e80c0c",
+  "userId": "2d4b195a-a03d-4be4-8ffb-5b7c327b6ebd",
+  "name": "Para ir en pareja",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "b677bda9-1228-4970-9b5e-6a100db8079a",
+    "addedAt": "2026-11-07T00:00:00.000Z"
+   },
+   {
+    "gigId": "90c86dd9-221d-4796-9b18-35cf3bf57ee7",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "cedc5c3a-4f2b-42ff-ac83-786dc0c97da6",
+    "addedAt": "2026-11-11T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "66266490-c037-4d41-867b-2ae9a21891ce",
+  "userId": "c1b9bc40-b2d3-43e7-89c9-642eaa720ec4",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "0dc1f473-2ffb-41b8-811e-c2e7f1e919a9",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "b66579da-49b0-4514-97a5-2804bcbb0fb9",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "592e0b97-1d50-49ef-8167-29118ad3ae8d",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "15ec4aae-3652-4d64-abfb-a7284a3c15e4",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   },
+   {
+    "gigId": "81644a99-a528-48a2-ab74-69c367f183db",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "83d10037-4b59-4ee0-85ab-42a8a15de2cd",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "6a8ca8a4-d605-41bb-8bea-010a96e09989",
+  "userId": "c1b9bc40-b2d3-43e7-89c9-642eaa720ec4",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "94028bcc-9563-4353-bfe0-d537747bf718",
+    "addedAt": "2026-10-19T00:00:00.000Z"
+   },
+   {
+    "gigId": "6b6dbe27-fcdf-4538-8607-b776c83aa511",
+    "addedAt": "2026-11-07T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ff3a779-2c54-4e5b-867f-7828b51f862d",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "3bcb5c67-e1c6-4017-ae8a-5d74603a8b76",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "83d10037-4b59-4ee0-85ab-42a8a15de2cd",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "79576098-0867-4b6d-9010-147165d62190",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "d8db22c1-e855-43c9-8c25-880f6b3a33b2",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "dbaa02bf-b8e1-4352-ae68-4bec5196a295",
+  "userId": "c1b9bc40-b2d3-43e7-89c9-642eaa720ec4",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "3bcb5c67-e1c6-4017-ae8a-5d74603a8b76",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   },
+   {
+    "gigId": "3919c994-606e-4b1e-93f6-8a197d01f893",
+    "addedAt": "2026-11-02T00:00:00.000Z"
+   },
+   {
+    "gigId": "ad3ebf8d-c0d8-4bd1-a12f-a62841407f64",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "19da42a1-6db4-4578-8dde-f48cd3b8e9d4",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ebd4ef1-8199-4906-84be-fa464784aaa5",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "c12afc7e-8c15-4cb8-b52a-614bf195b0d0",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "88113c6f-0484-4a8f-b9c8-a32ab914bdab",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "4363b501-6750-4ed9-bccb-e6c2b32092a4",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "5957999c-8ca5-4209-bfe8-f8e640f57003",
+  "userId": "1ff3d72b-9a47-482a-aa63-307b807f99f4",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "ad3ebf8d-c0d8-4bd1-a12f-a62841407f64",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ebd4ef1-8199-4906-84be-fa464784aaa5",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   },
+   {
+    "gigId": "5e49e73e-eddf-43a3-a64b-002736eb1972",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "cd62b68c-3446-45c5-af5d-f451e08e44db",
+    "addedAt": "2026-10-19T00:00:00.000Z"
+   },
+   {
+    "gigId": "3e8eedf5-7054-491c-8377-2341b6481aa6",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "3236bb54-e4c3-4c78-b675-59e340d37072",
+    "addedAt": "2026-11-08T00:00:00.000Z"
+   },
+   {
+    "gigId": "15ec4aae-3652-4d64-abfb-a7284a3c15e4",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "0df85282-390d-4753-a761-c4b43b214d23",
+  "userId": "1ff3d72b-9a47-482a-aa63-307b807f99f4",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "37fffa15-a68d-4b43-947c-e2b56f057121",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "925141a0-3c70-440c-a6ca-2a48a33743bb",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "4d078d76-56c4-4540-91f7-1da4ead79935",
+    "addedAt": "2026-11-09T00:00:00.000Z"
+   },
+   {
+    "gigId": "3e8eedf5-7054-491c-8377-2341b6481aa6",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "a08ee125-852d-4db8-933d-1f38ec7e806d",
+  "userId": "37a28c63-cb7f-4824-88c7-a312e790d405",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "0df96c6a-1294-44f7-9d45-a0b959e6326a",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf73597f-1ed4-494e-ad4a-ecc96f617b9e",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "93260baf-66d1-4628-9118-0fc4482efb8e",
+    "addedAt": "2026-11-10T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf5dab2f-2945-433b-ba52-ae6acf78e1ad",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "6cc1390b-9730-46c4-88d5-7363906241b2",
+    "addedAt": "2026-11-15T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "218b7c00-7f7d-450a-9b41-3309f8864ece",
+  "userId": "1bfdd710-4fa3-456e-bee0-787e5f5f7f1a",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "cf4dbf9c-07e4-4a28-98f6-4dc29cf16741",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "3bcb5c67-e1c6-4017-ae8a-5d74603a8b76",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   },
+   {
+    "gigId": "d0a7e3cd-da85-451a-9450-a6a8f775535a",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "d8db22c1-e855-43c9-8c25-880f6b3a33b2",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "c4f9ed95-2e25-4c05-9683-f33298094eed",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "0342f561-27da-474d-8421-5c0371f549c9",
+    "addedAt": "2026-10-17T00:00:00.000Z"
+   },
+   {
+    "gigId": "ca41d15c-42c1-4aec-b84a-662d0bb37ddf",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "f5c840ad-f011-44ca-9351-cfff30709e53",
+  "userId": "1bfdd710-4fa3-456e-bee0-787e5f5f7f1a",
+  "name": "Salas pequeñas",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "084d9c63-ef55-45e6-9587-3e066f834a9c",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   },
+   {
+    "gigId": "19da42a1-6db4-4578-8dde-f48cd3b8e9d4",
+    "addedAt": "2026-10-26T00:00:00.000Z"
+   },
+   {
+    "gigId": "62c228ff-94a4-424c-8a3e-e1972d145554",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf5dab2f-2945-433b-ba52-ae6acf78e1ad",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ef7398d-6d0e-4ef1-80f9-6a1220463a7b",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "200468a7-b7c2-40de-b752-6f9a260157f6",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "348b275d-5dda-438e-8cac-3bf0e8ca3611",
+  "userId": "f977567d-263d-4836-af44-07146a44e04e",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "ec65ae19-53ef-4f18-a216-60326e421871",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "7df47127-7035-44d6-b276-5fa2db798c71",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   },
+   {
+    "gigId": "c191b657-746a-4c91-b019-4103d6873554",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "cdc172de-af1b-4179-b98c-cc29a13d7cf0",
+    "addedAt": "2026-10-30T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ef7398d-6d0e-4ef1-80f9-6a1220463a7b",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "e5606560-3328-475e-8556-75e8e2cef677",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "9e5f4efa-1435-4b1b-873e-a33c8a89f463",
+  "userId": "f977567d-263d-4836-af44-07146a44e04e",
+  "name": "Festivales",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "4d078d76-56c4-4540-91f7-1da4ead79935",
+    "addedAt": "2026-11-05T00:00:00.000Z"
+   },
+   {
+    "gigId": "242cf52c-b51f-4e27-9f6f-f3cad8d8d6c7",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "5e49e73e-eddf-43a3-a64b-002736eb1972",
+    "addedAt": "2026-11-12T00:00:00.000Z"
+   },
+   {
+    "gigId": "79576098-0867-4b6d-9010-147165d62190",
+    "addedAt": "2026-10-18T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "253274f8-c271-4dac-b3d5-9043eed61178",
+  "userId": "4fc8f91f-47b0-4938-bd25-a96ec5a4725d",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "cd62b68c-3446-45c5-af5d-f451e08e44db",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "39708d46-77c7-4f83-90e9-153a8583554e",
+    "addedAt": "2026-10-27T00:00:00.000Z"
+   },
+   {
+    "gigId": "f25781ca-21c0-48b7-b47d-263c7b28d21d",
+    "addedAt": "2026-11-01T00:00:00.000Z"
+   },
+   {
+    "gigId": "cdc172de-af1b-4179-b98c-cc29a13d7cf0",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "5cfeee25-6142-44c4-8176-22dd55146650",
+  "userId": "638128b5-d3e8-4059-ab70-ae420f07ec2d",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "6cc1390b-9730-46c4-88d5-7363906241b2",
+    "addedAt": "2026-10-22T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf5dab2f-2945-433b-ba52-ae6acf78e1ad",
+    "addedAt": "2026-11-14T00:00:00.000Z"
+   },
+   {
+    "gigId": "cd62b68c-3446-45c5-af5d-f451e08e44db",
+    "addedAt": "2026-11-09T00:00:00.000Z"
+   },
+   {
+    "gigId": "3380fac0-995d-4f95-a276-bd865b70314e",
+    "addedAt": "2026-11-04T00:00:00.000Z"
+   },
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   },
+   {
+    "gigId": "31cd26e1-6212-48a7-a024-2ac8b68b7a3c",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "c4f9ed95-2e25-4c05-9683-f33298094eed",
+    "addedAt": "2026-10-24T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "4d46a45b-e0f2-436d-ad59-04597cb5de5e",
+  "userId": "638128b5-d3e8-4059-ab70-ae420f07ec2d",
+  "name": "Verano",
+  "isDefault": false,
+  "items": [
+   {
+    "gigId": "cd62b68c-3446-45c5-af5d-f451e08e44db",
+    "addedAt": "2026-10-29T00:00:00.000Z"
+   },
+   {
+    "gigId": "bf1b54b9-ced2-4c12-8e91-00bf11832605",
+    "addedAt": "2026-10-31T00:00:00.000Z"
+   },
+   {
+    "gigId": "75cf88b0-c81f-452b-8dc5-c2534acd907c",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "dc08e965-8930-461b-90d9-e0bcc11ceb13",
+  "userId": "173262b7-e2f5-4056-824f-a37b85a8532f",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "3042e816-c240-4ce7-9f97-bf8c15de76a7",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   },
+   {
+    "gigId": "37fffa15-a68d-4b43-947c-e2b56f057121",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "94028bcc-9563-4353-bfe0-d537747bf718",
+    "addedAt": "2026-11-03T00:00:00.000Z"
+   }
+  ]
+ },
+ {
+  "id": "7a778699-cbc1-4063-ba86-b9372057a20d",
+  "userId": "166f3fc2-d38e-488a-a981-d239f39bfbdd",
+  "name": "Quiero ir",
+  "isDefault": true,
+  "items": [
+   {
+    "gigId": "bf73597f-1ed4-494e-ad4a-ecc96f617b9e",
+    "addedAt": "2026-10-28T00:00:00.000Z"
+   },
+   {
+    "gigId": "e6e1aed2-3795-47b3-afa4-0747ecde2248",
+    "addedAt": "2026-11-07T00:00:00.000Z"
+   },
+   {
+    "gigId": "cf4dbf9c-07e4-4a28-98f6-4dc29cf16741",
+    "addedAt": "2026-11-13T00:00:00.000Z"
+   },
+   {
+    "gigId": "6ef7398d-6d0e-4ef1-80f9-6a1220463a7b",
+    "addedAt": "2026-10-21T00:00:00.000Z"
+   },
+   {
+    "gigId": "a46cd0a3-01ba-4909-be6f-bbbef069319e",
+    "addedAt": "2026-10-23T00:00:00.000Z"
+   },
+   {
+    "gigId": "3e8eedf5-7054-491c-8377-2341b6481aa6",
+    "addedAt": "2026-11-06T00:00:00.000Z"
+   },
+   {
+    "gigId": "81644a99-a528-48a2-ab74-69c367f183db",
+    "addedAt": "2026-10-20T00:00:00.000Z"
+   }
+  ]
+ }
+]

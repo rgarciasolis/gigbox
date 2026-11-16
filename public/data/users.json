@@ -1,0 +1,302 @@
+[
+ {
+  "id": "60e8a917-92db-45f3-bb3c-27afab133334",
+  "handle": "alexdemo",
+  "displayName": "Alex Demo",
+  "bio": "Usuario dummy del MVP. Activa Plus en Suscripción para probar Agenda e Importación.",
+  "avatarUrl": null,
+  "city": "Madrid",
+  "plus": false,
+  "createdAt": "2023-01-07T00:00:00.000Z"
+ },
+ {
+  "id": "51d8ac4c-6230-4999-8b3e-89e5d13f0ac8",
+  "handle": "marta48",
+  "displayName": "Marta G.",
+  "bio": "Siempre llego a los teloneros.",
+  "avatarUrl": null,
+  "city": "Málaga",
+  "plus": false,
+  "createdAt": "2024-02-29T00:00:00.000Z"
+ },
+ {
+  "id": "d19a8ec3-088d-403d-b92b-b0772c804838",
+  "handle": "jon91",
+  "displayName": "Jon G.",
+  "bio": "Sala pequeña y sudor.",
+  "avatarUrl": null,
+  "city": "Vigo",
+  "plus": false,
+  "createdAt": "2023-07-08T00:00:00.000Z"
+ },
+ {
+  "id": "bf87e9f6-9025-4cae-b077-0ed74c121e57",
+  "handle": "lucia70",
+  "displayName": "Lucía R.",
+  "bio": "El directo siempre gana al disco.",
+  "avatarUrl": null,
+  "city": "Vigo",
+  "plus": false,
+  "createdAt": "2023-05-26T00:00:00.000Z"
+ },
+ {
+  "id": "34240aa5-eac0-44c0-a900-4e72886071ed",
+  "handle": "pablo50",
+  "displayName": "Pablo L.",
+  "bio": "Sala pequeña y sudor.",
+  "avatarUrl": null,
+  "city": "Sevilla",
+  "plus": true,
+  "createdAt": "2026-03-17T00:00:00.000Z"
+ },
+ {
+  "id": "17900934-29aa-4ee3-9f75-b54ff59a947c",
+  "handle": "irene57",
+  "displayName": "Irene P.",
+  "bio": "Colecciono entradas desde 2012.",
+  "avatarUrl": null,
+  "city": "Valladolid",
+  "plus": false,
+  "createdAt": "2023-08-03T00:00:00.000Z"
+ },
+ {
+  "id": "ef0a0ee3-b79f-40de-8325-a1997a373d56",
+  "handle": "hugo69",
+  "displayName": "Hugo L.",
+  "bio": "Sala pequeña y sudor.",
+  "avatarUrl": null,
+  "city": "Zaragoza",
+  "plus": false,
+  "createdAt": "2023-03-10T00:00:00.000Z"
+ },
+ {
+  "id": "ba4d290e-301b-4242-8c5b-f4ace4ae7a82",
+  "handle": "carla93",
+  "displayName": "Carla M.",
+  "bio": "Primera fila o nada.",
+  "avatarUrl": null,
+  "city": "Zaragoza",
+  "plus": false,
+  "createdAt": "2023-10-04T00:00:00.000Z"
+ },
+ {
+  "id": "647a8526-c962-4a34-a2eb-176fa47d9ab5",
+  "handle": "iker50",
+  "displayName": "Iker P.",
+  "bio": "Escucho de todo menos silencio.",
+  "avatarUrl": null,
+  "city": "Sevilla",
+  "plus": false,
+  "createdAt": "2022-12-02T00:00:00.000Z"
+ },
+ {
+  "id": "1b502b94-4ad7-463f-91ef-4a77298cc516",
+  "handle": "nuria30",
+  "displayName": "Nuria M.",
+  "bio": "Sala pequeña y sudor.",
+  "avatarUrl": null,
+  "city": "Valladolid",
+  "plus": true,
+  "createdAt": "2023-10-31T00:00:00.000Z"
+ },
+ {
+  "id": "03a27b5a-53d7-4647-ad9c-d1e2084718b5",
+  "handle": "dani86",
+  "displayName": "Dani L.",
+  "bio": "Colecciono entradas desde 2012.",
+  "avatarUrl": null,
+  "city": "Zaragoza",
+  "plus": false,
+  "createdAt": "2024-01-05T00:00:00.000Z"
+ },
+ {
+  "id": "f83b635a-0694-4f4a-841e-c55c8f501b25",
+  "handle": "sara56",
+  "displayName": "Sara R.",
+  "bio": "Tapones para los oídos y buena actitud.",
+  "avatarUrl": null,
+  "city": "Vigo",
+  "plus": false,
+  "createdAt": "2023-07-06T00:00:00.000Z"
+ },
+ {
+  "id": "2a4c7827-d091-4356-80b2-8ce7deae25ce",
+  "handle": "alvaro80",
+  "displayName": "Álvaro R.",
+  "bio": "Sala pequeña y sudor.",
+  "avatarUrl": null,
+  "city": "Zaragoza",
+  "plus": false,
+  "createdAt": "2023-02-21T00:00:00.000Z"
+ },
+ {
+  "id": "f0e2f947-9d8a-46fe-8ee8-733648db30cf",
+  "handle": "elena42",
+  "displayName": "Elena P.",
+  "bio": "Siempre llego a los teloneros.",
+  "avatarUrl": null,
+  "city": "Madrid",
+  "plus": false,
+  "createdAt": "2023-02-28T00:00:00.000Z"
+ },
+ {
+  "id": "511222ab-b138-4ca7-85f8-d7466729619c",
+  "handle": "mikel39",
+  "displayName": "Mikel G.",
+  "bio": "Siempre llego a los teloneros.",
+  "avatarUrl": null,
+  "city": "Bilbao",
+  "plus": false,
+  "createdAt": "2025-12-26T00:00:00.000Z"
+ },
+ {
+  "id": "5f819df3-e862-4fac-bcfc-7e9516ed2678",
+  "handle": "paula95",
+  "displayName": "Paula L.",
+  "bio": "Siempre llego a los teloneros.",
+  "avatarUrl": null,
+  "city": "Vigo",
+  "plus": false,
+  "createdAt": "2025-07-29T00:00:00.000Z"
+ },
+ {
+  "id": "3031746e-7cd2-447a-bad1-6da617abe318",
+  "handle": "jordi73",
+  "displayName": "Jordi P.",
+  "bio": "Escucho de todo menos silencio.",
+  "avatarUrl": null,
+  "city": "Granada",
+  "plus": false,
+  "createdAt": "2025-12-06T00:00:00.000Z"
+ },
+ {
+  "id": "8a27beee-946a-49f4-9142-9b93a22f4242",
+  "handle": "laura36",
+  "displayName": "Laura S.",
+  "bio": "El directo siempre gana al disco.",
+  "avatarUrl": null,
+  "city": "Zaragoza",
+  "plus": true,
+  "createdAt": "2024-02-29T00:00:00.000Z"
+ },
+ {
+  "id": "3a83acf9-e2e4-4519-8996-7634946b2ae3",
+  "handle": "adrian21",
+  "displayName": "Adrián G.",
+  "bio": "Más de lo mismo pero en directo.",
+  "avatarUrl": null,
+  "city": "Valladolid",
+  "plus": true,
+  "createdAt": "2024-01-01T00:00:00.000Z"
+ },
+ {
+  "id": "34fc3a40-cb76-4e1d-9374-21eaffff15b8",
+  "handle": "clara97",
+  "displayName": "Clara R.",
+  "bio": "Viajo por conciertos.",
+  "avatarUrl": null,
+  "city": "Bilbao",
+  "plus": true,
+  "createdAt": "2023-01-13T00:00:00.000Z"
+ },
+ {
+  "id": "2d4b195a-a03d-4be4-8ffb-5b7c327b6ebd",
+  "handle": "ruben62",
+  "displayName": "Rubén G.",
+  "bio": "El directo siempre gana al disco.",
+  "avatarUrl": null,
+  "city": "Valladolid",
+  "plus": false,
+  "createdAt": "2024-06-20T00:00:00.000Z"
+ },
+ {
+  "id": "c1b9bc40-b2d3-43e7-89c9-642eaa720ec4",
+  "handle": "ainhoa63",
+  "displayName": "Ainhoa R.",
+  "bio": "Festivales en verano, salas el resto del año.",
+  "avatarUrl": null,
+  "city": "Málaga",
+  "plus": false,
+  "createdAt": "2024-10-20T00:00:00.000Z"
+ },
+ {
+  "id": "1ff3d72b-9a47-482a-aa63-307b807f99f4",
+  "handle": "sergio15",
+  "displayName": "Sergio R.",
+  "bio": "Festivales en verano, salas el resto del año.",
+  "avatarUrl": null,
+  "city": "Sevilla",
+  "plus": false,
+  "createdAt": "2024-11-17T00:00:00.000Z"
+ },
+ {
+  "id": "37a28c63-cb7f-4824-88c7-a312e790d405",
+  "handle": "noa61",
+  "displayName": "Noa P.",
+  "bio": "Siempre llego a los teloneros.",
+  "avatarUrl": null,
+  "city": "Sevilla",
+  "plus": false,
+  "createdAt": "2026-03-04T00:00:00.000Z"
+ },
+ {
+  "id": "1bfdd710-4fa3-456e-bee0-787e5f5f7f1a",
+  "handle": "pol38",
+  "displayName": "Pol S.",
+  "bio": "Más de lo mismo pero en directo.",
+  "avatarUrl": null,
+  "city": "Zaragoza",
+  "plus": false,
+  "createdAt": "2024-05-04T00:00:00.000Z"
+ },
+ {
+  "id": "f977567d-263d-4836-af44-07146a44e04e",
+  "handle": "eva28",
+  "displayName": "Eva M.",
+  "bio": "Colecciono entradas desde 2012.",
+  "avatarUrl": null,
+  "city": "Málaga",
+  "plus": false,
+  "createdAt": "2025-10-14T00:00:00.000Z"
+ },
+ {
+  "id": "4fc8f91f-47b0-4938-bd25-a96ec5a4725d",
+  "handle": "unai90",
+  "displayName": "Unai S.",
+  "bio": "Más de lo mismo pero en directo.",
+  "avatarUrl": null,
+  "city": "Zaragoza",
+  "plus": false,
+  "createdAt": "2024-10-22T00:00:00.000Z"
+ },
+ {
+  "id": "638128b5-d3e8-4059-ab70-ae420f07ec2d",
+  "handle": "berta3",
+  "displayName": "Berta L.",
+  "bio": "Sala pequeña y sudor.",
+  "avatarUrl": null,
+  "city": "Valladolid",
+  "plus": false,
+  "createdAt": "2025-07-07T00:00:00.000Z"
+ },
+ {
+  "id": "173262b7-e2f5-4056-824f-a37b85a8532f",
+  "handle": "oriol60",
+  "displayName": "Oriol L.",
+  "bio": "Escucho de todo menos silencio.",
+  "avatarUrl": null,
+  "city": "Málaga",
+  "plus": false,
+  "createdAt": "2026-04-08T00:00:00.000Z"
+ },
+ {
+  "id": "166f3fc2-d38e-488a-a981-d239f39bfbdd",
+  "handle": "lola58",
+  "displayName": "Lola R.",
+  "bio": "Colecciono entradas desde 2012.",
+  "avatarUrl": null,
+  "city": "Vigo",
+  "plus": false,
+  "createdAt": "2025-10-31T00:00:00.000Z"
+ }
+]

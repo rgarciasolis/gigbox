@@ -1,0 +1,1549 @@
+[
+ {
+  "id": "27e45a81-9817-455a-8104-210e403b312f",
+  "entityType": "artist",
+  "entityId": "fecddb99-e75f-4e0a-9e33-bd35ad38c74c",
+  "provider": "musicbrainz",
+  "externalId": "884649df-1649-484e-8014-c55d3f731f8c"
+ },
+ {
+  "id": "cae71b46-3dd8-4475-ae38-52c1ec9abb91",
+  "entityType": "artist",
+  "entityId": "42693af5-288f-4256-a8f2-b72f3282e366",
+  "provider": "musicbrainz",
+  "externalId": "2ad9cf59-65e2-458e-9076-8c35fda7892d"
+ },
+ {
+  "id": "9f9b6800-cf08-4876-ad20-a9a8db0073dc",
+  "entityType": "artist",
+  "entityId": "0a9d6221-a1df-4313-8831-3ef0e6657f55",
+  "provider": "musicbrainz",
+  "externalId": "8ebd0733-f596-41ba-b1cc-f940c4a4ad80"
+ },
+ {
+  "id": "ee3b65db-884d-43a2-85b9-5425dbe4fa94",
+  "entityType": "artist",
+  "entityId": "ea32b2d3-839c-47a8-9240-7d3a5f75227e",
+  "provider": "musicbrainz",
+  "externalId": "bb91c03c-a73b-4f21-a3e8-2ed8aec55d48"
+ },
+ {
+  "id": "e00fc0a5-657e-4ead-89d6-3b4b500e463b",
+  "entityType": "artist",
+  "entityId": "5d513ec7-0b6e-42a9-b516-90202fd3398f",
+  "provider": "musicbrainz",
+  "externalId": "a61d3665-6fb9-4008-a7be-5b48eaa61b9a"
+ },
+ {
+  "id": "fa2e1d0e-0cae-47f9-bd56-821c66d264c3",
+  "entityType": "artist",
+  "entityId": "8c4a9adf-506a-4ee0-bb03-87eb3b1b0d6d",
+  "provider": "musicbrainz",
+  "externalId": "bd41d43b-80d2-4eaa-8a57-2fa30956aa67"
+ },
+ {
+  "id": "0d1f298d-a674-4d27-913f-b36eadd62cd8",
+  "entityType": "artist",
+  "entityId": "db9a0eef-569c-447b-8bbb-d9502e1a7e36",
+  "provider": "musicbrainz",
+  "externalId": "3a00d1be-5931-411b-8edd-c7e39078866a"
+ },
+ {
+  "id": "a22e3706-3643-4f0e-9b8f-7eb037c5bc52",
+  "entityType": "artist",
+  "entityId": "9b6d47b2-362f-49ed-a1f0-2de75c66655c",
+  "provider": "musicbrainz",
+  "externalId": "f3af8449-7cd2-4fe1-96e7-bdb5665f9f75"
+ },
+ {
+  "id": "a5547148-6954-4520-8b75-88ecd50f3005",
+  "entityType": "artist",
+  "entityId": "c3730b26-18cc-4307-83bf-bd78a7bbe12c",
+  "provider": "musicbrainz",
+  "externalId": "8c29cd06-7986-484d-aa2f-7e25827e6937"
+ },
+ {
+  "id": "241d7f61-6bbd-4379-9ce4-4e0169deec70",
+  "entityType": "artist",
+  "entityId": "25fef688-4d77-4340-874b-1bfd2278122a",
+  "provider": "musicbrainz",
+  "externalId": "47ea94b8-77af-4952-91eb-8f70cbfd73c1"
+ },
+ {
+  "id": "535ab009-350c-419e-8b47-79407cd4b64e",
+  "entityType": "artist",
+  "entityId": "89a9f067-be8c-410c-8c1e-ecc7c381444e",
+  "provider": "musicbrainz",
+  "externalId": "b7a5b472-42e5-48e6-8122-4f3574bd96f6"
+ },
+ {
+  "id": "b39851e7-0e89-43d7-8d54-aca1b2349457",
+  "entityType": "artist",
+  "entityId": "185d2130-323c-4742-92ba-35e486b221e4",
+  "provider": "musicbrainz",
+  "externalId": "41d88187-ead0-4816-aae5-8a6ac303ab93"
+ },
+ {
+  "id": "967ef75a-9f66-423c-8704-a03c89282cf5",
+  "entityType": "artist",
+  "entityId": "caa71215-16fe-415f-bf2b-501ed5524db2",
+  "provider": "musicbrainz",
+  "externalId": "34a8699a-c751-49de-b9c8-f6b97ee951ef"
+ },
+ {
+  "id": "ecfe148d-bba0-4abe-be98-8457d892ebe2",
+  "entityType": "artist",
+  "entityId": "e508e159-4cc1-4f80-ac2c-d6fab93ccfe3",
+  "provider": "musicbrainz",
+  "externalId": "8118a540-3ca4-4385-b008-896150a2a423"
+ },
+ {
+  "id": "28a0c9b6-bdc4-4de2-b164-b1550a75bcd5",
+  "entityType": "artist",
+  "entityId": "59cf1ea3-071c-4d0b-893d-40408d8cfcab",
+  "provider": "musicbrainz",
+  "externalId": "7ea3d9dc-0272-4f6d-a9fa-f0d0f362c01a"
+ },
+ {
+  "id": "3dd5e5f4-bc4a-49bb-94e1-eaa8167c011c",
+  "entityType": "artist",
+  "entityId": "9e7813a1-f22c-4ceb-8e3b-0e8dab7cc911",
+  "provider": "musicbrainz",
+  "externalId": "3e5d3e59-9058-4812-8bd2-ece126ac6b5b"
+ },
+ {
+  "id": "267a252a-e711-49a8-b0d1-97a77a6fabf6",
+  "entityType": "artist",
+  "entityId": "22f1fdae-b7a1-4b06-88cf-3daeb9aa2ae4",
+  "provider": "musicbrainz",
+  "externalId": "1f2a83eb-59ef-44be-8e9e-b214673e14c7"
+ },
+ {
+  "id": "72748091-4114-4658-93e3-31aea795f8fd",
+  "entityType": "artist",
+  "entityId": "c23ede94-0831-43e6-848e-52a011478818",
+  "provider": "musicbrainz",
+  "externalId": "a0d566b4-51ad-46a4-b10e-01f39cde977a"
+ },
+ {
+  "id": "b3b5cb6a-2438-4508-8567-ec2b4d7b3e4f",
+  "entityType": "artist",
+  "entityId": "d4282bbf-7151-4e9a-a9b8-239dce22ca0b",
+  "provider": "musicbrainz",
+  "externalId": "a1a9be30-dc2d-484d-9206-b453fba49940"
+ },
+ {
+  "id": "1507269b-1090-495a-b2cb-94a77ad81dfb",
+  "entityType": "artist",
+  "entityId": "f2708b74-4682-47e6-8643-cf8930b653ac",
+  "provider": "musicbrainz",
+  "externalId": "e1dfb174-f13b-468c-863f-33b0870d9be1"
+ },
+ {
+  "id": "47991e40-d6c0-4094-868b-b5e8a268cf9c",
+  "entityType": "artist",
+  "entityId": "0ae4b9a5-04f6-4d0f-ab34-f7da400c04fd",
+  "provider": "musicbrainz",
+  "externalId": "17839dc9-f5b8-4e8d-ab99-efc788cf1c92"
+ },
+ {
+  "id": "f69d13a4-210c-49ea-a34b-89320fdcb918",
+  "entityType": "artist",
+  "entityId": "f161ddf3-ab2f-4811-8e8d-4e8b43692bbd",
+  "provider": "musicbrainz",
+  "externalId": "e46a5d58-a24c-4dee-9e2b-e2aa9b03969d"
+ },
+ {
+  "id": "400c5c63-0ce5-4118-87a1-60c219dcab7a",
+  "entityType": "artist",
+  "entityId": "ae86a08e-8e18-451f-912c-3b1be665aab1",
+  "provider": "musicbrainz",
+  "externalId": "d4015f15-fe8f-4999-b004-5535e5881302"
+ },
+ {
+  "id": "a56968f6-3771-4802-a7e1-a54a6b0f0fae",
+  "entityType": "artist",
+  "entityId": "df1df0f2-d831-4d55-bdaa-8247ab637222",
+  "provider": "musicbrainz",
+  "externalId": "1a0e5f38-ef51-4c61-8910-be60990cadda"
+ },
+ {
+  "id": "2c84deca-c154-4a0e-87a4-375f67166c82",
+  "entityType": "artist",
+  "entityId": "701ef953-3d94-4caa-a521-40b8a7fa5b5c",
+  "provider": "musicbrainz",
+  "externalId": "fe368631-b7c7-4b21-9a09-32c2d8e2c068"
+ },
+ {
+  "id": "e2dd6aef-0772-494a-992a-6ed346ecf404",
+  "entityType": "artist",
+  "entityId": "d23a1a20-4a4b-41b7-b939-5545e95e2e2e",
+  "provider": "musicbrainz",
+  "externalId": "33e5bdb5-817e-4558-b31f-846ad817508a"
+ },
+ {
+  "id": "227a8a36-e23c-46a9-a54a-e8d288b2e08b",
+  "entityType": "artist",
+  "entityId": "4dfd2d70-d5ae-416d-a607-a59cb0fce7e7",
+  "provider": "musicbrainz",
+  "externalId": "a2fdbd92-234b-4098-9402-185f8b663d72"
+ },
+ {
+  "id": "ff151ab2-6bdf-4745-bbeb-498b352123d9",
+  "entityType": "artist",
+  "entityId": "27287415-998f-45ae-9020-ee233c2044c6",
+  "provider": "musicbrainz",
+  "externalId": "edef328c-5e63-4ddb-bd02-0d8adf30a57f"
+ },
+ {
+  "id": "79040c3d-7426-4c2a-8a7d-8020686b8a50",
+  "entityType": "artist",
+  "entityId": "eef39137-9e3c-4d03-be67-bff50ca02419",
+  "provider": "musicbrainz",
+  "externalId": "64e6eb7f-2a43-47ec-8de9-185b496ceea2"
+ },
+ {
+  "id": "36cedcc6-4d3f-474b-8980-ee9a25947142",
+  "entityType": "artist",
+  "entityId": "8d01b476-7bf6-49c1-8e30-e1cd65ae8d51",
+  "provider": "musicbrainz",
+  "externalId": "f695e527-93a4-4c87-91e1-c9bc41f76e16"
+ },
+ {
+  "id": "47818b46-fe9e-4177-9826-a256d2ea73eb",
+  "entityType": "artist",
+  "entityId": "27c38e53-e2ee-48c7-84a1-9b2b785013ae",
+  "provider": "musicbrainz",
+  "externalId": "22d5f44d-0967-43fb-be52-cd3e2346e323"
+ },
+ {
+  "id": "274e9977-2202-4324-bd63-0ae82d5a0fd6",
+  "entityType": "artist",
+  "entityId": "3ac323ee-d361-4ffb-a0fb-09542f9c0ae2",
+  "provider": "musicbrainz",
+  "externalId": "4f1b4586-a7ec-4332-a930-77f73dbc25ed"
+ },
+ {
+  "id": "c80a49cd-9fa9-47cc-b4f8-4fd28474cc45",
+  "entityType": "artist",
+  "entityId": "56a58ae0-b1a2-4a66-927b-b78cf9d78ce8",
+  "provider": "musicbrainz",
+  "externalId": "aa14494b-3709-4a3d-92c7-7c6b7c0c6801"
+ },
+ {
+  "id": "fbb71c61-b326-4835-837d-3faa3b6a3907",
+  "entityType": "artist",
+  "entityId": "1041a789-b177-4a73-b06f-31fa0ba2aeaf",
+  "provider": "musicbrainz",
+  "externalId": "18f46639-3a20-4d50-8654-69836a68a1b7"
+ },
+ {
+  "id": "c307f3a6-a7b1-41bf-a097-59650446789c",
+  "entityType": "artist",
+  "entityId": "49350f8a-3c0a-4b9c-9e79-261ba11e2608",
+  "provider": "musicbrainz",
+  "externalId": "157515ee-318e-40ef-b147-99b8c343f6a6"
+ },
+ {
+  "id": "3bc32597-28c1-452a-8516-69de4daa95e9",
+  "entityType": "artist",
+  "entityId": "fb0f4799-89cd-4b51-890a-ec03b1ca9af1",
+  "provider": "musicbrainz",
+  "externalId": "bc9136c1-29da-4c6c-b21f-6f116b5c7779"
+ },
+ {
+  "id": "57438abb-c483-4209-81be-1ea6b0d780e4",
+  "entityType": "artist",
+  "entityId": "77a13395-3730-435a-9c99-f7af01eedd91",
+  "provider": "musicbrainz",
+  "externalId": "3f65fdbf-0ce6-4892-8449-5928cb77c11d"
+ },
+ {
+  "id": "a5c3bdd2-df9e-4a8d-90b5-0b69f835a15d",
+  "entityType": "artist",
+  "entityId": "8f8a33e9-64f6-43ca-b712-7d31cdca4ad3",
+  "provider": "musicbrainz",
+  "externalId": "254481cb-cdd9-4e26-8c9b-3f1ef16f8bfb"
+ },
+ {
+  "id": "5722f30b-27b7-461c-9579-404e1d267ec7",
+  "entityType": "artist",
+  "entityId": "208fce69-1bd3-4e7b-82b3-1613b0986504",
+  "provider": "musicbrainz",
+  "externalId": "c77c0c7a-f402-40b0-994e-dbe010333a82"
+ },
+ {
+  "id": "209ae9ad-ef9d-4a09-a734-45313714305d",
+  "entityType": "artist",
+  "entityId": "ca15f2e3-9115-474b-99bf-985298b792d6",
+  "provider": "musicbrainz",
+  "externalId": "153051a2-f06f-4b03-a719-8f58459dc09f"
+ },
+ {
+  "id": "afa0786b-f523-4b83-9087-819ea9c282f2",
+  "entityType": "artist",
+  "entityId": "50fcade7-9eff-4707-9cf6-0e9a26f6b16b",
+  "provider": "musicbrainz",
+  "externalId": "cc8ae156-b2ab-4643-95f3-71b28f273958"
+ },
+ {
+  "id": "71a1fc52-b9fd-458e-be33-408018a602cd",
+  "entityType": "artist",
+  "entityId": "a52c7b13-fa8c-4748-81dd-89360912dca9",
+  "provider": "musicbrainz",
+  "externalId": "e9bda3ca-16c5-42c4-8e2d-81d9300a2575"
+ },
+ {
+  "id": "b65e57b3-6528-4b84-820a-9529e2812a9a",
+  "entityType": "artist",
+  "entityId": "4d6a952d-8723-403c-8b2f-63c32c60494e",
+  "provider": "musicbrainz",
+  "externalId": "16e47aaa-cb2e-440c-98d5-5f88dc7434fb"
+ },
+ {
+  "id": "7e84e2b3-f43c-4aa4-afe1-760d64166f15",
+  "entityType": "artist",
+  "entityId": "b767a80d-af5b-4016-823d-e98f1ebd516f",
+  "provider": "musicbrainz",
+  "externalId": "1489b577-38c3-4d5a-bd26-05f82cff6ce3"
+ },
+ {
+  "id": "e68c84eb-d622-4770-813a-fef0132dc479",
+  "entityType": "artist",
+  "entityId": "5ba50ee8-b560-4af7-a03a-4e10ab3fb472",
+  "provider": "musicbrainz",
+  "externalId": "df21d6e3-bd70-4bbd-b89c-31e04036f58c"
+ },
+ {
+  "id": "55e1494d-f3ac-46d4-bd12-0eee118aaf31",
+  "entityType": "artist",
+  "entityId": "4663138d-c25e-4c4c-8de4-b64bc994e8e5",
+  "provider": "musicbrainz",
+  "externalId": "b2199540-19fc-49b8-bd17-0a79783dba02"
+ },
+ {
+  "id": "4b2c9239-6798-4b7a-a48a-151805a23eb7",
+  "entityType": "artist",
+  "entityId": "c002d482-42d4-4099-873e-af5994f2777e",
+  "provider": "musicbrainz",
+  "externalId": "bdf8dd1a-95af-4bd8-a227-cbb44fbb1673"
+ },
+ {
+  "id": "af3637de-f407-4374-98c6-291bc8a20644",
+  "entityType": "artist",
+  "entityId": "658348cf-1415-46d5-bcae-cd157dfb1046",
+  "provider": "musicbrainz",
+  "externalId": "587c234b-faff-4505-b6b0-81693ea6f460"
+ },
+ {
+  "id": "19abac82-388a-4da1-8068-aaa269ca32ac",
+  "entityType": "artist",
+  "entityId": "6963fc0a-31a6-48d0-a0d1-0012a6d6ef1b",
+  "provider": "musicbrainz",
+  "externalId": "7f580d08-d3c5-4e70-a2e8-785f1c3163d9"
+ },
+ {
+  "id": "66261726-eed7-477a-bce0-efa96b39e4ad",
+  "entityType": "artist",
+  "entityId": "19f71e58-d6c8-4c88-9da6-a5e58d58a612",
+  "provider": "musicbrainz",
+  "externalId": "33d8c91f-bed7-4e6b-b490-bc3f7078e513"
+ },
+ {
+  "id": "46972fb8-8aa4-4e05-a6e3-34e95f21d5cf",
+  "entityType": "artist",
+  "entityId": "53b3622a-db3f-4814-9a16-060dcd4d02ff",
+  "provider": "musicbrainz",
+  "externalId": "919b1418-7482-452b-b005-39fe542bc250"
+ },
+ {
+  "id": "633cfe47-8240-4b5a-bcf9-4fa898e9ecea",
+  "entityType": "artist",
+  "entityId": "279dff64-1dc3-4307-b511-a4375382b78b",
+  "provider": "musicbrainz",
+  "externalId": "d8f84ead-bcaf-4896-bf79-6646e8962fd6"
+ },
+ {
+  "id": "6fe37910-ca12-4530-9956-a4e1ac6c2747",
+  "entityType": "artist",
+  "entityId": "7f96d400-109f-4c9a-9347-c01e33587bdf",
+  "provider": "musicbrainz",
+  "externalId": "316101b4-a603-4a48-8bea-caa883a32c08"
+ },
+ {
+  "id": "85987a8b-be2d-4cf4-ac87-88e37371ecfb",
+  "entityType": "artist",
+  "entityId": "4d407096-93d0-42de-9412-46c540d13d6e",
+  "provider": "musicbrainz",
+  "externalId": "8c703349-5b0f-436b-904d-2e2343cb54ef"
+ },
+ {
+  "id": "47b92d73-6cbd-41a2-a1db-de2ca269114d",
+  "entityType": "artist",
+  "entityId": "5e128681-d89b-4359-b0cf-cbcbbcac8040",
+  "provider": "musicbrainz",
+  "externalId": "b716c80c-2764-4766-bd97-83685f92a0b7"
+ },
+ {
+  "id": "c1dde601-a17a-4975-9f55-6de6ece578b7",
+  "entityType": "artist",
+  "entityId": "7dc2c490-cca1-4663-83cf-989d67ba5662",
+  "provider": "musicbrainz",
+  "externalId": "014ff0d8-4636-492b-a14e-be64c6a00398"
+ },
+ {
+  "id": "9e37f588-c7fb-425b-8f14-0ae2caa6072d",
+  "entityType": "artist",
+  "entityId": "40f72da8-777e-4c7e-8ec3-304dcb062fa0",
+  "provider": "musicbrainz",
+  "externalId": "8d95f33c-92d2-4bd8-b763-5951994236db"
+ },
+ {
+  "id": "e2d8439b-72e8-4b74-b3bd-cbc2e7bb6c45",
+  "entityType": "artist",
+  "entityId": "6630120b-bcc9-4825-94e8-f386efdbd57a",
+  "provider": "musicbrainz",
+  "externalId": "cf00c29a-939b-4ae4-b83c-09c1e5c7d53e"
+ },
+ {
+  "id": "2ca4130d-751b-4ee0-923d-1dc636d64fb8",
+  "entityType": "artist",
+  "entityId": "93f756ff-b30d-499f-a9d9-1476ec20bdfa",
+  "provider": "musicbrainz",
+  "externalId": "398e8e51-40c9-412d-a7a2-b2552ebe257d"
+ },
+ {
+  "id": "63e13152-1b51-4bcf-a5b1-0465c5af7a52",
+  "entityType": "artist",
+  "entityId": "c346b4f5-ad62-445f-9b9c-96955e3937a5",
+  "provider": "musicbrainz",
+  "externalId": "61528111-6d40-4e27-af58-331c3bcedaaf"
+ },
+ {
+  "id": "dd1ee60f-5d2c-4f1d-a808-4eaf5a761d39",
+  "entityType": "artist",
+  "entityId": "2b780d0d-ebdd-41f8-b5ce-dd12a6ff14a7",
+  "provider": "musicbrainz",
+  "externalId": "26bba49a-37ec-430e-a7c4-f5f73bcda100"
+ },
+ {
+  "id": "4e686e95-4946-404f-be69-d23010b9643a",
+  "entityType": "artist",
+  "entityId": "db925f74-a443-4c05-a95c-6157c44cc53f",
+  "provider": "musicbrainz",
+  "externalId": "0905ea05-742d-4053-af10-e60aa2a452c4"
+ },
+ {
+  "id": "4cc0f6d9-931b-4c2f-b207-7480c7aa3eca",
+  "entityType": "artist",
+  "entityId": "88354d25-0b20-4a1b-bacf-9e6ad5c02b8a",
+  "provider": "musicbrainz",
+  "externalId": "4ef2e8e8-fbc8-474c-aa02-740c72f06559"
+ },
+ {
+  "id": "e3b88734-118a-4c85-8f73-8912945e27b6",
+  "entityType": "artist",
+  "entityId": "cb5a84c1-4742-4dcc-9b5f-a09a535f70f2",
+  "provider": "musicbrainz",
+  "externalId": "d9c9662d-d2a4-44be-a11a-e267f8ca5e62"
+ },
+ {
+  "id": "1dd4d9b6-1494-4317-b737-b5afebd59029",
+  "entityType": "artist",
+  "entityId": "12b75906-b8d0-4504-b811-14eef072e948",
+  "provider": "musicbrainz",
+  "externalId": "916b8d31-33e0-4220-964c-3f58884e1ce7"
+ },
+ {
+  "id": "080cb2cd-40bc-4249-8f3b-49824aa1ce28",
+  "entityType": "artist",
+  "entityId": "2c6489de-b455-4ef2-b006-f74b06b0d89c",
+  "provider": "musicbrainz",
+  "externalId": "4a04a2cf-958c-4e50-bc8e-cbba0369b79a"
+ },
+ {
+  "id": "41c16ee2-f6df-4896-a762-8c23127dd797",
+  "entityType": "artist",
+  "entityId": "a3a16506-d96d-4a19-9f42-2a95388ac963",
+  "provider": "musicbrainz",
+  "externalId": "a98284fe-ca8a-4779-b2a6-e7172f285c3a"
+ },
+ {
+  "id": "4331734c-0bf3-4b70-ad00-ead722fff46d",
+  "entityType": "artist",
+  "entityId": "bdbeaa68-1a8a-41e2-927a-d2aad6bbecc1",
+  "provider": "musicbrainz",
+  "externalId": "3da88cab-080c-4f24-a35b-e14c6c2af060"
+ },
+ {
+  "id": "6d9698dd-e4d9-46a2-99cf-5ba6aa861362",
+  "entityType": "artist",
+  "entityId": "8e2cf630-2e57-43f3-967a-47a1657dcc58",
+  "provider": "musicbrainz",
+  "externalId": "ce4f1062-218d-414b-9f07-11c702c41f2c"
+ },
+ {
+  "id": "231c0582-a240-435b-8655-8a39d5bd7336",
+  "entityType": "artist",
+  "entityId": "145f06e6-7cf2-4061-85e2-a039f29938c0",
+  "provider": "musicbrainz",
+  "externalId": "cd46736f-e641-49d9-962a-2b2fe90b44e0"
+ },
+ {
+  "id": "07cc1d42-bbeb-4570-99cb-cf3fd1712561",
+  "entityType": "artist",
+  "entityId": "4b4e8f4c-05cb-4385-90f3-50cb57569880",
+  "provider": "musicbrainz",
+  "externalId": "bfc7820d-c398-4104-a016-72750a1391c9"
+ },
+ {
+  "id": "ef19ccee-8fae-4714-a4f6-e02af0a5e02e",
+  "entityType": "gig",
+  "entityId": "0fed212d-8d8a-4e2b-8b4d-f8635e5a6401",
+  "provider": "ticketmaster",
+  "externalId": "dummy-590821"
+ },
+ {
+  "id": "1b39975e-af4b-49c8-abc7-81fe18b3361c",
+  "entityType": "gig",
+  "entityId": "1d825969-de40-4b7f-a3b1-1ebf7d3c8d4a",
+  "provider": "ticketmaster",
+  "externalId": "dummy-627311"
+ },
+ {
+  "id": "a13cd7d5-189e-418b-bca0-1046383cdab5",
+  "entityType": "gig",
+  "entityId": "1c3e8952-a5f2-42d7-859e-349453ab8fec",
+  "provider": "ticketmaster",
+  "externalId": "dummy-390331"
+ },
+ {
+  "id": "e1144923-15e0-4c1e-aefb-677d7d522ecc",
+  "entityType": "gig",
+  "entityId": "14e80a0c-8d2d-4f9c-b0bc-c9fb4814d4fa",
+  "provider": "ticketmaster",
+  "externalId": "dummy-974296"
+ },
+ {
+  "id": "0cce3cd1-c550-4567-8e10-b97a1e68f4b4",
+  "entityType": "gig",
+  "entityId": "801cf0d4-57be-4c1a-a8d0-937f53f753db",
+  "provider": "ticketmaster",
+  "externalId": "dummy-543521"
+ },
+ {
+  "id": "f960c35b-25c6-4d19-8816-eef00a813378",
+  "entityType": "gig",
+  "entityId": "32e0ee23-e86e-4f17-893c-377af9197db2",
+  "provider": "setlistfm",
+  "externalId": "dummy-805034"
+ },
+ {
+  "id": "51604f0d-0d7e-4d25-a36b-73a72c19e515",
+  "entityType": "gig",
+  "entityId": "20b22145-0e5c-4020-be52-82abf92b19b6",
+  "provider": "ticketmaster",
+  "externalId": "dummy-378313"
+ },
+ {
+  "id": "656c6314-16f9-4dba-a698-adf3a58a7eda",
+  "entityType": "gig",
+  "entityId": "6f46a83f-7ee3-45fb-ac50-7b4c5c35925d",
+  "provider": "ticketmaster",
+  "externalId": "dummy-528395"
+ },
+ {
+  "id": "db14fa1b-4b3e-41e2-9a34-80bac31bd4cf",
+  "entityType": "gig",
+  "entityId": "787b6081-4441-405a-96ba-890507d9acdd",
+  "provider": "ticketmaster",
+  "externalId": "dummy-916324"
+ },
+ {
+  "id": "4da53a08-6985-4a9d-acad-9ee34be6d275",
+  "entityType": "gig",
+  "entityId": "565b2615-a0a5-4e31-be26-1bae27146233",
+  "provider": "setlistfm",
+  "externalId": "dummy-369077"
+ },
+ {
+  "id": "1ce6f352-2ed8-4882-8c6f-d6e8d4478c4b",
+  "entityType": "gig",
+  "entityId": "3252b506-e28b-4876-bfb9-53b45aa35900",
+  "provider": "ticketmaster",
+  "externalId": "dummy-816143"
+ },
+ {
+  "id": "27e48897-9c01-482a-a3d7-fc1bd3e9907b",
+  "entityType": "gig",
+  "entityId": "f4f267f4-76ff-4be5-b2be-5a0430b467b9",
+  "provider": "setlistfm",
+  "externalId": "dummy-990101"
+ },
+ {
+  "id": "dca898af-7267-4e56-87d6-136814f4e353",
+  "entityType": "gig",
+  "entityId": "5d328cc5-2432-4666-b80d-933e1f24e3c6",
+  "provider": "setlistfm",
+  "externalId": "dummy-409125"
+ },
+ {
+  "id": "7f374fc9-f4d4-4a1a-bb72-b9a0c49b031e",
+  "entityType": "gig",
+  "entityId": "97244b75-9844-4f80-abe7-c10943cad2cf",
+  "provider": "ticketmaster",
+  "externalId": "dummy-389613"
+ },
+ {
+  "id": "86a3c647-0c4f-49da-99db-8e318c75111c",
+  "entityType": "gig",
+  "entityId": "f1af3c97-3632-4641-b841-76626a3c83ce",
+  "provider": "ticketmaster",
+  "externalId": "dummy-634273"
+ },
+ {
+  "id": "27f3edde-c182-4478-a0f0-df224f61988e",
+  "entityType": "gig",
+  "entityId": "ffb4a1ff-9f7f-40fb-9429-49783b5ace6f",
+  "provider": "setlistfm",
+  "externalId": "dummy-270824"
+ },
+ {
+  "id": "6be3dbee-06ba-4f9f-a0eb-2e3ff1c6fdab",
+  "entityType": "gig",
+  "entityId": "4a255f95-abb2-4599-9f6b-c49c16929df3",
+  "provider": "setlistfm",
+  "externalId": "dummy-983025"
+ },
+ {
+  "id": "da93fa37-09c4-40e5-80d6-b4888e50a2ff",
+  "entityType": "gig",
+  "entityId": "d966a2a1-9968-4b89-bb44-86a3e813d4e7",
+  "provider": "setlistfm",
+  "externalId": "dummy-970001"
+ },
+ {
+  "id": "25ed8511-cfa2-4af5-a8ec-ed83f72ddef6",
+  "entityType": "gig",
+  "entityId": "2a06a021-bc88-4963-9592-1fba1c9d26a9",
+  "provider": "setlistfm",
+  "externalId": "dummy-721211"
+ },
+ {
+  "id": "b7ee3c03-376d-4eca-8a9d-f43b59f2b609",
+  "entityType": "gig",
+  "entityId": "a6984a97-0dc5-4ebd-84fb-f5112f3a3d14",
+  "provider": "ticketmaster",
+  "externalId": "dummy-425732"
+ },
+ {
+  "id": "183c87a6-5908-4c4d-9946-70da447dddbf",
+  "entityType": "gig",
+  "entityId": "c00e4a66-617d-4fcb-a8bf-b5600ffe9d6b",
+  "provider": "ticketmaster",
+  "externalId": "dummy-303884"
+ },
+ {
+  "id": "318c10f9-7652-418d-9f14-6af7b40fd1a7",
+  "entityType": "gig",
+  "entityId": "806515c5-8b98-4dd5-b790-986a7707fc14",
+  "provider": "setlistfm",
+  "externalId": "dummy-289311"
+ },
+ {
+  "id": "a605c2f2-bd4a-4ef6-b226-bfc310bb3b58",
+  "entityType": "gig",
+  "entityId": "e865d769-acbd-43e3-88c6-48fc0a7b1a6a",
+  "provider": "setlistfm",
+  "externalId": "dummy-547404"
+ },
+ {
+  "id": "09521ad7-2fb2-43a2-aad2-a055161989c1",
+  "entityType": "gig",
+  "entityId": "60b2e643-f632-4a3b-b006-e6bff683efaf",
+  "provider": "ticketmaster",
+  "externalId": "dummy-916187"
+ },
+ {
+  "id": "3cf2a52d-1fc9-4768-93f2-e53581cbc020",
+  "entityType": "gig",
+  "entityId": "8b1d2f71-e876-4134-85ee-7da3daee55d9",
+  "provider": "ticketmaster",
+  "externalId": "dummy-845388"
+ },
+ {
+  "id": "efda2e48-7721-4834-8576-ec98da478dc4",
+  "entityType": "gig",
+  "entityId": "6122d440-4381-4502-a028-e9ed70864972",
+  "provider": "ticketmaster",
+  "externalId": "dummy-113493"
+ },
+ {
+  "id": "a1bc1246-b344-4b57-a0bf-9cb0c153831e",
+  "entityType": "gig",
+  "entityId": "5d731809-9ce8-45f9-b66e-2a1f38e82598",
+  "provider": "ticketmaster",
+  "externalId": "dummy-130785"
+ },
+ {
+  "id": "c8ad3bf6-ed63-4226-8121-83bdf83d5266",
+  "entityType": "gig",
+  "entityId": "782c7628-4b03-40db-8e42-f5f751ac2ee6",
+  "provider": "ticketmaster",
+  "externalId": "dummy-724958"
+ },
+ {
+  "id": "3d01cf59-4855-496d-8e75-5ac35eba5c7e",
+  "entityType": "gig",
+  "entityId": "220e0fbf-cd30-4ad8-8874-201062595637",
+  "provider": "ticketmaster",
+  "externalId": "dummy-101500"
+ },
+ {
+  "id": "9789b5fc-28fd-4477-ba30-597c51d5746e",
+  "entityType": "gig",
+  "entityId": "8bd26308-ab2d-4cd1-a845-41af05e4ebe1",
+  "provider": "ticketmaster",
+  "externalId": "dummy-687029"
+ },
+ {
+  "id": "3a9cd7ed-9a4a-4d9d-8bbb-9b20a80037b4",
+  "entityType": "gig",
+  "entityId": "2f4cd051-31f6-499b-b76a-4421b9dd2128",
+  "provider": "setlistfm",
+  "externalId": "dummy-536350"
+ },
+ {
+  "id": "cbb6042e-6c7c-4322-8ee8-d21b8d9817d5",
+  "entityType": "gig",
+  "entityId": "46ace61a-76be-4ab4-a1e8-fa1d2b3b9969",
+  "provider": "ticketmaster",
+  "externalId": "dummy-690949"
+ },
+ {
+  "id": "e9376a0f-5842-46c1-b2b4-2944785662f2",
+  "entityType": "gig",
+  "entityId": "9d0a46b2-2730-40c2-8ce0-986aed681ac3",
+  "provider": "setlistfm",
+  "externalId": "dummy-599667"
+ },
+ {
+  "id": "f4619cd9-7be3-4f7c-858c-7b0dd43122ab",
+  "entityType": "gig",
+  "entityId": "e35a5c3d-8388-4148-b765-a3f22824918c",
+  "provider": "ticketmaster",
+  "externalId": "dummy-450113"
+ },
+ {
+  "id": "5cbdbe5a-1f3d-4aaa-b61a-02a3d255a5bf",
+  "entityType": "gig",
+  "entityId": "090e9288-faec-4827-a90d-eb8784527748",
+  "provider": "ticketmaster",
+  "externalId": "dummy-553484"
+ },
+ {
+  "id": "abe9dfb6-56dd-4a44-8d74-145a4341c057",
+  "entityType": "gig",
+  "entityId": "97f2fd36-c75d-496f-96cc-5ffa7f4c86f2",
+  "provider": "ticketmaster",
+  "externalId": "dummy-938331"
+ },
+ {
+  "id": "f46d63c1-58b8-4970-9959-1cb29794013b",
+  "entityType": "gig",
+  "entityId": "40271cab-7d61-4052-946f-bb5cdf7a4e36",
+  "provider": "ticketmaster",
+  "externalId": "dummy-904144"
+ },
+ {
+  "id": "b33d1dd1-6585-4a88-b77a-d6b084387194",
+  "entityType": "gig",
+  "entityId": "7cd0950c-73b5-4311-bd18-b588b2c522da",
+  "provider": "ticketmaster",
+  "externalId": "dummy-463301"
+ },
+ {
+  "id": "86db2d68-f691-4b9f-a0d2-925b7a20e10a",
+  "entityType": "gig",
+  "entityId": "a701279b-47ab-4ddb-af27-05e6106fa1ee",
+  "provider": "setlistfm",
+  "externalId": "dummy-707783"
+ },
+ {
+  "id": "04d43eb2-e8f4-402c-8113-018d25ae6fd2",
+  "entityType": "gig",
+  "entityId": "f58080a1-70c5-440d-acc9-acd25ff352a5",
+  "provider": "ticketmaster",
+  "externalId": "dummy-915491"
+ },
+ {
+  "id": "b36f122d-4a55-4a8e-a5d9-956be4ecb434",
+  "entityType": "gig",
+  "entityId": "f98d6126-7fad-4c4e-842f-b55015d21874",
+  "provider": "ticketmaster",
+  "externalId": "dummy-884401"
+ },
+ {
+  "id": "ee1b5f10-e184-4a67-8d42-d7dbb04bcaf2",
+  "entityType": "gig",
+  "entityId": "b223faaa-d282-41b1-abf6-4a4d573328c0",
+  "provider": "setlistfm",
+  "externalId": "dummy-573846"
+ },
+ {
+  "id": "4517724c-9486-4415-8cf1-c66b73b473b5",
+  "entityType": "gig",
+  "entityId": "d40ab187-80ac-4d55-bbde-e8959c594904",
+  "provider": "ticketmaster",
+  "externalId": "dummy-684045"
+ },
+ {
+  "id": "83dffe0e-ac5c-49ec-8943-4a9c607ea3ec",
+  "entityType": "gig",
+  "entityId": "a86e8ea5-0e75-464e-b733-cfc11b266ba8",
+  "provider": "setlistfm",
+  "externalId": "dummy-533616"
+ },
+ {
+  "id": "23e68f4b-44d4-4a87-bba6-357393384e3f",
+  "entityType": "gig",
+  "entityId": "44d9a099-6877-443a-89f6-a10f1ca51dd9",
+  "provider": "ticketmaster",
+  "externalId": "dummy-894836"
+ },
+ {
+  "id": "54e9e669-e3ca-4977-b7c6-6ba84ab47b52",
+  "entityType": "gig",
+  "entityId": "c94bcd5b-ce9e-4258-a81f-2103840318fd",
+  "provider": "setlistfm",
+  "externalId": "dummy-628539"
+ },
+ {
+  "id": "2eeffec1-c7e1-45a5-8e5e-7ad860b0b89c",
+  "entityType": "gig",
+  "entityId": "d7f9fdc2-a5e6-4422-9719-5d181fab3b05",
+  "provider": "setlistfm",
+  "externalId": "dummy-269926"
+ },
+ {
+  "id": "036f68a7-6eff-47d1-b31f-dd9fb025c4a8",
+  "entityType": "gig",
+  "entityId": "f90513fa-3e31-48bc-a983-38d3f892e1a8",
+  "provider": "setlistfm",
+  "externalId": "dummy-571170"
+ },
+ {
+  "id": "79ad33d0-8bb8-4b5a-8b84-e895471f776d",
+  "entityType": "gig",
+  "entityId": "b63c4725-df7b-4820-a2f5-ecbeef15ee11",
+  "provider": "setlistfm",
+  "externalId": "dummy-636208"
+ },
+ {
+  "id": "623d0768-dfbc-47b3-b085-6ff0d82a640b",
+  "entityType": "gig",
+  "entityId": "8e6518ba-b535-4e5c-b659-8f6b9705ed1c",
+  "provider": "ticketmaster",
+  "externalId": "dummy-960710"
+ },
+ {
+  "id": "43e6b9a9-e60a-49be-9504-2f4945f91a77",
+  "entityType": "gig",
+  "entityId": "47cd0d17-1eb3-4710-981e-6969e03d16ab",
+  "provider": "setlistfm",
+  "externalId": "dummy-179189"
+ },
+ {
+  "id": "df95886f-c85d-48d0-beee-cbd9d5da15df",
+  "entityType": "gig",
+  "entityId": "48aa758d-3edc-4ea4-b09c-bcd9af41a486",
+  "provider": "ticketmaster",
+  "externalId": "dummy-411922"
+ },
+ {
+  "id": "f4516842-0554-4b8c-8609-d3c3a3ff0671",
+  "entityType": "gig",
+  "entityId": "d49f8e70-0972-4ec3-b014-83ae004dce9c",
+  "provider": "ticketmaster",
+  "externalId": "dummy-719828"
+ },
+ {
+  "id": "43fa2e73-fe24-464d-b4b9-ddfb0c22e64a",
+  "entityType": "gig",
+  "entityId": "23881a18-7c00-485e-8d6b-fdbd6e9a0047",
+  "provider": "ticketmaster",
+  "externalId": "dummy-345376"
+ },
+ {
+  "id": "85568cdf-1adc-425a-a1e8-7fb7e6815d13",
+  "entityType": "gig",
+  "entityId": "535172aa-3348-46bd-909f-39020c153748",
+  "provider": "ticketmaster",
+  "externalId": "dummy-612332"
+ },
+ {
+  "id": "d4d63640-012f-4093-b072-236b0b1c50fc",
+  "entityType": "gig",
+  "entityId": "a92ffd4f-bd6b-4ef8-a7d0-3798e2b00be1",
+  "provider": "ticketmaster",
+  "externalId": "dummy-877315"
+ },
+ {
+  "id": "f6d9c202-2542-4c18-933c-4b8db9d75dd4",
+  "entityType": "gig",
+  "entityId": "a822d4b9-880a-46bb-a9df-44145cc6e106",
+  "provider": "setlistfm",
+  "externalId": "dummy-660658"
+ },
+ {
+  "id": "65ffee7f-4259-4dc7-86d6-89fbbea5f1a4",
+  "entityType": "gig",
+  "entityId": "606e963b-b398-4d85-8fe1-61d1d61a59ba",
+  "provider": "setlistfm",
+  "externalId": "dummy-884196"
+ },
+ {
+  "id": "b6874854-c80f-437e-975f-9e5adb8420f5",
+  "entityType": "gig",
+  "entityId": "91d5689a-3eb2-4581-8991-113837e0c73b",
+  "provider": "setlistfm",
+  "externalId": "dummy-782508"
+ },
+ {
+  "id": "a3eaff4e-7fd3-4ce7-973e-afdbb6293567",
+  "entityType": "gig",
+  "entityId": "a5644d04-b81d-4a65-9869-b9f7c1309cc5",
+  "provider": "ticketmaster",
+  "externalId": "dummy-521678"
+ },
+ {
+  "id": "7b56b849-49fa-4bff-91fd-a4696e597e1f",
+  "entityType": "gig",
+  "entityId": "f8837efe-2e3b-4c42-bf74-29128adaa1d6",
+  "provider": "setlistfm",
+  "externalId": "dummy-437092"
+ },
+ {
+  "id": "a2c576af-39a8-4fff-a57c-af279a5b970e",
+  "entityType": "gig",
+  "entityId": "5c5e32e0-ff9d-4387-aa32-03a86ca54655",
+  "provider": "setlistfm",
+  "externalId": "dummy-280081"
+ },
+ {
+  "id": "edbd6a23-21ce-4669-83fe-39338ba716e9",
+  "entityType": "gig",
+  "entityId": "c0f47f36-bdc6-4aaf-b9f4-3334b82151e2",
+  "provider": "ticketmaster",
+  "externalId": "dummy-873111"
+ },
+ {
+  "id": "457ac649-5041-4c67-afe9-88d3d82cdd61",
+  "entityType": "gig",
+  "entityId": "78a7cc92-8760-4180-8520-79769e9109a6",
+  "provider": "setlistfm",
+  "externalId": "dummy-100781"
+ },
+ {
+  "id": "e045b383-fb78-455f-af07-4ce0547d38c4",
+  "entityType": "gig",
+  "entityId": "de3dcbfa-cc82-465b-9a20-fcc9aa8503e1",
+  "provider": "setlistfm",
+  "externalId": "dummy-130291"
+ },
+ {
+  "id": "afe49005-b30a-4bdf-a820-d5dc8eb3017e",
+  "entityType": "gig",
+  "entityId": "38b84905-1d29-4ceb-9e86-c9a398555824",
+  "provider": "setlistfm",
+  "externalId": "dummy-406383"
+ },
+ {
+  "id": "c31219e9-0344-4c60-8416-bd42057da299",
+  "entityType": "gig",
+  "entityId": "35d752fa-0fad-481f-91d7-9765afc13e19",
+  "provider": "setlistfm",
+  "externalId": "dummy-667120"
+ },
+ {
+  "id": "340a1a88-97de-45f9-94a4-5bfbfc33b71b",
+  "entityType": "gig",
+  "entityId": "f8801959-94c6-4404-933a-b506dcb1bbef",
+  "provider": "setlistfm",
+  "externalId": "dummy-260943"
+ },
+ {
+  "id": "1540eb2d-c408-4a62-bc38-cc0b7705c792",
+  "entityType": "gig",
+  "entityId": "b8c587b1-1d4a-49b6-a71f-4bc404d8b946",
+  "provider": "setlistfm",
+  "externalId": "dummy-588252"
+ },
+ {
+  "id": "abe758c8-6780-4183-8e3c-e29d0d3c6f69",
+  "entityType": "gig",
+  "entityId": "df9900ba-ef26-4747-a8d9-649e1bd11615",
+  "provider": "ticketmaster",
+  "externalId": "dummy-108076"
+ },
+ {
+  "id": "9c8ce90b-39bc-44c7-83b4-253d62727230",
+  "entityType": "gig",
+  "entityId": "3ac6e1eb-fcce-4c4e-a8da-22faa954bc63",
+  "provider": "setlistfm",
+  "externalId": "dummy-193461"
+ },
+ {
+  "id": "32029436-1cca-4f19-8e29-5488dec2c15f",
+  "entityType": "gig",
+  "entityId": "23281e15-58a3-46d7-93b2-2f04e990c88d",
+  "provider": "ticketmaster",
+  "externalId": "dummy-175246"
+ },
+ {
+  "id": "17ad9e85-23b3-465a-9a8c-12258bb37877",
+  "entityType": "gig",
+  "entityId": "e9c26754-74e8-41e4-bc7e-da42d4813c64",
+  "provider": "setlistfm",
+  "externalId": "dummy-823357"
+ },
+ {
+  "id": "bda530cd-a44e-4daa-93c6-df7912c06327",
+  "entityType": "gig",
+  "entityId": "c5907cd4-d504-4705-b163-a924957ff29c",
+  "provider": "setlistfm",
+  "externalId": "dummy-288155"
+ },
+ {
+  "id": "b9a40ea2-5f19-42f4-89fc-164be1201889",
+  "entityType": "gig",
+  "entityId": "031a0915-4819-4557-8c87-002d6fecd7e2",
+  "provider": "setlistfm",
+  "externalId": "dummy-919216"
+ },
+ {
+  "id": "c4c43dd4-2059-42fa-8785-c63ab0fa6785",
+  "entityType": "gig",
+  "entityId": "4334f028-b3b1-45c5-beff-744b401df2e2",
+  "provider": "setlistfm",
+  "externalId": "dummy-600865"
+ },
+ {
+  "id": "5c51bed0-3fd9-4a8a-9eef-8a2861139d70",
+  "entityType": "gig",
+  "entityId": "1422c353-4ca6-4299-85f9-ee17f4a12af5",
+  "provider": "ticketmaster",
+  "externalId": "dummy-552638"
+ },
+ {
+  "id": "bad5fc2a-d1e7-4679-8c27-4dbd7287301d",
+  "entityType": "gig",
+  "entityId": "0e995d24-478a-4b84-b5de-e4ec60a76972",
+  "provider": "ticketmaster",
+  "externalId": "dummy-966024"
+ },
+ {
+  "id": "d82b7b30-a084-437a-9ff8-65f9e3ead982",
+  "entityType": "gig",
+  "entityId": "45b55396-e152-44e2-a305-cf8cf61cbdbf",
+  "provider": "setlistfm",
+  "externalId": "dummy-682267"
+ },
+ {
+  "id": "411bbd8d-fdd7-4f7c-9ec9-a9ea0603f1d3",
+  "entityType": "gig",
+  "entityId": "a9d4112f-22f1-4b79-a5f4-5e410e154802",
+  "provider": "ticketmaster",
+  "externalId": "dummy-130871"
+ },
+ {
+  "id": "42a83414-c8b7-4144-81e9-07d028a1d5f5",
+  "entityType": "gig",
+  "entityId": "1c392e43-eaa2-4094-979f-b133411a8a21",
+  "provider": "ticketmaster",
+  "externalId": "dummy-927127"
+ },
+ {
+  "id": "b70b6330-e3f8-4bbf-a9c4-1189798063ae",
+  "entityType": "gig",
+  "entityId": "ba3b1cb7-3179-4075-9d63-26b11b58de7a",
+  "provider": "ticketmaster",
+  "externalId": "dummy-831612"
+ },
+ {
+  "id": "eb573d01-d3f4-4d1a-afb9-5e3f7ab75258",
+  "entityType": "gig",
+  "entityId": "6e26163b-8bd0-4962-bd39-b8f625448846",
+  "provider": "setlistfm",
+  "externalId": "dummy-818350"
+ },
+ {
+  "id": "f827daea-45d2-4ffa-99f7-352cc77bea9d",
+  "entityType": "gig",
+  "entityId": "b209a196-e42c-4baa-a558-ca476fd7f722",
+  "provider": "setlistfm",
+  "externalId": "dummy-435441"
+ },
+ {
+  "id": "f4da209a-aa0e-4c51-a251-84bfaa463fbb",
+  "entityType": "gig",
+  "entityId": "5d48ef2d-c43d-4fc7-a415-15bb8ae33099",
+  "provider": "setlistfm",
+  "externalId": "dummy-549597"
+ },
+ {
+  "id": "b41bada6-3fd5-4784-a342-1bedd8f79ad4",
+  "entityType": "gig",
+  "entityId": "81644a99-a528-48a2-ab74-69c367f183db",
+  "provider": "ticketmaster",
+  "externalId": "dummy-281230"
+ },
+ {
+  "id": "8180695a-c53a-459d-947b-347a586e6014",
+  "entityType": "gig",
+  "entityId": "6ef7398d-6d0e-4ef1-80f9-6a1220463a7b",
+  "provider": "setlistfm",
+  "externalId": "dummy-164121"
+ },
+ {
+  "id": "c837de5b-6b35-4311-831f-30fa22f26830",
+  "entityType": "gig",
+  "entityId": "4059d753-c974-42de-a07c-974a3ff0bee0",
+  "provider": "ticketmaster",
+  "externalId": "dummy-641081"
+ },
+ {
+  "id": "2161fff9-2f6c-46a7-b535-a253d021af30",
+  "entityType": "gig",
+  "entityId": "ce999c5f-27cf-4739-86de-a8ed4e272427",
+  "provider": "ticketmaster",
+  "externalId": "dummy-902349"
+ },
+ {
+  "id": "f6c33d02-bfaf-47f9-af86-50cb9d9359fd",
+  "entityType": "gig",
+  "entityId": "3bcb5c67-e1c6-4017-ae8a-5d74603a8b76",
+  "provider": "ticketmaster",
+  "externalId": "dummy-883164"
+ },
+ {
+  "id": "1964c335-62d9-4f98-ac8e-98d40c84ee79",
+  "entityType": "gig",
+  "entityId": "592e0b97-1d50-49ef-8167-29118ad3ae8d",
+  "provider": "setlistfm",
+  "externalId": "dummy-575851"
+ },
+ {
+  "id": "3823d06b-c864-4090-adbd-df7d1ac2dd75",
+  "entityType": "gig",
+  "entityId": "3380fac0-995d-4f95-a276-bd865b70314e",
+  "provider": "setlistfm",
+  "externalId": "dummy-809509"
+ },
+ {
+  "id": "336fb73b-5203-4bd2-8d46-9b20525fad3b",
+  "entityType": "gig",
+  "entityId": "00ed5c71-6f40-46bb-a82a-e906cb7da727",
+  "provider": "ticketmaster",
+  "externalId": "dummy-524422"
+ },
+ {
+  "id": "312c4042-8fd6-4cd9-94d4-970157046432",
+  "entityType": "gig",
+  "entityId": "4d078d76-56c4-4540-91f7-1da4ead79935",
+  "provider": "setlistfm",
+  "externalId": "dummy-486830"
+ },
+ {
+  "id": "039b590b-502b-453b-a8de-1937711c5ea3",
+  "entityType": "gig",
+  "entityId": "6ff3a779-2c54-4e5b-867f-7828b51f862d",
+  "provider": "setlistfm",
+  "externalId": "dummy-781235"
+ },
+ {
+  "id": "2a491263-5ca1-4b5c-8511-cb7e86538332",
+  "entityType": "gig",
+  "entityId": "37fffa15-a68d-4b43-947c-e2b56f057121",
+  "provider": "setlistfm",
+  "externalId": "dummy-930249"
+ },
+ {
+  "id": "65e1687b-8116-498f-b375-60573f9d09b7",
+  "entityType": "gig",
+  "entityId": "b677bda9-1228-4970-9b5e-6a100db8079a",
+  "provider": "setlistfm",
+  "externalId": "dummy-524648"
+ },
+ {
+  "id": "7a4ef66c-888d-4cce-958a-05b9ee440448",
+  "entityType": "gig",
+  "entityId": "3ee81b11-1a89-4442-9bc4-5ac7ecd6f902",
+  "provider": "ticketmaster",
+  "externalId": "dummy-434913"
+ },
+ {
+  "id": "4a13dd62-84c4-4ff4-b727-1206e836fba5",
+  "entityType": "gig",
+  "entityId": "634a12f4-d7d7-46b6-acac-68b73e1d92d8",
+  "provider": "ticketmaster",
+  "externalId": "dummy-271298"
+ },
+ {
+  "id": "cd519a64-f475-4ec0-9cff-723137f3f94c",
+  "entityType": "gig",
+  "entityId": "135f66fd-375d-460b-a4f8-d18729fe8138",
+  "provider": "ticketmaster",
+  "externalId": "dummy-146824"
+ },
+ {
+  "id": "5948d9c7-0732-43d0-8dda-4fa37df60efc",
+  "entityType": "gig",
+  "entityId": "0df96c6a-1294-44f7-9d45-a0b959e6326a",
+  "provider": "setlistfm",
+  "externalId": "dummy-959674"
+ },
+ {
+  "id": "0162bf0b-b2a6-4eea-bb86-1daa6e40d498",
+  "entityType": "gig",
+  "entityId": "0dc1f473-2ffb-41b8-811e-c2e7f1e919a9",
+  "provider": "setlistfm",
+  "externalId": "dummy-654366"
+ },
+ {
+  "id": "3bf22c87-fe28-4230-8350-1319ea49a2bf",
+  "entityType": "gig",
+  "entityId": "7d39d357-63d8-4009-8e5b-a291394fac40",
+  "provider": "setlistfm",
+  "externalId": "dummy-734302"
+ },
+ {
+  "id": "0b31ac23-ed3a-4de2-971d-35317aeb6118",
+  "entityType": "gig",
+  "entityId": "22217d30-7749-4294-829c-a7bb5efedffa",
+  "provider": "ticketmaster",
+  "externalId": "dummy-904549"
+ },
+ {
+  "id": "67a44bbe-156b-4cc7-88ca-71b53cfcec95",
+  "entityType": "gig",
+  "entityId": "c191b657-746a-4c91-b019-4103d6873554",
+  "provider": "setlistfm",
+  "externalId": "dummy-520836"
+ },
+ {
+  "id": "387778e9-800b-4694-80ab-644be67ddd15",
+  "entityType": "gig",
+  "entityId": "3f31f9e1-4a23-44a8-9771-9f5b942f72f1",
+  "provider": "setlistfm",
+  "externalId": "dummy-241482"
+ },
+ {
+  "id": "793c26fa-6763-4670-ba06-f31a627253be",
+  "entityType": "gig",
+  "entityId": "65cf264d-92b2-4953-b331-5e02e71cbc32",
+  "provider": "setlistfm",
+  "externalId": "dummy-217994"
+ },
+ {
+  "id": "e0dfd246-0e3e-4ee1-b7cd-07f6bb4914cf",
+  "entityType": "gig",
+  "entityId": "e63a3b3e-ea15-495e-8e0c-563033902733",
+  "provider": "ticketmaster",
+  "externalId": "dummy-697573"
+ },
+ {
+  "id": "a0253673-cdab-4b69-b789-bc16a60c5a85",
+  "entityType": "gig",
+  "entityId": "1f29dd0b-94d1-4108-bd89-d8fd72ddc805",
+  "provider": "ticketmaster",
+  "externalId": "dummy-324574"
+ },
+ {
+  "id": "41647036-df47-41cc-a797-6f7bf008c053",
+  "entityType": "gig",
+  "entityId": "cf4dbf9c-07e4-4a28-98f6-4dc29cf16741",
+  "provider": "setlistfm",
+  "externalId": "dummy-378820"
+ },
+ {
+  "id": "25972fdd-6e88-4d13-beed-8c8d55203986",
+  "entityType": "gig",
+  "entityId": "bf1b54b9-ced2-4c12-8e91-00bf11832605",
+  "provider": "setlistfm",
+  "externalId": "dummy-246899"
+ },
+ {
+  "id": "04a515e7-0c34-4d48-ac68-7850dc48f5d9",
+  "entityType": "gig",
+  "entityId": "fe8d90a3-1e3f-43c8-84d3-ce66808da6a9",
+  "provider": "setlistfm",
+  "externalId": "dummy-535219"
+ },
+ {
+  "id": "c51bef32-2ff3-4434-b02d-5821c878ad77",
+  "entityType": "gig",
+  "entityId": "aeb54d59-7e9d-4283-a50f-bac6ad3ba849",
+  "provider": "ticketmaster",
+  "externalId": "dummy-609545"
+ },
+ {
+  "id": "ef4a5227-015d-46ba-991b-33f0e9204e81",
+  "entityType": "gig",
+  "entityId": "4363b501-6750-4ed9-bccb-e6c2b32092a4",
+  "provider": "ticketmaster",
+  "externalId": "dummy-458253"
+ },
+ {
+  "id": "c0ac3cc2-df72-4281-a1ee-6713639e4d06",
+  "entityType": "gig",
+  "entityId": "cdc172de-af1b-4179-b98c-cc29a13d7cf0",
+  "provider": "ticketmaster",
+  "externalId": "dummy-404055"
+ },
+ {
+  "id": "1f2488f6-bf69-4576-8e15-263941651c87",
+  "entityType": "gig",
+  "entityId": "83d10037-4b59-4ee0-85ab-42a8a15de2cd",
+  "provider": "setlistfm",
+  "externalId": "dummy-837684"
+ },
+ {
+  "id": "4ce57dab-d172-4ca0-950d-ad6cf988a34a",
+  "entityType": "gig",
+  "entityId": "04c955f4-6e67-449a-8011-c839ff042b9b",
+  "provider": "ticketmaster",
+  "externalId": "dummy-578535"
+ },
+ {
+  "id": "97b0e3c6-6516-40a7-b31c-7cb3ba8d974d",
+  "entityType": "gig",
+  "entityId": "6ef19203-d65b-467d-b699-37986ef27468",
+  "provider": "ticketmaster",
+  "externalId": "dummy-218033"
+ },
+ {
+  "id": "e3bda401-bfc5-4a64-bdaf-5c6b64ae7894",
+  "entityType": "gig",
+  "entityId": "c0790cf9-210c-4ae2-93c4-21f04ee9c19b",
+  "provider": "ticketmaster",
+  "externalId": "dummy-848097"
+ },
+ {
+  "id": "264f0014-09c3-426f-8696-168a2898d7a6",
+  "entityType": "gig",
+  "entityId": "5beb385e-abb6-44dd-aa11-69402c4ef11b",
+  "provider": "setlistfm",
+  "externalId": "dummy-223997"
+ },
+ {
+  "id": "40e767d6-664b-460c-ae44-98964852d394",
+  "entityType": "gig",
+  "entityId": "fc7422f2-3ac5-4cc5-8a7c-34b175f9ed9c",
+  "provider": "setlistfm",
+  "externalId": "dummy-107944"
+ },
+ {
+  "id": "d6bbcb0b-578d-4500-b3ed-f4c873873b67",
+  "entityType": "gig",
+  "entityId": "f25781ca-21c0-48b7-b47d-263c7b28d21d",
+  "provider": "setlistfm",
+  "externalId": "dummy-827540"
+ },
+ {
+  "id": "49f95b3c-9bcf-4bbf-b670-a65df3879c82",
+  "entityType": "gig",
+  "entityId": "f86a67ff-60e5-4aae-8e9e-14a4ae73be3c",
+  "provider": "setlistfm",
+  "externalId": "dummy-590146"
+ },
+ {
+  "id": "59307cc3-6594-4b63-96fc-b4473a1f4394",
+  "entityType": "gig",
+  "entityId": "ca41d15c-42c1-4aec-b84a-662d0bb37ddf",
+  "provider": "ticketmaster",
+  "externalId": "dummy-105738"
+ },
+ {
+  "id": "9af3c10d-a9b0-4e4b-957f-1e85eacaddd5",
+  "entityType": "gig",
+  "entityId": "19da42a1-6db4-4578-8dde-f48cd3b8e9d4",
+  "provider": "ticketmaster",
+  "externalId": "dummy-442630"
+ },
+ {
+  "id": "49b233b2-82dd-4b6d-8eec-7bcf4d43d003",
+  "entityType": "gig",
+  "entityId": "5e49e73e-eddf-43a3-a64b-002736eb1972",
+  "provider": "ticketmaster",
+  "externalId": "dummy-976496"
+ },
+ {
+  "id": "c9d5d0db-f831-4a8e-b919-e8b7ec3e8276",
+  "entityType": "gig",
+  "entityId": "4a21094b-699c-4fad-8b8d-0c612f447a96",
+  "provider": "setlistfm",
+  "externalId": "dummy-732125"
+ },
+ {
+  "id": "341a747e-56bd-4f89-8228-2e00d893a44b",
+  "entityType": "gig",
+  "entityId": "94028bcc-9563-4353-bfe0-d537747bf718",
+  "provider": "ticketmaster",
+  "externalId": "dummy-636968"
+ },
+ {
+  "id": "cfb86c51-7c5b-4751-867d-6a2ac5d28455",
+  "entityType": "gig",
+  "entityId": "39708d46-77c7-4f83-90e9-153a8583554e",
+  "provider": "setlistfm",
+  "externalId": "dummy-946863"
+ },
+ {
+  "id": "a36cedcf-0c93-4e4c-982b-0d2ff2fb8262",
+  "entityType": "gig",
+  "entityId": "f5c903f7-5e31-46b6-92e3-df67d5953701",
+  "provider": "ticketmaster",
+  "externalId": "dummy-233357"
+ },
+ {
+  "id": "585a845d-33e9-4663-a1ca-dc8585c7bdf6",
+  "entityType": "gig",
+  "entityId": "036dce99-f0be-4d2c-9e5e-5df67af7b7df",
+  "provider": "setlistfm",
+  "externalId": "dummy-112778"
+ },
+ {
+  "id": "6c859618-4354-466c-bc2a-7ab526fdc43d",
+  "entityType": "gig",
+  "entityId": "18a727da-6f13-461a-8674-a7d6cd3a9c47",
+  "provider": "setlistfm",
+  "externalId": "dummy-605279"
+ },
+ {
+  "id": "6592d4aa-5ef1-4c06-b350-c1c911618916",
+  "entityType": "gig",
+  "entityId": "aa268d29-e006-4f45-9498-99198e4076dd",
+  "provider": "ticketmaster",
+  "externalId": "dummy-838876"
+ },
+ {
+  "id": "442f82ba-776f-490e-80d6-179530b760fb",
+  "entityType": "gig",
+  "entityId": "d0a7e3cd-da85-451a-9450-a6a8f775535a",
+  "provider": "ticketmaster",
+  "externalId": "dummy-340524"
+ },
+ {
+  "id": "640815a3-1978-48ee-a9cd-c2877e3e1c7b",
+  "entityType": "venue",
+  "entityId": "9972daab-2c86-459f-9d78-3fe1be4e3280",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-9311"
+ },
+ {
+  "id": "494062cb-f00e-4c14-ae2e-b932351107f3",
+  "entityType": "venue",
+  "entityId": "af9c0078-d60d-4708-840f-2fc887062cd7",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-4194"
+ },
+ {
+  "id": "a0c3da00-2d35-4a9a-9e96-1af811a5798f",
+  "entityType": "venue",
+  "entityId": "569852ba-4b73-47b1-bee3-6e8b4b19b250",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-9049"
+ },
+ {
+  "id": "a359d761-4970-4b70-af59-6265d51556e5",
+  "entityType": "venue",
+  "entityId": "a0e353ca-6421-4d5e-82bc-a2e0e8359a7d",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-6364"
+ },
+ {
+  "id": "fde84323-780a-4edb-91f1-eee2be267e26",
+  "entityType": "venue",
+  "entityId": "2545230c-4a70-41b7-8bc8-32aa84717875",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-4195"
+ },
+ {
+  "id": "cf63ef51-7091-418f-8d5e-71eac106e8c9",
+  "entityType": "venue",
+  "entityId": "6c544e25-8144-478c-a56f-220025f111de",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-5028"
+ },
+ {
+  "id": "afd9f100-528e-4fdf-a800-2a3e110dd4ba",
+  "entityType": "venue",
+  "entityId": "d6ae1508-45b3-45db-a0e8-e35819a03d7a",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-9007"
+ },
+ {
+  "id": "bd9b2ed5-7c4c-4735-b4bd-0a6bb08e14d8",
+  "entityType": "venue",
+  "entityId": "deca7ef3-2c25-4dac-b4c5-3d22a89a8e34",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-9873"
+ },
+ {
+  "id": "eb5eb3a9-dfec-4e21-95ec-76b55c09c7ea",
+  "entityType": "venue",
+  "entityId": "3484c372-7c40-4f08-9c5d-6d40810aaa10",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-8612"
+ },
+ {
+  "id": "e3596326-9f05-4a49-94be-d99bc83d2c69",
+  "entityType": "venue",
+  "entityId": "e6c3a8cf-0d96-4c7b-8379-739304b500b0",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-8745"
+ },
+ {
+  "id": "f2a47bfc-19d2-4496-9ab7-0114112e5481",
+  "entityType": "venue",
+  "entityId": "2e5eb9ee-479e-4776-8b91-7e7177c01fb7",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-5675"
+ },
+ {
+  "id": "e0d14be7-6ce8-4cad-a001-2892ad7f4524",
+  "entityType": "venue",
+  "entityId": "98f2d57a-02e9-4f84-bcae-8e9cdaaafbfa",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-3937"
+ },
+ {
+  "id": "6a81a017-d780-4ada-ad7d-48e5e9a48d28",
+  "entityType": "venue",
+  "entityId": "afe04197-e677-41d7-a150-7687fe2c9813",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-2551"
+ },
+ {
+  "id": "fd10e7b4-e786-4375-8789-9e7f1f3d8ef8",
+  "entityType": "venue",
+  "entityId": "bea70ca0-96d9-446a-9669-973122b5bb48",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-7727"
+ },
+ {
+  "id": "75e093ec-ff62-4681-8d51-46c7898c6109",
+  "entityType": "venue",
+  "entityId": "ecf16e98-56aa-4ae4-b157-e882ea3b2651",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-1233"
+ },
+ {
+  "id": "38eb588f-5928-4388-b1e0-dee8c2c99609",
+  "entityType": "venue",
+  "entityId": "fb81f905-a69a-4d40-b639-f24e83633749",
+  "provider": "ticketmaster",
+  "externalId": "dummy-v-9389"
+ }
+]
