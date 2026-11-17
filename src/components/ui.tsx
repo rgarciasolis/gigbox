@@ -41,7 +41,7 @@ export function Async<T>({
 export function Avatar({ user, size = 40 }: { user: User; size?: number }) {
   return (
     <span
-      className="inline-flex shrink-0 items-center justify-center rounded-full bg-neutral-200 font-medium text-neutral-700"
+      className="inline-flex shrink-0 items-center justify-center rounded-full bg-zinc-200 font-medium text-zinc-700"
       style={{ width: size, height: size, fontSize: size / 2.6 }}
       aria-hidden
     >
@@ -56,7 +56,7 @@ export function UserLink({ user }: { user: User }) {
 
 export function Rating({ value }: { value: number | null }) {
   if (value === null) return <span className="muted">Sin nota</span>
-  return <span title={`${fmtRating(value)} / 5`}><span className="text-amber-600">{stars(value)}</span> <span className="text-sm">{fmtRating(value)}</span></span>
+  return <span title={`${fmtRating(value)} / 5`}><span className="text-green-600">{stars(value)}</span> <span className="text-sm">{fmtRating(value)}</span></span>
 }
 
 const STEPS = Array.from({ length: 10 }, (_, i) => (i + 1) / 2)
@@ -67,7 +67,7 @@ export function RatingInput({ value, onChange, disabled }: { value: number | nul
         <button
           key={s} type="button" disabled={disabled} role="radio" aria-checked={value === s}
           onClick={() => onChange(s)}
-          className={`rounded border px-2 py-1 text-xs ${value === s ? 'border-neutral-900 bg-neutral-900 text-white' : 'border-neutral-300 hover:bg-neutral-100'}`}
+          className={`rounded border px-2 py-1 text-xs ${value === s ? 'border-green-700 bg-green-700 text-white' : 'border-zinc-300 hover:bg-zinc-100'}`}
         >
           {fmtRating(s)}
         </button>
@@ -79,10 +79,10 @@ export function RatingInput({ value, onChange, disabled }: { value: number | nul
 
 export function Tabs<T extends string>({ value, onChange, options }: { value: T; onChange: (v: T) => void; options: { value: T; label: string }[] }) {
   return (
-    <div className="mb-4 flex gap-1 border-b border-neutral-200">
+    <div className="mb-4 flex gap-1 border-b border-zinc-200">
       {options.map((o) => (
         <button key={o.value} onClick={() => onChange(o.value)}
-          className={`-mb-px border-b-2 px-3 py-2 text-sm ${value === o.value ? 'border-neutral-900 font-medium' : 'border-transparent text-neutral-500 hover:text-neutral-900'}`}>
+          className={`-mb-px border-b-2 px-3 py-2 text-sm ${value === o.value ? 'border-green-700 font-medium' : 'border-transparent text-zinc-500 hover:text-zinc-900'}`}>
           {o.label}
         </button>
       ))}

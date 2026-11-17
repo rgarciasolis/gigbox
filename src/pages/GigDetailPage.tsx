@@ -25,7 +25,7 @@ function MyPanel({ g }: { g: GigDetail }) {
           <button className="btn btn-primary" disabled={up.isPending} onClick={() => up.mutate({ gigId, status: 'attended' })}>
             {g.isUpcoming ? 'Ya fui' : 'Asistí'}
           </button>
-        ) : <span className="rounded bg-neutral-100 px-2 py-1 text-sm">Asistí ✓</span>}
+        ) : <span className="rounded bg-zinc-100 px-2 py-1 text-sm">Asistí ✓</span>}
         {g.isUpcoming && (!mine || mine.status !== 'going') && (
           <button className="btn" disabled={up.isPending} onClick={() => up.mutate({ gigId, status: 'going' })}>Voy a ir</button>
         )}
@@ -46,7 +46,7 @@ function MyPanel({ g }: { g: GigDetail }) {
               {tags.data?.map(({ tag }) => {
                 const on = mine.tagIds.includes(tag.id)
                 return (
-                  <button key={tag.id} className={`rounded-full border px-2 py-0.5 text-xs ${on ? 'border-neutral-900 bg-neutral-900 text-white' : 'border-neutral-300'}`}
+                  <button key={tag.id} className={`rounded-full border px-2 py-0.5 text-xs ${on ? 'border-green-700 bg-green-700 text-white' : 'border-zinc-300'}`}
                     onClick={() => up.mutate({ gigId, tagIds: on ? mine.tagIds.filter((i) => i !== tag.id) : [...mine.tagIds, tag.id] })}>{tag.name}</button>
                 )
               })}

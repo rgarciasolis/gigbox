@@ -25,13 +25,13 @@ function Calendar({ items }: { items: AgendaItem[] }) {
         <span className="font-medium first-letter:uppercase">{label}</span>
         <button className="btn" onClick={() => setMonth(new Date(month.getFullYear(), month.getMonth() + 1, 1))}>→</button>
       </div>
-      <div className="grid grid-cols-7 gap-px bg-neutral-200 text-xs">
-        {['L', 'M', 'X', 'J', 'V', 'S', 'D'].map((d) => <div key={d} className="bg-neutral-50 p-1 text-center font-medium">{d}</div>)}
+      <div className="grid grid-cols-7 gap-px bg-zinc-200 text-xs">
+        {['L', 'M', 'X', 'J', 'V', 'S', 'D'].map((d) => <div key={d} className="bg-zinc-50 p-1 text-center font-medium">{d}</div>)}
         {days.map((d, i) => (
           <div key={i} className="min-h-16 bg-white p-1 sm:min-h-24">
-            {d && <><span className="text-neutral-400">{d}</span>
+            {d && <><span className="text-zinc-400">{d}</span>
               {byDay(d).map((it) => (
-                <Link key={it.gig.gig.id} to={`/gigs/${it.gig.gig.id}`} className="mt-0.5 block truncate rounded bg-neutral-100 px-1 hover:bg-neutral-200" title={`${it.gig.gig.title} · ${it.gig.venue.city}`}>{it.gig.artists[0].name}</Link>
+                <Link key={it.gig.gig.id} to={`/gigs/${it.gig.gig.id}`} className="mt-0.5 block truncate rounded bg-zinc-100 px-1 hover:bg-zinc-200" title={`${it.gig.gig.title} · ${it.gig.venue.city}`}>{it.gig.artists[0].name}</Link>
               ))}</>}
           </div>
         ))}

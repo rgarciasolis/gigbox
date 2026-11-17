@@ -1,4 +1,4 @@
-# Gigbox - "Letterboxd para conciertos" (MVP web con datos dummy)
+# Kontz - "Letterboxd para conciertos" (MVP web con datos dummy)
 
 React + TypeScript + Vite, React Router, Tailwind, TanStack Query. Sin backend ni APIs externas: los datos salen de `public/data/*.json` a traves de una capa de repositorios.
 
@@ -67,7 +67,7 @@ Home y Perfil ahora son páginas separadas. Las rutas antiguas /friends, /tags,
 /gigslist y /subscription redirigen a sus equivalentes; /reviews sigue disponible.
 Los favoritos conservan el criterio del MVP (las cinco mejores notas de 4,5 o más).
 La actividad reciente se ordena por fecha de registro, no por fecha del concierto.
-El total de asistentes de la ficha cuenta registros con estado "attended" en Gigbox,
+El total de asistentes de la ficha cuenta registros con estado "attended" en Kontz,
 no el aforo ni la asistencia real del recinto. Todos los datos siguen siendo dummy.
 
 ### Publicar en Vercel

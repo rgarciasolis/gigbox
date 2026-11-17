@@ -23,9 +23,9 @@ export default function TagsPage() {
       <Async query={tags} empty="No tienes tags. Crea uno arriba.">
         {(list) => (
           <div className="flex flex-wrap gap-2">
-            <button className={`rounded-full border px-3 py-1 text-sm ${!tagId ? 'border-neutral-900 bg-neutral-900 text-white' : 'border-neutral-300'}`} onClick={() => setParams({})}>Todos</button>
+            <button className={`rounded-full border px-3 py-1 text-sm ${!tagId ? 'border-green-700 bg-green-700 text-white' : 'border-zinc-300'}`} onClick={() => setParams({})}>Todos</button>
             {list.map(({ tag, count }) => (
-              <span key={tag.id} className={`inline-flex items-center gap-1 rounded-full border px-3 py-1 text-sm ${tagId === tag.id ? 'border-neutral-900 bg-neutral-900 text-white' : 'border-neutral-300'}`}>
+              <span key={tag.id} className={`inline-flex items-center gap-1 rounded-full border px-3 py-1 text-sm ${tagId === tag.id ? 'border-green-700 bg-green-700 text-white' : 'border-zinc-300'}`}>
                 <button onClick={() => setParams({ tag: tag.id })}>{tag.name} ({count})</button>
                 <button aria-label={`Borrar ${tag.name}`} className="opacity-60 hover:opacity-100" onClick={() => { if (tagId === tag.id) setParams({}); remove.mutate(tag.id) }}>×</button>
               </span>

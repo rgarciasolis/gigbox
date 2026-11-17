@@ -17,7 +17,7 @@ export default function SubscriptionPage() {
               { plus: false, name: 'Free', price: '0 €', feats: ['Registro de conciertos', 'Notas y reseñas', 'Gigslists y tags', 'Amigos y feed'] },
               { plus: true, name: 'Plus', price: '3,99 € / mes (ficticio)', feats: ['Todo lo de Free', 'Agenda de tus artistas y tu ciudad', 'Importación masiva desde emails'] },
             ].map((p) => (
-              <div key={p.name} className={`card ${u.plus === p.plus ? 'border-neutral-900' : ''}`}>
+              <div key={p.name} className={`card ${u.plus === p.plus ? 'border-green-700' : ''}`}>
                 <h2 className="font-semibold">{p.name} {u.plus === p.plus && <span className="muted">(actual)</span>}</h2>
                 <p className="text-sm">{p.price}</p>
                 <ul className="muted my-2 list-disc pl-4">{p.feats.map((f) => <li key={f}>{f}</li>)}</ul>

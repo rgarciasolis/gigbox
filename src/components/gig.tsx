@@ -16,7 +16,7 @@ export function GigCard({ view, extra }: { view: GigView; extra?: React.ReactNod
       </div>
       <div className="flex shrink-0 items-center gap-3 text-sm">
         {view.mine && (
-          <span className="rounded bg-neutral-100 px-2 py-0.5 text-xs">
+          <span className="rounded bg-zinc-100 px-2 py-0.5 text-xs">
             {view.mine.status === 'going' ? 'Voy' : 'Asistí'}
             {view.mine.rating ? ` · ${fmtRating(view.mine.rating)}★` : ''}
           </span>

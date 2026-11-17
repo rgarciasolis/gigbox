@@ -30,17 +30,17 @@ export default function FriendsPage() {
       <Tabs value={tab} onChange={setTab} options={[{ value: 'feed', label: 'Actividad' }, { value: 'following', label: 'Siguiendo' }, { value: 'discover', label: 'Descubrir' }]} />
       {tab === 'feed' && (
         <Async query={feed} empty="Sin actividad. Sigue a más gente en Descubrir.">
-          {(l) => <ul className="divide-y divide-neutral-100">{l.map((a) => <ActivityRow key={a.activity.id} a={a} />)}</ul>}
+          {(l) => <ul className="divide-y divide-zinc-100">{l.map((a) => <ActivityRow key={a.activity.id} a={a} />)}</ul>}
         </Async>
       )}
       {tab === 'following' && (
         <Async query={following} empty="No sigues a nadie todavía.">
-          {(l) => <ul className="divide-y divide-neutral-100">{l.map((u) => <UserRow key={u.id} u={u} following />)}</ul>}
+          {(l) => <ul className="divide-y divide-zinc-100">{l.map((u) => <UserRow key={u.id} u={u} following />)}</ul>}
         </Async>
       )}
       {tab === 'discover' && (
         <Async query={suggestions} empty="No hay sugerencias.">
-          {(l) => <ul className="divide-y divide-neutral-100">{l.map((u) => <UserRow key={u.id} u={u} following={false} />)}</ul>}
+          {(l) => <ul className="divide-y divide-zinc-100">{l.map((u) => <UserRow key={u.id} u={u} following={false} />)}</ul>}
         </Async>
       )}
     </div>

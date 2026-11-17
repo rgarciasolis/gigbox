@@ -1,13 +1,22 @@
+@import '@fontsource-variable/inter';
+
+@font-face { font-family: 'ES Klarheit Kurrent TRIAL'; font-weight: 400; font-style: normal; font-display: swap; src: url('/fonts/ESKlarheitKurrent-Rg-TRIAL.otf') format('opentype'); }
+@font-face { font-family: 'ES Klarheit Kurrent TRIAL'; font-weight: 500; font-style: normal; font-display: swap; src: url('/fonts/ESKlarheitKurrent-Md-TRIAL.otf') format('opentype'); }
+@font-face { font-family: 'ES Klarheit Kurrent TRIAL'; font-weight: 700; font-style: normal; font-display: swap; src: url('/fonts/ESKlarheitKurrent-Bd-TRIAL.otf') format('opentype'); }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body { @apply bg-white text-neutral-900 antialiased; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
+body { @apply bg-zinc-50 font-body text-lg text-zinc-950 antialiased; }
+h1, h2, h3 { @apply font-heading; }
 @layer components {
-  .btn { @apply inline-flex items-center justify-center rounded border border-neutral-300 bg-white px-3 py-1.5 text-sm hover:bg-neutral-100 disabled:opacity-50; }
-  .btn-primary { @apply border-neutral-900 bg-neutral-900 text-white hover:bg-neutral-700; }
-  .input { @apply w-full rounded border border-neutral-300 px-2 py-1.5 text-sm; }
-  .card { @apply rounded border border-neutral-200 p-3; }
-  .h1 { @apply mb-3 text-xl font-semibold; }
-  .muted { @apply text-sm text-neutral-500; }
+  .btn { @apply inline-flex items-center justify-center rounded border border-zinc-300 bg-white px-3 py-1.5 text-sm hover:bg-zinc-100 disabled:opacity-50; }
+  .btn-primary { @apply border-green-700 bg-green-700 text-white hover:bg-green-800; }
+  .input { @apply w-full rounded border border-zinc-300 bg-white px-2 py-1.5 text-sm; }
+  .card { @apply rounded border border-zinc-200 bg-white p-3; }
+  .h1 { @apply mb-3 font-heading text-2xl font-medium; }
+  .muted { @apply text-sm text-zinc-500; }
+  .eyebrow { @apply text-center text-xs uppercase tracking-wide text-zinc-700; }
+  .section-title { @apply mb-6 text-center font-heading text-4xl font-medium italic text-zinc-500; }
 }

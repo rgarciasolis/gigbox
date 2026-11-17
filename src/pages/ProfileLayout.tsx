@@ -20,10 +20,10 @@ export default function ProfileLayout() {
   return (
     <div className="space-y-4">
       <Async query={profile}>{(p) => <ProfileHeader p={p} />}</Async>
-      <nav className="-mx-1 flex gap-1 overflow-x-auto overflow-y-hidden border-b border-neutral-200" aria-label="Menú de perfil">
+      <nav className="-mx-1 flex gap-1 overflow-x-auto overflow-y-hidden border-b border-zinc-200" aria-label="Menú de perfil">
         {sub.map((l) => (
           <NavLink key={l.to} to={l.to} end={l.end}
-            className={({ isActive }) => `-mb-px whitespace-nowrap border-b-2 px-3 py-2 text-sm ${isActive ? 'border-neutral-900 font-medium' : 'border-transparent text-neutral-500 hover:text-neutral-900'}`}>
+            className={({ isActive }) => `-mb-px whitespace-nowrap border-b-2 px-3 py-2 text-sm ${isActive ? 'border-green-700 font-medium' : 'border-transparent text-zinc-500 hover:text-zinc-900'}`}>
             {l.label}
           </NavLink>
         ))}

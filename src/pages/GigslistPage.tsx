@@ -36,7 +36,7 @@ export default function GigslistPage() {
                 <div key={l.gigslist.id}>
                   <h3 className="font-medium">{l.gigslist.name} <span className="muted">({l.items.length})</span></h3>
                   {l.items.length === 0 ? <p className="muted">Vacía.</p> : (
-                    <ul className="mt-1 divide-y divide-neutral-100 text-sm">
+                    <ul className="mt-1 divide-y divide-zinc-100 text-sm">
                       {l.items.map((i) => (
                         <li key={i.gig.gig.id} className="flex items-center justify-between py-1">
                           <span>{fmtDate(i.gig.gig.date)} · {i.gig.gig.title} <span className="muted">· {i.gig.venue.city}</span></span>
