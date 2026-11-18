@@ -18,14 +18,14 @@ function MyPanel({ g }: { g: GigDetail }) {
   const gigId = g.gig.id
   const err = up.error ?? rm.error ?? createTag.error
   return (
-    <section className="card space-y-3">
-      <h2 className="font-medium">Mi registro</h2>
+    <section className="card space-y-4">
+      <h2 className="font-heading text-2xl font-bold">Mi registro</h2>
       <div className="flex flex-wrap gap-2">
         {!mine || mine.status !== 'attended' ? (
           <button className="btn btn-primary" disabled={up.isPending} onClick={() => up.mutate({ gigId, status: 'attended' })}>
             {g.isUpcoming ? 'Ya fui' : 'Asistí'}
           </button>
-        ) : <span className="rounded bg-zinc-100 px-2 py-1 text-sm">Asistí ✓</span>}
+        ) : <span className="rounded-sm bg-green-600 px-2 py-2 text-xs font-bold uppercase text-zinc-50">Asistí ✓</span>}
         {g.isUpcoming && (!mine || mine.status !== 'going') && (
           <button className="btn" disabled={up.isPending} onClick={() => up.mutate({ gigId, status: 'going' })}>Voy a ir</button>
         )}
@@ -46,7 +46,7 @@ function MyPanel({ g }: { g: GigDetail }) {
               {tags.data?.map(({ tag }) => {
                 const on = mine.tagIds.includes(tag.id)
                 return (
-                  <button key={tag.id} className={`rounded-full border px-2 py-0.5 text-xs ${on ? 'border-green-700 bg-green-700 text-white' : 'border-zinc-300'}`}
+                  <button key={tag.id} className={`chip py-0.5 text-xs ${on ? 'chip-on' : ''}`}
                     onClick={() => up.mutate({ gigId, tagIds: on ? mine.tagIds.filter((i) => i !== tag.id) : [...mine.tagIds, tag.id] })}>{tag.name}</button>
                 )
               })}
@@ -59,7 +59,7 @@ function MyPanel({ g }: { g: GigDetail }) {
               setNewTag('')
             }}>
               <input className="input" placeholder="Nuevo tag" value={newTag} onChange={(e) => setNewTag(e.target.value)} />
-              <button className="btn">Añadir</button>
+              <button className="btn btn-primary">Añadir</button>
             </form>
           </div>
         </>
@@ -75,34 +75,39 @@ export default function GigDetailPage() {
   return (
     <Async query={q}>
       {(g) => (
-        <div className="space-y-5">
-          <div>
-            <p className="muted"><Link to="/gigs" className="underline">Gigs</Link> / ficha</p>
-            <h1 className="text-xl font-semibold">{g.gig.title}</h1>
-            <p className="text-sm">{fmtDateLong(g.gig.date)}</p>
-            <p className="text-sm">
-              <span className="muted" title="Asistencias registradas en Gigbox, no el aforo del recinto">Asistieron:</span> {g.attendeeCount} {g.attendeeCount === 1 ? 'persona' : 'personas'}
-              {g.friendsAttended.length > 0 && <span className="muted"> · {g.friendsAttended.length} {g.friendsAttended.length === 1 ? 'amigo tuyo fue' : 'amigos tuyos fueron'}</span>}
-            </p>
-            <p className="text-sm">{g.venue.name}, {g.venue.city} ({g.venue.country})</p>
-            <p className="mt-1 text-sm"><span className="muted">Cartel:</span> {g.artists.map((a) => `${a.name} (${a.genre})`).join(' · ')}</p>
-            <p className="mt-1 text-sm">{g.avgRating !== null ? <><Rating value={Math.round(g.avgRating * 2) / 2} /> <span className="muted">media de {g.ratingCount} notas · {g.reviewCount} reseñas</span></> : <span className="muted">Sin notas todavía</span>}</p>
-          </div>
+        <div className="mx-auto max-w-3xl space-y-10">
+          <header className="overflow-hidden rounded bg-green-50 text-center">
+            <p className="py-1 text-sm text-zinc-500"><Link to="/gigs" className="underline hover:text-zinc-950">Gigs</Link> / ficha</p>
+            <p className="flex h-[22px] items-center justify-center text-sm text-zinc-950">{fmtDateLong(g.gig.date)}</p>
+            <div className="px-4 py-6">
+              <h1 className="font-heading text-5xl font-bold leading-[1.05] text-[#151515]">{g.artists[0]?.name ?? g.gig.title}</h1>
+              {g.artists.length > 1 && <p className="mt-3 font-heading text-2xl font-bold text-[#151515]">{g.artists.slice(1).map((a) => a.name).join(', ')}</p>}
+              <p className="mt-3 text-sm text-zinc-700">{g.artists.map((a) => a.genre).filter((v, i, arr) => arr.indexOf(v) === i).join(' · ')}</p>
+              <p className="mt-4 text-lg text-zinc-800">
+                {g.avgRating !== null ? <><Rating value={Math.round(g.avgRating * 2) / 2} /> <span className="text-sm text-zinc-500">media de {g.ratingCount} {g.ratingCount === 1 ? 'nota' : 'notas'} · {g.reviewCount} {g.reviewCount === 1 ? 'reseña' : 'reseñas'}</span></> : <span className="text-sm text-zinc-500">Sin notas todavía</span>}
+              </p>
+              <p className="mt-2 text-sm text-zinc-700">
+                <span title="Asistencias registradas en Gigbox, no el aforo del recinto">Asistieron:</span> {g.attendeeCount} {g.attendeeCount === 1 ? 'persona' : 'personas'}
+                {g.friendsAttended.length > 0 && <span className="text-zinc-500"> · {g.friendsAttended.length} {g.friendsAttended.length === 1 ? 'amigo tuyo fue' : 'amigos tuyos fueron'}</span>}
+              </p>
+            </div>
+            <p className="bg-green-950 px-2 py-[5px] text-xs uppercase text-green-50">{g.venue.name}, {g.venue.city} ({g.venue.country})</p>
+          </header>
           <MyPanel g={g} />
           <section>
-            <h2 className="h1">Amigos</h2>
+            <h2 className="h1 text-center">Amigos</h2>
             {g.friendsAttended.length + g.friendsGoing.length === 0 ? <Empty>Ninguno de tus amigos está registrado en este concierto.</Empty> : (
-              <div className="space-y-1 text-sm">
+              <div className="space-y-2 text-center text-lg">
                 {[['Fueron', g.friendsAttended], ['Van', g.friendsGoing]].map(([label, list]) => (list as typeof g.friendsGoing).length > 0 && (
-                  <p key={label as string} className="flex flex-wrap items-center gap-2"><span className="muted">{label as string}:</span>
-                    {(list as typeof g.friendsGoing).map((u) => <Link key={u.id} to={`/u/${u.id}`} className="inline-flex items-center gap-1 hover:underline"><Avatar user={u} size={22} />{u.displayName}</Link>)}
+                  <p key={label as string} className="flex flex-wrap items-center justify-center gap-3"><span className="text-sm text-zinc-500">{label as string}:</span>
+                    {(list as typeof g.friendsGoing).map((u) => <Link key={u.id} to={`/u/${u.id}`} className="inline-flex items-center gap-1 hover:underline"><Avatar user={u} size={24} />{u.displayName}</Link>)}
                   </p>))}
               </div>
             )}
           </section>
           <section>
-            <h2 className="h1">Reseñas</h2>
-            {g.reviews.length === 0 ? <Empty>Nadie ha reseñado este concierto aún.</Empty> : <div className="space-y-2">{g.reviews.map((r) => <ReviewCard key={r.attendance.id} r={r} showGig={false} />)}</div>}
+            <h2 className="h1 text-center">Reseñas</h2>
+            {g.reviews.length === 0 ? <Empty>Nadie ha reseñado este concierto aún.</Empty> : <div className="space-y-8">{g.reviews.map((r) => <ReviewCard key={r.attendance.id} r={r} showGig={false} />)}</div>}
           </section>
         </div>
       )}

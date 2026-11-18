@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { AddToGigslist, GigCard } from '@/components/gig'
-import { Async, Tabs } from '@/components/ui'
+import { AddToGigslist, GigCard, GigGrid } from '@/components/gig'
+import { Async, SectionHeader, Tabs } from '@/components/ui'
 import { useAgenda, useFlag, useGigFilterOptions, useMe } from '@/data/hooks'
 import type { AgendaItem, AgendaQuery } from '@/domain/views'
 
@@ -20,18 +20,18 @@ function Calendar({ items }: { items: AgendaItem[] }) {
   const label = new Intl.DateTimeFormat('es-ES', { month: 'long', year: 'numeric' }).format(month)
   return (
     <div>
-      <div className="mb-2 flex items-center justify-between">
+      <div className="mx-auto mb-3 flex max-w-4xl items-center justify-between">
         <button className="btn" onClick={() => setMonth(new Date(month.getFullYear(), month.getMonth() - 1, 1))}>←</button>
-        <span className="font-medium first-letter:uppercase">{label}</span>
+        <span className="font-heading text-2xl font-bold first-letter:uppercase">{label}</span>
         <button className="btn" onClick={() => setMonth(new Date(month.getFullYear(), month.getMonth() + 1, 1))}>→</button>
       </div>
-      <div className="grid grid-cols-7 gap-px bg-zinc-200 text-xs">
-        {['L', 'M', 'X', 'J', 'V', 'S', 'D'].map((d) => <div key={d} className="bg-zinc-50 p-1 text-center font-medium">{d}</div>)}
+      <div className="mx-auto grid max-w-4xl grid-cols-7 gap-px overflow-hidden rounded bg-zinc-200 text-xs">
+        {['L', 'M', 'X', 'J', 'V', 'S', 'D'].map((d) => <div key={d} className="bg-green-50 p-1 text-center font-bold text-zinc-950">{d}</div>)}
         {days.map((d, i) => (
-          <div key={i} className="min-h-16 bg-white p-1 sm:min-h-24">
-            {d && <><span className="text-zinc-400">{d}</span>
+          <div key={i} className="min-h-16 bg-zinc-50 p-1 sm:min-h-24">
+            {d && <><span className="text-zinc-500">{d}</span>
               {byDay(d).map((it) => (
-                <Link key={it.gig.gig.id} to={`/gigs/${it.gig.gig.id}`} className="mt-0.5 block truncate rounded bg-zinc-100 px-1 hover:bg-zinc-200" title={`${it.gig.gig.title} · ${it.gig.venue.city}`}>{it.gig.artists[0].name}</Link>
+                <Link key={it.gig.gig.id} to={`/gigs/${it.gig.gig.id}`} className="mt-0.5 block truncate rounded-sm bg-green-600 px-1 text-zinc-50 hover:bg-green-700" title={`${it.gig.gig.title} · ${it.gig.venue.city}`}>{it.gig.artists[0].name}</Link>
               ))}</>}
           </div>
         ))}
@@ -49,8 +49,8 @@ export default function AgendaPage() {
   const agenda = useAgenda(q, enabled)
   return (
     <div>
-      <h1 className="h1">Agenda <span className="muted">Plus · desde {me.data?.city}</span></h1>
-      <form className="mb-4 grid grid-cols-2 gap-2 sm:grid-cols-5" onSubmit={(e) => e.preventDefault()}>
+      <SectionHeader as="h1" eyebrow={`Plus · desde ${me.data?.city ?? '…'}`} title="Agenda" />
+      <form className="mx-auto mb-8 grid max-w-5xl grid-cols-2 items-center gap-2 sm:grid-cols-5" onSubmit={(e) => e.preventDefault()}>
         <select className="input" aria-label="Radio" value={String(q.radiusKm)} onChange={(e) => setQ({ ...q, radiusKm: e.target.value === 'null' ? null : Number(e.target.value) })}>
           {RADII.map(([l, v]) => <option key={l} value={String(v)}>{l}</option>)}
         </select>
@@ -64,15 +64,15 @@ export default function AgendaPage() {
       <Tabs value={view} onChange={setView} options={[{ value: 'list', label: 'Lista' }, { value: 'calendar', label: 'Calendario' }]} />
       <Async query={agenda} empty="No hay conciertos próximos con estos filtros.">
         {(items) => view === 'calendar' ? <Calendar items={items} /> : (
-          <div className="space-y-2">
-            <p className="muted">{items.length} conciertos</p>
-            {items.map((it) => (
-              <GigCard key={it.gig.gig.id} view={it.gig} extra={
-                <span className="flex flex-col items-end gap-1">
-                  <span className="muted">{REASON[it.reason]}{it.distanceKm !== null ? ` · ${it.distanceKm} km` : ''}</span>
-                  <AddToGigslist gigId={it.gig.gig.id} compact />
-                </span>} />
-            ))}
+          <div className="space-y-4">
+            <p className="muted text-center">{items.length} conciertos</p>
+            <GigGrid>
+              {items.map((it) => (
+                <GigCard key={it.gig.gig.id} view={it.gig}
+                  note={`${REASON[it.reason]}${it.distanceKm !== null ? ` · ${it.distanceKm} km` : ''}`}
+                  extra={<AddToGigslist gigId={it.gig.gig.id} compact />} />
+              ))}
+            </GigGrid>
           </div>
         )}
       </Async>

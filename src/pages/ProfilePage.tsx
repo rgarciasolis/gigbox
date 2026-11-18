@@ -10,7 +10,7 @@ export default function ProfilePage() {
   return (
     <Async query={profile}>
       {(p) => (
-        <div className="space-y-5">
+        <div className="space-y-10">
           <ProfileHeader p={p} />
           <ProfileOverview p={p} />
         </div>

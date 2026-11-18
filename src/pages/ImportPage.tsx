@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { ErrorBox } from '@/components/ui'
+import { ErrorBox, SectionHeader } from '@/components/ui'
 import { useConfirmImport, useParseEmail, useSampleEmail } from '@/data/hooks'
 import type { ImportCandidate } from '@/domain/views'
 
@@ -15,10 +15,10 @@ export default function ImportPage() {
 
   if (confirm.isSuccess) {
     return (
-      <div className="card text-center">
-        <h1 className="h1">Importación completada</h1>
-        <p className="text-sm">{confirm.data.created} conciertos añadidos · {confirm.data.skipped} omitidos (duplicados o sin coincidencia).</p>
-        <div className="mt-3 flex justify-center gap-2">
+      <div className="mx-auto max-w-xl">
+        <SectionHeader as="h1" eyebrow="Todo listo" title="Importación completada" />
+        <p className="mb-4 text-center text-lg">{confirm.data.created} conciertos añadidos · {confirm.data.skipped} omitidos (duplicados o sin coincidencia).</p>
+        <div className="flex justify-center gap-2">
           <Link className="btn btn-primary" to="/perfil/gigs">Ver mis gigs</Link>
           <button className="btn" onClick={() => { confirm.reset(); parse.reset(); setRows(null); setText('') }}>Importar otro email</button>
         </div>
@@ -31,18 +31,18 @@ export default function ImportPage() {
   if (rows) {
     const selected = rows.filter((r) => r.include)
     return (
-      <div>
-        <h1 className="h1">Revisar conciertos detectados</h1>
+      <div className="mx-auto max-w-3xl">
+        <SectionHeader as="h1" eyebrow="Confirma antes de guardar" title="Conciertos detectados" />
         {rows.length === 0 ? (
           <div className="card muted">No se detectó ningún concierto. <button className="underline" onClick={() => setRows(null)}>Volver</button></div>
         ) : (
           <>
-            <p className="muted mb-3">Confirma o corrige cada concierto. Los duplicados vienen desmarcados.</p>
+            <p className="muted mb-3 text-center">Confirma o corrige cada concierto. Los duplicados vienen desmarcados.</p>
             <div className="space-y-2">
               {rows.map((r) => (
-                <div key={r.id} className={`card ${r.duplicateOfAttendanceId ? 'border-amber-300 bg-amber-50' : ''}`}>
+                <div key={r.id} className={`rounded p-4 ${r.duplicateOfAttendanceId ? 'border border-amber-300 bg-amber-50' : 'bg-green-50'}`}>
                   <label className="flex items-start gap-2">
-                    <input type="checkbox" className="mt-1" checked={r.include} onChange={(e) => upd(r.id, { include: e.target.checked })} />
+                    <input type="checkbox" className="mt-2 size-4 accent-green-700" checked={r.include} onChange={(e) => upd(r.id, { include: e.target.checked })} />
                     <span className="flex-1">
                       <span className="grid gap-1 sm:grid-cols-3">
                         <input className="input" aria-label="Artista" value={r.artistName} onChange={(e) => upd(r.id, { artistName: e.target.value })} />
@@ -71,9 +71,9 @@ export default function ImportPage() {
   }
 
   return (
-    <div>
-      <h1 className="h1">Importación masiva <span className="muted">Plus · simulada</span></h1>
-      <p className="muted mb-3">Pega el texto de un email de entradas o sube un archivo .txt/.eml. La detección es de mentira (dummy).</p>
+    <div className="mx-auto max-w-3xl">
+      <SectionHeader as="h1" eyebrow="Plus · simulada" title="Importación masiva" />
+      <p className="muted mb-3 text-center">Pega el texto de un email de entradas o sube un archivo .txt/.eml. La detección es de mentira (dummy).</p>
       <textarea className="input" rows={10} value={text} onChange={(e) => setText(e.target.value)} placeholder="Pega aquí el email…" aria-label="Email" />
       <div className="mt-2 flex flex-wrap items-center gap-2">
         <input type="file" accept=".txt,.eml,text/plain" className="text-sm" aria-label="Subir email"

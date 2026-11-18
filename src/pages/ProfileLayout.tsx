@@ -8,7 +8,7 @@ const sub = [
   { to: '/perfil/gigs', label: 'Gigs', end: false },
   { to: '/perfil/tags', label: 'Tags', end: false },
   { to: '/perfil/friends', label: 'Friends', end: false },
-  { to: '/perfil/gigslists', label: 'Giglists', end: false },
+  { to: '/perfil/gigslists', label: 'Gigslists', end: false },
   { to: '/agenda', label: 'Agenda', end: false },
   { to: '/suscripcion', label: 'Suscripción', end: false },
 ]
@@ -18,12 +18,12 @@ export default function ProfileLayout() {
   const me = useMe()
   const profile = useProfile(me.data?.id)
   return (
-    <div className="space-y-4">
+    <div className="space-y-8">
       <Async query={profile}>{(p) => <ProfileHeader p={p} />}</Async>
-      <nav className="-mx-1 flex gap-1 overflow-x-auto overflow-y-hidden border-b border-zinc-200" aria-label="Menú de perfil">
+      <nav className="flex flex-wrap justify-center gap-1" aria-label="Menú de perfil">
         {sub.map((l) => (
           <NavLink key={l.to} to={l.to} end={l.end}
-            className={({ isActive }) => `-mb-px whitespace-nowrap border-b-2 px-3 py-2 text-sm ${isActive ? 'border-green-700 font-medium' : 'border-transparent text-zinc-500 hover:text-zinc-900'}`}>
+            className={({ isActive }) => `whitespace-nowrap rounded-sm px-3 py-2.5 text-xs uppercase ${isActive ? 'bg-green-600 text-zinc-50' : 'text-zinc-800 hover:bg-zinc-100'}`}>
             {l.label}
           </NavLink>
         ))}

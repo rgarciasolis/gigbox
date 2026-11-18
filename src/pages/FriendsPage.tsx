@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { ActivityRow } from '@/components/gig'
-import { Async, Avatar, Tabs } from '@/components/ui'
+import { Async, Avatar, SectionHeader, Tabs } from '@/components/ui'
 import { useFeed, useFollow, useFollowing, useSuggestions, useUnfollow } from '@/data/hooks'
 import type { User } from '@/domain/types'
 
@@ -9,9 +9,9 @@ function UserRow({ u, following }: { u: User; following: boolean }) {
   const follow = useFollow()
   const unfollow = useUnfollow()
   return (
-    <li className="flex items-center gap-2 py-2">
-      <Avatar user={u} size={36} />
-      <Link to={`/u/${u.id}`} className="flex-1 hover:underline"><span className="font-medium">{u.displayName}</span> <span className="muted">@{u.handle} · {u.city}</span></Link>
+    <li className="flex items-center gap-3 py-3">
+      <Avatar user={u} size={24} />
+      <Link to={`/u/${u.id}`} className="flex-1 hover:underline"><span className="text-lg">{u.displayName}</span> <span className="muted">@{u.handle} · {u.city}</span></Link>
       <button className="btn" disabled={follow.isPending || unfollow.isPending} onClick={() => (following ? unfollow.mutate(u.id) : follow.mutate(u.id))}>
         {following ? 'Dejar de seguir' : 'Seguir'}
       </button>
@@ -25,8 +25,8 @@ export default function FriendsPage() {
   const following = useFollowing()
   const suggestions = useSuggestions()
   return (
-    <div>
-      <h1 className="h1">Amigos</h1>
+    <div className="mx-auto max-w-3xl">
+      <SectionHeader eyebrow="The people behind the wishlist" title="Friends" />
       <Tabs value={tab} onChange={setTab} options={[{ value: 'feed', label: 'Actividad' }, { value: 'following', label: 'Siguiendo' }, { value: 'discover', label: 'Descubrir' }]} />
       {tab === 'feed' && (
         <Async query={feed} empty="Sin actividad. Sigue a más gente en Descubrir.">

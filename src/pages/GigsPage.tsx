@@ -1,20 +1,22 @@
 import { useState } from 'react'
-import { AddToGigslist, GigCard } from '@/components/gig'
-import { Async } from '@/components/ui'
+import { AddToGigslist, GigCard, GigGrid } from '@/components/gig'
+import { Async, SectionHeader } from '@/components/ui'
 import { useGigFilterOptions, useGigs } from '@/data/hooks'
 import type { GigFilter } from '@/domain/views'
 
+const PAGE = 24
 const RATINGS: [string, number | undefined][] = [['Cualquier nota', undefined], ['4,5+', 4.5], ['4+', 4], ['3+', 3]]
 
 export default function GigsPage() {
   const [f, setF] = useState<GigFilter>({ scope: 'all', sort: 'date-desc' })
   const opts = useGigFilterOptions()
   const gigs = useGigs(f)
-  const set = (p: Partial<GigFilter>) => setF((s) => ({ ...s, ...p }))
+  const [shown, setShown] = useState(PAGE)
+  const set = (p: Partial<GigFilter>) => { setF((s) => ({ ...s, ...p })); setShown(PAGE) }
   return (
     <div>
-      <h1 className="h1">Gigs</h1>
-      <form className="mb-4 grid grid-cols-2 gap-2 sm:grid-cols-4" onSubmit={(e) => e.preventDefault()}>
+      <SectionHeader as="h1" eyebrow="Every concert, one place" title="Gigs" />
+      <form className="mx-auto mb-8 grid max-w-5xl grid-cols-2 items-end gap-2 sm:grid-cols-4" onSubmit={(e) => e.preventDefault()}>
         <input className="input col-span-2" placeholder="Buscar artista, sala, ciudad…" value={f.q ?? ''} onChange={(e) => set({ q: e.target.value })} aria-label="Buscar" />
         <select className="input" value={f.scope} onChange={(e) => set({ scope: e.target.value as GigFilter['scope'], sort: e.target.value === 'upcoming' ? 'date-asc' : 'date-desc' })} aria-label="Cuándo">
           <option value="all">Todos</option><option value="past">Pasados</option><option value="upcoming">Próximos</option>
@@ -44,9 +46,14 @@ export default function GigsPage() {
       </form>
       <Async query={gigs} empty="No hay conciertos con estos filtros.">
         {(list) => (
-          <div className="space-y-2">
-            <p className="muted">{list.length}{list.length === 200 ? '+' : ''} conciertos</p>
-            {list.map((g) => <GigCard key={g.gig.id} view={g} extra={g.isUpcoming ? <AddToGigslist gigId={g.gig.id} compact /> : undefined} />)}
+          <div className="space-y-4">
+            <p className="muted text-center">{list.length}{list.length === 200 ? '+' : ''} conciertos</p>
+            <GigGrid>
+              {list.slice(0, shown).map((g) => <GigCard key={g.gig.id} view={g} extra={g.isUpcoming ? <AddToGigslist gigId={g.gig.id} compact /> : undefined} />)}
+            </GigGrid>
+            {shown < list.length && (
+              <div className="pt-2 text-center"><button className="btn btn-primary px-8 py-3.5" onClick={() => setShown((n) => n + PAGE)}>More</button></div>
+            )}
           </div>
         )}
       </Async>

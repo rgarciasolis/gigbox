@@ -10,10 +10,10 @@ export default function ProfileHomePage() {
   return (
     <Async query={profile}>
       {(p) => (
-        <div className="space-y-5">
+        <div className="space-y-6">
           <ProfileOverview p={p} />
-          <Link className="text-sm underline" to="/reviews">Ver todas las reviews</Link>
-          <p className="muted text-sm">¿Tienes entradas en tu correo? <Link className="underline" to="/import">Importar conciertos desde un email (Plus)</Link>.</p>
+          <p className="text-center"><Link className="btn btn-primary px-8 py-3.5" to="/reviews">Ver todas las reviews</Link></p>
+          <p className="text-center text-sm text-zinc-500">¿Tienes entradas en tu correo? <Link className="underline hover:text-zinc-950" to="/import">Importar conciertos desde un email (Plus)</Link>.</p>
         </div>
       )}
     </Async>
