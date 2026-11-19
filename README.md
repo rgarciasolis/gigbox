@@ -26,9 +26,10 @@ Los cambios que haces en la app (Fui, notas, listas, follows...) se guardan en e
 - subir la probabilidad de error,
 - ver las pantallas con listas vacías,
 - quitar los contactos (Home en modo ciudad),
+- generar un aviso de artista de prueba (para ver subir el contador de la campana),
 - restablecer los datos.
 
-Para probar la Agenda: **Perfil > Ajustes > Suscripción** y activar Plus (simulado).
+Para probar los avisos de artistas: **Perfil > Ajustes > Suscripción** y activar Plus (simulado). Los avisos están en la campana de la cabecera (`/avisos`). El radio se cambia en **Perfil > Ajustes > Avisos** (por defecto 50 km) y los artistas se siguen desde la ficha de un concierto.
 
 ## Cómo está organizado
 
@@ -36,7 +37,7 @@ Para probar la Agenda: **Perfil > Ajustes > Suscripción** y activar Plus (simul
 src/domain        tipos, interfaces de repositorio, formato (sin dependencias del navegador)
 src/data          adaptadores: mock/ (datos dummy) y real/ (stub)
 src/queries       hooks de TanStack Query; las pantallas solo usan esto
-src/flags         feature flags (Agenda depende de Plus)
+src/flags         feature flags (los avisos de artistas dependen de Plus: flag `artistAlerts`)
 src/screens       pantallas
 src/components    piezas comunes
 docs/             ROADMAP.md y DATA_MODEL.md
