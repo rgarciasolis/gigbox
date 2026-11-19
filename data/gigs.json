@@ -1,0 +1,3573 @@
+[
+ {
+  "id": "1588026e-de08-498d-a6f6-4736cfe0efbc",
+  "artistIds": [
+   "129f61c2-031a-4358-a8b7-af5c85ba1e4b",
+   "7fb2a447-03fc-48ff-9cbe-54b46628876b"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -623,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -54235
+ },
+ {
+  "id": "adae887c-12a9-4726-91d0-9cab6f2dfd61",
+  "artistIds": [
+   "9cdafd3e-9c4b-4f6c-b956-104554a257da",
+   "ea2ee06f-7874-485e-94c8-3b5a9e6355bc"
+  ],
+  "venueId": "1f117ca8-8c5e-4633-8319-190f1f8b9425",
+  "dayOffset": -72,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -543716
+ },
+ {
+  "id": "56522e50-98fd-4497-aa69-11609550d03c",
+  "artistIds": [
+   "600d2090-2511-4fb4-954f-14f8f7d0b908",
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914",
+   "ba3aae14-ba6b-4c15-b411-be8590abdfea"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -460,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -565726
+ },
+ {
+  "id": "ba201b5a-0044-48f5-be3a-bddb6e7eb422",
+  "artistIds": [
+   "08937db7-1618-4cae-893f-ba8007f34b99",
+   "1ade15c2-6173-4a2e-85f8-82ac22a5cd35"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -693,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -537621
+ },
+ {
+  "id": "03423afe-8804-4b1e-b39d-89c12893767f",
+  "artistIds": [
+   "0e2288a2-04f6-4556-81ae-bb822eadd429",
+   "05af3632-a5db-42c2-b366-6acba6a82008",
+   "8cea45f5-2b45-4f9d-bc10-2bd40d458a49"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": -640,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -382079
+ },
+ {
+  "id": "78701592-2b45-410a-8159-7b8c74760afb",
+  "artistIds": [
+   "ad82def8-3afe-46ce-91f9-1c03525c2db9"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -252,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -504234
+ },
+ {
+  "id": "5afb2f0a-bd3c-463e-9d29-9437b30faf5d",
+  "artistIds": [
+   "ccf80ff2-3137-491b-b382-1385af1dc939",
+   "0ff7e3e0-07c5-4ea8-b981-67b2a0d86387"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": -895,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -500566
+ },
+ {
+  "id": "988883e6-b27e-4d78-8304-15182469c426",
+  "artistIds": [
+   "433aed8c-0163-4eb0-9832-3c66f03a2ded",
+   "211bc96d-c284-4179-9b19-30ed3c71e36a"
+  ],
+  "venueId": "a417efd3-c416-490d-8998-f153989ecaaf",
+  "dayOffset": -872,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -125130
+ },
+ {
+  "id": "56c789d0-c334-415f-b7b0-a9e25aa5c46d",
+  "artistIds": [
+   "5a836954-880a-452d-ad01-ae011dbc101d",
+   "39daf365-09a4-401c-9851-295bffc2472d"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -869,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -86207
+ },
+ {
+  "id": "7a0200bc-37d4-4721-9553-c734f4f2b7d7",
+  "artistIds": [
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b",
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -822,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -181677
+ },
+ {
+  "id": "2653b127-9a39-4664-a533-1127c0b0ac42",
+  "artistIds": [
+   "b5c4a78a-529a-4aa6-8163-cd838e8d3f9f",
+   "5bcbbe85-2f04-4727-a78e-a89d131ec1b4"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -575,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -297242
+ },
+ {
+  "id": "7eb38eab-1ef9-484b-831d-48395c845f18",
+  "artistIds": [
+   "211bc96d-c284-4179-9b19-30ed3c71e36a",
+   "5763b989-4f2b-415e-ba0e-40ac4ecc308a",
+   "9aa14f71-761c-48aa-95e2-a87542a89882"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -878,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -54918
+ },
+ {
+  "id": "9491165e-5c8e-473a-b924-aaa18247db17",
+  "artistIds": [
+   "95bee5f5-670d-4915-995c-a2d37a64b318"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": -468,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -42518
+ },
+ {
+  "id": "8abdf800-26c3-4cda-b9b6-28be24ab5406",
+  "artistIds": [
+   "bcaf8b3c-1cf2-49ec-a112-133d02c174f6",
+   "03bceec4-cf64-4558-8533-81f6859ad9e7",
+   "217d9f2d-9265-449a-8f54-0be55b0e4618"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -205,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -512147
+ },
+ {
+  "id": "1694bc6e-eab2-45bc-95cb-b1ffa9d057ee",
+  "artistIds": [
+   "601fd14a-163e-4775-9716-609b8f757230",
+   "cd1af1ac-8d95-47a4-b0e5-65c4c3678342"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -893,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -269532
+ },
+ {
+  "id": "564e2dbd-7c55-4738-9b0a-de77af52c71e",
+  "artistIds": [
+   "a8edf1dd-1c4d-417c-8397-eb66e4783203",
+   "0fae9df1-4f4a-4ebf-a4d7-8b82e3c3133b",
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914"
+  ],
+  "venueId": "a417efd3-c416-490d-8998-f153989ecaaf",
+  "dayOffset": -55,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -190422
+ },
+ {
+  "id": "b317d5dd-0b2e-4cbb-b103-226c0d950464",
+  "artistIds": [
+   "35f72ef0-bcbe-444f-ad1b-1b1eeda626b5"
+  ],
+  "venueId": "870557a6-0a5e-4867-8270-13a6ad4bafb2",
+  "dayOffset": -152,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -499684
+ },
+ {
+  "id": "e6852d5b-c077-4f0a-954a-cf3b6c6ddc1e",
+  "artistIds": [
+   "8b7d7363-f0aa-4ae7-9308-30d95721a120",
+   "35f72ef0-bcbe-444f-ad1b-1b1eeda626b5"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -780,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -362049
+ },
+ {
+  "id": "e5e2f7eb-895d-4f0c-b5ba-9492119ab7df",
+  "artistIds": [
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4"
+  ],
+  "venueId": "1f117ca8-8c5e-4633-8319-190f1f8b9425",
+  "dayOffset": -381,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -153535
+ },
+ {
+  "id": "5e56706f-bffb-4739-8c1a-7d2f6c103b64",
+  "artistIds": [
+   "32b0d6d1-086e-43de-8072-f0498cf580e0",
+   "5d0b1e42-c85e-4e9c-aa92-751af03c2ed6"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -858,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -217245
+ },
+ {
+  "id": "c2ea834f-c2ea-4f79-b2f9-65ac578831dd",
+  "artistIds": [
+   "95bee5f5-670d-4915-995c-a2d37a64b318",
+   "a8edf1dd-1c4d-417c-8397-eb66e4783203"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": -177,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -544259
+ },
+ {
+  "id": "f434bc39-a54f-4fcd-a7b2-8a7c1d9cf7e1",
+  "artistIds": [
+   "37879f24-4666-43a8-9c71-2cca1e9d09e8",
+   "29fbe62f-4fd1-496a-ba3e-2a43895ec681",
+   "6f81be51-2ab3-45a4-bd46-2696897c1589"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -880,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -228720
+ },
+ {
+  "id": "d200bfe4-d6f4-400b-a609-2f0318863d62",
+  "artistIds": [
+   "547ff78b-0102-4e8e-93c0-74c70a742d8b"
+  ],
+  "venueId": "5fff3e88-6d68-4352-9d2b-d97e4ff88cb9",
+  "dayOffset": -626,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -97650
+ },
+ {
+  "id": "db450f33-04fe-4a0f-9b76-890592363326",
+  "artistIds": [
+   "938c62fb-ba61-48be-87da-dbec1763f28e"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -339,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -551948
+ },
+ {
+  "id": "216b47f4-9272-442d-9a9f-eb8f0576f87b",
+  "artistIds": [
+   "39daf365-09a4-401c-9851-295bffc2472d",
+   "4115b3ef-ad32-40ae-b2ce-047867e7c254"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -505,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -494345
+ },
+ {
+  "id": "e89a267d-a19a-444d-8046-fa702cf1bf8d",
+  "artistIds": [
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4",
+   "18a6682b-ded5-467a-900e-20b2db3136be"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": -180,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -274799
+ },
+ {
+  "id": "65ab3a72-3a7b-4857-bc49-2e4f8dc45161",
+  "artistIds": [
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -468,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -452673
+ },
+ {
+  "id": "d03ee3c2-58d0-4188-b54e-41e48c10c99a",
+  "artistIds": [
+   "934070db-837b-4df0-b919-b5a08039c86b",
+   "547ff78b-0102-4e8e-93c0-74c70a742d8b",
+   "78cf55a8-6db4-4f9b-a805-40a5f63cde33"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -202,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -146157
+ },
+ {
+  "id": "d5af3cee-fc74-4ad2-ba5b-69ed6c1558be",
+  "artistIds": [
+   "3b1b55d8-233f-40e7-be17-4ff53f51f16e",
+   "5a836954-880a-452d-ad01-ae011dbc101d"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -146,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -382118
+ },
+ {
+  "id": "75f5d768-3ed0-41bf-96f7-fe45846579a5",
+  "artistIds": [
+   "08937db7-1618-4cae-893f-ba8007f34b99"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -873,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -397997
+ },
+ {
+  "id": "17abd6df-e35c-4985-9396-c16a1c61e719",
+  "artistIds": [
+   "211bc96d-c284-4179-9b19-30ed3c71e36a",
+   "e6ca7f79-1e27-4fc8-bb33-3767db7bd6a1",
+   "7fb2a447-03fc-48ff-9cbe-54b46628876b"
+  ],
+  "venueId": "714c6156-9fb2-446f-891c-8e3d0af56ea5",
+  "dayOffset": -18,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -95522
+ },
+ {
+  "id": "f71cb870-c6c1-46c0-8e48-b003ce9d041a",
+  "artistIds": [
+   "7d376ab6-4bc4-4038-a0b6-29e5d90fe7e9",
+   "bcaf8b3c-1cf2-49ec-a112-133d02c174f6",
+   "18a6682b-ded5-467a-900e-20b2db3136be"
+  ],
+  "venueId": "63fc326b-95b4-452f-beb9-7a44ec9eafef",
+  "dayOffset": -812,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -342390
+ },
+ {
+  "id": "ed9f5e9f-8a6d-440a-88d1-bb9b7e34f770",
+  "artistIds": [
+   "6fd36bd7-518d-4b79-9486-d133ddac5925"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -99,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -471562
+ },
+ {
+  "id": "a5aab57c-c6e2-408a-990c-2cb3e346bdd9",
+  "artistIds": [
+   "19032aee-d7b4-4f99-99e4-d8ce00eb99d0",
+   "08937db7-1618-4cae-893f-ba8007f34b99"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -397,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -483989
+ },
+ {
+  "id": "6e3b7b38-d3d0-4680-9cfc-8a40ddc247fe",
+  "artistIds": [
+   "4698f94b-5e71-4ad9-990d-d92e5f14064c",
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -139,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -11040
+ },
+ {
+  "id": "1423e5c1-0576-41e4-ad16-7b6554fa1990",
+  "artistIds": [
+   "3ffbf556-1c6d-4027-9aea-7a5f2700ed7f"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": -465,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -497405
+ },
+ {
+  "id": "35d10641-b25e-4dea-b3e2-cfafa4ec4b59",
+  "artistIds": [
+   "b5c4a78a-529a-4aa6-8163-cd838e8d3f9f"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -794,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -227843
+ },
+ {
+  "id": "fcecd2df-01d7-4704-b8e5-503d07ed8078",
+  "artistIds": [
+   "211bc96d-c284-4179-9b19-30ed3c71e36a",
+   "6720371f-5390-4a22-9baf-5572d312449b",
+   "ea2ee06f-7874-485e-94c8-3b5a9e6355bc"
+  ],
+  "venueId": "cb664351-a997-4964-a734-f6c986b56c49",
+  "dayOffset": -471,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -8465
+ },
+ {
+  "id": "5f2857c3-2c7c-479a-a70f-befb05f4aa62",
+  "artistIds": [
+   "0ff7e3e0-07c5-4ea8-b981-67b2a0d86387",
+   "45d0d77c-eca6-4162-94bf-0ff3773df814"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -757,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -158407
+ },
+ {
+  "id": "a27b5601-53de-4e5e-953a-45d3b4a27585",
+  "artistIds": [
+   "4496d9e0-3cbb-43be-9d42-b814dc39f578"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": -530,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -85485
+ },
+ {
+  "id": "0cb65a18-999f-48c1-b717-472a813e774c",
+  "artistIds": [
+   "18a6682b-ded5-467a-900e-20b2db3136be",
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -14,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -59041
+ },
+ {
+  "id": "08fa8823-80f2-4f63-9fe0-bbb7d6974a39",
+  "artistIds": [
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -256,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -418892
+ },
+ {
+  "id": "001c134e-5433-4e6a-9753-0b63f52c2ec4",
+  "artistIds": [
+   "a33882a8-8786-4e03-8709-377c0a034b41",
+   "ffaba604-c3ab-4a2e-adc3-d903ae485a14"
+  ],
+  "venueId": "8db54ff7-615f-442a-8c13-cf477b0fe3ab",
+  "dayOffset": -900,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -472860
+ },
+ {
+  "id": "65be1d41-3848-417c-9cc8-4c5f141a3d22",
+  "artistIds": [
+   "9fa0ed9d-7883-4e6f-bcf1-73cc4d495bed",
+   "3fe3fc34-3101-4f15-bce8-1aae85a1925b"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -468,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -254031
+ },
+ {
+  "id": "a437ac05-701e-4db8-a2e7-cc54c6a7c6c8",
+  "artistIds": [
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -271,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -357081
+ },
+ {
+  "id": "a0ad74bb-8198-4dbc-aa59-f3875b3239dd",
+  "artistIds": [
+   "217d7900-c4e0-435f-8d76-e55d0acc9011"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -714,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -513244
+ },
+ {
+  "id": "8043dab8-b217-4491-bb85-3a8d60a2bd24",
+  "artistIds": [
+   "933f8268-8a43-4401-94de-9864362fc880",
+   "32aa133e-5da4-4635-a438-ed30c798ae9d"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": -231,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -69393
+ },
+ {
+  "id": "1cea5392-f36c-4144-a85b-55d6ceb27888",
+  "artistIds": [
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a",
+   "5bcbbe85-2f04-4727-a78e-a89d131ec1b4",
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0"
+  ],
+  "venueId": "5888a08a-71b9-4e21-b414-25b367c6863f",
+  "dayOffset": -517,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -59697
+ },
+ {
+  "id": "5baf3605-4990-48cb-9c56-4b04ef6036a6",
+  "artistIds": [
+   "ffaba604-c3ab-4a2e-adc3-d903ae485a14",
+   "f8dab46b-6f78-4f85-826f-cd7db6ff2f80"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -783,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -480305
+ },
+ {
+  "id": "c8bd4915-bbeb-4faf-af41-6c1fd3a44a40",
+  "artistIds": [
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84",
+   "1ade15c2-6173-4a2e-85f8-82ac22a5cd35"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": -6,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -267865
+ },
+ {
+  "id": "bd402791-4d78-46d0-bd92-631fbb28244e",
+  "artistIds": [
+   "0e2288a2-04f6-4556-81ae-bb822eadd429",
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0",
+   "6720371f-5390-4a22-9baf-5572d312449b"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": -562,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -91009
+ },
+ {
+  "id": "e4af11cb-1bd8-4489-8bf0-e8884ac97385",
+  "artistIds": [
+   "354e5223-c4f2-47da-a6e0-a9bfee3f5431",
+   "e409e8ad-ab76-44d1-9b0c-a67165ef4d0e",
+   "938c62fb-ba61-48be-87da-dbec1763f28e"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -780,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -144327
+ },
+ {
+  "id": "95521b51-73b4-4001-82d6-8ea4f2692682",
+  "artistIds": [
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -737,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -243433
+ },
+ {
+  "id": "54eca6f5-04e5-4a81-8b1d-7d83d5c9f243",
+  "artistIds": [
+   "08937db7-1618-4cae-893f-ba8007f34b99",
+   "217d7900-c4e0-435f-8d76-e55d0acc9011"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -71,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -483925
+ },
+ {
+  "id": "5fbaa969-0c20-44ef-9782-cc463e77a3c4",
+  "artistIds": [
+   "3ffbf556-1c6d-4027-9aea-7a5f2700ed7f"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -312,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -168625
+ },
+ {
+  "id": "55c58c89-b669-4752-a44c-d89a1a86da23",
+  "artistIds": [
+   "123d22b7-509a-4b29-b2c0-6595176b7f9c"
+  ],
+  "venueId": "63fc326b-95b4-452f-beb9-7a44ec9eafef",
+  "dayOffset": -537,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -265678
+ },
+ {
+  "id": "b300cbaf-2063-43d0-b20f-05f56147df32",
+  "artistIds": [
+   "412268db-50f7-40f4-8bd9-fdaa60d6b194",
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1",
+   "a8edf1dd-1c4d-417c-8397-eb66e4783203"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -431,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -282958
+ },
+ {
+  "id": "68e8a128-278c-40e8-a42c-46d0964c8b3b",
+  "artistIds": [
+   "95bee5f5-670d-4915-995c-a2d37a64b318",
+   "8c08e372-b728-443e-a1e5-cb8ef925ab70",
+   "1ade15c2-6173-4a2e-85f8-82ac22a5cd35"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": -474,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -71029
+ },
+ {
+  "id": "39cb9d2b-f289-4fa7-8866-b30fb9907d6a",
+  "artistIds": [
+   "fa665199-9533-4a8f-94ce-236c785655cf",
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -633,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -507375
+ },
+ {
+  "id": "03783ade-46df-4715-90c3-42168ee626d0",
+  "artistIds": [
+   "4698f94b-5e71-4ad9-990d-d92e5f14064c",
+   "c84d01c5-6cd7-4964-8f01-f333b283df9e"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -900,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -410657
+ },
+ {
+  "id": "2d0ce233-6c6e-48bb-8d04-c691e29e7e59",
+  "artistIds": [
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a",
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": -729,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -373631
+ },
+ {
+  "id": "ccf57b3b-d066-452a-a86a-b98d627bb81c",
+  "artistIds": [
+   "6636612f-87b0-4c5d-afad-a495477df046",
+   "e1bfbca1-82be-4967-b549-9a24456f9393"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -781,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -1680
+ },
+ {
+  "id": "b69c329f-f20e-4154-8a4c-0e2946c33064",
+  "artistIds": [
+   "c0a8a7e4-f2a7-4767-9c34-c02a376310bc",
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -807,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -25974
+ },
+ {
+  "id": "2ab4d133-6595-4800-97b1-40c115a5236c",
+  "artistIds": [
+   "dd628a94-b5b1-435e-b84d-cb67bc95117d",
+   "deef5733-2847-4679-affd-33c5a6e4c34e"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -727,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -503845
+ },
+ {
+  "id": "2f000530-9b6a-4b2e-85ee-403360be170d",
+  "artistIds": [
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5",
+   "a97335ba-28be-4b42-8314-485faea78f27",
+   "5763b989-4f2b-415e-ba0e-40ac4ecc308a"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -97,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -515749
+ },
+ {
+  "id": "197ee511-294e-4b2e-942d-18e80b692479",
+  "artistIds": [
+   "0de3a808-d05e-4c97-bd8f-df0b44b0a94b"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -242,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -317694
+ },
+ {
+  "id": "e928dfad-30af-4a39-8324-b476638ce538",
+  "artistIds": [
+   "dcc10bcf-923c-45b1-9710-b6a0a59183e8",
+   "b5cb8eda-2cc4-428a-bfef-4981f0e734d3",
+   "08937db7-1618-4cae-893f-ba8007f34b99"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -425,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -152467
+ },
+ {
+  "id": "285f4658-1c7a-4262-8ff5-b40a90af0156",
+  "artistIds": [
+   "8cea45f5-2b45-4f9d-bc10-2bd40d458a49",
+   "3b1b55d8-233f-40e7-be17-4ff53f51f16e"
+  ],
+  "venueId": "d179fc7a-d85e-4e0b-baa9-d6071ab954a4",
+  "dayOffset": -687,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -521648
+ },
+ {
+  "id": "7e319dca-a348-4fdb-9fff-2c9aff59b693",
+  "artistIds": [
+   "9aa14f71-761c-48aa-95e2-a87542a89882",
+   "6fd36bd7-518d-4b79-9486-d133ddac5925"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": -692,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -402363
+ },
+ {
+  "id": "674bbfe0-81fe-4050-9755-5cb79738d5e2",
+  "artistIds": [
+   "5d0b1e42-c85e-4e9c-aa92-751af03c2ed6",
+   "4698f94b-5e71-4ad9-990d-d92e5f14064c"
+  ],
+  "venueId": "a9694571-920a-42b8-a6d9-1b192a03185c",
+  "dayOffset": -654,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -374073
+ },
+ {
+  "id": "da8ea81e-abd2-44ef-a602-7d096d939e4b",
+  "artistIds": [
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4",
+   "84c3f2f5-eaee-450c-b18f-cbd62aacee57"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -847,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -575987
+ },
+ {
+  "id": "19ecb8a9-b076-417e-894e-3dcab047fed3",
+  "artistIds": [
+   "933f8268-8a43-4401-94de-9864362fc880"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -144,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -283818
+ },
+ {
+  "id": "f257ba25-4733-43b5-b796-107687b2c31e",
+  "artistIds": [
+   "19032aee-d7b4-4f99-99e4-d8ce00eb99d0",
+   "a8edf1dd-1c4d-417c-8397-eb66e4783203"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": -531,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -135228
+ },
+ {
+  "id": "f3a88f84-772f-4f0b-b8e2-e1118bc2019b",
+  "artistIds": [
+   "40d8301d-a664-4692-a223-426c2644f1d3"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": -567,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -264543
+ },
+ {
+  "id": "160a85d5-d7b1-43cd-9980-1ddae2affbe2",
+  "artistIds": [
+   "2d3f1910-0c40-4fb9-ac30-39dff53a8b8c",
+   "a0f2023f-d400-4fbe-b6df-a2c18848462b",
+   "934070db-837b-4df0-b919-b5a08039c86b"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -834,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -28037
+ },
+ {
+  "id": "0f47cb46-fe7f-44d7-b022-62d448b0e2ee",
+  "artistIds": [
+   "2d3f1910-0c40-4fb9-ac30-39dff53a8b8c",
+   "3ffbf556-1c6d-4027-9aea-7a5f2700ed7f"
+  ],
+  "venueId": "5fff3e88-6d68-4352-9d2b-d97e4ff88cb9",
+  "dayOffset": -397,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -16450
+ },
+ {
+  "id": "1df8ec65-7ede-4b7d-9d83-6a41a1d75be2",
+  "artistIds": [
+   "6ca3b062-201e-4cda-a75b-70a89560bbf4",
+   "e6ca7f79-1e27-4fc8-bb33-3767db7bd6a1",
+   "6720371f-5390-4a22-9baf-5572d312449b"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -431,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -311339
+ },
+ {
+  "id": "9f95ca78-876e-4ec6-b5ab-aa7d0e96eab4",
+  "artistIds": [
+   "92fb64ad-7f16-44c8-ba1c-dae125a271f8",
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b",
+   "5bcbbe85-2f04-4727-a78e-a89d131ec1b4"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": -13,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -110586
+ },
+ {
+  "id": "5f8b532d-9703-4c69-a184-ff528a17de78",
+  "artistIds": [
+   "ffaba604-c3ab-4a2e-adc3-d903ae485a14"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -327,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -374655
+ },
+ {
+  "id": "f41b785d-2135-441e-ad8a-817dedc82d71",
+  "artistIds": [
+   "b03d0547-78d8-4842-8ce2-22d818c9ed87"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": -715,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -445129
+ },
+ {
+  "id": "4f206b08-5763-4212-92c9-88d3c7cc3088",
+  "artistIds": [
+   "5a3ff79d-379d-4019-9954-c1357d0b4479",
+   "933f8268-8a43-4401-94de-9864362fc880"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -414,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -178420
+ },
+ {
+  "id": "08e1ddb9-2883-4700-b2e1-839f67a89963",
+  "artistIds": [
+   "a97335ba-28be-4b42-8314-485faea78f27",
+   "37879f24-4666-43a8-9c71-2cca1e9d09e8"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -526,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -341233
+ },
+ {
+  "id": "6a5c0586-aa88-40e7-bcb7-3aa4a5df1eff",
+  "artistIds": [
+   "e6ca7f79-1e27-4fc8-bb33-3767db7bd6a1",
+   "6d4c72b1-b738-446b-90b9-d10dedba7c15"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -78,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -537516
+ },
+ {
+  "id": "b9a60fbc-cc5b-4bf1-950b-77dc4aaf0b1a",
+  "artistIds": [
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1"
+  ],
+  "venueId": "7103ad36-e06f-4b92-a78f-4b11665788fa",
+  "dayOffset": -115,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -176844
+ },
+ {
+  "id": "2b1e2255-68b3-4483-a27a-f336c00be6d6",
+  "artistIds": [
+   "e6ca7f79-1e27-4fc8-bb33-3767db7bd6a1",
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -607,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -453348
+ },
+ {
+  "id": "0712bd7c-258f-4095-848c-8bdee6a67238",
+  "artistIds": [
+   "35f72ef0-bcbe-444f-ad1b-1b1eeda626b5",
+   "e1b8f0f1-b674-40cc-b809-14707f04f306",
+   "b03d0547-78d8-4842-8ce2-22d818c9ed87"
+  ],
+  "venueId": "5888a08a-71b9-4e21-b414-25b367c6863f",
+  "dayOffset": -420,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -489815
+ },
+ {
+  "id": "8a7c80ac-ad5f-45a7-922c-5ac88dbf2539",
+  "artistIds": [
+   "f8dab46b-6f78-4f85-826f-cd7db6ff2f80",
+   "412268db-50f7-40f4-8bd9-fdaa60d6b194"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -566,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -152808
+ },
+ {
+  "id": "75067931-ac35-44df-b7dc-c4899e121075",
+  "artistIds": [
+   "03bceec4-cf64-4558-8533-81f6859ad9e7",
+   "b56d05a0-eb63-4f23-91a3-b782dbdfe248",
+   "b150e7ff-6cea-43f9-8c6b-15b064d270ce"
+  ],
+  "venueId": "d179fc7a-d85e-4e0b-baa9-d6071ab954a4",
+  "dayOffset": -463,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -391305
+ },
+ {
+  "id": "127d2788-6ae9-48a0-a570-dec409a4e22f",
+  "artistIds": [
+   "e1bfbca1-82be-4967-b549-9a24456f9393",
+   "a8edf1dd-1c4d-417c-8397-eb66e4783203"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -276,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -497386
+ },
+ {
+  "id": "333fcf0d-d400-4050-ab84-42f4fd59acf7",
+  "artistIds": [
+   "9aa14f71-761c-48aa-95e2-a87542a89882"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -285,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -255714
+ },
+ {
+  "id": "c716fe2f-2a9d-423c-b7f0-9a8d55586ebc",
+  "artistIds": [
+   "b5c4a78a-529a-4aa6-8163-cd838e8d3f9f",
+   "8c61d574-b11b-4960-bbab-5452d82f6051",
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": -83,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -69504
+ },
+ {
+  "id": "c3746fb8-231a-4f99-954e-12910476ea73",
+  "artistIds": [
+   "afee1189-7396-42e3-a0d2-a3f34c771972",
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": -297,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -3189
+ },
+ {
+  "id": "658559ef-d9d3-47ef-94b9-3700120d0915",
+  "artistIds": [
+   "72b73d92-de78-4622-9198-0a52e2324c0a",
+   "0fae9df1-4f4a-4ebf-a4d7-8b82e3c3133b",
+   "216c1fe9-104d-4b95-ab9d-5b5fae9f109f"
+  ],
+  "venueId": "8db54ff7-615f-442a-8c13-cf477b0fe3ab",
+  "dayOffset": -311,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -431626
+ },
+ {
+  "id": "59d057fd-cec8-4368-aeb6-6d21f6a12609",
+  "artistIds": [
+   "32b0d6d1-086e-43de-8072-f0498cf580e0"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": -592,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -149486
+ },
+ {
+  "id": "698d1186-db83-4809-b49e-85c04667fcab",
+  "artistIds": [
+   "ff1bf4d7-4e24-415a-8fe4-f57376b99fe7",
+   "4115b3ef-ad32-40ae-b2ce-047867e7c254"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -637,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -89969
+ },
+ {
+  "id": "9b236696-cdfe-48ba-9bec-8f459d6bb66f",
+  "artistIds": [
+   "547ff78b-0102-4e8e-93c0-74c70a742d8b",
+   "ba3aae14-ba6b-4c15-b411-be8590abdfea"
+  ],
+  "venueId": "a9694571-920a-42b8-a6d9-1b192a03185c",
+  "dayOffset": -33,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -394491
+ },
+ {
+  "id": "fd5fc196-bfc5-4d70-8da1-a5669f252024",
+  "artistIds": [
+   "2d3f1910-0c40-4fb9-ac30-39dff53a8b8c",
+   "217d7900-c4e0-435f-8d76-e55d0acc9011"
+  ],
+  "venueId": "a49aa8e2-a98e-4241-a0ed-1f47f7f2dcfd",
+  "dayOffset": -756,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -483100
+ },
+ {
+  "id": "e3aff836-e373-45fb-a2ca-b6079e9d3a76",
+  "artistIds": [
+   "f8dab46b-6f78-4f85-826f-cd7db6ff2f80",
+   "ff1bf4d7-4e24-415a-8fe4-f57376b99fe7"
+  ],
+  "venueId": "481f15a5-1008-4915-bef4-7378f8627a24",
+  "dayOffset": -186,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -52058
+ },
+ {
+  "id": "c3ddafb6-7f3d-44c9-a897-6721d445dedf",
+  "artistIds": [
+   "938c62fb-ba61-48be-87da-dbec1763f28e",
+   "dcc10bcf-923c-45b1-9710-b6a0a59183e8"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": -355,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -270626
+ },
+ {
+  "id": "3cc607e5-5db8-4897-8af6-c9056b8c27bb",
+  "artistIds": [
+   "e1bfbca1-82be-4967-b549-9a24456f9393",
+   "5e48eb4c-9eec-433d-950f-46364aa5a9da"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": -703,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -114366
+ },
+ {
+  "id": "fe602e7f-f2bf-4dc3-baca-d36c4d1eb53e",
+  "artistIds": [
+   "b5c4a78a-529a-4aa6-8163-cd838e8d3f9f",
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5"
+  ],
+  "venueId": "5888a08a-71b9-4e21-b414-25b367c6863f",
+  "dayOffset": -21,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -135762
+ },
+ {
+  "id": "fc4f7fe5-63bc-4709-a80a-004cf23534e7",
+  "artistIds": [
+   "7fb2a447-03fc-48ff-9cbe-54b46628876b",
+   "ff1bf4d7-4e24-415a-8fe4-f57376b99fe7"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -883,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -39129
+ },
+ {
+  "id": "d43a362b-3567-4629-9af6-b3d5a34df2c9",
+  "artistIds": [
+   "c0a8a7e4-f2a7-4767-9c34-c02a376310bc",
+   "95bee5f5-670d-4915-995c-a2d37a64b318",
+   "933f8268-8a43-4401-94de-9864362fc880"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": -816,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -373039
+ },
+ {
+  "id": "86d2a868-614a-4502-a754-94bd0ddb78c7",
+  "artistIds": [
+   "933f8268-8a43-4401-94de-9864362fc880",
+   "934070db-837b-4df0-b919-b5a08039c86b"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -470,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -28756
+ },
+ {
+  "id": "97e0724c-fcb7-4a93-943a-59d4a53a26e2",
+  "artistIds": [
+   "84c3f2f5-eaee-450c-b18f-cbd62aacee57",
+   "5e4728c1-402c-43b0-a755-d44a9de041bd"
+  ],
+  "venueId": "f74352a9-5b93-4f1b-88e6-7971377393d5",
+  "dayOffset": -240,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -167425
+ },
+ {
+  "id": "421a76f5-96b5-4d74-8ad8-285865dd217e",
+  "artistIds": [
+   "8b7d7363-f0aa-4ae7-9308-30d95721a120"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -34,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -185887
+ },
+ {
+  "id": "f0445442-8619-4b79-8a35-4872adf7ed88",
+  "artistIds": [
+   "5a3ff79d-379d-4019-9954-c1357d0b4479"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": -160,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -92518
+ },
+ {
+  "id": "91a36498-3dfa-4018-8027-8ae9d345e6bb",
+  "artistIds": [
+   "5763b989-4f2b-415e-ba0e-40ac4ecc308a",
+   "216c1fe9-104d-4b95-ab9d-5b5fae9f109f",
+   "18a6682b-ded5-467a-900e-20b2db3136be"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": -571,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -190840
+ },
+ {
+  "id": "cc61dd15-d35c-49bf-949b-15cf1c09ed21",
+  "artistIds": [
+   "40d8301d-a664-4692-a223-426c2644f1d3"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -837,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -14153
+ },
+ {
+  "id": "25bf9bea-3d0b-4995-9736-0a1f9c29607a",
+  "artistIds": [
+   "9cdafd3e-9c4b-4f6c-b956-104554a257da"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -765,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -410610
+ },
+ {
+  "id": "556c6d31-1f53-4576-b1f0-a856be3acd25",
+  "artistIds": [
+   "0d84dc90-3a59-4f77-b668-4c118d3ac17f"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -497,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -541452
+ },
+ {
+  "id": "ac002731-92c8-4372-86d5-8a26d4a7df16",
+  "artistIds": [
+   "3b1b55d8-233f-40e7-be17-4ff53f51f16e"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -521,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -461932
+ },
+ {
+  "id": "e8e4afc4-a9c3-48ee-aa2a-ab4a2866fdcf",
+  "artistIds": [
+   "92fb64ad-7f16-44c8-ba1c-dae125a271f8",
+   "29fbe62f-4fd1-496a-ba3e-2a43895ec681"
+  ],
+  "venueId": "f74352a9-5b93-4f1b-88e6-7971377393d5",
+  "dayOffset": -224,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -362224
+ },
+ {
+  "id": "b20ba3de-da8c-4372-8cde-dc3211b9dc2f",
+  "artistIds": [
+   "deef5733-2847-4679-affd-33c5a6e4c34e",
+   "3b1b55d8-233f-40e7-be17-4ff53f51f16e"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -631,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -42840
+ },
+ {
+  "id": "39582d07-239b-474b-b6a1-8a309f2187b0",
+  "artistIds": [
+   "938c62fb-ba61-48be-87da-dbec1763f28e",
+   "72b73d92-de78-4622-9198-0a52e2324c0a",
+   "a97335ba-28be-4b42-8314-485faea78f27"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": -282,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -552104
+ },
+ {
+  "id": "4a2119c5-6e08-43c9-8af0-5e88e40f8bb1",
+  "artistIds": [
+   "354e5223-c4f2-47da-a6e0-a9bfee3f5431",
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2"
+  ],
+  "venueId": "a417efd3-c416-490d-8998-f153989ecaaf",
+  "dayOffset": -615,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -560715
+ },
+ {
+  "id": "21adfb9e-230b-430c-9d32-7706ca24c00d",
+  "artistIds": [
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "769e0b85-a3c4-4a41-8f3f-f5fb732345c1",
+  "dayOffset": -485,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -92633
+ },
+ {
+  "id": "f7ae6d12-4500-4495-89f0-dd5f49f0efd8",
+  "artistIds": [
+   "45d0d77c-eca6-4162-94bf-0ff3773df814",
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0"
+  ],
+  "venueId": "63fc326b-95b4-452f-beb9-7a44ec9eafef",
+  "dayOffset": -110,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -271376
+ },
+ {
+  "id": "23e35d22-3b3d-44ea-999d-db004517b5ee",
+  "artistIds": [
+   "2d3f1910-0c40-4fb9-ac30-39dff53a8b8c",
+   "95bee5f5-670d-4915-995c-a2d37a64b318"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -394,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -253055
+ },
+ {
+  "id": "bdbf6e58-cf04-453f-9e91-426a9cd67c35",
+  "artistIds": [
+   "a33882a8-8786-4e03-8709-377c0a034b41"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": -866,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -310092
+ },
+ {
+  "id": "50f04b99-20da-4874-a817-543fb884997f",
+  "artistIds": [
+   "5a3ff79d-379d-4019-9954-c1357d0b4479",
+   "8cea45f5-2b45-4f9d-bc10-2bd40d458a49"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -772,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -505189
+ },
+ {
+  "id": "2939b2a4-995d-4470-8dae-06ea56746616",
+  "artistIds": [
+   "6fd36bd7-518d-4b79-9486-d133ddac5925"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -486,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -357422
+ },
+ {
+  "id": "7d9fe03d-56b9-444e-95a2-e76809a01e5a",
+  "artistIds": [
+   "934070db-837b-4df0-b919-b5a08039c86b",
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4"
+  ],
+  "venueId": "c3167dc6-6c05-4282-922b-1879c9ecda8c",
+  "dayOffset": -681,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -255132
+ },
+ {
+  "id": "4b9c1d6f-3dd1-49e0-ab7e-f67bfe098aa0",
+  "artistIds": [
+   "934070db-837b-4df0-b919-b5a08039c86b",
+   "0de3a808-d05e-4c97-bd8f-df0b44b0a94b"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -383,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -394225
+ },
+ {
+  "id": "fa40215f-87f2-43b4-8721-8dad5d6c7a48",
+  "artistIds": [
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4",
+   "f9393803-6bf0-4a21-a180-b77ffc83ec6a"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -114,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -186818
+ },
+ {
+  "id": "cc14d296-254b-4c6a-8f41-82dac789a77a",
+  "artistIds": [
+   "a0f2023f-d400-4fbe-b6df-a2c18848462b"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -808,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -229022
+ },
+ {
+  "id": "0082e4b7-6640-421b-bc94-9d6c78394a4d",
+  "artistIds": [
+   "ffaba604-c3ab-4a2e-adc3-d903ae485a14",
+   "a97335ba-28be-4b42-8314-485faea78f27"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -864,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -332737
+ },
+ {
+  "id": "8f10ecb8-751f-4fe5-b481-2b2d225a2abf",
+  "artistIds": [
+   "4698f94b-5e71-4ad9-990d-d92e5f14064c",
+   "29fbe62f-4fd1-496a-ba3e-2a43895ec681",
+   "84c3f2f5-eaee-450c-b18f-cbd62aacee57"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -298,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -345156
+ },
+ {
+  "id": "97bd8bb1-cdce-4aa3-9210-b9defec00715",
+  "artistIds": [
+   "217d7900-c4e0-435f-8d76-e55d0acc9011",
+   "1ade15c2-6173-4a2e-85f8-82ac22a5cd35",
+   "c0a8a7e4-f2a7-4767-9c34-c02a376310bc"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -774,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -321042
+ },
+ {
+  "id": "d2a56419-c87f-44f4-ab61-2a55b5980fec",
+  "artistIds": [
+   "40d8301d-a664-4692-a223-426c2644f1d3",
+   "f8dab46b-6f78-4f85-826f-cd7db6ff2f80",
+   "b150e7ff-6cea-43f9-8c6b-15b064d270ce"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -358,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -457350
+ },
+ {
+  "id": "f6e80684-e54b-4140-8523-753cf4b86169",
+  "artistIds": [
+   "216c1fe9-104d-4b95-ab9d-5b5fae9f109f",
+   "5a3ff79d-379d-4019-9954-c1357d0b4479"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -606,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -382481
+ },
+ {
+  "id": "59eeea64-a164-4ce5-940c-5017fc7fa787",
+  "artistIds": [
+   "2d3f1910-0c40-4fb9-ac30-39dff53a8b8c",
+   "e1bfbca1-82be-4967-b549-9a24456f9393"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -388,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -283359
+ },
+ {
+  "id": "3b26e2de-bf4b-45a4-a50b-57b53a872cbf",
+  "artistIds": [
+   "6d4c72b1-b738-446b-90b9-d10dedba7c15",
+   "bcaf8b3c-1cf2-49ec-a112-133d02c174f6"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -344,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -556455
+ },
+ {
+  "id": "59eb37d1-934f-4a56-b43f-2bb3c3f7441f",
+  "artistIds": [
+   "40d8301d-a664-4692-a223-426c2644f1d3",
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84",
+   "211bc96d-c284-4179-9b19-30ed3c71e36a"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -796,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -10392
+ },
+ {
+  "id": "17ef69d5-a4e2-4419-8c06-ef5ceec85d74",
+  "artistIds": [
+   "e6ca7f79-1e27-4fc8-bb33-3767db7bd6a1"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -740,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -47493
+ },
+ {
+  "id": "4f7da3b1-14a2-49e5-bbdd-cc9419d726c8",
+  "artistIds": [
+   "5bcbbe85-2f04-4727-a78e-a89d131ec1b4",
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0",
+   "5a3ff79d-379d-4019-9954-c1357d0b4479"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -82,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -223820
+ },
+ {
+  "id": "17e17859-580a-48b3-8ec2-d3cad8f4a434",
+  "artistIds": [
+   "29fbe62f-4fd1-496a-ba3e-2a43895ec681"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -683,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -157304
+ },
+ {
+  "id": "f53b41be-a3b1-4138-b8a9-66d4817b8a90",
+  "artistIds": [
+   "dd628a94-b5b1-435e-b84d-cb67bc95117d",
+   "0d84dc90-3a59-4f77-b668-4c118d3ac17f",
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4"
+  ],
+  "venueId": "bdfdb9ee-2488-49c4-99cf-c337594240bb",
+  "dayOffset": -367,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -146092
+ },
+ {
+  "id": "7835b359-93bc-422c-a153-051d16139780",
+  "artistIds": [
+   "e1bfbca1-82be-4967-b549-9a24456f9393"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -350,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -95321
+ },
+ {
+  "id": "435477f0-ee4e-42bb-9037-1d581e489b81",
+  "artistIds": [
+   "6f81be51-2ab3-45a4-bd46-2696897c1589",
+   "f6f05290-e885-4a8e-aa76-17b8fd8ebd14"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -622,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -280312
+ },
+ {
+  "id": "3959d095-2ca7-422e-89ab-99c69ac9bf0d",
+  "artistIds": [
+   "f8dab46b-6f78-4f85-826f-cd7db6ff2f80"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": -280,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -37289
+ },
+ {
+  "id": "33deb703-df8d-47d9-a217-4c44ab34e6df",
+  "artistIds": [
+   "b5cb8eda-2cc4-428a-bfef-4981f0e734d3"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -700,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -363281
+ },
+ {
+  "id": "984945f8-a6af-4299-b949-8380f95fda46",
+  "artistIds": [
+   "5d0b1e42-c85e-4e9c-aa92-751af03c2ed6"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -699,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -44949
+ },
+ {
+  "id": "8d23cc68-5507-4988-8bf4-94dadcd11ccc",
+  "artistIds": [
+   "45d0d77c-eca6-4162-94bf-0ff3773df814"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": -490,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -405260
+ },
+ {
+  "id": "cf9da8fa-e3e6-4f21-9d68-da79a9f0247b",
+  "artistIds": [
+   "b56d05a0-eb63-4f23-91a3-b782dbdfe248",
+   "c84d01c5-6cd7-4964-8f01-f333b283df9e"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -39,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -380110
+ },
+ {
+  "id": "c0569a56-7e64-4055-9570-012d4e39f5bb",
+  "artistIds": [
+   "39daf365-09a4-401c-9851-295bffc2472d",
+   "e1bfbca1-82be-4967-b549-9a24456f9393",
+   "cd1af1ac-8d95-47a4-b0e5-65c4c3678342"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -564,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -394285
+ },
+ {
+  "id": "f136f8a9-1d52-4b20-858f-981fdf53fb20",
+  "artistIds": [
+   "a8edf1dd-1c4d-417c-8397-eb66e4783203",
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -489,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -549330
+ },
+ {
+  "id": "89a5b64d-7380-4658-8bed-8231c7ddc34d",
+  "artistIds": [
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0",
+   "05af3632-a5db-42c2-b366-6acba6a82008"
+  ],
+  "venueId": "cb664351-a997-4964-a734-f6c986b56c49",
+  "dayOffset": -171,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -451121
+ },
+ {
+  "id": "44f61b10-0c5e-4666-9eca-8a03e7556635",
+  "artistIds": [
+   "afee1189-7396-42e3-a0d2-a3f34c771972"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -204,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -461689
+ },
+ {
+  "id": "17b08c89-952b-43bc-bda0-9336ec853793",
+  "artistIds": [
+   "217d7900-c4e0-435f-8d76-e55d0acc9011"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -302,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -40915
+ },
+ {
+  "id": "8a41f95e-2a00-41dc-bd63-f6a41c909070",
+  "artistIds": [
+   "32aa133e-5da4-4635-a438-ed30c798ae9d",
+   "b03d0547-78d8-4842-8ce2-22d818c9ed87",
+   "3b1b55d8-233f-40e7-be17-4ff53f51f16e"
+  ],
+  "venueId": "8db54ff7-615f-442a-8c13-cf477b0fe3ab",
+  "dayOffset": -11,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -125794
+ },
+ {
+  "id": "b3d63225-c41a-4bb0-9f37-3a705a639f9d",
+  "artistIds": [
+   "08937db7-1618-4cae-893f-ba8007f34b99",
+   "78cf55a8-6db4-4f9b-a805-40a5f63cde33",
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -197,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -222167
+ },
+ {
+  "id": "db55cec6-ebf2-4c01-9c5f-baf97efd2473",
+  "artistIds": [
+   "5e4728c1-402c-43b0-a755-d44a9de041bd",
+   "1e0c3448-8faa-4697-8af2-0ec308a7c1d6"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -319,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -283056
+ },
+ {
+  "id": "3493399d-eab4-4013-97dd-8d5d5fda8008",
+  "artistIds": [
+   "92fb64ad-7f16-44c8-ba1c-dae125a271f8"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": -627,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -136182
+ },
+ {
+  "id": "23fe6730-efa1-4cb3-b737-84dc8e15a942",
+  "artistIds": [
+   "0fae9df1-4f4a-4ebf-a4d7-8b82e3c3133b"
+  ],
+  "venueId": "d179fc7a-d85e-4e0b-baa9-d6071ab954a4",
+  "dayOffset": -790,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -219496
+ },
+ {
+  "id": "3e6a190b-1167-4a7e-b64b-a7fb6f98aefb",
+  "artistIds": [
+   "ea2ee06f-7874-485e-94c8-3b5a9e6355bc",
+   "0e2288a2-04f6-4556-81ae-bb822eadd429"
+  ],
+  "venueId": "a9694571-920a-42b8-a6d9-1b192a03185c",
+  "dayOffset": -146,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -370992
+ },
+ {
+  "id": "25e9d4e8-e4a9-4e63-ae7c-ffc06f231231",
+  "artistIds": [
+   "fa665199-9533-4a8f-94ce-236c785655cf"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": -214,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -69973
+ },
+ {
+  "id": "a984d516-75d5-4da9-bfba-9125fadc3bdd",
+  "artistIds": [
+   "72b73d92-de78-4622-9198-0a52e2324c0a"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -281,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -464349
+ },
+ {
+  "id": "31e88a2a-c30f-4fc0-9486-410724be495f",
+  "artistIds": [
+   "412268db-50f7-40f4-8bd9-fdaa60d6b194",
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": -478,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -343836
+ },
+ {
+  "id": "c2af1e87-17fc-4581-be42-c07f2fb8ad64",
+  "artistIds": [
+   "5d0b1e42-c85e-4e9c-aa92-751af03c2ed6"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -623,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -212335
+ },
+ {
+  "id": "e10bb230-c3d9-46eb-a35b-615305aea311",
+  "artistIds": [
+   "b150e7ff-6cea-43f9-8c6b-15b064d270ce",
+   "09925fc2-5329-4eab-bef8-bcfbbf49fb2e"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": -229,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -54027
+ },
+ {
+  "id": "c512d811-4be8-4115-a9e1-af0e80d3e950",
+  "artistIds": [
+   "938c62fb-ba61-48be-87da-dbec1763f28e",
+   "0de3a808-d05e-4c97-bd8f-df0b44b0a94b"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -356,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -394645
+ },
+ {
+  "id": "377440b5-9dc7-4920-a6d3-2910c42f83cb",
+  "artistIds": [
+   "fa665199-9533-4a8f-94ce-236c785655cf",
+   "547ff78b-0102-4e8e-93c0-74c70a742d8b",
+   "6fd36bd7-518d-4b79-9486-d133ddac5925"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -795,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -301354
+ },
+ {
+  "id": "22364971-ba31-47a9-b055-0f0502535197",
+  "artistIds": [
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -151,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -180795
+ },
+ {
+  "id": "4c5e897b-00ed-4467-bd67-a2205195777c",
+  "artistIds": [
+   "18a6682b-ded5-467a-900e-20b2db3136be",
+   "938c62fb-ba61-48be-87da-dbec1763f28e",
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -713,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -120296
+ },
+ {
+  "id": "c7d69077-21e5-4ab2-91d4-2e81a9955900",
+  "artistIds": [
+   "32b0d6d1-086e-43de-8072-f0498cf580e0"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -357,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -19769
+ },
+ {
+  "id": "c3e90ac9-2fdb-4e11-8743-7543397beaa0",
+  "artistIds": [
+   "fc820b7a-c9e8-4aa0-a660-ffc6d2afa3a6",
+   "e6ca7f79-1e27-4fc8-bb33-3767db7bd6a1"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": -217,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -513227
+ },
+ {
+  "id": "e18beba1-e40f-40df-8af4-d1e04873b690",
+  "artistIds": [
+   "deef5733-2847-4679-affd-33c5a6e4c34e",
+   "354a75d3-96ac-4e80-a277-8c77f7b27e9d"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -5,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -486713
+ },
+ {
+  "id": "49e13784-861b-4edb-9b4f-3ecbc6d57ba6",
+  "artistIds": [
+   "05af3632-a5db-42c2-b366-6acba6a82008"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -345,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -26650
+ },
+ {
+  "id": "8f0d7809-04e6-4fc6-aa49-c3ec63fc2022",
+  "artistIds": [
+   "32aa133e-5da4-4635-a438-ed30c798ae9d"
+  ],
+  "venueId": "1f117ca8-8c5e-4633-8319-190f1f8b9425",
+  "dayOffset": -95,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -53748
+ },
+ {
+  "id": "b537d9c9-a9ed-429c-bc77-ee02c2efe5a7",
+  "artistIds": [
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7",
+   "547ff78b-0102-4e8e-93c0-74c70a742d8b"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -371,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -546008
+ },
+ {
+  "id": "71d99b1e-84d4-453d-9e21-8f12d09d9078",
+  "artistIds": [
+   "ccf80ff2-3137-491b-b382-1385af1dc939"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -760,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -289404
+ },
+ {
+  "id": "1da511b3-8ef7-4531-a724-b41acd8e6809",
+  "artistIds": [
+   "72b73d92-de78-4622-9198-0a52e2324c0a",
+   "19032aee-d7b4-4f99-99e4-d8ce00eb99d0",
+   "b13e5ebd-d6a5-4b9d-b5ec-29125338403a"
+  ],
+  "venueId": "23e7765d-5202-44e3-a577-f360d79ef420",
+  "dayOffset": -873,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -213387
+ },
+ {
+  "id": "88062479-6521-4b37-93a3-bdaadf789bf2",
+  "artistIds": [
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4",
+   "5a836954-880a-452d-ad01-ae011dbc101d",
+   "a97335ba-28be-4b42-8314-485faea78f27"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": -359,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -114975
+ },
+ {
+  "id": "f7b3582a-e8e8-4a1a-9298-bd698bef2009",
+  "artistIds": [
+   "f9393803-6bf0-4a21-a180-b77ffc83ec6a",
+   "c789924d-9ed6-47cf-a656-688664c14330"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -289,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -55593
+ },
+ {
+  "id": "d8a3ce50-fa16-4c96-804e-4e19a5e47543",
+  "artistIds": [
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -671,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -358118
+ },
+ {
+  "id": "16c26984-61ee-439c-9fd4-5869942a673a",
+  "artistIds": [
+   "b13e5ebd-d6a5-4b9d-b5ec-29125338403a",
+   "354a75d3-96ac-4e80-a277-8c77f7b27e9d"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -324,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -262360
+ },
+ {
+  "id": "03b86f5c-6c4d-4cb7-a807-810b2fad5f4f",
+  "artistIds": [
+   "0fae9df1-4f4a-4ebf-a4d7-8b82e3c3133b",
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -643,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -460280
+ },
+ {
+  "id": "12028c5b-689e-42b7-b2df-ecfe56198796",
+  "artistIds": [
+   "72b73d92-de78-4622-9198-0a52e2324c0a",
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -133,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -285058
+ },
+ {
+  "id": "c94a8322-28f5-4dbe-aef9-6379c4691a31",
+  "artistIds": [
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84",
+   "cd1af1ac-8d95-47a4-b0e5-65c4c3678342"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": -506,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -259654
+ },
+ {
+  "id": "605c7952-a969-41eb-886c-d63a4d2f4e95",
+  "artistIds": [
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0",
+   "354a75d3-96ac-4e80-a277-8c77f7b27e9d"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -230,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -179117
+ },
+ {
+  "id": "d139987a-9cb6-4b28-949a-2da276c6f8dc",
+  "artistIds": [
+   "1ade15c2-6173-4a2e-85f8-82ac22a5cd35",
+   "5bcbbe85-2f04-4727-a78e-a89d131ec1b4"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -686,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -70
+ },
+ {
+  "id": "fe922e0d-8f39-404e-9152-4c3518c17689",
+  "artistIds": [
+   "354e5223-c4f2-47da-a6e0-a9bfee3f5431",
+   "ea2ee06f-7874-485e-94c8-3b5a9e6355bc"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": -556,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -535971
+ },
+ {
+  "id": "5a08cd36-720e-4279-837f-fa5e96417219",
+  "artistIds": [
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1",
+   "95bee5f5-670d-4915-995c-a2d37a64b318"
+  ],
+  "venueId": "cb664351-a997-4964-a734-f6c986b56c49",
+  "dayOffset": -861,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -295329
+ },
+ {
+  "id": "5cb5d515-0c02-4512-99fb-6c590755080b",
+  "artistIds": [
+   "32aa133e-5da4-4635-a438-ed30c798ae9d"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -303,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -550146
+ },
+ {
+  "id": "bf9a79db-9e46-4cf6-acd1-321b8b7d1d37",
+  "artistIds": [
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": -651,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -284657
+ },
+ {
+  "id": "e5d0eaf9-c1e8-421e-8743-8d44c4ac32e9",
+  "artistIds": [
+   "e40164e4-414a-4c24-bf14-b9332a6ca75e",
+   "315cb02b-2610-49d6-9c1a-1bcbad63ea7a"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": -5,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -505366
+ },
+ {
+  "id": "11773711-5834-464b-8438-9d00125a21e5",
+  "artistIds": [
+   "b56d05a0-eb63-4f23-91a3-b782dbdfe248",
+   "40d8301d-a664-4692-a223-426c2644f1d3"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -664,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -334242
+ },
+ {
+  "id": "4620018a-4922-48bb-a13b-895ebc0935f9",
+  "artistIds": [
+   "b13e5ebd-d6a5-4b9d-b5ec-29125338403a"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -772,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -418908
+ },
+ {
+  "id": "f6a0fa6c-fbdc-470d-a273-efe4c0b39793",
+  "artistIds": [
+   "5763b989-4f2b-415e-ba0e-40ac4ecc308a"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -214,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -401940
+ },
+ {
+  "id": "f2390978-6e4e-4c8a-906b-0236cfc0f539",
+  "artistIds": [
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b",
+   "5e4728c1-402c-43b0-a755-d44a9de041bd",
+   "6f81be51-2ab3-45a4-bd46-2696897c1589"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -641,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -517982
+ },
+ {
+  "id": "e6b2dc96-96f9-40d5-a739-396f7685c8ad",
+  "artistIds": [
+   "7fb2a447-03fc-48ff-9cbe-54b46628876b",
+   "72b73d92-de78-4622-9198-0a52e2324c0a"
+  ],
+  "venueId": "63fc326b-95b4-452f-beb9-7a44ec9eafef",
+  "dayOffset": -822,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -179524
+ },
+ {
+  "id": "106fd82f-8394-4e13-9f4d-5a725eefa92f",
+  "artistIds": [
+   "8c61d574-b11b-4960-bbab-5452d82f6051",
+   "ff1bf4d7-4e24-415a-8fe4-f57376b99fe7"
+  ],
+  "venueId": "42f908d2-1351-4446-9109-0c04e0eec012",
+  "dayOffset": -324,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -82560
+ },
+ {
+  "id": "fb386946-1785-442f-9f2a-e6a6ea6c891a",
+  "artistIds": [
+   "3d9fe448-40c5-48df-9c55-980a6ea19d6f"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -656,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -302616
+ },
+ {
+  "id": "b98a7811-597e-4bb4-b53d-19cf14c0938a",
+  "artistIds": [
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1",
+   "7fb2a447-03fc-48ff-9cbe-54b46628876b"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": -455,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -16557
+ },
+ {
+  "id": "dddec546-6739-4ed3-9dc6-acc03b7b518f",
+  "artistIds": [
+   "1e0c3448-8faa-4697-8af2-0ec308a7c1d6"
+  ],
+  "venueId": "cb664351-a997-4964-a734-f6c986b56c49",
+  "dayOffset": -143,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -122221
+ },
+ {
+  "id": "c4806001-b024-4384-899b-5a0354d6b34e",
+  "artistIds": [
+   "8cea45f5-2b45-4f9d-bc10-2bd40d458a49",
+   "b150e7ff-6cea-43f9-8c6b-15b064d270ce"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": -13,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -220656
+ },
+ {
+  "id": "64f8f64a-f355-416c-b26f-09847aff5f5c",
+  "artistIds": [
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84",
+   "216c1fe9-104d-4b95-ab9d-5b5fae9f109f",
+   "354a75d3-96ac-4e80-a277-8c77f7b27e9d"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": -43,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -103953
+ },
+ {
+  "id": "51603eed-090e-47e7-83b1-ca29df2c28da",
+  "artistIds": [
+   "ea2ee06f-7874-485e-94c8-3b5a9e6355bc",
+   "0de3a808-d05e-4c97-bd8f-df0b44b0a94b"
+  ],
+  "venueId": "23e7765d-5202-44e3-a577-f360d79ef420",
+  "dayOffset": -638,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -174506
+ },
+ {
+  "id": "da891808-cc5d-4608-9b4c-af07fa6e9c04",
+  "artistIds": [
+   "5763b989-4f2b-415e-ba0e-40ac4ecc308a",
+   "b56d05a0-eb63-4f23-91a3-b782dbdfe248",
+   "ccf80ff2-3137-491b-b382-1385af1dc939"
+  ],
+  "venueId": "8db54ff7-615f-442a-8c13-cf477b0fe3ab",
+  "dayOffset": -28,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -297176
+ },
+ {
+  "id": "4d3de116-ed59-49a5-a8ae-06866d66d849",
+  "artistIds": [
+   "92fb64ad-7f16-44c8-ba1c-dae125a271f8",
+   "5e4728c1-402c-43b0-a755-d44a9de041bd"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": -48,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -266183
+ },
+ {
+  "id": "2773c121-6f8f-42ac-8e2e-112e8db41160",
+  "artistIds": [
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5",
+   "03bceec4-cf64-4558-8533-81f6859ad9e7",
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1"
+  ],
+  "venueId": "a417efd3-c416-490d-8998-f153989ecaaf",
+  "dayOffset": -107,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -512726
+ },
+ {
+  "id": "3a1ccfab-0931-4de8-827a-9f34d335f28c",
+  "artistIds": [
+   "37879f24-4666-43a8-9c71-2cca1e9d09e8"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": -450,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -288279
+ },
+ {
+  "id": "7e4f9a48-70df-44e1-9047-4d7c359bbf00",
+  "artistIds": [
+   "217d7900-c4e0-435f-8d76-e55d0acc9011",
+   "933f8268-8a43-4401-94de-9864362fc880"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": -418,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -375600
+ },
+ {
+  "id": "664a5329-9a18-4929-a1e5-e4170bbaf9b1",
+  "artistIds": [
+   "3ffbf556-1c6d-4027-9aea-7a5f2700ed7f",
+   "933f8268-8a43-4401-94de-9864362fc880"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": -9,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -109835
+ },
+ {
+  "id": "0c9a95cf-8223-4495-b264-24177376c7b3",
+  "artistIds": [
+   "32b0d6d1-086e-43de-8072-f0498cf580e0",
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": 262,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -10933
+ },
+ {
+  "id": "2388fad1-44a9-49a7-869a-ebf0f5e29804",
+  "artistIds": [
+   "601fd14a-163e-4775-9716-609b8f757230"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": 178,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -25121
+ },
+ {
+  "id": "9f1e0e80-a775-45cb-aca7-178e78a0ac3d",
+  "artistIds": [
+   "ba3aae14-ba6b-4c15-b411-be8590abdfea",
+   "eb6782c6-136e-416a-99b7-ea5ef15294d5",
+   "7d376ab6-4bc4-4038-a0b6-29e5d90fe7e9"
+  ],
+  "venueId": "63fc326b-95b4-452f-beb9-7a44ec9eafef",
+  "dayOffset": 119,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -48638
+ },
+ {
+  "id": "33bf5be5-2a9d-4b99-8552-73be2db8376a",
+  "artistIds": [
+   "6ca3b062-201e-4cda-a75b-70a89560bbf4",
+   "412268db-50f7-40f4-8bd9-fdaa60d6b194"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": 187,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -15681
+ },
+ {
+  "id": "d6c80106-54d4-4133-b2d8-02dd2e333e16",
+  "artistIds": [
+   "ccf80ff2-3137-491b-b382-1385af1dc939",
+   "217d9f2d-9265-449a-8f54-0be55b0e4618"
+  ],
+  "venueId": "714c6156-9fb2-446f-891c-8e3d0af56ea5",
+  "dayOffset": 100,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -2909
+ },
+ {
+  "id": "7e212526-9b7b-4a12-9795-610b0916be3f",
+  "artistIds": [
+   "fc820b7a-c9e8-4aa0-a660-ffc6d2afa3a6"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": 144,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -8657
+ },
+ {
+  "id": "c6b77237-2d12-4bf8-b9ef-36d1b5882ead",
+  "artistIds": [
+   "a33882a8-8786-4e03-8709-377c0a034b41",
+   "0d84dc90-3a59-4f77-b668-4c118d3ac17f"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": 222,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -12073
+ },
+ {
+  "id": "9d19d302-11e9-4386-b17a-baaa069a6ab1",
+  "artistIds": [
+   "05af3632-a5db-42c2-b366-6acba6a82008",
+   "938c62fb-ba61-48be-87da-dbec1763f28e",
+   "217d7900-c4e0-435f-8d76-e55d0acc9011"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": 100,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -49736
+ },
+ {
+  "id": "bf082949-b514-4315-8474-3effb33d017f",
+  "artistIds": [
+   "188d955f-cccb-4a84-bb7c-c9ca764c996b",
+   "1ade15c2-6173-4a2e-85f8-82ac22a5cd35"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": 134,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -50042
+ },
+ {
+  "id": "9461dda4-0215-4bfe-9f91-aad902a51ca1",
+  "artistIds": [
+   "ccf80ff2-3137-491b-b382-1385af1dc939",
+   "35f72ef0-bcbe-444f-ad1b-1b1eeda626b5",
+   "123d22b7-509a-4b29-b2c0-6595176b7f9c"
+  ],
+  "venueId": "d8cef7bb-7ff9-4c7c-9106-c31b1d5c3b6b",
+  "dayOffset": 43,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -227339
+ },
+ {
+  "id": "69709bb6-fc23-470b-9e5a-47b4809ff7a7",
+  "artistIds": [
+   "29fbe62f-4fd1-496a-ba3e-2a43895ec681"
+  ],
+  "venueId": "870557a6-0a5e-4867-8270-13a6ad4bafb2",
+  "dayOffset": 52,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -52287
+ },
+ {
+  "id": "4c998528-9082-488d-b360-a7c50a8460dc",
+  "artistIds": [
+   "32aa133e-5da4-4635-a438-ed30c798ae9d"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": 74,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -422924
+ },
+ {
+  "id": "fe2cda45-3278-4b26-ae3a-f8977a800b00",
+  "artistIds": [
+   "1aa135d7-a6b8-4c6c-b6a1-804964e5a0c0"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": 28,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -13599
+ },
+ {
+  "id": "482e9f22-7359-407f-ab66-13e2b641cd4e",
+  "artistIds": [
+   "b13e5ebd-d6a5-4b9d-b5ec-29125338403a"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": 71,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -49407
+ },
+ {
+  "id": "bc9d07db-07d5-4cc8-916f-38603f0f6124",
+  "artistIds": [
+   "deef5733-2847-4679-affd-33c5a6e4c34e",
+   "4698f94b-5e71-4ad9-990d-d92e5f14064c"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": 62,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -50709
+ },
+ {
+  "id": "4f7c8bc1-124c-4c54-b971-f51ac2fab6f0",
+  "artistIds": [
+   "19032aee-d7b4-4f99-99e4-d8ce00eb99d0",
+   "5d0b1e42-c85e-4e9c-aa92-751af03c2ed6"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": 93,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -12742
+ },
+ {
+  "id": "431ecae7-a29d-4aac-9476-1d078314769d",
+  "artistIds": [
+   "deef5733-2847-4679-affd-33c5a6e4c34e",
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "63fc326b-95b4-452f-beb9-7a44ec9eafef",
+  "dayOffset": 113,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -9912
+ },
+ {
+  "id": "36d191a3-8cb8-4f43-aec9-01512ce5e3f7",
+  "artistIds": [
+   "601fd14a-163e-4775-9716-609b8f757230",
+   "09925fc2-5329-4eab-bef8-bcfbbf49fb2e"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": 45,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -38593
+ },
+ {
+  "id": "df849160-b074-4e30-9ebb-43ef2d900aeb",
+  "artistIds": [
+   "72b73d92-de78-4622-9198-0a52e2324c0a",
+   "a97335ba-28be-4b42-8314-485faea78f27"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": 241,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -386507
+ },
+ {
+  "id": "96eb3739-328a-4668-9650-1894cfe4c775",
+  "artistIds": [
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5",
+   "ea2ee06f-7874-485e-94c8-3b5a9e6355bc"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": 94,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -431713
+ },
+ {
+  "id": "4fa97ed4-bc3a-4063-a4d7-5f00ea4ad72c",
+  "artistIds": [
+   "08937db7-1618-4cae-893f-ba8007f34b99"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": 172,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -5297
+ },
+ {
+  "id": "72c9a6a9-db5e-418f-9699-3b515f4c7fa5",
+  "artistIds": [
+   "123d22b7-509a-4b29-b2c0-6595176b7f9c"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": 46,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -800
+ },
+ {
+  "id": "1bf65f0d-ae40-4cec-8d3e-0291692848c5",
+  "artistIds": [
+   "08937db7-1618-4cae-893f-ba8007f34b99",
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7",
+   "354a75d3-96ac-4e80-a277-8c77f7b27e9d"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": 5,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -5028
+ },
+ {
+  "id": "ca925d80-5dd6-45f7-b272-e77057ec231c",
+  "artistIds": [
+   "dd628a94-b5b1-435e-b84d-cb67bc95117d"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": 157,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -24962
+ },
+ {
+  "id": "d5ab9ad0-4701-49a2-a2e0-a4d991847dfa",
+  "artistIds": [
+   "e409e8ad-ab76-44d1-9b0c-a67165ef4d0e"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": 226,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -185604
+ },
+ {
+  "id": "0f206e1c-2f4e-4c97-9f26-b1a886ac105a",
+  "artistIds": [
+   "b150e7ff-6cea-43f9-8c6b-15b064d270ce"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": 68,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -19791
+ },
+ {
+  "id": "15a7750e-9c63-4d8f-bfdd-c3688a46cfcb",
+  "artistIds": [
+   "934070db-837b-4df0-b919-b5a08039c86b",
+   "a97335ba-28be-4b42-8314-485faea78f27",
+   "3d9fe448-40c5-48df-9c55-980a6ea19d6f"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": 165,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -4338
+ },
+ {
+  "id": "5e38f7cf-1917-476d-8ef2-852877eb80d7",
+  "artistIds": [
+   "8c61d574-b11b-4960-bbab-5452d82f6051",
+   "45d0d77c-eca6-4162-94bf-0ff3773df814",
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": 69,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -21748
+ },
+ {
+  "id": "967c16c3-e1e1-4b5f-a47f-2495dc15ea13",
+  "artistIds": [
+   "4698f94b-5e71-4ad9-990d-d92e5f14064c"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": 107,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -522050
+ },
+ {
+  "id": "02d543dd-e518-45df-a42e-9d5383a9c0ca",
+  "artistIds": [
+   "deef5733-2847-4679-affd-33c5a6e4c34e",
+   "b5c4a78a-529a-4aa6-8163-cd838e8d3f9f",
+   "dd628a94-b5b1-435e-b84d-cb67bc95117d"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": 152,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -27488
+ },
+ {
+  "id": "827f830d-9fcd-4fa2-837d-8595516b60bf",
+  "artistIds": [
+   "325ff974-a67c-4532-ab78-68089045607a"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": 267,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -22284
+ },
+ {
+  "id": "638c2ff6-b13e-471c-88e3-d70279713c24",
+  "artistIds": [
+   "0e2288a2-04f6-4556-81ae-bb822eadd429",
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": 231,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -30210
+ },
+ {
+  "id": "492457c8-b894-4491-ac2a-ef5e1f74c1b7",
+  "artistIds": [
+   "e1bfbca1-82be-4967-b549-9a24456f9393",
+   "72b73d92-de78-4622-9198-0a52e2324c0a"
+  ],
+  "venueId": "481f15a5-1008-4915-bef4-7378f8627a24",
+  "dayOffset": 14,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -205321
+ },
+ {
+  "id": "d05e28c7-e9ee-4958-ae5d-31d33b5ec477",
+  "artistIds": [
+   "5763b989-4f2b-415e-ba0e-40ac4ecc308a",
+   "e40164e4-414a-4c24-bf14-b9332a6ca75e"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": 124,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -51209
+ },
+ {
+  "id": "405f5970-f661-492f-b4ab-5e3675ddeae5",
+  "artistIds": [
+   "a33882a8-8786-4e03-8709-377c0a034b41",
+   "6d4c72b1-b738-446b-90b9-d10dedba7c15",
+   "dd628a94-b5b1-435e-b84d-cb67bc95117d"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": 123,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -43374
+ },
+ {
+  "id": "9795927f-feb5-46a2-9f4e-99a70d32feaa",
+  "artistIds": [
+   "afee1189-7396-42e3-a0d2-a3f34c771972",
+   "37879f24-4666-43a8-9c71-2cca1e9d09e8"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": 244,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -499987
+ },
+ {
+  "id": "dc99f145-405f-47e7-bc9d-d8ac776f2775",
+  "artistIds": [
+   "5e48eb4c-9eec-433d-950f-46364aa5a9da",
+   "325ff974-a67c-4532-ab78-68089045607a",
+   "ffaba604-c3ab-4a2e-adc3-d903ae485a14"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": 68,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -7976
+ },
+ {
+  "id": "d5e5c84a-64aa-4ebb-9f39-7e0327ef6cb7",
+  "artistIds": [
+   "5a836954-880a-452d-ad01-ae011dbc101d",
+   "5d0b1e42-c85e-4e9c-aa92-751af03c2ed6",
+   "217d9f2d-9265-449a-8f54-0be55b0e4618"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": 204,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -556477
+ },
+ {
+  "id": "1487bfb2-78b9-4ab5-8dca-0d9e3e82118b",
+  "artistIds": [
+   "f8dab46b-6f78-4f85-826f-cd7db6ff2f80",
+   "5bcbbe85-2f04-4727-a78e-a89d131ec1b4"
+  ],
+  "venueId": "a417efd3-c416-490d-8998-f153989ecaaf",
+  "dayOffset": 24,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -259778
+ },
+ {
+  "id": "f5b50af3-83ec-4931-82d6-caedf33b4f87",
+  "artistIds": [
+   "ea2ee06f-7874-485e-94c8-3b5a9e6355bc",
+   "412268db-50f7-40f4-8bd9-fdaa60d6b194",
+   "deef5733-2847-4679-affd-33c5a6e4c34e"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": 105,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -53835
+ },
+ {
+  "id": "aa750e1b-eae6-4c97-9e33-d74aa918fd67",
+  "artistIds": [
+   "b03d0547-78d8-4842-8ce2-22d818c9ed87",
+   "32aa133e-5da4-4635-a438-ed30c798ae9d"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": 76,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -362524
+ },
+ {
+  "id": "d818eb20-3435-4d3a-8dbd-6c3ae5763786",
+  "artistIds": [
+   "32aa133e-5da4-4635-a438-ed30c798ae9d",
+   "b5c4a78a-529a-4aa6-8163-cd838e8d3f9f"
+  ],
+  "venueId": "5888a08a-71b9-4e21-b414-25b367c6863f",
+  "dayOffset": 172,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -1780
+ },
+ {
+  "id": "1281f28a-d4bc-4ed2-9cd7-53145222af66",
+  "artistIds": [
+   "05af3632-a5db-42c2-b366-6acba6a82008",
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": 270,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -51528
+ },
+ {
+  "id": "bb40879f-e147-48c9-a52c-f30dae4222a8",
+  "artistIds": [
+   "6ca3b062-201e-4cda-a75b-70a89560bbf4",
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": 209,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -354768
+ },
+ {
+  "id": "5bcd9109-0b18-420f-bc55-84efe1768a08",
+  "artistIds": [
+   "1e0c3448-8faa-4697-8af2-0ec308a7c1d6",
+   "6636612f-87b0-4c5d-afad-a495477df046"
+  ],
+  "venueId": "d8cef7bb-7ff9-4c7c-9106-c31b1d5c3b6b",
+  "dayOffset": 130,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -25875
+ },
+ {
+  "id": "5177b4a7-2a1e-4030-aac9-bfaff3006bc5",
+  "artistIds": [
+   "325ff974-a67c-4532-ab78-68089045607a"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": 266,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -546916
+ },
+ {
+  "id": "7093fdd4-9d44-47c2-b544-722df352d97a",
+  "artistIds": [
+   "5bcbbe85-2f04-4727-a78e-a89d131ec1b4",
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": 42,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -23264
+ },
+ {
+  "id": "cbf7afbb-21b4-4712-a10e-fa9db7199ae0",
+  "artistIds": [
+   "8b7d7363-f0aa-4ae7-9308-30d95721a120",
+   "8c61d574-b11b-4960-bbab-5452d82f6051",
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": 245,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -116162
+ },
+ {
+  "id": "b3624c09-3c08-4530-a138-ed5f0e2e81c4",
+  "artistIds": [
+   "35f72ef0-bcbe-444f-ad1b-1b1eeda626b5"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": 229,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -33219
+ },
+ {
+  "id": "56725cf3-a41f-47c8-b60f-199ff5e3f91a",
+  "artistIds": [
+   "40d8301d-a664-4692-a223-426c2644f1d3",
+   "0de3a808-d05e-4c97-bd8f-df0b44b0a94b",
+   "e6ca7f79-1e27-4fc8-bb33-3767db7bd6a1"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": 58,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -489357
+ },
+ {
+  "id": "97f15d34-2baa-4278-af37-52e9c550de03",
+  "artistIds": [
+   "7d376ab6-4bc4-4038-a0b6-29e5d90fe7e9",
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2",
+   "dd628a94-b5b1-435e-b84d-cb67bc95117d"
+  ],
+  "venueId": "f85460ad-aa7e-43a7-b1b5-0ba97625cf06",
+  "dayOffset": 169,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -3021
+ },
+ {
+  "id": "6b9c1d5d-e92c-4c32-b0ed-78a98a781d44",
+  "artistIds": [
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4",
+   "fa665199-9533-4a8f-94ce-236c785655cf"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": 88,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -36396
+ },
+ {
+  "id": "0e4c2307-81a9-46be-ae88-c691ea727bd0",
+  "artistIds": [
+   "45d0d77c-eca6-4162-94bf-0ff3773df814"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": 220,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -240256
+ },
+ {
+  "id": "a4e027d7-04bc-4e82-88f0-ea7d1c4ff562",
+  "artistIds": [
+   "3fe3fc34-3101-4f15-bce8-1aae85a1925b",
+   "b56d05a0-eb63-4f23-91a3-b782dbdfe248",
+   "cbb4bd7e-8c62-4a70-ba35-b961fd29422a"
+  ],
+  "venueId": "cb664351-a997-4964-a734-f6c986b56c49",
+  "dayOffset": 212,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -395669
+ },
+ {
+  "id": "2d17febf-ac70-4e17-a549-2f0adbd7925a",
+  "artistIds": [
+   "ff1bf4d7-4e24-415a-8fe4-f57376b99fe7",
+   "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1"
+  ],
+  "venueId": "ad018e63-86dd-4509-9d55-a090fe8d1d09",
+  "dayOffset": 62,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -54221
+ },
+ {
+  "id": "f7fca1e1-e0ae-4d64-bb97-6383ed533e47",
+  "artistIds": [
+   "5a3ff79d-379d-4019-9954-c1357d0b4479",
+   "325ff974-a67c-4532-ab78-68089045607a"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": 175,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -53376
+ },
+ {
+  "id": "edbad6e2-d501-4f21-b476-91c7c3d8c1af",
+  "artistIds": [
+   "05af3632-a5db-42c2-b366-6acba6a82008",
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": 172,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -59132
+ },
+ {
+  "id": "c9c3e983-316e-4214-91e1-a0390d7c912e",
+  "artistIds": [
+   "78cf55a8-6db4-4f9b-a805-40a5f63cde33"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": 150,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -35808
+ },
+ {
+  "id": "295b269b-09e6-4e05-b6d2-cad1d3a570b2",
+  "artistIds": [
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914",
+   "f8dab46b-6f78-4f85-826f-cd7db6ff2f80"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": 265,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -15498
+ },
+ {
+  "id": "6739fd84-9b7b-4ab5-849e-4d797fb3f0c0",
+  "artistIds": [
+   "ba3aae14-ba6b-4c15-b411-be8590abdfea",
+   "6d4c72b1-b738-446b-90b9-d10dedba7c15"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": 111,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -428845
+ },
+ {
+  "id": "00e79207-3e5f-4a2e-a5ef-937f2524b88b",
+  "artistIds": [
+   "4496d9e0-3cbb-43be-9d42-b814dc39f578"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": 12,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -36793
+ },
+ {
+  "id": "92932d0f-acec-4c53-b23b-55ecbbfc8a81",
+  "artistIds": [
+   "0e2288a2-04f6-4556-81ae-bb822eadd429",
+   "a0f2023f-d400-4fbe-b6df-a2c18848462b"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": 157,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -135849
+ },
+ {
+  "id": "4c3cd4b9-7192-41d7-a560-02e4b79f0cec",
+  "artistIds": [
+   "5a3ff79d-379d-4019-9954-c1357d0b4479"
+  ],
+  "venueId": "481f15a5-1008-4915-bef4-7378f8627a24",
+  "dayOffset": 101,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -446515
+ },
+ {
+  "id": "2e9b1bb6-0e08-40df-871d-54977663ebc1",
+  "artistIds": [
+   "b56d05a0-eb63-4f23-91a3-b782dbdfe248",
+   "fc820b7a-c9e8-4aa0-a660-ffc6d2afa3a6"
+  ],
+  "venueId": "c620e568-7f3f-488d-81d8-b0ec7a074dc5",
+  "dayOffset": 221,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -386383
+ },
+ {
+  "id": "2ae6cd13-385f-494a-8187-20b0c8a7f95a",
+  "artistIds": [
+   "ad82def8-3afe-46ce-91f9-1c03525c2db9",
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5",
+   "aa8a8813-1523-41e6-ab7d-d1ffd3757a84"
+  ],
+  "venueId": "23e7765d-5202-44e3-a577-f360d79ef420",
+  "dayOffset": 31,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -375564
+ },
+ {
+  "id": "95371864-647c-4337-867a-c7732044ef31",
+  "artistIds": [
+   "0d84dc90-3a59-4f77-b668-4c118d3ac17f"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": 69,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -7405
+ },
+ {
+  "id": "869d8881-547e-48db-8b50-ab16efd3b4d6",
+  "artistIds": [
+   "0d84dc90-3a59-4f77-b668-4c118d3ac17f"
+  ],
+  "venueId": "48daa9a2-f421-41b9-b4b7-6bc5d5bb2a71",
+  "dayOffset": 234,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -41943
+ },
+ {
+  "id": "3d6493cf-ae4f-476b-aa0a-babbbf4a9cba",
+  "artistIds": [
+   "a33882a8-8786-4e03-8709-377c0a034b41"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": 129,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -290158
+ },
+ {
+  "id": "c58af07b-a636-4196-bb30-ce9c2c1426ab",
+  "artistIds": [
+   "3fe3fc34-3101-4f15-bce8-1aae85a1925b",
+   "ba3aae14-ba6b-4c15-b411-be8590abdfea",
+   "6ca3b062-201e-4cda-a75b-70a89560bbf4"
+  ],
+  "venueId": "7f1d2005-b835-453f-a30a-b861d801221e",
+  "dayOffset": 254,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -62232
+ },
+ {
+  "id": "cc27aa26-54c1-432d-aa93-22a52c806276",
+  "artistIds": [
+   "a0f2023f-d400-4fbe-b6df-a2c18848462b"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": 39,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -67448
+ },
+ {
+  "id": "b82c65dd-024a-496d-b44c-c08589377ebb",
+  "artistIds": [
+   "7d376ab6-4bc4-4038-a0b6-29e5d90fe7e9",
+   "e1b8f0f1-b674-40cc-b809-14707f04f306"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": 223,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -15861
+ },
+ {
+  "id": "2459e1f7-1857-4e99-a7fe-7219fcb9bc67",
+  "artistIds": [
+   "3ffbf556-1c6d-4027-9aea-7a5f2700ed7f",
+   "78cf55a8-6db4-4f9b-a805-40a5f63cde33"
+  ],
+  "venueId": "e9045b2a-fad6-4440-9275-bc9082ca037b",
+  "dayOffset": 197,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -52560
+ },
+ {
+  "id": "9d64dbbc-5766-4ddd-93b1-87129c32547c",
+  "artistIds": [
+   "547ff78b-0102-4e8e-93c0-74c70a742d8b"
+  ],
+  "venueId": "c89267b3-486d-4036-b1f1-7668ebc1f1c2",
+  "dayOffset": 25,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -36993
+ },
+ {
+  "id": "ca9864e3-c16a-4bfa-8bdc-0d6e24b87b2f",
+  "artistIds": [
+   "58c449c9-5a95-457f-a71b-50bd30b11ef7",
+   "f9393803-6bf0-4a21-a180-b77ffc83ec6a",
+   "dd628a94-b5b1-435e-b84d-cb67bc95117d"
+  ],
+  "venueId": "63fc326b-95b4-452f-beb9-7a44ec9eafef",
+  "dayOffset": 75,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -154977
+ },
+ {
+  "id": "e1a57051-130d-41b0-adbe-461d73df0de4",
+  "artistIds": [
+   "6fd36bd7-518d-4b79-9486-d133ddac5925",
+   "d0d514c4-d36e-4ae7-9d9e-2218b5fd0914"
+  ],
+  "venueId": "7103ad36-e06f-4b92-a78f-4b11665788fa",
+  "dayOffset": 263,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -454703
+ },
+ {
+  "id": "af0a1bd9-d45e-4e72-ac9b-abcf843f8d20",
+  "artistIds": [
+   "6f81be51-2ab3-45a4-bd46-2696897c1589"
+  ],
+  "venueId": "b2922115-b64c-4338-9a5d-0811b26725de",
+  "dayOffset": 247,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -37243
+ },
+ {
+  "id": "05079aee-f8c4-4c74-b67e-546f01f7ebbe",
+  "artistIds": [
+   "32aa133e-5da4-4635-a438-ed30c798ae9d",
+   "5a836954-880a-452d-ad01-ae011dbc101d"
+  ],
+  "venueId": "01a1d078-6352-4a89-8f40-8ffda985e234",
+  "dayOffset": 208,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -57269
+ },
+ {
+  "id": "62bea9c9-cd61-4986-85f3-bf27f10de681",
+  "artistIds": [
+   "6636612f-87b0-4c5d-afad-a495477df046"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": 30,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -36901
+ },
+ {
+  "id": "e1f67c62-a730-46a6-91c4-136e19fe652d",
+  "artistIds": [
+   "b13e5ebd-d6a5-4b9d-b5ec-29125338403a"
+  ],
+  "venueId": "f6f9ed6f-67b8-4b46-a991-6b44c906306e",
+  "dayOffset": 140,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -29952
+ },
+ {
+  "id": "2b3171c5-7370-4e99-9e32-9776b8e2fce5",
+  "artistIds": [
+   "7fb2a447-03fc-48ff-9cbe-54b46628876b",
+   "45d0d77c-eca6-4162-94bf-0ff3773df814"
+  ],
+  "venueId": "33ea52b7-911b-4231-a3bd-8b4313f8d0d5",
+  "dayOffset": 263,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -45037
+ },
+ {
+  "id": "084faca9-876e-4ca1-963b-06b7d96b4e98",
+  "artistIds": [
+   "5d0b1e42-c85e-4e9c-aa92-751af03c2ed6",
+   "f9393803-6bf0-4a21-a180-b77ffc83ec6a",
+   "fa665199-9533-4a8f-94ce-236c785655cf"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": 156,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -52340
+ },
+ {
+  "id": "6f07e082-c603-42b5-9c62-e48de3f092c4",
+  "artistIds": [
+   "3d9fe448-40c5-48df-9c55-980a6ea19d6f",
+   "05af3632-a5db-42c2-b366-6acba6a82008"
+  ],
+  "venueId": "d8cef7bb-7ff9-4c7c-9106-c31b1d5c3b6b",
+  "dayOffset": 215,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -217149
+ },
+ {
+  "id": "2882764d-e9ea-46fc-99ca-8b085a3c1c07",
+  "artistIds": [
+   "ffaba604-c3ab-4a2e-adc3-d903ae485a14"
+  ],
+  "venueId": "c3167dc6-6c05-4282-922b-1879c9ecda8c",
+  "dayOffset": 21,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -24078
+ },
+ {
+  "id": "d23bded6-4bd6-4c70-a029-2a7676d155fd",
+  "artistIds": [
+   "412268db-50f7-40f4-8bd9-fdaa60d6b194",
+   "0fae9df1-4f4a-4ebf-a4d7-8b82e3c3133b",
+   "1ade15c2-6173-4a2e-85f8-82ac22a5cd35"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": 94,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -3379
+ },
+ {
+  "id": "f607073e-39de-4993-9529-9eb5c4c93f66",
+  "artistIds": [
+   "c9f82d90-2536-47a3-924d-7bce7a3933d5",
+   "933f8268-8a43-4401-94de-9864362fc880"
+  ],
+  "venueId": "65692d77-c414-4484-af82-50cc15ad24f2",
+  "dayOffset": 52,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -82033
+ },
+ {
+  "id": "39d28566-bc79-4321-b873-a6da7ad9902a",
+  "artistIds": [
+   "c0a8a7e4-f2a7-4767-9c34-c02a376310bc"
+  ],
+  "venueId": "870557a6-0a5e-4867-8270-13a6ad4bafb2",
+  "dayOffset": 106,
+  "hour": 22,
+  "imageUrl": null,
+  "createdMinOffset": -54695
+ },
+ {
+  "id": "f207622e-09ca-4fc7-ad70-4e18e757379a",
+  "artistIds": [
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2"
+  ],
+  "venueId": "b28f38a3-a5e7-4a3b-8741-5486a085d1e6",
+  "dayOffset": 231,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -5971
+ },
+ {
+  "id": "4cc7151c-0ef3-40b0-9e16-89bbea61e6ed",
+  "artistIds": [
+   "934070db-837b-4df0-b919-b5a08039c86b",
+   "08937db7-1618-4cae-893f-ba8007f34b99",
+   "3d9fe448-40c5-48df-9c55-980a6ea19d6f"
+  ],
+  "venueId": "7103ad36-e06f-4b92-a78f-4b11665788fa",
+  "dayOffset": 39,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -11174
+ },
+ {
+  "id": "07c3088d-2368-4df4-aabb-f94522543774",
+  "artistIds": [
+   "c789924d-9ed6-47cf-a656-688664c14330",
+   "b03d0547-78d8-4842-8ce2-22d818c9ed87"
+  ],
+  "venueId": "3ee2e621-c337-4f17-abf8-2afae28e4a49",
+  "dayOffset": 135,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -283132
+ },
+ {
+  "id": "9695acc1-0b45-4284-9aba-68c866f300d5",
+  "artistIds": [
+   "e409e8ad-ab76-44d1-9b0c-a67165ef4d0e",
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2"
+  ],
+  "venueId": "9b8977a1-109a-42b5-bd0a-d1015e438776",
+  "dayOffset": 85,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -15126
+ },
+ {
+  "id": "f8df934c-c5f6-45e8-a1ca-b866e02ea57c",
+  "artistIds": [
+   "412268db-50f7-40f4-8bd9-fdaa60d6b194",
+   "5a3ff79d-379d-4019-9954-c1357d0b4479",
+   "0fae9df1-4f4a-4ebf-a4d7-8b82e3c3133b"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": 240,
+  "hour": 20,
+  "imageUrl": null,
+  "createdMinOffset": -6266
+ },
+ {
+  "id": "ef4011be-6f0c-4862-b27b-abf33306163c",
+  "artistIds": [
+   "8fd95e95-36c2-45d0-9735-780df83f4bf2",
+   "29ef8edd-7e39-4f5f-a049-ed17e2bf71c4",
+   "deef5733-2847-4679-affd-33c5a6e4c34e"
+  ],
+  "venueId": "39840d45-9b31-4a38-a2e1-55a5cc4da967",
+  "dayOffset": 182,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -43812
+ },
+ {
+  "id": "fc696024-f162-461f-9535-21817ba3406d",
+  "artistIds": [
+   "5a3ff79d-379d-4019-9954-c1357d0b4479"
+  ],
+  "venueId": "33da1dce-dcc4-497c-b6e4-a6527a5ce09f",
+  "dayOffset": 94,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -40338
+ },
+ {
+  "id": "b63815b8-6c6d-40d2-b363-24eec678b507",
+  "artistIds": [
+   "a33882a8-8786-4e03-8709-377c0a034b41"
+  ],
+  "venueId": "fce530e0-45f6-4723-8398-42c190ef346f",
+  "dayOffset": 234,
+  "hour": 19,
+  "imageUrl": null,
+  "createdMinOffset": -44037
+ },
+ {
+  "id": "848c49b2-00fa-4d24-a9d4-aab82a854899",
+  "artistIds": [
+   "78cf55a8-6db4-4f9b-a805-40a5f63cde33"
+  ],
+  "venueId": "7190af07-efc8-49b3-90a2-92ff746455ad",
+  "dayOffset": 48,
+  "hour": 21,
+  "imageUrl": null,
+  "createdMinOffset": -2378
+ }
+]

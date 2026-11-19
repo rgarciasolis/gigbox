@@ -1,0 +1,35 @@
+import { NavLink, Outlet } from 'react-router-dom'
+
+const SECTIONS = [
+  { to: '/perfil', label: 'Resumen', end: true },
+  { to: '/perfil/historico', label: 'Histórico' },
+  { to: '/perfil/resenas', label: 'Reseñas' },
+  { to: '/perfil/listas', label: 'Listas' },
+  { to: '/perfil/tags', label: 'Tags' },
+  { to: '/perfil/estadisticas', label: 'Estadísticas' },
+  { to: '/perfil/siguiendo', label: 'Siguiendo' },
+  { to: '/perfil/seguidores', label: 'Le siguen' },
+  { to: '/perfil/ajustes', label: 'Ajustes' },
+]
+
+export function PerfilLayout() {
+  return (
+    <div>
+      <nav aria-label="Secciones del perfil" className="row border-b border-gray-300 pb-2">
+        {SECTIONS.map((s) => (
+          <NavLink
+            key={s.to}
+            to={s.to}
+            end={s.end ?? false}
+            className={({ isActive }) => (isActive ? 'font-bold underline' : '')}
+          >
+            {s.label}
+          </NavLink>
+        ))}
+      </nav>
+      <div className="mt-4">
+        <Outlet />
+      </div>
+    </div>
+  )
+}

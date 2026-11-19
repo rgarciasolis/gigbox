@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+/* Estilo deliberadamente basico: blanco, negro y grises; tipografia del sistema. */
+:root {
+  font-family: system-ui, sans-serif;
+}
+
+body {
+  background: #fff;
+  color: #000;
+  line-height: 1.4;
+}
+
+a {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 0.75rem;
+}
+
+h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 1.5rem 0 0.5rem;
+}
+
+h3 {
+  font-weight: 700;
+  margin: 1rem 0 0.25rem;
+}
+
+button,
+select,
+input,
+textarea {
+  font: inherit;
+  color: inherit;
+  background: #fff;
+  border: 1px solid #000;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover:not(:disabled) {
+  background: #eee;
+}
+
+button:disabled {
+  color: #888;
+  border-color: #aaa;
+  cursor: default;
+}
+
+button.primary {
+  background: #000;
+  color: #fff;
+}
+
+button.primary:hover:not(:disabled) {
+  background: #333;
+}
+
+button.link {
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  background: none;
+}
+
+textarea {
+  width: 100%;
+  min-height: 5rem;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0 0.15rem;
+  font-weight: 600;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #999;
+  padding: 0.25rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.muted {
+  color: #666;
+}
+
+.box {
+  border: 1px solid #999;
+  padding: 0.75rem;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
