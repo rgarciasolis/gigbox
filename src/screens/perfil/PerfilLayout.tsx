@@ -7,6 +7,7 @@ const SECTIONS = [
   { to: '/perfil/listas', label: 'Listas' },
   { to: '/perfil/tags', label: 'Tags' },
   { to: '/perfil/estadisticas', label: 'Estadísticas' },
+  { to: '/perfil/artistas', label: 'Artistas' },
   { to: '/perfil/siguiendo', label: 'Siguiendo' },
   { to: '/perfil/seguidores', label: 'Le siguen' },
   { to: '/perfil/ajustes', label: 'Ajustes' },

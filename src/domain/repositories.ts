@@ -3,8 +3,6 @@
 // Hoy las implementa src/data/mock. En la fase real se implementan contra Supabase y APIs.
 
 import type {
-  AgendaFilters,
-  AgendaResult,
   Artist,
   Attendance,
   AttendanceView,
@@ -97,10 +95,6 @@ export interface TagRepository {
   remove(id: ID): Promise<void>
 }
 
-export interface AgendaProvider {
-  getUpcoming(filters: AgendaFilters): Promise<AgendaResult>
-}
-
 export interface ArtistFollowRepository {
   listMine(): Promise<Artist[]>
   getFollowedIds(): Promise<ID[]>
@@ -129,7 +123,6 @@ export interface Repositories {
   profiles: ProfileRepository
   friends: FriendRepository
   tags: TagRepository
-  agenda: AgendaProvider
   artistFollows: ArtistFollowRepository
   notifications: NotificationRepository
   feed: FeedRepository

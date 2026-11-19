@@ -4,7 +4,7 @@
 import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useRepositories } from '@/data'
 import type { AttendanceUpdate } from '@/domain/repositories'
-import type { AgendaFilters, GigFilters, ID, NotificationTab, TicketStatus } from '@/domain/types'
+import type { GigFilters, ID, NotificationTab, TicketStatus } from '@/domain/types'
 
 // ---------------------------------------------------------------- Lecturas
 
@@ -121,16 +121,6 @@ export function useSearchUsers(query: string) {
 export function useTags() {
   const { tags } = useRepositories()
   return useQuery({ queryKey: ['tags'], queryFn: () => tags.list() })
-}
-
-export function useAgenda(filters: AgendaFilters, enabled: boolean) {
-  const { agenda } = useRepositories()
-  return useQuery({
-    queryKey: ['agenda', filters],
-    queryFn: () => agenda.getUpcoming(filters),
-    enabled,
-    placeholderData: keepPreviousData,
-  })
 }
 
 export function useFollowedArtists() {

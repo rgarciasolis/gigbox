@@ -3,11 +3,11 @@
 
 import { useSubscription } from '@/queries'
 
-export type FlagName = 'agenda'
+export type FlagName = 'artistAlerts'
 
 /** Flags que dependen de Plus. Anadir aqui nuevas funciones Plus. */
 const REQUIRES_PLUS: Record<FlagName, boolean> = {
-  agenda: true,
+  artistAlerts: true,
 }
 
 export function useFlag(name: FlagName): { enabled: boolean; loading: boolean } {

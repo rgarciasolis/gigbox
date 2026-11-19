@@ -3,6 +3,7 @@ import { Link, useParams } from 'react-router-dom'
 import {
   Async,
   Empty,
+  FollowArtistButton,
   GoingButton,
   LikeButton,
   MutationError,
@@ -57,6 +58,18 @@ export function Ficha() {
               'Concierto futuro'
             )}
           </p>
+
+          <h2>Cartel</h2>
+          <ul className="m-0 list-none p-0">
+            {d.artists.map((a) => (
+              <li key={a.id} className="row border-b border-gray-300 py-2">
+                <span className="grow">
+                  {a.name} <span className="muted text-sm">· {a.genre}</span>
+                </span>
+                <FollowArtistButton artistId={a.id} />
+              </li>
+            ))}
+          </ul>
 
           <h2>Tus acciones</h2>
           <div className="row">

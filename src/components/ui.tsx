@@ -6,10 +6,13 @@ import { formatDate, formatRating, lineup, relativeTime } from '@/domain/format'
 import {
   useAddToWishlist,
   useFollow,
+  useFollowArtist,
+  useFollowedArtistIds,
   useRemoveFromWishlist,
   useSetLike,
   useToggleReviewLike,
   useUnfollow,
+  useUnfollowArtist,
 } from '@/queries'
 
 // ---------------------------------------------------------------- Estados de carga
@@ -154,6 +157,23 @@ export function FollowButton({ userId, isFollowing }: { userId: string; isFollow
     </button>
   ) : (
     <button className="primary" disabled={busy} onClick={() => follow.mutate(userId)}>
+      Seguir
+    </button>
+  )
+}
+
+export function FollowArtistButton({ artistId }: { artistId: string }) {
+  const ids = useFollowedArtistIds()
+  const follow = useFollowArtist()
+  const unfollow = useUnfollowArtist()
+  if (!ids.data) return null
+  const busy = follow.isPending || unfollow.isPending
+  return ids.data.includes(artistId) ? (
+    <button disabled={busy} onClick={() => unfollow.mutate(artistId)}>
+      Dejar de seguir
+    </button>
+  ) : (
+    <button disabled={busy} onClick={() => follow.mutate(artistId)}>
       Seguir
     </button>
   )

@@ -2,8 +2,14 @@ import { lazy, Suspense, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Async, MutationError } from '@/components/ui'
 import { DATA_ADAPTER } from '@/data'
-import type { User } from '@/domain/types'
-import { useCurrentUser, useSubscription, useUpdateProfile } from '@/queries'
+import { NOTIFICATION_RADIUS_OPTIONS, type User } from '@/domain/types'
+import {
+  useCurrentUser,
+  useNotificationSettings,
+  useSetRadius,
+  useSubscription,
+  useUpdateProfile,
+} from '@/queries'
 
 const MockDevPanel = lazy(() => import('@/data/mock/MockDevPanel'))
 
@@ -16,6 +22,9 @@ export function Ajustes() {
 
       <h2>Editar perfil</h2>
       <Async query={me}>{(u) => <ProfileForm user={u} />}</Async>
+
+      <h2>Avisos</h2>
+      <RadiusSetting />
 
       <h2>Suscripción</h2>
       <p>
@@ -32,6 +41,36 @@ export function Ajustes() {
         </>
       )}
     </div>
+  )
+}
+
+function RadiusSetting() {
+  const q = useNotificationSettings()
+  const set = useSetRadius()
+  return (
+    <Async query={q}>
+      {(s) => (
+        <div className="box">
+          <label htmlFor="radius">Radio de los avisos de artistas</label>
+          <select
+            id="radius"
+            value={s.radiusKm}
+            disabled={set.isPending}
+            onChange={(e) => set.mutate(Number(e.target.value))}
+          >
+            {NOTIFICATION_RADIUS_OPTIONS.map((r) => (
+              <option key={r} value={r}>
+                {r} km
+              </option>
+            ))}
+          </select>
+          <p className="muted text-sm">
+            Solo se te avisa de conciertos de artistas que sigues dentro de este radio desde tu ciudad.
+          </p>
+          <MutationError error={set.error} />
+        </div>
+      )}
+    </Async>
   )
 }
 
