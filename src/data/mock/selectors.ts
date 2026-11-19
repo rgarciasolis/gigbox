@@ -18,6 +18,7 @@ import {
   userById,
   users,
   venueById,
+  venues,
 } from './db'
 
 export const norm = (s: string) =>
@@ -113,4 +114,15 @@ export function distanceKm(lat1: number, lng1: number, lat2: number, lng2: numbe
     Math.sin(dLat / 2) ** 2 +
     Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2
   return 2 * R * Math.asin(Math.sqrt(a))
+}
+
+/** Punto de origen de una ciudad: centro aproximado de sus salas (Madrid si no hay ninguna). */
+export function cityOrigin(city: string) {
+  const inCity = venues.filter((v) => v.city === city)
+  return inCity.length
+    ? {
+        lat: inCity.reduce((s, v) => s + v.lat, 0) / inCity.length,
+        lng: inCity.reduce((s, v) => s + v.lng, 0) / inCity.length,
+      }
+    : { lat: 40.4168, lng: -3.7038 }
 }

@@ -102,6 +102,28 @@ export interface ReviewLike {
   attendanceId: ID
 }
 
+/** Un usuario sigue a un artista (gratis). Alimenta los avisos de la pestana Artistas (Plus). */
+export interface ArtistFollow {
+  userId: ID
+  artistId: ID
+  createdAt: ISODate
+}
+
+export type NotificationType = 'artist_gig_announced' | 'review_like' | 'new_follower'
+
+/** Aviso del buzon. Los de like y seguidor se generan en servidor (triggers), no desde el cliente. */
+export interface Notification {
+  id: ID
+  userId: ID // destinatario
+  type: NotificationType
+  createdAt: ISODate
+  read: boolean
+  actorId: ID | null // quien hizo el like o el follow
+  gigId: ID | null
+  artistId: ID | null
+  attendanceId: ID | null
+}
+
 export interface ExternalRef {
   id: ID
   entityType: 'artist' | 'venue' | 'gig'
@@ -210,6 +232,23 @@ export interface StatsView {
 export interface SubscriptionState {
   plus: boolean
 }
+
+export interface NotificationView {
+  notification: Notification
+  actor: User | null
+  gig: GigSummary | null
+  artist: Artist | null
+}
+
+export type NotificationTab = 'artists' | 'interactions'
+
+export interface NotificationSettings {
+  radiusKm: number
+}
+
+/** Radios disponibles para los avisos de artistas (km) y valor por defecto. */
+export const NOTIFICATION_RADIUS_OPTIONS = [25, 50, 100, 200, 500] as const
+export const DEFAULT_NOTIFICATION_RADIUS_KM = 50
 
 // ---------------------------------------------------------------------------
 // Filtros y parametros

@@ -16,6 +16,9 @@ import type {
   HomeFeed,
   ID,
   ListDetail,
+  NotificationSettings,
+  NotificationTab,
+  NotificationView,
   ProfileView,
   ReviewView,
   StatsView,
@@ -98,6 +101,23 @@ export interface AgendaProvider {
   getUpcoming(filters: AgendaFilters): Promise<AgendaResult>
 }
 
+export interface ArtistFollowRepository {
+  listMine(): Promise<Artist[]>
+  getFollowedIds(): Promise<ID[]>
+  follow(artistId: ID): Promise<void>
+  unfollow(artistId: ID): Promise<void>
+}
+
+export interface NotificationRepository {
+  list(tab: NotificationTab): Promise<NotificationView[]>
+  /** Interacciones sin leer y, solo con Plus, avisos de artistas sin leer (dentro del radio). */
+  unreadCount(): Promise<number>
+  markRead(id: ID): Promise<void>
+  markAllRead(tab: NotificationTab): Promise<void>
+  getSettings(): Promise<NotificationSettings>
+  setRadius(radiusKm: number): Promise<NotificationSettings>
+}
+
 export interface FeedRepository {
   getHome(): Promise<HomeFeed>
 }
@@ -110,5 +130,7 @@ export interface Repositories {
   friends: FriendRepository
   tags: TagRepository
   agenda: AgendaProvider
+  artistFollows: ArtistFollowRepository
+  notifications: NotificationRepository
   feed: FeedRepository
 }
