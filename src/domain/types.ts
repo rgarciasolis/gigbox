@@ -273,18 +273,6 @@ export interface GigFacets {
   venues: Venue[]
 }
 
-export interface AgendaFilters {
-  radiusKm: number
-  dateFrom?: string
-  dateTo?: string
-  genre?: string
-}
-
-export interface AgendaResult {
-  origin: { city: string }
-  entries: (GigSummary & { reason: ('mi_artista' | 'mi_ciudad')[]; distanceKm: number })[]
-}
-
 export type HomeFeed =
   | {
       mode: 'contacts'

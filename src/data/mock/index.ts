@@ -1,5 +1,4 @@
 import type { Repositories } from '@/domain/repositories'
-import { agendaProvider } from './agenda'
 import { artistFollowRepository } from './artistFollows'
 import { attendanceRepository } from './attendances'
 import { feedRepository } from './feed'
@@ -18,7 +17,6 @@ export function createMockRepositories(): Repositories {
     profiles: profileRepository,
     friends: friendRepository,
     tags: tagRepository,
-    agenda: agendaProvider,
     artistFollows: artistFollowRepository,
     notifications: notificationRepository,
     feed: feedRepository,

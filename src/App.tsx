@@ -5,7 +5,7 @@ import { Conciertos } from '@/screens/Conciertos'
 import { Ficha } from '@/screens/Ficha'
 import { Sala } from '@/screens/Sala'
 import { Wishlist } from '@/screens/Wishlist'
-import { Agenda } from '@/screens/Agenda'
+import { Avisos } from '@/screens/Avisos'
 import { PerfilLayout } from '@/screens/perfil/PerfilLayout'
 import { PerfilResumen } from '@/screens/perfil/PerfilResumen'
 import { Historico } from '@/screens/perfil/Historico'
@@ -14,6 +14,7 @@ import { Listas } from '@/screens/perfil/Listas'
 import { Tags } from '@/screens/perfil/Tags'
 import { Estadisticas } from '@/screens/perfil/Estadisticas'
 import { Siguiendo, Seguidores } from '@/screens/perfil/Personas'
+import { Artistas } from '@/screens/perfil/Artistas'
 import { Ajustes } from '@/screens/perfil/Ajustes'
 import { Suscripcion } from '@/screens/perfil/Suscripcion'
 import { ListaDetalle } from '@/screens/ListaDetalle'
@@ -38,7 +39,7 @@ export function App() {
         <Route path="conciertos/:id" element={<Ficha />} />
         <Route path="salas/:id" element={<Sala />} />
         <Route path="wishlist" element={<Wishlist />} />
-        <Route path="agenda" element={<Agenda />} />
+        <Route path="avisos" element={<Avisos />} />
         <Route path="listas/:id" element={<ListaDetalle />} />
         <Route path="u/:id" element={<PerfilPublico />} />
         <Route path="personas" element={<BuscarPersonas />} />
@@ -51,6 +52,7 @@ export function App() {
           <Route path="estadisticas" element={<Estadisticas />} />
           <Route path="siguiendo" element={<Siguiendo />} />
           <Route path="seguidores" element={<Seguidores />} />
+          <Route path="artistas" element={<Artistas />} />
           <Route path="ajustes" element={<Ajustes />} />
           <Route path="ajustes/suscripcion" element={<Suscripcion />} />
         </Route>

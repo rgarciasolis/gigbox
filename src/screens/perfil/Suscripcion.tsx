@@ -17,7 +17,7 @@ export function Suscripcion() {
             <p>
               Plan actual: <strong>{s.plus ? 'Plus' : 'Gratuito'}</strong>
             </p>
-            <p className="muted">Plus incluye la Agenda: conciertos cercanos de tus artistas y tu ciudad.</p>
+            <p className="muted">Plus incluye los avisos de conciertos nuevos de los artistas que sigues.</p>
             <button className="primary" disabled={set.isPending} onClick={() => set.mutate(!s.plus)}>
               {s.plus ? 'Volver al plan gratuito' : 'Activar Plus (simulado)'}
             </button>
