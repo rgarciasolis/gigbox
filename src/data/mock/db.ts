@@ -16,17 +16,22 @@ import activitiesRaw from '../../../data/activities.json'
 import gigLikesRaw from '../../../data/gigLikes.json'
 import reviewLikesRaw from '../../../data/reviewLikes.json'
 import favoritesRaw from '../../../data/favorites.json'
+import artistFollowsRaw from '../../../data/artistFollows.json'
+import notificationsRaw from '../../../data/notifications.json'
 import metaRaw from '../../../data/meta.json'
 
+import { DEFAULT_NOTIFICATION_RADIUS_KM } from '@/domain/types'
 import type {
   Activity,
   Artist,
+  ArtistFollow,
   Attendance,
   Follow,
   Gig,
   GigLike,
   Gigslist,
   ID,
+  Notification,
   ReviewLike,
   Tag,
   User,
@@ -65,6 +70,12 @@ interface RawFollow extends Omit<Follow, 'createdAt'> {
 interface RawActivity extends Omit<Activity, 'createdAt'> {
   createdMinOffset: number
 }
+interface RawArtistFollow extends Omit<ArtistFollow, 'createdAt'> {
+  createdMinOffset: number
+}
+interface RawNotification extends Omit<Notification, 'createdAt'> {
+  createdMinOffset: number
+}
 
 // ---- Datos estaticos
 export const ME_ID: ID = (metaRaw as { currentUserId: ID }).currentUserId
@@ -99,6 +110,9 @@ export interface MockState {
   gigLikes: GigLike[]
   reviewLikes: ReviewLike[]
   favorites: Record<ID, ID[]>
+  artistFollows: ArtistFollow[]
+  notifications: Notification[]
+  radiusKm: number
   mePatch: Partial<User>
   plus: boolean
 }
@@ -129,6 +143,15 @@ function initialState(): MockState {
     favorites: Object.fromEntries(
       (favoritesRaw as unknown as { userId: ID; gigIds: ID[] }[]).map((f) => [f.userId, f.gigIds]),
     ),
+    artistFollows: (artistFollowsRaw as unknown as RawArtistFollow[]).map(({ createdMinOffset, ...f }) => ({
+      ...f,
+      createdAt: minToIso(createdMinOffset),
+    })),
+    notifications: (notificationsRaw as unknown as RawNotification[]).map(({ createdMinOffset, ...n }) => ({
+      ...n,
+      createdAt: minToIso(createdMinOffset),
+    })),
+    radiusKm: DEFAULT_NOTIFICATION_RADIUS_KM,
     mePatch: {},
     plus: plusDefault,
   }
@@ -139,7 +162,8 @@ function loadState(): MockState {
     const raw = localStorage.getItem(STORAGE_KEY)
     if (raw) {
       const parsed = JSON.parse(raw) as MockState
-      if (parsed.version === 1) return parsed
+      // Se completa con los datos iniciales por si el estado guardado es anterior a los avisos
+      if (parsed.version === 1) return { ...initialState(), ...parsed }
     }
   } catch {
     // estado corrupto o localStorage no disponible: se parte de los datos del seed

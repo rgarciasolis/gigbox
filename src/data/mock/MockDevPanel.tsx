@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useQueryClient } from '@tanstack/react-query'
 import { getMockConfig, setMockConfig, type MockConfig } from './config'
 import { resetMockState } from './db'
+import { generateTestNotification } from './notifications'
 
 /** Panel para simular latencia, errores y listas vacías. Solo se carga con el adaptador mock. */
 export default function MockDevPanel() {
@@ -38,6 +39,14 @@ export default function MockDevPanel() {
         onChange={(e) => change({ errorRate: Number(e.target.value) })}
       />
       <div className="mt-2">
+        <button
+          onClick={() => {
+            if (generateTestNotification() === null) window.alert('No quedan conciertos futuros sin aviso.')
+            qc.invalidateQueries()
+          }}
+        >
+          Generar aviso de prueba
+        </button>{' '}
         <button
           onClick={() => {
             if (window.confirm('Se borrarán tus cambios y volverás a los datos iniciales. ¿Continuar?')) resetMockState()

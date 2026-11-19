@@ -363,6 +363,44 @@ const externalRefs = [
   ...sample(venues, 20).map((v) => ({ id: uuid(), entityType: 'venue', entityId: v.id, provider: 'ticketmaster', externalId: `tmv_${int(1000, 9999)}` })),
 ]
 
+// ---------------------------------------------------------------- v0.7: seguir artistas y avisos
+// Se genera AL FINAL para no alterar los datos anteriores con la misma semilla.
+const MY_CITY_VENUES = new Set(venues.filter((v) => v.city === ME.city).map((v) => v.id))
+const RECENT_MIN = 60 * 24 * 40 // "anadido recientemente" = ultimos 40 dias
+const recentFuture = futureGigs.filter((g) => g.createdMinOffset >= -RECENT_MIN)
+
+// El usuario dummy sigue ~8 artistas: algunos con conciertos nuevos en su ciudad (dentro del
+// radio por defecto), otros con conciertos nuevos lejos (fuera) y otros de su historico.
+const meFollowIds = new Set()
+for (const g of sample(recentFuture.filter((g) => MY_CITY_VENUES.has(g.venueId)), 2)) meFollowIds.add(g.artistIds[0])
+for (const g of sample(recentFuture.filter((g) => !MY_CITY_VENUES.has(g.venueId)), 3)) meFollowIds.add(g.artistIds[0])
+const attendedArtistIds = [...new Set(attendances.filter((a) => a.userId === ME.id).flatMap((a) => gigById.get(a.gigId).artistIds))]
+for (const id of sample(attendedArtistIds, 8)) {
+  if (meFollowIds.size >= 8) break
+  meFollowIds.add(id)
+}
+
+const artistFollows = [...meFollowIds].map((artistId) => ({ userId: ME.id, artistId, createdMinOffset: -int(60, 60 * 24 * 200) }))
+for (const u of users.slice(1)) {
+  for (const a of sample(artists, int(3, 10))) artistFollows.push({ userId: u.id, artistId: a.id, createdMinOffset: -int(60, 60 * 24 * 200) })
+}
+
+// Avisos del usuario dummy, derivados de datos reales del seed. Mezcla de leidos y sin leer.
+const notifications = []
+const note = (n) => notifications.push({ id: uuid(), userId: ME.id, actorId: null, gigId: null, artistId: null, attendanceId: null, read: chance(0.4), ...n })
+for (const g of recentFuture) {
+  const hit = g.artistIds.find((id) => meFollowIds.has(id))
+  if (hit) note({ type: 'artist_gig_announced', createdMinOffset: g.createdMinOffset, gigId: g.id, artistId: hit })
+}
+const myAttendanceById = new Map(attendances.filter((a) => a.userId === ME.id).map((a) => [a.id, a]))
+for (const l of reviewLikes) {
+  const att = myAttendanceById.get(l.attendanceId)
+  if (att) note({ type: 'review_like', createdMinOffset: Math.min(-5, att.createdMinOffset + int(60, 60 * 24 * 20)), actorId: l.userId, gigId: att.gigId, attendanceId: att.id })
+}
+for (const f of follows.filter((x) => x.followeeId === ME.id)) {
+  note({ type: 'new_follower', createdMinOffset: f.createdMinOffset, actorId: f.followerId })
+}
+
 const meta = {
   seed: SEED,
   currentUserId: ME.id,
@@ -370,11 +408,12 @@ const meta = {
   counts: {
     users: users.length, artists: artists.length, venues: venues.length, gigs: gigs.length,
     attendances: attendances.length, gigslists: gigslists.length, tags: tags.length, follows: follows.length,
+    artistFollows: artistFollows.length, notifications: notifications.length,
   },
 }
 
 mkdirSync(OUT, { recursive: true })
-const files = { users, artists, venues, gigs, attendances, tags, gigslists, follows, activities, gigLikes, reviewLikes, favorites, externalRefs, meta }
+const files = { users, artists, venues, gigs, attendances, tags, gigslists, follows, activities, gigLikes, reviewLikes, favorites, externalRefs, artistFollows, notifications, meta }
 for (const [name, data] of Object.entries(files)) {
   writeFileSync(join(OUT, `${name}.json`), JSON.stringify(data, null, 1) + '\n')
 }

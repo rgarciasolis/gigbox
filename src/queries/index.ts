@@ -4,7 +4,7 @@
 import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useRepositories } from '@/data'
 import type { AttendanceUpdate } from '@/domain/repositories'
-import type { AgendaFilters, GigFilters, ID, TicketStatus } from '@/domain/types'
+import type { AgendaFilters, GigFilters, ID, NotificationTab, TicketStatus } from '@/domain/types'
 
 // ---------------------------------------------------------------- Lecturas
 
@@ -133,6 +133,35 @@ export function useAgenda(filters: AgendaFilters, enabled: boolean) {
   })
 }
 
+export function useFollowedArtists() {
+  const { artistFollows } = useRepositories()
+  return useQuery({ queryKey: ['artistFollows', 'mine'], queryFn: () => artistFollows.listMine() })
+}
+
+export function useFollowedArtistIds() {
+  const { artistFollows } = useRepositories()
+  return useQuery({ queryKey: ['artistFollows', 'ids'], queryFn: () => artistFollows.getFollowedIds() })
+}
+
+export function useNotifications(tab: NotificationTab, enabled = true) {
+  const { notifications } = useRepositories()
+  return useQuery({
+    queryKey: ['notifications', tab],
+    queryFn: () => notifications.list(tab),
+    enabled,
+  })
+}
+
+export function useUnreadCount() {
+  const { notifications } = useRepositories()
+  return useQuery({ queryKey: ['notifications', 'unread'], queryFn: () => notifications.unreadCount() })
+}
+
+export function useNotificationSettings() {
+  const { notifications } = useRepositories()
+  return useQuery({ queryKey: ['notifications', 'settings'], queryFn: () => notifications.getSettings() })
+}
+
 // ---------------------------------------------------------------- Escrituras
 // Los datos son pocos: tras cualquier escritura se invalida todo y se vuelve a pedir.
 
@@ -190,3 +219,10 @@ export const useCreateTag = () => useAct((r, name: string) => r.tags.create(name
 export const useRenameTag = () =>
   useAct((r, a: { id: ID; name: string }) => r.tags.rename(a.id, a.name))
 export const useRemoveTag = () => useAct((r, id: ID) => r.tags.remove(id))
+
+export const useFollowArtist = () => useAct((r, artistId: ID) => r.artistFollows.follow(artistId))
+export const useUnfollowArtist = () => useAct((r, artistId: ID) => r.artistFollows.unfollow(artistId))
+
+export const useMarkRead = () => useAct((r, id: ID) => r.notifications.markRead(id))
+export const useMarkAllRead = () => useAct((r, tab: NotificationTab) => r.notifications.markAllRead(tab))
+export const useSetRadius = () => useAct((r, radiusKm: number) => r.notifications.setRadius(radiusKm))
