@@ -106,7 +106,6 @@ export function Tabs<T extends string>({
           key={o.value}
           role="tab"
           aria-selected={o.value === value}
-          className={o.value === value ? 'primary' : ''}
           onClick={() => onChange(o.value)}
         >
           {o.label}
@@ -151,7 +150,7 @@ export function GoingButton({ gig }: { gig: GigSummary }) {
   if (gig.isPast) return null
   const busy = add.isPending || remove.isPending
   return gig.inMyWishlist ? (
-    <button className="primary" disabled={busy} onClick={() => remove.mutate(gig.gig.id)}>
+    <button disabled={busy} onClick={() => remove.mutate(gig.gig.id)}>
       Quitar de Wishlist
     </button>
   ) : (
@@ -211,7 +210,7 @@ export function GigRow({
     s.likedByMe ? 'Like' : null,
   ].filter(Boolean)
   return (
-    <li className="flex items-center justify-between gap-4 py-4">
+    <li className="flex flex-col gap-3 py-4 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
       <div className="flex items-start gap-4">
         <DateSquare iso={s.gig.startsAt} />
         <div className="flex flex-col gap-1">
@@ -228,7 +227,7 @@ export function GigRow({
           {status.length > 0 && <div className="muted text-[10px]">{status.join(' · ')}</div>}
         </div>
       </div>
-      {actions && <div className="row shrink-0">{actions}</div>}
+      {actions && <div className="row sm:shrink-0">{actions}</div>}
     </li>
   )
 }
