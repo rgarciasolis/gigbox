@@ -125,7 +125,7 @@ function Item({ v }: { v: NotificationView }) {
         {!n.read && <span aria-label="Sin leer">● </span>}
         {d.text}
       </Link>
-      <div className="muted text-sm">{relativeTime(n.createdAt)}</div>
+      <div className="muted">{relativeTime(n.createdAt)}</div>
       {n.type === 'artist_gig_announced' && v.gig && (
         <div className="row mt-2">
           <GoingButton gig={v.gig} />

@@ -32,7 +32,7 @@ export function Ficha() {
     <Async query={q}>
       {(d) => (
         <div>
-          <p>
+          <p className="mb-6">
             <Link to="/conciertos">Volver a Conciertos</Link>
           </p>
           <h1>{lineup(d.artists)}</h1>
@@ -64,7 +64,7 @@ export function Ficha() {
             {d.artists.map((a) => (
               <li key={a.id} className="row border-b border-gray-300 py-2">
                 <span className="grow">
-                  {a.name} <span className="muted text-sm">· {a.genre}</span>
+                  {a.name} <span className="muted">· {a.genre}</span>
                 </span>
                 <FollowArtistButton artistId={a.id} />
               </li>
@@ -98,7 +98,7 @@ export function Ficha() {
           ) : (
             <ul className="m-0 list-none p-0">
               {d.reviews.map((r) => (
-                <ReviewCard key={r.attendance.id} r={r} />
+                <ReviewCard key={r.attendance.id} r={r} hideGig />
               ))}
             </ul>
           )}
@@ -147,7 +147,7 @@ function PastActions({ d }: { d: GigDetail }) {
         </>
       ) : (
         <>
-          <button className="primary" disabled={mark.isPending} onClick={() => mark.mutate(d.gig.id)}>
+          <button  disabled={mark.isPending} onClick={() => mark.mutate(d.gig.id)}>
             Fui
           </button>
           <MutationError error={mark.error} />
@@ -187,7 +187,7 @@ function AttendanceForm({ d }: { d: GigDetail }) {
       <textarea id="review" value={review} onChange={(e) => setReview(e.target.value)} />
       <div className="row mt-1">
         <button
-          className="primary"
+          
           disabled={update.isPending || review === (att.review ?? '')}
           onClick={() => patch({ review })}
         >

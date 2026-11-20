@@ -25,7 +25,7 @@ export function Tags() {
         }}
       >
         <input aria-label="Nuevo tag" value={name} onChange={(e) => setName(e.target.value)} placeholder="Nuevo tag" />
-        <button className="primary" disabled={!name.trim() || create.isPending}>
+        <button  disabled={!name.trim() || create.isPending}>
           Crear
         </button>
       </form>
@@ -41,7 +41,7 @@ export function Tags() {
                     <>
                       <input value={editName} onChange={(e) => setEditName(e.target.value)} />
                       <button
-                        className="primary"
+                        
                         disabled={!editName.trim() || rename.isPending}
                         onClick={() =>
                           rename.mutate({ id: t.id, name: editName.trim() }, { onSuccess: () => setEditing(null) })

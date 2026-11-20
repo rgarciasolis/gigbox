@@ -67,9 +67,9 @@ export function MonthCalendar({ items }: { items: CalendarItem[] }) {
                   const list = day ? (byDay.get(key) ?? []) : []
                   return (
                     <td key={j} style={{ height: '5rem' }}>
-                      {day && <div className="muted text-sm">{day}</div>}
+                      {day && <div className="muted">{day}</div>}
                       {list.map((it) => (
-                        <div key={it.id} className="text-sm" style={{ overflowWrap: 'anywhere' }}>
+                        <div key={it.id} style={{ overflowWrap: 'anywhere' }}>
                           <Link to={it.to}>{it.label}</Link>
                         </div>
                       ))}

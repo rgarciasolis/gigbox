@@ -133,7 +133,7 @@ function FavoritesEditor({ onDone }: { onDone: () => void }) {
       </Async>
       <div className="row mt-2">
         <button
-          className="primary"
+          
           disabled={save.isPending || selected === null}
           onClick={() => save.mutate(current, { onSuccess: onDone })}
         >

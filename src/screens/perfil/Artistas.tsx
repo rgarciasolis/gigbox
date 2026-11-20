@@ -17,7 +17,7 @@ export function Artistas() {
               <li key={a.id} className="row border-b border-gray-300 py-3">
                 <div className="grow">
                   <div className="font-bold">{a.name}</div>
-                  <div className="muted text-sm">{a.genre}</div>
+                  <div className="muted">{a.genre}</div>
                 </div>
                 <FollowArtistButton artistId={a.id} />
               </li>

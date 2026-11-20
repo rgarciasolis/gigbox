@@ -50,7 +50,7 @@ export function Wishlist() {
                         actions={
                           <>
                             <button
-                              className="primary"
+                              
                               disabled={attend.isPending}
                               onClick={() => attend.mutate(e.gig.gig.id)}
                             >
