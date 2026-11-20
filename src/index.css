@@ -82,8 +82,13 @@ button {
   text-transform: uppercase;
 }
 
-button:hover:not(:disabled) {
-  background: var(--zinc-200);
+/* Los botones son siempre grises; el verde es solo el estado hover (en dispositivos con raton). */
+@media (hover: hover) {
+  button:hover:not(:disabled) {
+    background: var(--green-active);
+    border-color: var(--green-600);
+    color: var(--zinc-950);
+  }
 }
 
 button:disabled {
@@ -91,17 +96,12 @@ button:disabled {
   cursor: default;
 }
 
-/* Estado activo / accion principal (verde del Figma) */
-button.primary,
+/* Seleccionado (pestanas, likes): sigue en gris, con borde oscuro y negrita */
+button[aria-selected='true'],
 button[aria-pressed='true'] {
-  background: var(--green-active);
-  border-color: var(--green-600);
-  color: var(--zinc-950);
-}
-
-button.primary:hover:not(:disabled),
-button[aria-pressed='true']:hover:not(:disabled) {
-  background: var(--green-600);
+  background: #fff;
+  border-color: var(--zinc-800);
+  font-weight: 600;
 }
 
 button.link {
@@ -166,6 +166,9 @@ td {
   font-weight: 600;
   text-transform: uppercase;
   color: var(--green-300);
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 1rem;
 }
 
 /* Cabecera de seccion: titulo + enlace a la derecha */

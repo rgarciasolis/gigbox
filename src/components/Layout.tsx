@@ -35,11 +35,11 @@ export function Layout() {
   return (
     <div>
       <header className="h-14 border-b border-[var(--zinc-100)] bg-[var(--zinc-50)]">
-        <div className="mx-auto flex h-full max-w-[600px] items-center justify-between px-4">
-          <NavLink to="/" end className="!text-[var(--zinc-800)] !no-underline text-base font-bold">
+        <div className="mx-auto flex h-full max-w-[600px] items-center justify-between gap-3 px-4">
+          <NavLink to="/" end className="!text-[var(--zinc-800)] !no-underline whitespace-nowrap text-base font-bold">
             Mis conciertos
           </NavLink>
-          <nav aria-label="Principal" className="flex items-center gap-4">
+          <nav aria-label="Principal" className="flex items-center gap-2.5 sm:gap-4">
             {links.map((l) => (
               <NavLink
                 key={l.to}
