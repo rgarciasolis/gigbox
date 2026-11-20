@@ -1,30 +1,50 @@
 import type { FeedRepository } from '@/domain/repositories'
-import type { HomeFeed } from '@/domain/types'
+import { ACTIVITY_LIST_MAX, HOME_BLOCK_SIZE } from '@/domain/limits'
+import type { ContactWishlistAdd, HomeFeed, ReviewView } from '@/domain/types'
 import { getMockConfig } from './config'
 import { gigs, state, userById, venueById } from './db'
 import { call } from './latency'
 import { followingIds, isPastGig, me, reviewView, summary } from './selectors'
 
+function contactWishlistAdds(): ContactWishlistAdd[] {
+  if (getMockConfig().empty) return []
+  const following = new Set(followingIds())
+  return state.activities
+    .filter((a) => a.type === 'wishlist_add' && following.has(a.userId))
+    .filter((a) => !isPastGig(gigs.find((g) => g.id === a.gigId)!))
+    .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
+    .slice(0, ACTIVITY_LIST_MAX)
+    .map((a) => ({ user: userById.get(a.userId)!, gig: summary(a.gigId), addedAt: a.createdAt }))
+}
+
+function contactReviews(): ReviewView[] {
+  if (getMockConfig().empty) return []
+  const following = new Set(followingIds())
+  return state.attendances
+    .filter((a) => a.review && following.has(a.userId))
+    .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
+    .slice(0, ACTIVITY_LIST_MAX)
+    .map(reviewView)
+}
+
 export const feedRepository: FeedRepository = {
+  listContactWishlistAdds: () => call(contactWishlistAdds),
+  listContactReviews: () => call(contactReviews),
   getHome: () =>
     call((): HomeFeed => {
       const empty = getMockConfig().empty
       const following = new Set(followingIds())
 
       if (following.size > 0) {
-        if (empty) return { mode: 'contacts', wishlistAdds: [], reviews: [] }
-        const wishlistAdds = state.activities
-          .filter((a) => a.type === 'wishlist_add' && following.has(a.userId))
-          .filter((a) => !isPastGig(gigs.find((g) => g.id === a.gigId)!))
-          .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
-          .slice(0, 10)
-          .map((a) => ({ user: userById.get(a.userId)!, gig: summary(a.gigId), addedAt: a.createdAt }))
-        const reviews = state.attendances
-          .filter((a) => a.review && following.has(a.userId))
-          .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
-          .slice(0, 10)
-          .map(reviewView)
-        return { mode: 'contacts', wishlistAdds, reviews }
+        const adds = contactWishlistAdds()
+        const reviews = contactReviews()
+        return {
+          mode: 'contacts',
+          wishlistAdds: adds.slice(0, HOME_BLOCK_SIZE),
+          moreWishlistAdds: adds.length > HOME_BLOCK_SIZE,
+          reviews: reviews.slice(0, HOME_BLOCK_SIZE),
+          moreReviews: reviews.length > HOME_BLOCK_SIZE,
+        }
       }
 
       // Sin contactos: novedades y wishlist de mi ciudad

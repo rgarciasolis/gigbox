@@ -47,7 +47,8 @@ Los avisos `review_like` y `new_follower` se generarán con triggers. Los `artis
 - Importación masiva: fuera del MVP. No existe `ImportService`.
 - La foto es local y simulada (dataURL, máximo 400 KB).
 - Un aviso de artista solo se muestra si sigues al artista, el concierto no ha pasado y la sala está dentro del radio elegido (25, 50, 100, 200 o 500 km, por defecto 50) desde tu ciudad.
-- La campana cuenta las interacciones sin leer y, solo con Plus, los avisos de artistas sin leer.
+- La campana solo indica si hay avisos nuevos (punto), sin número: interacciones sin leer y, solo con Plus, avisos de artistas sin leer.
+- El Home muestra los 4 últimos conciertos añadidos por contactos y las 4 últimas reseñas; "Ver todo" abre `/actividad/wishlists` y `/actividad/resenas` (hasta 50).
 - Pulsar un aviso lo marca como leído. "Marcar todo como leído" actúa sobre una pestaña.
 
 ## Vistas compuestas

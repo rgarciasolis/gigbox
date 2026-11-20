@@ -123,6 +123,16 @@ export function useTags() {
   return useQuery({ queryKey: ['tags'], queryFn: () => tags.list() })
 }
 
+export function useContactWishlistAdds() {
+  const { feed } = useRepositories()
+  return useQuery({ queryKey: ['home', 'wishlist-adds'], queryFn: () => feed.listContactWishlistAdds() })
+}
+
+export function useContactReviews() {
+  const { feed } = useRepositories()
+  return useQuery({ queryKey: ['home', 'reviews'], queryFn: () => feed.listContactReviews() })
+}
+
 export function useFollowedArtists() {
   const { artistFollows } = useRepositories()
   return useQuery({ queryKey: ['artistFollows', 'mine'], queryFn: () => artistFollows.listMine() })

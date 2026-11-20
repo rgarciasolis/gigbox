@@ -4,6 +4,7 @@
 
 import type {
   Artist,
+  ContactWishlistAdd,
   Attendance,
   AttendanceView,
   GigDetail,
@@ -104,7 +105,7 @@ export interface ArtistFollowRepository {
 
 export interface NotificationRepository {
   list(tab: NotificationTab): Promise<NotificationView[]>
-  /** Interacciones sin leer y, solo con Plus, avisos de artistas sin leer (dentro del radio). */
+  /** Interacciones sin leer y, solo con Plus, avisos de artistas sin leer (dentro del radio). La campana solo usa si es > 0. */
   unreadCount(): Promise<number>
   markRead(id: ID): Promise<void>
   markAllRead(tab: NotificationTab): Promise<void>
@@ -113,6 +114,10 @@ export interface NotificationRepository {
 }
 
 export interface FeedRepository {
+  /** Lista completa (Ver mas) de conciertos anadidos a la Wishlist por los contactos. */
+  listContactWishlistAdds(): Promise<ContactWishlistAdd[]>
+  /** Lista completa (Ver mas) de resenas de los contactos. */
+  listContactReviews(): Promise<ReviewView[]>
   getHome(): Promise<HomeFeed>
 }
 

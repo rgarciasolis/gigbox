@@ -273,11 +273,21 @@ export interface GigFacets {
   venues: Venue[]
 }
 
+/** Un contacto ha anadido un concierto futuro a su Wishlist. */
+export interface ContactWishlistAdd {
+  user: User
+  gig: GigSummary
+  addedAt: ISODate
+}
+
 export type HomeFeed =
   | {
       mode: 'contacts'
-      wishlistAdds: { user: User; gig: GigSummary; addedAt: ISODate }[]
+      /** Los ultimos HOME_BLOCK_SIZE; el resto va en la pantalla Ver mas. */
+      wishlistAdds: ContactWishlistAdd[]
+      moreWishlistAdds: boolean
       reviews: ReviewView[]
+      moreReviews: boolean
     }
   | {
       mode: 'city'
