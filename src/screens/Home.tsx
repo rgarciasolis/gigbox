@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
-import { Async, Empty, GigList, GigRow, GoingButton, ReviewCard, UserLink } from '@/components/ui'
+import { Async, Empty, GigList, GoingButton, UserLink } from '@/components/ui'
+import { HomeGigRow, HomeReviewRow } from '@/components/home'
 import { relativeTime } from '@/domain/format'
 import { useHomeFeed } from '@/queries'
 
@@ -29,7 +30,7 @@ export function Home() {
               ) : (
                 <GigList>
                   {f.wishlistAdds.map((w) => (
-                    <GigRow
+                    <HomeGigRow
                       key={w.user.id + w.gig.gig.id}
                       s={w.gig}
                       note={
@@ -43,7 +44,7 @@ export function Home() {
                 </GigList>
               )}
               <div className="section-head">
-                <h2>Últimas reseñas de tus contactos</h2>
+                <h2>ÚLTIMAS RESEÑAS DE TUS CONTACTOS</h2>
                 {f.moreReviews && (
                   <Link to="/actividad/resenas" className="see-all">
                     Ver todo
@@ -55,7 +56,7 @@ export function Home() {
               ) : (
                 <ul className="m-0 list-none p-0">
                   {f.reviews.map((r) => (
-                    <ReviewCard key={r.attendance.id} r={r} />
+                    <HomeReviewRow key={r.attendance.id} r={r} />
                   ))}
                 </ul>
               )}
@@ -72,7 +73,7 @@ export function Home() {
               ) : (
                 <GigList>
                   {f.latestInCity.map((g) => (
-                    <GigRow key={g.gig.id} s={g} actions={<GoingButton gig={g} />} />
+                    <HomeGigRow key={g.gig.id} s={g} actions={<GoingButton gig={g} />} />
                   ))}
                 </GigList>
               )}
@@ -82,7 +83,7 @@ export function Home() {
               ) : (
                 <GigList>
                   {f.wishlistOfCity.map((g) => (
-                    <GigRow
+                    <HomeGigRow
                       key={g.gig.id}
                       s={g}
                       note={`${g.saves} personas lo tienen en su Wishlist`}

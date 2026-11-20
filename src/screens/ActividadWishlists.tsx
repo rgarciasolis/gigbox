@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
-import { Async, GigList, GigRow, GoingButton, UserLink } from '@/components/ui'
+import { Async, GigList, GoingButton, UserLink } from '@/components/ui'
+import { HomeGigRow } from '@/components/home'
 import { relativeTime } from '@/domain/format'
 import { useContactWishlistAdds } from '@/queries'
 
@@ -15,7 +16,7 @@ export function ActividadWishlists() {
         {(list) => (
           <GigList>
             {list.map((w) => (
-              <GigRow
+              <HomeGigRow
                 key={w.user.id + w.gig.gig.id}
                 s={w.gig}
                 note={

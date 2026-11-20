@@ -1,4 +1,4 @@
-import { NavLink, Outlet } from 'react-router-dom'
+import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useUnreadCount } from '@/queries'
 
 // Destinos segun el Figma: la marca lleva a Home; la campana abre Avisos.
@@ -31,11 +31,28 @@ function Bell() {
   )
 }
 
+// Pantallas ya rediseñadas segun Figma: columna ancha (1120 px). El resto sigue a 600 px.
+const WIDE = (path: string) => path === '/' || path.startsWith('/actividad/')
+
+/** Lupa del artboard: lleva a la busqueda de conciertos. */
+function Search() {
+  return (
+    <NavLink to="/conciertos" aria-label="Buscar conciertos" className="hidden !text-[var(--zinc-800)] sm:block">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.2" aria-hidden>
+        <circle cx="7" cy="7" r="4.5" />
+        <path d="m10.5 10.5 3 3" />
+      </svg>
+    </NavLink>
+  )
+}
+
 export function Layout() {
+  const wide = WIDE(useLocation().pathname)
+  const width = wide ? 'max-w-[1120px]' : 'max-w-[600px]'
   return (
     <div>
       <header className="h-14 border-b border-[var(--zinc-100)] bg-[var(--zinc-50)]">
-        <div className="mx-auto flex h-full max-w-[600px] items-center justify-between gap-3 px-4">
+        <div className={`mx-auto flex h-full ${width} items-center justify-between gap-3 px-4`}>
           <NavLink to="/" end className="!text-[var(--zinc-800)] !no-underline whitespace-nowrap text-base font-bold">
             Mis conciertos
           </NavLink>
@@ -52,10 +69,11 @@ export function Layout() {
               </NavLink>
             ))}
             <Bell />
+            <Search />
           </nav>
         </div>
       </header>
-      <main className="mx-auto max-w-[600px] px-4 pb-16 pt-10">
+      <main className={`mx-auto ${width} px-4 pb-16 pt-10`}>
         <Outlet />
       </main>
     </div>
