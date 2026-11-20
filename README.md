@@ -86,3 +86,10 @@ Primero PWA o Capacitor sobre esta web; después Expo reutilizando `src/domain`,
 ## Qué no incluye el MVP0
 
 Importación masiva, pagos, cuentas reales, fotos en servidor, setlists, enlaces a plataformas.
+
+## Artistas reales
+
+Solo los artistas son reales; salas, conciertos, usuarios, reseñas, seguidores y avisos siguen siendo dummy.
+
+- `data/source/artists.json` es una lista curada de artistas reales (vascos, españoles e internacionales, con género). `npm run seed` la usa y completa con nombres inventados hasta 120. Para cambiar artistas, edita ese fichero y vuelve a lanzar el seed. Si el fichero no existe, el seed genera todo inventado.
+- Opcional: `npm run scrape:artists` recoge títulos de la agenda de conciertos de [Kulturklik](https://www.kulturklik.euskadi.eus) y **sobrescribe** `data/source/artists.json`. Ejecútalo en tu máquina, revisa antes `robots.txt` y el aviso legal, y repasa el resultado a mano (la limpieza de títulos es heurística).
