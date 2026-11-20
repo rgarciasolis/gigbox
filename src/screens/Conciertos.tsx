@@ -83,8 +83,8 @@ export function Conciertos() {
                   }}
                 >
                   {a.name}
-                </button>{' '}
-                <span className="muted">({a.genre})</span>
+                </button>
+                {a.genre && <span className="muted"> ({a.genre})</span>}
               </li>
             ))}
           </ul>

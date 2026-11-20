@@ -6,7 +6,10 @@
 //
 // Las fechas se guardan RELATIVAS A HOY (dayOffset / minutos) y el adaptador mock las
 // convierte a fechas reales al arrancar, asi los datos nunca quedan "viejos".
-// Todo es ficticio o generico (ningun nombre de persona real en las resenas), salvo los ARTISTAS:
+// Todo es ficticio o generico (ningun nombre de persona real en las resenas), salvo salas, artistas y conciertos
+// futuros si existen data/source/songkick-*.json (generados con `node scripts/import-songkick.mjs`): entonces
+// se usan esos datos reales y solo el historial pasado, usuarios, resenas, etc. son inventados.
+// Sin esos ficheros, los ARTISTAS:
 // si existe data/source/artists.json (lista curada de artistas reales, o la que genera `npm run scrape:artists` desde Kulturklik) se usan
 // esos nombres; si faltan para llegar a 120, se completan con nombres inventados.
 
@@ -186,6 +189,14 @@ while (users.length < 30) {
 }
 const ME = users[0]
 
+// Datos reales (Songkick), opcionales
+const SRC = join(dirname(fileURLToPath(import.meta.url)), '..', 'data/source')
+const SK = ['venues', 'artists', 'events'].every((n) => existsSync(join(SRC, `songkick-${n}.json`)))
+  ? Object.fromEntries(['venues', 'artists', 'events'].map((n) => [n, JSON.parse(readFileSync(join(SRC, `songkick-${n}.json`), 'utf8'))]))
+  : null
+// Fecha en la que se capturaron los datos reales: los dayOffset se calculan respecto a ella
+const SK_ANCHOR = Date.UTC(2026, 10, 20)
+
 const MIN_ARTISTS = 120
 function loadRealArtists() {
   const file = join(dirname(fileURLToPath(import.meta.url)), '..', 'data/source/artists.json')
@@ -197,59 +208,113 @@ function loadRealArtists() {
   }
   return [...seen]
 }
-const realArtists = loadRealArtists()
-const realArtistNames = realArtists.map(([n]) => n)
-const realGenre = new Map(realArtists)
-const ARTIST_COUNT = Math.max(MIN_ARTISTS, realArtistNames.length)
-const fakeNames = artistNames(ARTIST_COUNT).filter((n) => !realArtistNames.includes(n))
-const artistList = [...realArtistNames, ...fakeNames].slice(0, ARTIST_COUNT)
-const artists = artistList.map((name) => ({ id: uuid(), name, genre: realGenre.get(name) ?? pick(GENRES) }))
+const skArtistId = new Map()
+let artists
+if (SK) {
+  artists = SK.artists.map((a) => {
+    const id = uuid()
+    skArtistId.set(a.sk, id)
+    return { id, name: a.name, genre: a.genre }
+  })
+} else {
+  const realArtists = loadRealArtists()
+  const realArtistNames = realArtists.map(([n]) => n)
+  const realGenre = new Map(realArtists)
+  const ARTIST_COUNT = Math.max(MIN_ARTISTS, realArtistNames.length)
+  const fakeNames = artistNames(ARTIST_COUNT).filter((n) => !realArtistNames.includes(n))
+  const artistList = [...realArtistNames, ...fakeNames].slice(0, ARTIST_COUNT)
+  artists = artistList.map((name) => ({ id: uuid(), name, genre: realGenre.get(name) ?? pick(GENRES) }))
+}
 
 const venues = []
-{
-  const usedNames = new Set()
-  const prefixes = shuffle(VENUE_NAME)
-  let k = 0
-  for (const [city, lat, lng, country, count] of CITIES) {
-    for (let i = 0; i < count; i++) {
-      const base = prefixes[k++ % prefixes.length]
-      const name = `${pick(VENUE_PREFIX)} ${base}`
-      if (usedNames.has(name)) {
-        i--
-        continue
+const skVenueId = new Map()
+if (SK) {
+  for (const v of SK.venues) {
+    const id = uuid()
+    skVenueId.set(v.sk, id)
+    venues.push({ id, name: v.name, address: v.address, city: v.city, country: 'España', lat: v.lat, lng: v.lng })
+  }
+} else {
+  {
+    const usedNames = new Set()
+    const prefixes = shuffle(VENUE_NAME)
+    let k = 0
+    for (const [city, lat, lng, country, count] of CITIES) {
+      for (let i = 0; i < count; i++) {
+        const base = prefixes[k++ % prefixes.length]
+        const name = `${pick(VENUE_PREFIX)} ${base}`
+        if (usedNames.has(name)) {
+          i--
+          continue
+        }
+        usedNames.add(name)
+        venues.push({
+          id: uuid(),
+          name,
+          address: `Calle ${pick(STREETS)} ${int(1, 80)}`,
+          city,
+          country,
+          lat: Number((lat + (rnd() - 0.5) * 0.04).toFixed(5)),
+          lng: Number((lng + (rnd() - 0.5) * 0.04).toFixed(5)),
+        })
       }
-      usedNames.add(name)
-      venues.push({
-        id: uuid(),
-        name,
-        address: `Calle ${pick(STREETS)} ${int(1, 80)}`,
-        city,
-        country,
-        lat: Number((lat + (rnd() - 0.5) * 0.04).toFixed(5)),
-        lng: Number((lng + (rnd() - 0.5) * 0.04).toFixed(5)),
-      })
     }
   }
+  if (venues.length !== 40) throw new Error(`Se esperaban 40 salas y hay ${venues.length}`)
 }
-if (venues.length !== 40) throw new Error(`Se esperaban 40 salas y hay ${venues.length}`)
 
-// Conciertos: 205 pasados + 95 futuros
+// Conciertos
 const gigs = []
-const venueWeights = venues.map((v) => [v, ['Madrid', 'Barcelona', 'Bilbao', 'Valencia'].includes(v.city) ? 4 : 1])
-for (let i = 0; i < 300; i++) {
-  const past = i < 205
-  const venue = weighted(venueWeights)
-  const lineup = sample(artists, weighted([[1, 3], [2, 4], [3, 2]])).map((a) => a.id)
-  const recentlyAdded = chance(past ? 0.15 : 0.6)
-  gigs.push({
-    id: uuid(),
-    artistIds: lineup,
-    venueId: venue.id,
-    dayOffset: past ? -int(1, 900) : int(1, 270),
-    hour: int(19, 22),
-    imageUrl: null,
-    createdMinOffset: -(recentlyAdded ? int(10, 60 * 24 * 40) : int(60 * 24 * 40, 60 * 24 * 400)),
-  })
+if (SK) {
+  // Reales: todos los eventos de Songkick (casi todos futuros). Cartel limitado a 6 artistas.
+  for (const e of SK.events) {
+    const [y, m, d] = e.date.split('-').map(Number)
+    const dayOffset = Math.round((Date.UTC(y, m - 1, d) - SK_ANCHOR) / 86400000)
+    const recentlyAdded = chance(dayOffset < 0 ? 0.15 : 0.6)
+    gigs.push({
+      id: uuid(),
+      artistIds: e.artists.slice(0, 6).map((id) => skArtistId.get(id)),
+      venueId: skVenueId.get(e.venue),
+      dayOffset,
+      hour: e.hour ?? int(20, 22),
+      imageUrl: null,
+      createdMinOffset: -(recentlyAdded ? int(10, 60 * 24 * 40) : int(60 * 24 * 40, 60 * 24 * 400)),
+    })
+  }
+  // Sinteticos: historial pasado con artistas y salas reales (Songkick solo trae agenda futura)
+  const evCount = new Map()
+  for (const e of SK.events) evCount.set(e.venue, (evCount.get(e.venue) ?? 0) + 1)
+  const venueW = SK.venues.map((v) => [skVenueId.get(v.sk), evCount.get(v.sk) ?? 1])
+  const realPast = gigs.filter((g) => g.dayOffset < 0).length
+  for (let i = realPast; i < 205; i++) {
+    gigs.push({
+      id: uuid(),
+      artistIds: sample(artists, weighted([[1, 3], [2, 4], [3, 2]])).map((a) => a.id),
+      venueId: weighted(venueW),
+      dayOffset: -int(1, 900),
+      hour: int(19, 22),
+      imageUrl: null,
+      createdMinOffset: -(chance(0.15) ? int(10, 60 * 24 * 40) : int(60 * 24 * 40, 60 * 24 * 400)),
+    })
+  }
+} else {
+  // 205 pasados + 95 futuros
+  const venueWeights = venues.map((v) => [v, ['Madrid', 'Barcelona', 'Bilbao', 'Valencia'].includes(v.city) ? 4 : 1])
+  for (let i = 0; i < 300; i++) {
+    const past = i < 205
+    const venue = weighted(venueWeights)
+    const lineup = sample(artists, weighted([[1, 3], [2, 4], [3, 2]])).map((a) => a.id)
+    const recentlyAdded = chance(past ? 0.15 : 0.6)
+    gigs.push({
+      id: uuid(),
+      artistIds: lineup,
+      venueId: venue.id,
+      dayOffset: past ? -int(1, 900) : int(1, 270),
+      hour: int(19, 22),
+      imageUrl: null,
+      createdMinOffset: -(recentlyAdded ? int(10, 60 * 24 * 40) : int(60 * 24 * 40, 60 * 24 * 400)),
+    })
+  }
 }
 const gigById = new Map(gigs.map((g) => [g.id, g]))
 const pastGigs = gigs.filter((g) => g.dayOffset < 0)
@@ -376,11 +441,16 @@ const favorites = users.map((u) => {
 })
 
 // Referencias externas (ids ficticios)
-const externalRefs = [
-  ...sample(artists, 70).map((a) => ({ id: uuid(), entityType: 'artist', entityId: a.id, provider: 'musicbrainz', externalId: uuid() })),
-  ...sample(gigs, 100).map((g) => ({ id: uuid(), entityType: 'gig', entityId: g.id, provider: 'ticketmaster', externalId: `tm_${int(100000, 999999)}` })),
-  ...sample(venues, 20).map((v) => ({ id: uuid(), entityType: 'venue', entityId: v.id, provider: 'ticketmaster', externalId: `tmv_${int(1000, 9999)}` })),
-]
+const externalRefs = SK
+  ? [
+      ...SK.artists.map((a) => ({ id: uuid(), entityType: 'artist', entityId: skArtistId.get(a.sk), provider: 'songkick', externalId: a.sk.replace('sk-artist-', '') })),
+      ...SK.venues.map((v) => ({ id: uuid(), entityType: 'venue', entityId: skVenueId.get(v.sk), provider: 'songkick', externalId: v.sk.replace('sk-venue-', '') })),
+    ]
+  : [
+      ...sample(artists, 70).map((a) => ({ id: uuid(), entityType: 'artist', entityId: a.id, provider: 'musicbrainz', externalId: uuid() })),
+      ...sample(gigs, 100).map((g) => ({ id: uuid(), entityType: 'gig', entityId: g.id, provider: 'ticketmaster', externalId: `tm_${int(100000, 999999)}` })),
+      ...sample(venues, 20).map((v) => ({ id: uuid(), entityType: 'venue', entityId: v.id, provider: 'ticketmaster', externalId: `tmv_${int(1000, 9999)}` })),
+    ]
 
 // ---------------------------------------------------------------- v0.7: seguir artistas y avisos
 // Se genera AL FINAL para no alterar los datos anteriores con la misma semilla.

@@ -82,7 +82,7 @@ export const gigRepository: GigRepository = {
   getFacets: () =>
     call(() => ({
       cities: [...new Set(venues.map((v) => v.city))].sort((a, b) => a.localeCompare(b, 'es')),
-      genres: [...new Set(artists.map((a) => a.genre))].sort((a, b) => a.localeCompare(b, 'es')),
+      genres: [...new Set(artists.map((a) => a.genre).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'es')),
       venues: [...venues].sort((a, b) => a.name.localeCompare(b.name, 'es')),
     })),
 

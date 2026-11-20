@@ -1,1032 +1,1027 @@
 [
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "9642f01f-333b-4283-bf9e-a6fd36bd7518",
-  "createdMinOffset": -139365
+  "artistId": "6f217207-b381-41a8-8d0f-c375f7f8b542",
+  "createdMinOffset": -16997
  },
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "072f0498-cf58-40e0-ac9f-82d9025367a3",
-  "createdMinOffset": -279789
+  "artistId": "2ee7847c-1a57-413c-940c-9cad2b6ad3ae",
+  "createdMinOffset": -250273
  },
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "133d02c1-74f6-4d57-93b9-894f2b15eca0",
-  "createdMinOffset": -110411
+  "artistId": "9fb065b2-bbc5-4d17-8a76-4916a197ee51",
+  "createdMinOffset": -120955
  },
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "f2d92654-9a2f-4540-ae55-b0e4618c5e48",
-  "createdMinOffset": -213138
+  "artistId": "b0c55c29-7aa9-48bf-861e-d7728eaf0e0b",
+  "createdMinOffset": -101218
  },
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "f5733284-7679-4bff-b33c-5a6e4c34e3b0",
-  "createdMinOffset": -247406
+  "artistId": "7786c3d2-af38-4378-a1bf-cf647443896f",
+  "createdMinOffset": -146772
  },
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "a0b629e5-d90f-4e7e-a084-c3f2f5eaee50",
-  "createdMinOffset": -176734
+  "artistId": "cba6a820-08f8-4fd9-9e95-36c25d057357",
+  "createdMinOffset": -182106
  },
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "b72843ea-1e5c-4b8e-b925-ab70d4115b3e",
-  "createdMinOffset": -275418
+  "artistId": "637a4371-7c4f-425b-8dae-d92314d7e93b",
+  "createdMinOffset": -3177
  },
  {
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "artistId": "f923c5b1-6710-4b6a-8a59-183e81b56d05",
-  "createdMinOffset": -160203
+  "artistId": "cde6bcf8-49dd-4130-8eb0-a0a44f8be9ef",
+  "createdMinOffset": -30457
  },
  {
   "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "artistId": "7ffc83ec-6a85-447f-b78b-0102e8e63c07",
-  "createdMinOffset": -270141
+  "artistId": "cb664351-a997-4964-a734-f6c986b56c49",
+  "createdMinOffset": -54923
  },
  {
   "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "artistId": "7e2bf71c-4bfa-4665-8999-533a8f64ce23",
-  "createdMinOffset": -88249
+  "artistId": "8eb6782c-6136-4e16-a79b-7ea5ef15294d",
+  "createdMinOffset": -245969
  },
  {
   "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "artistId": "1bcbad63-ea7a-470f-ae9d-f14f4aebf84d",
-  "createdMinOffset": -218027
+  "artistId": "2b1f44f1-75a2-4ce3-b3e3-e15d103969cb",
+  "createdMinOffset": -46551
  },
  {
   "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "artistId": "00c4e035-f0d7-46e5-9d0a-cc9011c0bc98",
-  "createdMinOffset": -197396
+  "artistId": "5be27b79-e78d-4c03-bd03-8f4cbc68b727",
+  "createdMinOffset": -125862
+ },
+ {
+  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "artistId": "9a89bb09-28c6-445f-85fc-02fdee3758ed",
+  "createdMinOffset": -216822
+ },
+ {
+  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "artistId": "3cd7f09a-8d55-4586-bbc1-70b837ea04e8",
+  "createdMinOffset": -18784
+ },
+ {
+  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "artistId": "20338354-0873-4db1-992a-283db5aa20de",
+  "createdMinOffset": -30049
+ },
+ {
+  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "artistId": "f34deecd-99e3-4e86-aa98-3cc52b45aa9e",
+  "createdMinOffset": -280177
+ },
+ {
+  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "artistId": "c105761e-49d1-467b-9554-fa199080d20f",
+  "createdMinOffset": -39597
  },
  {
   "userId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "artistId": "0830d957-21a1-4201-82b0-d6d1086e3de3",
-  "createdMinOffset": -79273
+  "artistId": "21406a5f-143c-42af-9874-c048dec84e08",
+  "createdMinOffset": -233006
  },
  {
   "userId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "artistId": "71b50bd3-0b11-4ef7-b412-268db50f70f4",
-  "createdMinOffset": -234934
+  "artistId": "2bcc51ea-8071-4761-8a1c-aede7e9d807a",
+  "createdMinOffset": -113814
  },
  {
   "userId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "artistId": "82c6136e-16a7-49b7-ba5e-f15294d535e4",
-  "createdMinOffset": -112482
- },
- {
-  "userId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "artistId": "1bcbad63-ea7a-470f-ae9d-f14f4aebf84d",
-  "createdMinOffset": -8075
+  "artistId": "9fa8ee1b-34fd-443f-b568-68bd5c4704ee",
+  "createdMinOffset": -27180
  },
  {
   "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "e40ac4ec-c308-4a15-acbb-e852f04727b7",
-  "createdMinOffset": -275913
+  "artistId": "7abad86b-639d-45cd-9602-c1bb9c76ce5f",
+  "createdMinOffset": -96603
  },
  {
   "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "eed7b4f9-979e-44d8-be00-eb99d02a9733",
-  "createdMinOffset": -32607
+  "artistId": "f50170c3-167d-4c66-b052-82722b1879c9",
+  "createdMinOffset": -158315
  },
  {
   "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "03a63b1b-55d8-4233-b0e7-ce174ff53f51",
-  "createdMinOffset": -286632
+  "artistId": "56cd7964-2f01-4f33-8b28-3df9ea6fd36b",
+  "createdMinOffset": -201206
  },
  {
   "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "cf129f61-c203-41a3-98b8-b7af5c85ba1e",
-  "createdMinOffset": -160878
- },
- {
-  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "f16ea05a-f363-42a5-bb2c-2c3666acba6a",
-  "createdMinOffset": -196427
- },
- {
-  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "d196ada3-e2a4-4389-9ec6-81d08937db71",
-  "createdMinOffset": -153945
- },
- {
-  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "eb4c9eec-33d5-450f-9636-4aa5a9dac0d8",
-  "createdMinOffset": -181591
- },
- {
-  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "artistId": "ecda975b-70a8-4956-8bbf-4029fbe62f4f",
-  "createdMinOffset": -80721
+  "artistId": "14ae61b0-95f3-479e-bd0b-e3e41991ee20",
+  "createdMinOffset": -134857
  },
  {
   "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "artistId": "c58df5c5-5980-4a6e-a19d-6f732aa133e5",
-  "createdMinOffset": -270929
+  "artistId": "c6ddc1ed-09c2-4508-b281-a2ec0ba2b4a5",
+  "createdMinOffset": -125265
  },
  {
   "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "artistId": "565c4c36-7834-4202-81bc-96dc2841796b",
-  "createdMinOffset": -159001
+  "artistId": "7dc4aaf0-b1a2-473a-a8e0-6e657109e4fb",
+  "createdMinOffset": -22861
  },
  {
   "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "artistId": "4c70a742-d8bf-45d0-a1e4-2c85ee9c8a92",
-  "createdMinOffset": -26455
+  "artistId": "761c8aa4-5e2a-4875-92a8-9882f325ff97",
+  "createdMinOffset": -201738
  },
  {
   "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "artistId": "3fe3fc34-3101-4f15-bce8-1aae85a1925b",
-  "createdMinOffset": -51826
+  "artistId": "cba6a820-08f8-4fd9-9e95-36c25d057357",
+  "createdMinOffset": -107376
  },
  {
   "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "artistId": "db797486-d133-4dda-b592-5945d0d77cec",
-  "createdMinOffset": -38349
+  "artistId": "f6bee508-4cc7-4c34-8841-1cb7378124ed",
+  "createdMinOffset": -187700
  },
  {
   "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "artistId": "960cbab5-452d-482f-9051-6216c1fe9104",
-  "createdMinOffset": -36088
+  "artistId": "7c7b66fa-a557-4ded-96c9-c43e481f41b2",
+  "createdMinOffset": -234689
  },
  {
   "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "artistId": "376310bc-f29e-4f8e-bd7e-39f5fb049ed1",
-  "createdMinOffset": -235008
+  "artistId": "180b77ff-c83e-4c6a-a547-ff78b0102e8e",
+  "createdMinOffset": -34840
+ },
+ {
+  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "artistId": "cde6bcf8-49dd-4130-8eb0-a0a44f8be9ef",
+  "createdMinOffset": -45424
+ },
+ {
+  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "artistId": "f330475f-d84b-46a7-a201-7dab5408bfe7",
+  "createdMinOffset": -2846
+ },
+ {
+  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "artistId": "8e0d06e5-bd63-4c85-9369-4f27aeefb555",
+  "createdMinOffset": -121758
  },
  {
   "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "artistId": "6ff2f804-0992-45fc-8532-9eabcef8bcfb",
-  "createdMinOffset": -35637
+  "artistId": "77ceca61-6274-4bf0-bf37-73df814f7fb2",
+  "createdMinOffset": -50096
  },
  {
   "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "artistId": "1aebb822-eadd-4429-87d3-76ab64bc4038",
-  "createdMinOffset": -85050
+  "artistId": "eb0a75ae-6e07-4844-87c5-ca30f33a1a6b",
+  "createdMinOffset": -153509
  },
  {
   "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "artistId": "00c4e035-f0d7-46e5-9d0a-cc9011c0bc98",
-  "createdMinOffset": -197110
+  "artistId": "b93f1b08-e679-4713-9739-3d51b8b61f11",
+  "createdMinOffset": -157305
  },
  {
   "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "artistId": "a3f93c6b-15b0-464d-870c-ee3d9fe44840",
-  "createdMinOffset": -209518
+  "artistId": "a56bedf6-631d-4aaf-a8c1-bc67f13a7222",
+  "createdMinOffset": -236469
+ },
+ {
+  "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "artistId": "994f1d55-2c31-4469-b8c2-07cb5ad12fc9",
+  "createdMinOffset": -122617
+ },
+ {
+  "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "artistId": "1570c342-168e-4e62-9d0f-aa9a94db2b78",
+  "createdMinOffset": -275929
+ },
+ {
+  "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "artistId": "1d2005b8-3553-4fa3-8ab8-61d801221e4f",
+  "createdMinOffset": -224489
+ },
+ {
+  "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "artistId": "5ea8f981-67b2-4a0d-a638-70e1b8f0f1b6",
+  "createdMinOffset": -274367
  },
  {
   "userId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "artistId": "1aebb822-eadd-4429-87d3-76ab64bc4038",
-  "createdMinOffset": -240071
+  "artistId": "ff6cea3f-93c6-4b15-a064-d270cee3d9fe",
+  "createdMinOffset": -264760
  },
  {
   "userId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "artistId": "1ae1bfbc-a182-4be9-97f5-499a24456f93",
-  "createdMinOffset": -140899
+  "artistId": "c6ddc1ed-09c2-4508-b281-a2ec0ba2b4a5",
+  "createdMinOffset": -188520
  },
  {
   "userId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "artistId": "da463594-38ed-430c-998a-e9d98c08e372",
-  "createdMinOffset": -252752
+  "artistId": "88e6baea-ff7d-463b-9627-15d58c61fcec",
+  "createdMinOffset": -137641
+ },
+ {
+  "userId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "artistId": "07cf75f8-facb-4925-a631-991bb0818047",
+  "createdMinOffset": -216004
+ },
+ {
+  "userId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "artistId": "8c4d3837-6efc-4b1f-8383-60fc182040fc",
+  "createdMinOffset": -168432
  },
  {
   "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "artistId": "aa45e2a8-7542-4a89-a82f-325ff974a67c",
-  "createdMinOffset": -55313
+  "artistId": "8565be1d-4138-4481-9c6c-c84c5f141a3d",
+  "createdMinOffset": -167867
  },
  {
   "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "artistId": "62d3f191-00c4-40fb-aac3-039dff53a8b8",
-  "createdMinOffset": -202405
+  "artistId": "34d3c6f8-1be5-412a-a35a-4fd462696897",
+  "createdMinOffset": -37530
  },
  {
   "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "artistId": "6c785655-cf2c-4789-a24d-9ed67cfa6566",
-  "createdMinOffset": -146833
+  "artistId": "21c3b533-d0f6-4a05-b7c4-6ab31cc35afb",
+  "createdMinOffset": -77296
  },
  {
   "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "artistId": "b72843ea-1e5c-4b8e-b925-ab70d4115b3e",
-  "createdMinOffset": -171447
- },
- {
-  "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "artistId": "9642f01f-333b-4283-bf9e-a6fd36bd7518",
-  "createdMinOffset": -35114
- },
- {
-  "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "artistId": "4c70a742-d8bf-45d0-a1e4-2c85ee9c8a92",
-  "createdMinOffset": -181374
+  "artistId": "7dc4aaf0-b1a2-473a-a8e0-6e657109e4fb",
+  "createdMinOffset": -23610
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "617b8fd8-ebd1-44a8-a7d7-363f0aaae743",
-  "createdMinOffset": -88688
+  "artistId": "727b78ea-89d1-431e-b1b4-70e2288a204f",
+  "createdMinOffset": -125015
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "85af1dc9-395a-48ed-b1dd-1c4d17c2397e",
-  "createdMinOffset": -148646
+  "artistId": "8a2d5e89-2fa4-4b74-af94-9f031bb94cb4",
+  "createdMinOffset": -287704
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "f8091470-7f04-4f30-99ad-82def83afe6c",
-  "createdMinOffset": -183361
+  "artistId": "ded01ade-15c2-4617-8a2e-15f882ac22a5",
+  "createdMinOffset": -216831
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "db797486-d133-4dda-b592-5945d0d77cec",
-  "createdMinOffset": -153132
+  "artistId": "aee50ce1-8fcb-4d62-aace-e5714698f94b",
+  "createdMinOffset": -130209
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "d0914518-8d95-45fc-bcba-84cb7cc9ca76",
-  "createdMinOffset": -141789
+  "artistId": "8c4d3837-6efc-4b1f-8383-60fc182040fc",
+  "createdMinOffset": -46791
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "ecda975b-70a8-4956-8bbf-4029fbe62f4f",
-  "createdMinOffset": -238314
+  "artistId": "79aab83e-5836-4005-b20e-a38af0a6d79e",
+  "createdMinOffset": -22640
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "133d02c1-74f6-4d57-93b9-894f2b15eca0",
-  "createdMinOffset": -253
+  "artistId": "d567e716-c14f-46a5-aab0-5341041423e5",
+  "createdMinOffset": -223594
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "66469282-2342-46c2-944f-1d374496d9e0",
-  "createdMinOffset": -235108
+  "artistId": "e9954002-d4c2-4ea8-84fc-2eaf79c2f965",
+  "createdMinOffset": -136625
  },
  {
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "b72843ea-1e5c-4b8e-b925-ab70d4115b3e",
-  "createdMinOffset": -9804
- },
- {
-  "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "artistId": "670d9155-95ca-42d3-9a64-b31856d4c72b",
-  "createdMinOffset": -120414
+  "artistId": "ad8b31b3-7f71-462b-85d7-01da2e930bee",
+  "createdMinOffset": -29931
  },
  {
   "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "5bc7e409-e8ad-4ab7-94d1-6b0ca67165ef",
-  "createdMinOffset": -279305
+  "artistId": "2c5ae49f-41b7-485d-8135-41e9d8a817de",
+  "createdMinOffset": -4108
  },
  {
   "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "4be78cf5-5a86-4db4-b9b9-80540a5f63cd",
-  "createdMinOffset": -24655
+  "artistId": "49bcaa57-2196-4780-9573-4ebe172471e0",
+  "createdMinOffset": -62078
  },
  {
   "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "2e2324c0-aef9-4393-a036-bf0a21a180b7",
-  "createdMinOffset": -144217
+  "artistId": "3c9dc8f8-59da-49fe-9d67-14e5fb43dc57",
+  "createdMinOffset": -94498
  },
  {
   "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "6c785655-cf2c-4789-a24d-9ed67cfa6566",
-  "createdMinOffset": -11298
+  "artistId": "2cca714c-6156-49fb-846f-091c8e3d0af5",
+  "createdMinOffset": -139217
  },
  {
   "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "b44b0a94-b8cc-4f80-bf23-13791bc38213",
-  "createdMinOffset": -235638
- },
- {
-  "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "b72843ea-1e5c-4b8e-b925-ab70d4115b3e",
-  "createdMinOffset": -169342
- },
- {
-  "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "838e8d3f-9fd9-433f-a268-8a4340174de9",
-  "createdMinOffset": -101773
- },
- {
-  "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "artistId": "77df046d-c0a8-4a7e-9f2a-77674c34c02a",
-  "createdMinOffset": -253343
+  "artistId": "1128bad1-bfb5-4331-8ef5-50114c6e6026",
+  "createdMinOffset": -104348
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "960cbab5-452d-482f-9051-6216c1fe9104",
-  "createdMinOffset": -103595
+  "artistId": "cb65a189-99f8-4c1e-9174-72a813e774c0",
+  "createdMinOffset": -204613
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "3f4bf26f-8dab-446b-9f78-f85226fcd7db",
-  "createdMinOffset": -120000
+  "artistId": "632ec588-8a08-4a71-a9e2-1d41425b367c",
+  "createdMinOffset": -234138
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "66469282-2342-46c2-944f-1d374496d9e0",
-  "createdMinOffset": -104310
+  "artistId": "88e6baea-ff7d-463b-9627-15d58c61fcec",
+  "createdMinOffset": -10601
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "a0eb63f2-341a-43b7-a2db-dfe2488217d9",
-  "createdMinOffset": -131169
+  "artistId": "5e6d274a-9e1d-4b6e-87f4-1d1c4783b4f9",
+  "createdMinOffset": -116799
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "db959b9d-5b5f-4ae9-b109-f092fb64ad7f",
-  "createdMinOffset": -22086
+  "artistId": "8eba7617-b8fd-48eb-b14a-8b7d7363f0aa",
+  "createdMinOffset": -77356
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "3cbb3be6-d42b-4814-bc39-f5788dcc10bc",
-  "createdMinOffset": -240708
+  "artistId": "44840c58-df5c-4559-a0a6-ea19d6f732aa",
+  "createdMinOffset": -283188
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "9c8ea2ee-06f7-4874-a5e4-4c83b5a9e635",
-  "createdMinOffset": -189792
+  "artistId": "e14e5366-cafb-422f-a088-f9a2e8ef35c3",
+  "createdMinOffset": -78551
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "1930ed3c-71e3-46ac-98c4-49c95a9557f8",
-  "createdMinOffset": -40026
+  "artistId": "618ce9a8-e453-4bc6-a6d9-3b2bafcf51fe",
+  "createdMinOffset": -249179
  },
  {
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "1ae1bfbc-a182-4be9-97f5-499a24456f93",
-  "createdMinOffset": -239906
- },
- {
-  "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "artistId": "ade15c26-173a-42e1-9f88-2ac22a5cd35d",
-  "createdMinOffset": -24818
+  "artistId": "3b984cae-dd49-4a94-a033-c111ef304c3e",
+  "createdMinOffset": -283304
  },
  {
   "userId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "artistId": "62d3f191-00c4-40fb-aac3-039dff53a8b8",
-  "createdMinOffset": -187621
+  "artistId": "4b11b960-cbab-4545-8d82-f60516216c1f",
+  "createdMinOffset": -27079
  },
  {
   "userId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "artistId": "b44b0a94-b8cc-4f80-bf23-13791bc38213",
-  "createdMinOffset": -255171
+  "artistId": "7821098e-096a-45c0-986a-a880e7dcb73a",
+  "createdMinOffset": -15753
  },
  {
   "userId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "artistId": "d5bf79ee-151c-44cf-9771-14d9aa1f35f7",
-  "createdMinOffset": -276536
+  "artistId": "44840c58-df5c-4559-a0a6-ea19d6f732aa",
+  "createdMinOffset": -187916
  },
  {
   "userId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "artistId": "3cbb3be6-d42b-4814-bc39-f5788dcc10bc",
-  "createdMinOffset": -278264
+  "artistId": "3018d047-4e61-48c8-8101-411588026ede",
+  "createdMinOffset": -140151
  },
  {
   "userId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "artistId": "f2d92654-9a2f-4540-ae55-b0e4618c5e48",
-  "createdMinOffset": -280825
+  "artistId": "c7cc3088-743b-4a76-b82c-e71a1c708483",
+  "createdMinOffset": -246037
  },
  {
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "artistId": "5ba28beb-4203-4144-a5fa-ea78f278eb67",
-  "createdMinOffset": -52790
+  "artistId": "969947ce-fdf4-42ff-bdf0-151ec1006f91",
+  "createdMinOffset": -243894
  },
  {
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "artistId": "fad320ae-c2ce-4047-a67e-7c254019032a",
-  "createdMinOffset": -157355
+  "artistId": "5d2bd97e-4ff8-48cb-ab82-d923e7765d52",
+  "createdMinOffset": -55161
  },
  {
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "artistId": "ecda975b-70a8-4956-8bbf-4029fbe62f4f",
-  "createdMinOffset": -216752
+  "artistId": "f35f72ef-0bcb-4e44-b8d1-b1b1eeda626b",
+  "createdMinOffset": -264972
  },
  {
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "artistId": "eb4c9eec-33d5-450f-9636-4aa5a9dac0d8",
-  "createdMinOffset": -228411
+  "artistId": "22c0e70c-8895-4c9c-bb91-1e0082693bcf",
+  "createdMinOffset": -129993
  },
  {
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "artistId": "f2d92654-9a2f-4540-ae55-b0e4618c5e48",
-  "createdMinOffset": -21806
+  "artistId": "39af4a59-61fb-4d9c-b83c-a855fe942f96",
+  "createdMinOffset": -181406
  },
  {
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "artistId": "6c785655-cf2c-4789-a24d-9ed67cfa6566",
-  "createdMinOffset": -67428
+  "artistId": "8fdf0b44-b0a9-44b8-bcf8-0ff2313791bc",
+  "createdMinOffset": -198021
  },
  {
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "artistId": "44799d0d-514c-44d3-9eae-77d9e2218b5f",
-  "createdMinOffset": -104084
+  "artistId": "a7e1b50b-a976-425c-b06a-769c39840d45",
+  "createdMinOffset": -83062
  },
  {
   "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "artistId": "5cb8eda2-cc42-48ae-bef4-981f0e734d3c",
-  "createdMinOffset": -20260
+  "artistId": "20f05f56-147d-4f32-9f60-dd5f952c1409",
+  "createdMinOffset": -272857
  },
  {
   "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "artistId": "62d3f191-00c4-40fb-aac3-039dff53a8b8",
-  "createdMinOffset": -180728
+  "artistId": "9dfca0ad-74bb-4819-adbc-ba59f3875b32",
+  "createdMinOffset": -222845
  },
  {
   "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "artistId": "aa45e2a8-7542-4a89-a82f-325ff974a67c",
-  "createdMinOffset": -80241
+  "artistId": "742ffae3-d303-4a07-82bd-7c258f095248",
+  "createdMinOffset": -175281
  },
  {
   "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "artistId": "f8091470-7f04-4f30-99ad-82def83afe6c",
-  "createdMinOffset": -81591
+  "artistId": "f257ba25-4733-43b5-b796-107687b2c31e",
+  "createdMinOffset": -185091
  },
  {
   "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "artistId": "b72843ea-1e5c-4b8e-b925-ab70d4115b3e",
-  "createdMinOffset": -63615
+  "artistId": "fa3a6060-0d20-4902-911f-b4754f14f8f7",
+  "createdMinOffset": -21123
+ },
+ {
+  "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "artistId": "0e20b2db-3136-4bef-a5c4-a78a529aaa60",
+  "createdMinOffset": -263559
+ },
+ {
+  "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "artistId": "7378f862-7a24-442b-91d1-79fc7ad85ee0",
+  "createdMinOffset": -85219
+ },
+ {
+  "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "artistId": "80df83f4-bf26-4f8d-ab46-b6f78f85226f",
+  "createdMinOffset": -141011
+ },
+ {
+  "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "artistId": "5338403a-63b1-4b55-b823-3f0e7ce174ff",
+  "createdMinOffset": -165342
  },
  {
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "artistId": "9fe78cbb-4bd7-4e8c-92a7-0ca35b961fd2",
-  "createdMinOffset": -172542
+  "artistId": "b7911b23-1b3b-4d8b-9313-f8d0d5cc14bb",
+  "createdMinOffset": -163855
  },
  {
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "artistId": "f2d92654-9a2f-4540-ae55-b0e4618c5e48",
-  "createdMinOffset": -26365
+  "artistId": "459e559e-f6e1-44f5-931c-96ad62835e60",
+  "createdMinOffset": -12120
  },
  {
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "artistId": "8ea89d13-1ec1-4b47-8e22-88a204f65560",
-  "createdMinOffset": -36382
+  "artistId": "f35f72ef-0bcb-4e44-b8d1-b1b1eeda626b",
+  "createdMinOffset": -256445
  },
  {
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "artistId": "fc820b7a-c9e8-4aa0-a660-ffc6d2afa3a6",
-  "createdMinOffset": -202952
+  "artistId": "a7e1b50b-a976-425c-b06a-769c39840d45",
+  "createdMinOffset": -152233
  },
  {
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "artistId": "5bc7e409-e8ad-4ab7-94d1-6b0ca67165ef",
-  "createdMinOffset": -115368
+  "artistId": "fca6433f-32fb-4093-b7b1-607fc6bc2214",
+  "createdMinOffset": -18562
  },
  {
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "artistId": "751af03c-2ed6-43f6-b052-90e885a8eba7",
-  "createdMinOffset": -141234
+  "artistId": "a6e2fa30-5eff-4c82-8c61-7ff5825aaa64",
+  "createdMinOffset": -96785
  },
  {
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "artistId": "82008f8f-d95e-4953-9c25-d05735780df8",
-  "createdMinOffset": -111943
+  "artistId": "e877b8fb-b4c5-445c-a0b3-0ccf57b3bd06",
+  "createdMinOffset": -193299
+ },
+ {
+  "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "artistId": "655601ae-bb82-42ea-bd42-927d376ab64b",
+  "createdMinOffset": -140952
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "daf36509-a401-4c58-9129-5bffc2472d9b",
-  "createdMinOffset": -29669
+  "artistId": "b380787c-76ce-4af2-9473-a703fdbe281d",
+  "createdMinOffset": -92347
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "2ef0bcbe-44f8-4d1b-8b1e-eda626b52dee",
-  "createdMinOffset": -190215
+  "artistId": "f080a414-0e27-4340-8fbd-cf04d510f7d8",
+  "createdMinOffset": -159007
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "b66e4783-2031-4bca-b8b3-c1cf29eca112",
-  "createdMinOffset": -137728
+  "artistId": "c455fb71-8c41-4742-86b4-7f4927242d6a",
+  "createdMinOffset": -119141
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "eb4c9eec-33d5-450f-9636-4aa5a9dac0d8",
-  "createdMinOffset": -71080
+  "artistId": "52d82702-5de1-4571-b423-9eb5475d59fb",
+  "createdMinOffset": -251890
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "77df046d-c0a8-4a7e-9f2a-77674c34c02a",
-  "createdMinOffset": -126152
+  "artistId": "356b5b12-cc4a-464d-915c-b72b7eddf1ff",
+  "createdMinOffset": -4946
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "3cbb3be6-d42b-4814-bc39-f5788dcc10bc",
-  "createdMinOffset": -188507
+  "artistId": "8565be1d-4138-4481-9c6c-c84c5f141a3d",
+  "createdMinOffset": -62030
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "fe6ca7f7-91e2-47fc-aeb3-33767db7bd6a",
-  "createdMinOffset": -90965
+  "artistId": "d4a98d06-4bd6-4128-8db0-19c4d81e7c62",
+  "createdMinOffset": -120717
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "0bd9fdaa-60d6-4b19-9293-8c62fbba618b",
-  "createdMinOffset": -255817
+  "artistId": "49a5b422-e7a8-4607-87b9-0f764285aa67",
+  "createdMinOffset": -91172
  },
  {
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "artistId": "c58df5c5-5980-4a6e-a19d-6f732aa133e5",
-  "createdMinOffset": -232747
+  "artistId": "98fd497a-a691-4160-a550-d03c8af46b61",
+  "createdMinOffset": -174043
  },
  {
   "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "artistId": "b44b0a94-b8cc-4f80-bf23-13791bc38213",
-  "createdMinOffset": -237759
+  "artistId": "cba6a820-08f8-4fd9-9e95-36c25d057357",
+  "createdMinOffset": -94031
  },
  {
   "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "artistId": "44799d0d-514c-44d3-9eae-77d9e2218b5f",
-  "createdMinOffset": -257800
+  "artistId": "b93f1b08-e679-4713-9739-3d51b8b61f11",
+  "createdMinOffset": -90987
  },
  {
   "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "artistId": "f8091470-7f04-4f30-99ad-82def83afe6c",
-  "createdMinOffset": -48090
+  "artistId": "2bd244a0-eee8-4dc0-a916-e4e9ae00eced",
+  "createdMinOffset": -216330
  },
  {
   "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "artistId": "855a8369-5488-40a5-8d8d-01ae011dbc10",
-  "createdMinOffset": -34522
+  "artistId": "85a3c4a4-10f3-4ff5-bb73-2345c1105cb8",
+  "createdMinOffset": -63295
  },
  {
   "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "artistId": "f2d92654-9a2f-4540-ae55-b0e4618c5e48",
-  "createdMinOffset": -227627
+  "artistId": "dfe970cc-2fc2-4bb7-9a47-a5635aeafa64",
+  "createdMinOffset": -179845
  },
  {
   "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "artistId": "1d6b13e5-ebdd-46a5-a9dc-5ec291253384",
-  "createdMinOffset": -13317
+  "artistId": "8d54e41e-48c1-40c9-aa35-215271748120",
+  "createdMinOffset": -165244
+ },
+ {
+  "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "artistId": "7efc89b3-60a2-492f-b746-455ad4c5a77f",
+  "createdMinOffset": -147915
+ },
+ {
+  "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "artistId": "27e19e7a-358b-4e3a-b496-6219ca32aa3a",
+  "createdMinOffset": -145387
+ },
+ {
+  "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "artistId": "655601ae-bb82-42ea-bd42-927d376ab64b",
+  "createdMinOffset": -264415
  },
  {
   "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "77df046d-c0a8-4a7e-9f2a-77674c34c02a",
-  "createdMinOffset": -235448
+  "artistId": "133e5da4-6359-4438-bd30-c798ae9d98c0",
+  "createdMinOffset": -72537
  },
  {
   "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "f923c5b1-6710-4b6a-8a59-183e81b56d05",
-  "createdMinOffset": -1910
+  "artistId": "d8739340-70db-4837-adf0-e919b5a08039",
+  "createdMinOffset": -76664
  },
  {
   "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "eed7b4f9-979e-44d8-be00-eb99d02a9733",
-  "createdMinOffset": -79111
+  "artistId": "a618be17-dadb-4ec1-963f-28e59aa14f71",
+  "createdMinOffset": -204224
  },
  {
   "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "2db3136b-efb5-4c4a-98a5-29aaa60163cd",
-  "createdMinOffset": -75523
- },
- {
-  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "f8091470-7f04-4f30-99ad-82def83afe6c",
-  "createdMinOffset": -271671
- },
- {
-  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "d0914518-8d95-45fc-bcba-84cb7cc9ca76",
-  "createdMinOffset": -86552
- },
- {
-  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "fad320ae-c2ce-4047-a67e-7c254019032a",
-  "createdMinOffset": -81867
- },
- {
-  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "5ba28beb-4203-4144-a5fa-ea78f278eb67",
-  "createdMinOffset": -282873
- },
- {
-  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "e8092778-c77f-47b2-9e9d-b6ca3b062201",
-  "createdMinOffset": -200526
- },
- {
-  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "artistId": "9dcc102b-d40d-4458-a49a-c84d01c56cd7",
-  "createdMinOffset": -72699
+  "artistId": "acd18e49-2a73-4adf-a700-c5229fa65862",
+  "createdMinOffset": -18172
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "ecda975b-70a8-4956-8bbf-4029fbe62f4f",
-  "createdMinOffset": -233504
+  "artistId": "6dd3e497-5f5d-4ace-920a-f2f70fa9eae4",
+  "createdMinOffset": -125962
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "6f81be51-2ab3-45a4-bd46-2696897c1589",
-  "createdMinOffset": -257416
+  "artistId": "a5a68361-e147-46f9-86f6-13b9c2982572",
+  "createdMinOffset": -234045
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "f7572303-e401-464e-9414-ac24cf14b933",
-  "createdMinOffset": -164514
+  "artistId": "5a090fe8-d1d0-49bc-967f-85460adaa7e3",
+  "createdMinOffset": -232932
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "9d09e856-01fd-414a-863e-7755716609b8",
-  "createdMinOffset": -55994
+  "artistId": "51263ae1-b239-4a4e-8f49-f86cf8926836",
+  "createdMinOffset": -39123
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "1e0c3448-8faa-4697-8af2-0ec308a7c1d6",
-  "createdMinOffset": -135996
+  "artistId": "17de7858-9e41-48e3-811b-f6372091c7ac",
+  "createdMinOffset": -207879
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "ee3f5431-f72b-473d-a2de-7862271980a5",
-  "createdMinOffset": -265222
+  "artistId": "6179cdaf-e79e-422c-b18f-612561feb3ba",
+  "createdMinOffset": -285803
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "5bc7e409-e8ad-4ab7-94d1-6b0ca67165ef",
-  "createdMinOffset": -154969
+  "artistId": "a44703fc-8ff4-4cbe-94b4-6628876b895b",
+  "createdMinOffset": -61591
  },
  {
   "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "82c6136e-16a7-49b7-ba5e-f15294d535e4",
-  "createdMinOffset": -155977
- },
- {
-  "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "376310bc-f29e-4f8e-bd7e-39f5fb049ed1",
-  "createdMinOffset": -78489
- },
- {
-  "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "artistId": "7e2bf71c-4bfa-4665-8999-533a8f64ce23",
-  "createdMinOffset": -241304
+  "artistId": "133e5da4-6359-4438-bd30-c798ae9d98c0",
+  "createdMinOffset": -226739
  },
  {
   "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "artistId": "565c4c36-7834-4202-81bc-96dc2841796b",
-  "createdMinOffset": -24531
+  "artistId": "11c0d804-3dab-48b2-8749-1db853a8d60a",
+  "createdMinOffset": -156212
  },
  {
   "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "artistId": "5329b786-8089-4045-907a-8b150e7ff6ce",
-  "createdMinOffset": -63418
+  "artistId": "fc492e4f-8dc4-4516-888c-3f9ea2e89568",
+  "createdMinOffset": -9609
  },
  {
   "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "artistId": "3cbb3be6-d42b-4814-bc39-f5788dcc10bc",
-  "createdMinOffset": -276001
+  "artistId": "2cca714c-6156-49fb-846f-091c8e3d0af5",
+  "createdMinOffset": -17631
  },
  {
   "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "artistId": "8462bdaa-8a88-4131-9231-e6ab7dd1ffd3",
-  "createdMinOffset": -254049
+  "artistId": "a0200bc3-7d47-4216-953c-734f4f2b7d7e",
+  "createdMinOffset": -262891
+ },
+ {
+  "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "artistId": "6ea57460-f710-43ad-86e0-6fb92878f4b1",
+  "createdMinOffset": -275988
+ },
+ {
+  "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "artistId": "56d05a0e-b63f-4234-8a3b-782dbdfe2488",
+  "createdMinOffset": -120908
  },
  {
   "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "da463594-38ed-430c-998a-e9d98c08e372",
-  "createdMinOffset": -124127
+  "artistId": "557f871b-50bd-430b-81ef-7e412268db50",
+  "createdMinOffset": -219402
  },
  {
   "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "864362fc-8804-4315-bb02-b26109d67c1a",
-  "createdMinOffset": -121544
+  "artistId": "55e92ad0-9d9c-4264-80f0-8ccea5aab57c",
+  "createdMinOffset": -117579
  },
  {
   "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "71b50bd3-0b11-4ef7-b412-268db50f70f4",
-  "createdMinOffset": -283895
+  "artistId": "0bc98d5b-f79e-4e15-8c4c-f777114d9aa1",
+  "createdMinOffset": -217335
  },
  {
   "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "9c8ea2ee-06f7-4874-a5e4-4c83b5a9e635",
-  "createdMinOffset": -17092
+  "artistId": "5bff0054-623d-4334-bfc6-16207f4c52a9",
+  "createdMinOffset": -285202
  },
  {
   "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "5cb8eda2-cc42-48ae-bef4-981f0e734d3c",
-  "createdMinOffset": -27255
+  "artistId": "dd0c99f0-93a1-42e3-9718-13648fd5fc19",
+  "createdMinOffset": -44992
  },
  {
   "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "757a84a6-7203-471f-9390-a224baf5572d",
-  "createdMinOffset": -61267
- },
- {
-  "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "ee3f5431-f72b-473d-a2de-7862271980a5",
-  "createdMinOffset": -90124
- },
- {
-  "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "artistId": "fad320ae-c2ce-4047-a67e-7c254019032a",
-  "createdMinOffset": -279768
+  "artistId": "624b0ac8-8403-48fa-893d-cc5c6cb68328",
+  "createdMinOffset": -180444
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "ade15c26-173a-42e1-9f88-2ac22a5cd35d",
-  "createdMinOffset": -23166
+  "artistId": "9dfca0ad-74bb-4819-adbc-ba59f3875b32",
+  "createdMinOffset": -49173
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "1930ed3c-71e3-46ac-98c4-49c95a9557f8",
-  "createdMinOffset": -168748
+  "artistId": "e12e761c-ea53-492f-86c1-44985b55d6ce",
+  "createdMinOffset": -187368
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "98167b2a-0d86-4387-8e1b-8f0f1b6740cc",
-  "createdMinOffset": -29872
+  "artistId": "bbdfa765-9977-4f2a-86ea-6f2c57ea30de",
+  "createdMinOffset": -55829
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "2ef0bcbe-44f8-4d1b-8b1e-eda626b52dee",
-  "createdMinOffset": -258984
+  "artistId": "8eba7617-b8fd-48eb-b14a-8b7d7363f0aa",
+  "createdMinOffset": -8568
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "daf36509-a401-4c58-9129-5bffc2472d9b",
-  "createdMinOffset": -48849
+  "artistId": "8bcfbbf4-9fb2-4e30-be3a-808d05ec97fd",
+  "createdMinOffset": -269997
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "8462bdaa-8a88-4131-9231-e6ab7dd1ffd3",
-  "createdMinOffset": -249681
+  "artistId": "cfb7f1f2-fc47-4933-af92-ae4ec42e5cca",
+  "createdMinOffset": -167311
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "d196ada3-e2a4-4389-9ec6-81d08937db71",
-  "createdMinOffset": -116554
+  "artistId": "178cbae6-552d-496e-8984-3f61d1e2e65d",
+  "createdMinOffset": -163861
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "34070db8-37bd-4f0e-a19b-5a08039c86ba",
-  "createdMinOffset": -39532
+  "artistId": "c8aec618-5513-4881-a0d6-8518bf9139ea",
+  "createdMinOffset": -239096
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "4c70a742-d8bf-45d0-a1e4-2c85ee9c8a92",
-  "createdMinOffset": -281468
+  "artistId": "ce0df994-377f-4fc5-8411-285ed9a06941",
+  "createdMinOffset": -44695
  },
  {
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "artistId": "ecda975b-70a8-4956-8bbf-4029fbe62f4f",
-  "createdMinOffset": -252196
+  "artistId": "b0c55c29-7aa9-48bf-861e-d7728eaf0e0b",
+  "createdMinOffset": -230386
  },
  {
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "1e0c3448-8faa-4697-8af2-0ec308a7c1d6",
-  "createdMinOffset": -67540
+  "artistId": "3528489c-61be-4fd3-a1e9-79c256522e50",
+  "createdMinOffset": -78711
  },
  {
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "3aed8c01-63eb-4078-823c-66f03a2ded01",
-  "createdMinOffset": -193728
+  "artistId": "4cd89a1a-86da-4239-964c-3a57932f7dc9",
+  "createdMinOffset": -48846
  },
  {
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "d9690dd9-2e5f-4140-94c6-354a75d396ac",
-  "createdMinOffset": -33870
+  "artistId": "5eeff659-ff3c-45e6-8c5f-748f2535190c",
+  "createdMinOffset": -243435
  },
  {
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "82c6136e-16a7-49b7-ba5e-f15294d535e4",
-  "createdMinOffset": -188435
+  "artistId": "652a886a-b98d-4627-ab81-cdc075611e4b",
+  "createdMinOffset": -115435
  },
  {
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "938afee1-1897-4396-8e38-0d2a3f34c771",
-  "createdMinOffset": -46172
+  "artistId": "9dfca0ad-74bb-4819-adbc-ba59f3875b32",
+  "createdMinOffset": -271204
  },
  {
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "5ba28beb-4203-4144-a5fa-ea78f278eb67",
-  "createdMinOffset": -235128
+  "artistId": "550528cc-5387-44ee-92e7-f402157e79be",
+  "createdMinOffset": -43681
  },
  {
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "c58df5c5-5980-4a6e-a19d-6f732aa133e5",
-  "createdMinOffset": -88478
- },
- {
-  "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "artistId": "424d7bce-7a39-433d-999f-a0ed9d7883e6",
-  "createdMinOffset": -104152
+  "artistId": "d567e716-c14f-46a5-aab0-5341041423e5",
+  "createdMinOffset": -209747
  },
  {
   "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "artistId": "fecf173c-c4d4-495b-bdab-a3aae14ba6bc",
-  "createdMinOffset": -207608
+  "artistId": "6eab4011-5255-445b-bf55-fc3f33143f47",
+  "createdMinOffset": -137904
  },
  {
   "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "artistId": "8462bdaa-8a88-4131-9231-e6ab7dd1ffd3",
-  "createdMinOffset": -228
+  "artistId": "5420b711-be78-43d0-901a-f20dc6aed67f",
+  "createdMinOffset": -14934
  },
  {
   "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "artistId": "44799d0d-514c-44d3-9eae-77d9e2218b5f",
-  "createdMinOffset": -193386
+  "artistId": "17689aed-5cf9-414d-bf0a-9d9e82aecfd0",
+  "createdMinOffset": -94978
+ },
+ {
+  "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "artistId": "884ac973-85dc-4243-a6a0-cd0ab03e39c1",
+  "createdMinOffset": -257916
+ },
+ {
+  "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "artistId": "7b560153-dee5-4e55-8a45-d3b4a2758593",
+  "createdMinOffset": -9631
+ },
+ {
+  "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "artistId": "9a89bb09-28c6-445f-85fc-02fdee3758ed",
+  "createdMinOffset": -156424
+ },
+ {
+  "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "artistId": "41df95c0-2460-4f5a-a34a-9c03606ecbc4",
+  "createdMinOffset": -122633
+ },
+ {
+  "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "artistId": "ccd4c490-d795-4bea-b78f-003887174c4a",
+  "createdMinOffset": -113269
  },
  {
   "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "ce18fcbd-62aa-4cee-9714-698f94b5e71a",
-  "createdMinOffset": -283416
+  "artistId": "90543ddb-34bd-4b6f-9007-1b67c951ddcc",
+  "createdMinOffset": -28780
  },
  {
   "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "617b8fd8-ebd1-44a8-a7d7-363f0aaae743",
-  "createdMinOffset": -142013
+  "artistId": "be0d3ab2-0a24-443c-9f60-73d371d265d6",
+  "createdMinOffset": -193834
  },
  {
   "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "2e2324c0-aef9-4393-a036-bf0a21a180b7",
-  "createdMinOffset": -239969
- },
- {
-  "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "3cbb3be6-d42b-4814-bc39-f5788dcc10bc",
-  "createdMinOffset": -40266
- },
- {
-  "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "4dcb67bc-9511-47d5-8ff7-e3e007c5ea8f",
-  "createdMinOffset": -134956
- },
- {
-  "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "a616274b-f0ff-4377-8df8-14f7fb2a4470",
-  "createdMinOffset": -234996
- },
- {
-  "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "00c4e035-f0d7-46e5-9d0a-cc9011c0bc98",
-  "createdMinOffset": -111290
- },
- {
-  "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "864362fc-8804-4315-bb02-b26109d67c1a",
-  "createdMinOffset": -137141
- },
- {
-  "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "artistId": "f16ea05a-f363-42a5-bb2c-2c3666acba6a",
-  "createdMinOffset": -150519
+  "artistId": "eb0a70d7-cee6-4b45-b78a-86af45eba8eb",
+  "createdMinOffset": -130205
  },
  {
   "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "artistId": "972eff1b-f4d7-44e2-915a-3fe4f57376b9",
-  "createdMinOffset": -50427
+  "artistId": "e7736e8c-e629-42a1-b190-24b1ab11f915",
+  "createdMinOffset": -148691
  },
  {
   "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "artistId": "d0914518-8d95-45fc-bcba-84cb7cc9ca76",
-  "createdMinOffset": -224729
+  "artistId": "9489c2af-536b-468d-897b-75f2ab4d1336",
+  "createdMinOffset": -66899
  },
  {
   "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "artistId": "2a6ca75e-518a-4668-8bde-d567a400e20b",
-  "createdMinOffset": -269569
+  "artistId": "efd8cd34-86c5-4b86-b3ca-0731b163b9ab",
+  "createdMinOffset": -265213
  },
  {
   "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "artistId": "1aebb822-eadd-4429-87d3-76ab64bc4038",
-  "createdMinOffset": -249334
+  "artistId": "a8cc1adb-5156-462a-8da8-1028cdab567e",
+  "createdMinOffset": -203801
  },
  {
   "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "artistId": "8462bdaa-8a88-4131-9231-e6ab7dd1ffd3",
-  "createdMinOffset": -72736
+  "artistId": "17d7900c-4e03-45f0-b76e-55d0acc9011c",
+  "createdMinOffset": -213698
  },
  {
   "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "artistId": "d5bf79ee-151c-44cf-9771-14d9aa1f35f7",
-  "createdMinOffset": -233498
+  "artistId": "a6d40a28-d1bb-49b7-b34f-7701fc76186c",
+  "createdMinOffset": -203646
  },
  {
   "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "artistId": "5ba28beb-4203-4144-a5fa-ea78f278eb67",
-  "createdMinOffset": -59695
+  "artistId": "efd8cd34-86c5-4b86-b3ca-0731b163b9ab",
+  "createdMinOffset": -99351
  },
  {
   "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "artistId": "03a63b1b-55d8-4233-b0e7-ce174ff53f51",
-  "createdMinOffset": -193545
+  "artistId": "8565be1d-4138-4481-9c6c-c84c5f141a3d",
+  "createdMinOffset": -60812
  },
  {
   "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "artistId": "972eff1b-f4d7-44e2-915a-3fe4f57376b9",
-  "createdMinOffset": -212366
+  "artistId": "1b614c0d-b4d3-4fd7-8b4a-6aeb115d6777",
+  "createdMinOffset": -162309
  },
  {
   "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "artistId": "8ea89d13-1ec1-4b47-8e22-88a204f65560",
-  "createdMinOffset": -173618
+  "artistId": "cd7db6ff-2f80-4409-a25f-c25329eabcef",
+  "createdMinOffset": -245255
+ },
+ {
+  "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "artistId": "ca112133-d02c-4174-b6d5-763b9894f2b1",
+  "createdMinOffset": -151864
+ },
+ {
+  "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "artistId": "4cdcfcda-00ba-4120-bb43-e9204594d35a",
+  "createdMinOffset": -145622
  },
  {
   "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "1ae1bfbc-a182-4be9-97f5-499a24456f93",
-  "createdMinOffset": -221588
+  "artistId": "bdd39daf-3650-49a4-81c5-851295bffc24",
+  "createdMinOffset": -277783
  },
  {
   "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "2db3136b-efb5-4c4a-98a5-29aaa60163cd",
-  "createdMinOffset": -10509
+  "artistId": "dbc101d6-b13e-45eb-bd6a-5b9dc5ec2912",
+  "createdMinOffset": -131473
  },
  {
   "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "fe6ca7f7-91e2-47fc-aeb3-33767db7bd6a",
-  "createdMinOffset": -216280
+  "artistId": "6dabef09-88be-4b3a-9ec8-75842cd507f8",
+  "createdMinOffset": -193922
  },
  {
   "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "daf36509-a401-4c58-9129-5bffc2472d9b",
-  "createdMinOffset": -25109
+  "artistId": "180b77ff-c83e-4c6a-a547-ff78b0102e8e",
+  "createdMinOffset": -214172
  },
  {
   "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "617b8fd8-ebd1-44a8-a7d7-363f0aaae743",
-  "createdMinOffset": -190133
+  "artistId": "ca112133-d02c-4174-b6d5-763b9894f2b1",
+  "createdMinOffset": -73341
  },
  {
   "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "e8092778-c77f-47b2-9e9d-b6ca3b062201",
-  "createdMinOffset": -54460
- },
- {
-  "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "4dcb67bc-9511-47d5-8ff7-e3e007c5ea8f",
-  "createdMinOffset": -78299
- },
- {
-  "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "artistId": "a616274b-f0ff-4377-8df8-14f7fb2a4470",
-  "createdMinOffset": -41847
+  "artistId": "5ea8f981-67b2-4a0d-a638-70e1b8f0f1b6",
+  "createdMinOffset": -13063
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "9642f01f-333b-4283-bf9e-a6fd36bd7518",
-  "createdMinOffset": -143729
+  "artistId": "c789d0c3-3415-4fc7-a0a9-e25aa5c46df2",
+  "createdMinOffset": -105452
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "3cbb3be6-d42b-4814-bc39-f5788dcc10bc",
-  "createdMinOffset": -131641
+  "artistId": "8d3d0680-6cfc-48a4-8ddc-247fe2939597",
+  "createdMinOffset": -207194
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "1ae1bfbc-a182-4be9-97f5-499a24456f93",
-  "createdMinOffset": -94675
+  "artistId": "3821385a-f1dc-4939-9a8e-df1dd1c4d17c",
+  "createdMinOffset": -274783
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "db797486-d133-4dda-b592-5945d0d77cec",
-  "createdMinOffset": -2921
+  "artistId": "5c38c03a-dd9d-47d3-8748-bee27b46d7ac",
+  "createdMinOffset": -225519
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "fecf173c-c4d4-495b-bdab-a3aae14ba6bc",
-  "createdMinOffset": -79870
+  "artistId": "b44b6c9e-f96c-4bd2-a88d-91759b236696",
+  "createdMinOffset": -255608
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "4d0eba0f-2023-4fd4-80fb-ef6dfa2c1884",
-  "createdMinOffset": -139938
+  "artistId": "80df83f4-bf26-4f8d-ab46-b6f78f85226f",
+  "createdMinOffset": -11973
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "e17dadbe-c176-43f2-ae59-aa14f71761c8",
-  "createdMinOffset": -90630
+  "artistId": "6bfc5d70-2da1-4a56-99f2-52024d6dc737",
+  "createdMinOffset": -128912
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "4dc903a5-9f77-4d66-a4c1-18d3ac17f143",
-  "createdMinOffset": -196233
+  "artistId": "a2b5ed0a-d101-45e4-8877-64ae44769e0b",
+  "createdMinOffset": -53796
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "0600d209-0251-41fb-9754-f14f8f7d0b90",
-  "createdMinOffset": -211950
+  "artistId": "4e34aa6e-ea4f-4c41-be8a-06b53b7f123f",
+  "createdMinOffset": -150899
  },
  {
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "artistId": "4c70a742-d8bf-45d0-a1e4-2c85ee9c8a92",
-  "createdMinOffset": -259200
+  "artistId": "1420f47c-b46f-4e7f-9d7c-02262d448b0e",
+  "createdMinOffset": -258737
  },
  {
   "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "artistId": "312449b3-354e-4522-8c4f-27daa6e0a9bf",
-  "createdMinOffset": -229009
+  "artistId": "9abd996c-9199-4f6a-9bfc-9a4345d0b1ae",
+  "createdMinOffset": -104103
  },
  {
   "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "artistId": "f923c5b1-6710-4b6a-8a59-183e81b56d05",
-  "createdMinOffset": -259609
+  "artistId": "22806755-b250-4e3a-a54e-c1b28cee13ce",
+  "createdMinOffset": -157358
  },
  {
   "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "artistId": "1ae1bfbc-a182-4be9-97f5-499a24456f93",
-  "createdMinOffset": -170340
+  "artistId": "2da4166f-6b3c-4984-a4bb-2c0529c5863f",
+  "createdMinOffset": -192083
  },
  {
   "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "artistId": "ecda975b-70a8-4956-8bbf-4029fbe62f4f",
-  "createdMinOffset": -74125
- },
- {
-  "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "artistId": "e8092778-c77f-47b2-9e9d-b6ca3b062201",
-  "createdMinOffset": -62434
+  "artistId": "a6d40a28-d1bb-49b7-b34f-7701fc76186c",
+  "createdMinOffset": -156345
  }
 ]
