@@ -6,7 +6,8 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
-    "seed": "node scripts/seed.mjs"
+    "seed": "node scripts/seed.mjs",
+    "scrape:artists": "node scripts/scrape-kulturklik.mjs"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.108.0",

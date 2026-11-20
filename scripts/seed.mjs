@@ -6,9 +6,11 @@
 //
 // Las fechas se guardan RELATIVAS A HOY (dayOffset / minutos) y el adaptador mock las
 // convierte a fechas reales al arrancar, asi los datos nunca quedan "viejos".
-// Todo es ficticio o generico: ningun nombre de persona real aparece en las resenas.
+// Todo es ficticio o generico (ningun nombre de persona real en las resenas), salvo los ARTISTAS:
+// si existe data/source/artists.json (lo genera `npm run scrape:artists` desde Kulturklik) se usan
+// esos nombres; si faltan para llegar a 120, se completan con nombres inventados.
 
-import { mkdirSync, writeFileSync } from 'node:fs'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -184,7 +186,17 @@ while (users.length < 30) {
 }
 const ME = users[0]
 
-const artists = artistNames(120).map((name) => ({ id: uuid(), name, genre: pick(GENRES) }))
+const ARTIST_COUNT = 120
+function loadRealArtistNames() {
+  const file = join(dirname(fileURLToPath(import.meta.url)), '..', 'data/source/artists.json')
+  if (!existsSync(file)) return []
+  const names = JSON.parse(readFileSync(file, 'utf8')).map((a) => (typeof a === 'string' ? a : a.name))
+  return [...new Set(names.map((n) => n.trim()).filter(Boolean))].slice(0, ARTIST_COUNT)
+}
+const realArtistNames = loadRealArtistNames()
+const fakeNames = artistNames(ARTIST_COUNT).filter((n) => !realArtistNames.includes(n))
+const artistList = [...realArtistNames, ...fakeNames].slice(0, ARTIST_COUNT)
+const artists = artistList.map((name) => ({ id: uuid(), name, genre: pick(GENRES) }))
 
 const venues = []
 {
