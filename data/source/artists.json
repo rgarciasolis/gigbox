@@ -1,37 +1,5 @@
 [
  {
-  "name": "Berri Txarrak",
-  "genre": "Rock"
- },
- {
-  "name": "Kortatu",
-  "genre": "Rock"
- },
- {
-  "name": "Egan",
-  "genre": "Rock"
- },
- {
-  "name": "Gatibu",
-  "genre": "Rock"
- },
- {
-  "name": "Ken Zazpi",
-  "genre": "Rock"
- },
- {
-  "name": "Itoiz",
-  "genre": "Rock"
- },
- {
-  "name": "Hertzainak",
-  "genre": "Rock"
- },
- {
-  "name": "Barricada",
-  "genre": "Rock"
- },
- {
   "name": "Platero y Tú",
   "genre": "Rock"
  },
@@ -100,10 +68,6 @@
   "genre": "Indie"
  },
  {
-  "name": "Mikel Erentxun",
-  "genre": "Indie"
- },
- {
   "name": "Arctic Monkeys",
   "genre": "Indie"
  },
@@ -126,14 +90,6 @@
  {
   "name": "Wilco",
   "genre": "Indie"
- },
- {
-  "name": "Fermin Muguruza",
-  "genre": "Punk"
- },
- {
-  "name": "Kaotiko",
-  "genre": "Punk"
  },
  {
   "name": "La Polla Records",
@@ -284,18 +240,6 @@
   "genre": "Jazz"
  },
  {
-  "name": "Mikel Urdangarin",
-  "genre": "Folk"
- },
- {
-  "name": "Oreka TX",
-  "genre": "Folk"
- },
- {
-  "name": "Kepa Junkera",
-  "genre": "Folk"
- },
- {
   "name": "Amparanoia",
   "genre": "Folk"
  },
@@ -314,18 +258,6 @@
  {
   "name": "Iron & Wine",
   "genre": "Folk"
- },
- {
-  "name": "Amaia",
-  "genre": "Folk"
- },
- {
-  "name": "Anari",
-  "genre": "Folk"
- },
- {
-  "name": "Zea Mays",
-  "genre": "Pop"
  },
  {
   "name": "Alaska y Dinarama",
@@ -381,10 +313,6 @@
  },
  {
   "name": "Opeth",
-  "genre": "Metal"
- },
- {
-  "name": "Soziedad Alkoholika",
   "genre": "Metal"
  },
  {
@@ -494,5 +422,61 @@
  {
   "name": "Rodrigo Cuevas",
   "genre": "Flamenco fusion"
+ },
+ {
+  "name": "Joaquín Sabina",
+  "genre": "Rock"
+ },
+ {
+  "name": "Los Planetas",
+  "genre": "Indie"
+ },
+ {
+  "name": "Viva Suecia",
+  "genre": "Indie"
+ },
+ {
+  "name": "Radiohead",
+  "genre": "Indie"
+ },
+ {
+  "name": "Pixies",
+  "genre": "Indie"
+ },
+ {
+  "name": "Mogwai",
+  "genre": "Indie"
+ },
+ {
+  "name": "Slowdive",
+  "genre": "Indie"
+ },
+ {
+  "name": "C. Tangana",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Nils Frahm",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Khruangbin",
+  "genre": "Soul"
+ },
+ {
+  "name": "Jorge Drexler",
+  "genre": "Folk"
+ },
+ {
+  "name": "Calexico",
+  "genre": "Folk"
+ },
+ {
+  "name": "Zahara",
+  "genre": "Pop"
+ },
+ {
+  "name": "Nick Cave & The Bad Seeds",
+  "genre": "Rock"
  }
 ]

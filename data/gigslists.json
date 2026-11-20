@@ -1,2845 +1,2936 @@
 [
  {
-  "id": "b3459444-765f-472e-bfe2-e8040b9ea898",
+  "id": "b61ebf0d-672a-4218-858a-d8e4a8567001",
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "1e163641-7ac2-4d5a-a814-0adcce12c81f",
-    "addedMinOffset": -26250,
+    "gigId": "84cc2602-a45d-492c-9e8a-b2c7c53da2c4",
+    "addedMinOffset": -32192,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "0b967c16-c3e1-4e1b-9fb4-7f2495dc15ea",
-    "addedMinOffset": -18396,
+    "gigId": "900e5b58-9742-499e-b461-54f6e2ece899",
+    "addedMinOffset": -27836,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "a507fa01-0322-40c4-80fd-5ab9ad047019",
-    "addedMinOffset": -13121,
+    "gigId": "93eebeb8-30d3-484d-a90f-f07a404cbc76",
+    "addedMinOffset": -48537,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "908fd594-b4a1-48d8-981b-37968d066cbd",
+    "addedMinOffset": -34397,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "2feaae5d-ad1c-45c4-94a7-77942d2bfcac",
-    "addedMinOffset": -24608,
+    "gigId": "19d2828d-a08d-4d3a-8c56-136c1906b89a",
+    "addedMinOffset": -37078,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "8e47724f-c49c-4f74-93f1-982616b4c2b1",
-    "addedMinOffset": -49202,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "8cb4ad2d-ab53-415d-840c-3a3852ea56f5",
-    "addedMinOffset": -23312,
+    "gigId": "1a038911-93b5-4347-814a-81affcab6803",
+    "addedMinOffset": -58414,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "8373a242-2c33-4a7f-83c1-3ccee690ebe8",
-    "addedMinOffset": -33057,
+    "gigId": "ebab82cc-10a1-4c55-8338-2e60496278e0",
+    "addedMinOffset": -27523,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "19957e5e-b650-424c-baa5-3b15a50f29d9",
-    "addedMinOffset": -58373,
+    "gigId": "9143ff27-09ec-4cbb-b01b-bd846ff59654",
+    "addedMinOffset": -57521,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -38662,
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -24906,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "26c00ae0-63a0-4a85-b07a-7b47bbe2e781",
-    "addedMinOffset": -49495,
+    "gigId": "5f8170f9-df3a-4fe1-ac99-aa2c1131d532",
+    "addedMinOffset": -43775,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "14906e1c-71ad-45f6-8235-b321cc0f2342",
-    "addedMinOffset": -15678,
+    "gigId": "2a774cd9-dd56-437e-9979-d04be7ec3775",
+    "addedMinOffset": -37695,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "de43f097-1590-4e0f-abd1-7fd1438603f3",
-    "addedMinOffset": -43203,
-    "ticketStatus": "has_ticket"
+    "gigId": "f55137ed-6cac-4c63-bb40-930156c1af34",
+    "addedMinOffset": -2852,
+    "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "bc608df5-c917-49bd-a8ea-81eabd24efb6",
+    "gigId": "93afebbf-cd49-4aa3-9bbc-41806c22c0e7",
     "addedMinOffset": -86400,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "f4d7a2e8-6d60-429a-9f3f-d36d1ff6d21d",
+    "gigId": "6bcb6dab-ef09-488b-bb3a-5ec875842cd5",
     "addedMinOffset": -86400,
     "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "bf2b9ad6-192b-464b-b762-3a9d9a2856c0",
-  "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "kind": "custom",
-  "title": "Mis mejores directos",
-  "description": "Los conciertos que más recuerdo.",
-  "items": [
-   {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -73212,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "faaef768-070a-4733-bb32-5bf9bea3d0b9",
-    "addedMinOffset": -30409,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "466739ed-37dc-46ac-b03b-7b518f201b50",
-    "addedMinOffset": -116785,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1f28e7f6-1fa0-48ad-b66b-a9f70411c283",
-    "addedMinOffset": -111725,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "46b618bc-b14f-4f23-81c5-edecf3620e36",
-    "addedMinOffset": -75970,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "7bca7fa7-1129-4fae-866a-5fe33c455fb7",
-    "addedMinOffset": -90672,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "e626a466-9bff-46d5-88d9-ee1ef7234a0e",
-    "addedMinOffset": -70543,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "ac046d7d-7b21-4287-99ed-5240db6a7e04",
+  "id": "5e85d6f5-c5e9-4eca-87b2-e8fe705e6eba",
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
   "kind": "custom",
   "title": "Salas pequeñas",
   "description": "Aforo reducido y mucho ruido.",
   "items": [
    {
-    "gigId": "8f500422-bd9c-45ae-b75c-3e4a5c7ae4c3",
-    "addedMinOffset": -109725,
+    "gigId": "c0ea32d4-0ba6-46da-ba77-0e08abfcbdef",
+    "addedMinOffset": -124137,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "ec9980e6-2909-42d1-b154-fbb60f5f1bb8",
-    "addedMinOffset": -30362,
+    "gigId": "99f894f6-2079-4de1-b569-36fc2549be13",
+    "addedMinOffset": -10530,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "80eac88b-ce26-476b-819b-7b59b952575b",
-    "addedMinOffset": -138439,
+    "gigId": "b9587b96-c5bd-4e8b-bf56-9c275cac2bef",
+    "addedMinOffset": -46446,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -126591,
+    "gigId": "43e214ae-61b0-495f-879e-cd0be3e41991",
+    "addedMinOffset": -147399,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "4b59bd5d-6816-4f1f-9d24-509ddfede479",
+  "id": "a5988406-e480-4686-a137-8077f422d79c",
+  "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "kind": "custom",
+  "title": "Mis mejores directos",
+  "description": "Los conciertos que más recuerdo.",
+  "items": [
+   {
+    "gigId": "8b36f8e2-5dbd-4fb9-8950-dd253495c599",
+    "addedMinOffset": -50808,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -137657,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "6a065ef1-f239-4418-9296-4a37e5fa5745",
+    "addedMinOffset": -11981,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "692c695c-0b67-4385-b525-e4da8e8757f0",
+    "addedMinOffset": -144247,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f206abcd-d356-4920-9f54-556959fd9b1c",
+    "addedMinOffset": -35910,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "0b1ebb8a-b333-4e6b-9da7-2c550d8d73a0",
   "userId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
   "kind": "custom",
   "title": "Fuera de España",
   "description": "Viajes por concierto.",
   "items": [
    {
-    "gigId": "3bc6a7f3-3b25-4ee0-b76c-0a95afb91a36",
-    "addedMinOffset": -43614,
+    "gigId": "b05156b0-8ef9-4ffb-9b21-9c73e72e75de",
+    "addedMinOffset": -76694,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "114f5e43-e214-4ae6-8b09-5f379ecd0be3",
-    "addedMinOffset": -86999,
+    "gigId": "0571d6ed-777e-414e-9366-cafb22fb088f",
+    "addedMinOffset": -156364,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "338f1b73-381a-470f-970f-ba01aeb932fc",
-    "addedMinOffset": -133548,
+    "gigId": "ab2f4101-2b98-4604-83e6-4d40b46f89b5",
+    "addedMinOffset": -105329,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e11acdc1-9398-40d6-93e9-0f33133d913f",
+    "addedMinOffset": -63718,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e5dc8280-633b-470e-ae6c-0d7313407fe2",
+    "addedMinOffset": -53804,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b6d3fd17-38ab-4e18-bfef-ff0f91347199",
+    "addedMinOffset": -32654,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "47cefdf4-2ffd-4df0-851e-c1006f91b81d",
+    "addedMinOffset": -169867,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "eeecfdf8-e12f-418b-982f-854939e74b97",
+  "id": "d5f2d366-143e-46c5-8ab2-4fc361c5e909",
   "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "fb424cb8-9fa0-4168-931e-df485265eb54",
-    "addedMinOffset": -125,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -14050,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "36a6c94e-3500-47d4-b4c7-a8fc167df79f",
-    "addedMinOffset": -62237,
+    "gigId": "3f983947-f071-4159-8a93-cb51c1e0625c",
+    "addedMinOffset": -18288,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "3f1853c4-ffb8-4c84-acd4-b5c9f541ec5d",
-    "addedMinOffset": -10091,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -29431,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "715841d4-2bc7-44c5-ba5d-e4176f3043ab",
-    "addedMinOffset": -17019,
+    "gigId": "f206abcd-d356-4920-9f54-556959fd9b1c",
+    "addedMinOffset": -54433,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "ec9980e6-2909-42d1-b154-fbb60f5f1bb8",
-    "addedMinOffset": -51127,
+    "gigId": "6cb81507-dc64-4835-9973-fd6e1c10f65f",
+    "addedMinOffset": -45711,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -8574,
+    "gigId": "938d2754-f872-411c-82da-fde63aa7106c",
+    "addedMinOffset": -25476,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "715c9ca4-0021-48bb-8c3b-bca4798440d9",
+    "addedMinOffset": -19506,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "5a7ea373-0e7d-466c-8fa5-b6e44b09cbb7",
-    "addedMinOffset": -54242,
+    "gigId": "89dc4d3c-7f2a-41bd-b68e-0337f8a7f3d3",
+    "addedMinOffset": -8960,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "e5dc8280-633b-470e-ae6c-0d7313407fe2",
+    "addedMinOffset": -7365,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "3e39ebb9-de60-4470-b5d7-9a1294b5753e",
+    "addedMinOffset": -50701,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "862f8b3d-6493-4cfa-b4f7-6bba0ababbbf",
-    "addedMinOffset": -28618,
+    "gigId": "d5e533fd-cd96-43eb-bc94-ad3c3cb15578",
+    "addedMinOffset": -3330,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "9abd67ef-8e4e-4959-a448-eaf5e0ab7b53",
+    "addedMinOffset": -39551,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e11acdc1-9398-40d6-93e9-0f33133d913f",
+    "addedMinOffset": -38434,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "b70897ab-3758-4e21-8c95-460a137ed163",
+    "addedMinOffset": -20737,
+    "ticketStatus": "has_ticket"
+   }
+  ]
+ },
+ {
+  "id": "4c83ff2a-952f-440a-b473-5ceca0fc51b6",
+  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "kind": "custom",
+  "title": "Para ir en grupo",
+  "description": "Planes con amigos.",
+  "items": [
+   {
+    "gigId": "9732cf2e-9f81-48f3-a926-e3904b23bc4e",
+    "addedMinOffset": -50065,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "76212224-fb8d-4c0c-b94a-c742bf44305d",
+    "addedMinOffset": -95004,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "32fe15f6-cbf2-4b72-bd00-5df3bd610d8a",
+    "addedMinOffset": -101831,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3d1dd6a2-5217-425d-8b4a-613bf8db31ca",
+    "addedMinOffset": -102474,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "60c97dd0-a076-4a29-9f9d-23e3e85037c7",
+    "addedMinOffset": -119535,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "eb1e3fee-8ee2-4a39-a528-07edcd5d30ff",
+  "userId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "kind": "wishlist",
+  "title": "Wishlist",
+  "description": null,
+  "items": [
+   {
+    "gigId": "36c3d1d8-8050-4822-ab0b-bc22acbac9d8",
+    "addedMinOffset": -7359,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "12454026-33df-429d-8dc5-5108e87c8407",
+    "addedMinOffset": -47314,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "51bb41e1-3d6d-4262-966b-33a0db9a6add",
+    "addedMinOffset": -33647,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "9d3d615f-f76e-4f41-a642-173c0d345366",
+    "addedMinOffset": -2434,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "eac88bce-2676-4b21-ab7b-59b952575b89",
+    "addedMinOffset": -36713,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "a170fb4d-5715-479e-856d-db2632e130c8",
+    "addedMinOffset": -62911,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e82894d1-0bd0-49bb-9b6c-fa0169b933a4",
+    "addedMinOffset": -32131,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "157db781-333c-43dd-8f7f-72738db75ad7",
+    "addedMinOffset": -32628,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d81f7367-de57-465a-890f-e0bc23977c74",
+    "addedMinOffset": -48642,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "19d2828d-a08d-4d3a-8c56-136c1906b89a",
+    "addedMinOffset": -56038,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "cc2d3d8e-28e6-426a-9669-bff6d538d9ee",
+    "addedMinOffset": -59383,
+    "ticketStatus": "has_ticket"
+   }
+  ]
+ },
+ {
+  "id": "7d7b2128-769e-4d52-90db-6a7e044c0040",
+  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "kind": "wishlist",
+  "title": "Wishlist",
+  "description": null,
+  "items": [
+   {
+    "gigId": "9638d2aa-d4f1-4cd3-b3e3-5d5fe9ec1dad",
+    "addedMinOffset": -64110,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "84cc2602-a45d-492c-9e8a-b2c7c53da2c4",
+    "addedMinOffset": -43572,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f79aaae7-fb0b-4b99-9e09-b944d4438821",
+    "addedMinOffset": -15544,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3e39ebb9-de60-4470-b5d7-9a1294b5753e",
+    "addedMinOffset": -4081,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "488c0697-5df3-458a-8427-f5450b3c3e34",
+    "addedMinOffset": -6750,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9143ff27-09ec-4cbb-b01b-bd846ff59654",
+    "addedMinOffset": -11409,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "93eebeb8-30d3-484d-a90f-f07a404cbc76",
+    "addedMinOffset": -41900,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0c4fea47-f5a9-4e32-8db1-7b9c66bed0d8",
+    "addedMinOffset": -34006,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b9587b96-c5bd-4e8b-bf56-9c275cac2bef",
+    "addedMinOffset": -43097,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0f19fe2c-91d1-4ad2-8ff4-be7612be16ee",
+    "addedMinOffset": -2213,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "03615555-6a11-44ed-aedd-14b8b72b92b3",
+    "addedMinOffset": -25264,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "a746e219-0f17-414b-9740-53d47d578be4",
+  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "kind": "custom",
+  "title": "Fuera de España",
+  "description": "Viajes por concierto.",
+  "items": [
+   {
+    "gigId": "9638d2aa-d4f1-4cd3-b3e3-5d5fe9ec1dad",
+    "addedMinOffset": -118203,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "5cdbcd65-8af4-4d70-9f79-50423572c387",
+    "addedMinOffset": -57452,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b9587b96-c5bd-4e8b-bf56-9c275cac2bef",
+    "addedMinOffset": -81842,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e8012a52-2a5d-414f-9d7e-bd8f50d160f4",
+    "addedMinOffset": -58798,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "d2d069fc-6a40-447c-95ba-b68b942f6ae5",
+  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "kind": "custom",
+  "title": "Festivales",
+  "description": null,
+  "items": [
+   {
+    "gigId": "ae918d25-ac7f-4cf0-be73-43bcbe54276b",
+    "addedMinOffset": -26918,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0992849e-c48c-432b-aada-a089069d170b",
+    "addedMinOffset": -150173,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "5db99ea8-3abc-4871-8555-21aa23b21a21",
+    "addedMinOffset": -110969,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
   "id": "52687fe3-3a00-4dc2-9e16-69b6a2877c48",
-  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "kind": "custom",
-  "title": "Festivales",
-  "description": null,
-  "items": [
-   {
-    "gigId": "19957e5e-b650-424c-baa5-3b15a50f29d9",
-    "addedMinOffset": -110007,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "5fba1ab7-50bb-4088-a019-fe9934ef3817",
-    "addedMinOffset": -115391,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "a4f693e7-fbab-4136-af96-c7aa48a335af",
-    "addedMinOffset": -110029,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "3bc6a7f3-3b25-4ee0-b76c-0a95afb91a36",
-    "addedMinOffset": -34754,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "675ddeae-57ac-46bf-92e7-77643efd41e2",
-    "addedMinOffset": -127862,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "dde137cd-aa86-4b17-a14f-59d36eb541a5",
-  "userId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "kind": "custom",
-  "title": "Para ir en grupo",
-  "description": "Planes con amigos.",
-  "items": [
-   {
-    "gigId": "a4139469-577a-436f-b430-e155f495d889",
-    "addedMinOffset": -73195,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "7442e3c5-743c-43c1-b662-8b537a957dda",
-    "addedMinOffset": -57809,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "822ef580-ff7e-4361-a704-3f70672bf0e0",
-    "addedMinOffset": -149282,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "6266d994-a320-4276-b463-4364e1004a7a",
-  "userId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "b87c0f1f-1f4a-4974-b7b2-ae6cd13385f9",
-    "addedMinOffset": -15108,
+    "gigId": "d5e533fd-cd96-43eb-bc94-ad3c3cb15578",
+    "addedMinOffset": -13607,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -38625,
+    "gigId": "488c0697-5df3-458a-8427-f5450b3c3e34",
+    "addedMinOffset": -58706,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "e8a99e2d-9f06-4ce0-9b78-2c5fcd3ec303",
-    "addedMinOffset": -11750,
+    "gigId": "491aa7b3-e1f8-4cf5-bfe0-86fd45c12fba",
+    "addedMinOffset": -17799,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "de4910f5-960e-42be-ab6b-e754ae9cfa31",
-    "addedMinOffset": -13160,
+    "gigId": "e3c42f90-bb20-4148-92b0-b4ea07bb44f2",
+    "addedMinOffset": -37960,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9638d2aa-d4f1-4cd3-b3e3-5d5fe9ec1dad",
+    "addedMinOffset": -47711,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "692c695c-0b67-4385-b525-e4da8e8757f0",
+    "addedMinOffset": -53522,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "96a3723c-e286-49d8-a815-47e8db3b50ab",
-    "addedMinOffset": -51403,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8cb4ad2d-ab53-415d-840c-3a3852ea56f5",
-    "addedMinOffset": -16728,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "af384c86-37e8-4de9-9010-98faaeee13cd",
-    "addedMinOffset": -34348,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "41921049-4a79-498c-8669-8edeec347d04",
-    "addedMinOffset": -956,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "d31d33b5-ec47-4775-b4d7-7f551409aef9",
-    "addedMinOffset": -5076,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8e47724f-c49c-4f74-93f1-982616b4c2b1",
-    "addedMinOffset": -13529,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "46b0659d-bcec-4b29-ac9d-fbc153e4bfa9",
-    "addedMinOffset": -45406,
-    "ticketStatus": "has_ticket"
-   }
-  ]
- },
- {
-  "id": "60ba26a8-6be5-4240-961b-1b8fdf1696df",
-  "userId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "kind": "custom",
-  "title": "Para ir en grupo",
-  "description": "Planes con amigos.",
-  "items": [
-   {
-    "gigId": "d31d33b5-ec47-4775-b4d7-7f551409aef9",
-    "addedMinOffset": -22751,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "861df444-d1f2-4c65-96c6-d311f53576f1",
-    "addedMinOffset": -22569,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1ca29df2-c28d-4ab8-8cfd-ef30d17654e3",
-    "addedMinOffset": -83679,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -53752,
+    "gigId": "a170fb4d-5715-479e-856d-db2632e130c8",
+    "addedMinOffset": -24314,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "0d00104f-54bc-45c7-9b69-184123096c06",
-  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "kind": "wishlist",
-  "title": "Wishlist",
-  "description": null,
-  "items": [
-   {
-    "gigId": "6c6b829c-d6fb-4d42-9b2f-c86c37da2a85",
-    "addedMinOffset": -14437,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2c695c0b-6738-45f5-85e4-da8e8757f096",
-    "addedMinOffset": -53493,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "862f8b3d-6493-4cfa-b4f7-6bba0ababbbf",
-    "addedMinOffset": -58509,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1acdc193-980d-4653-b90f-33133d913f4f",
-    "addedMinOffset": -55888,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "da25c1c0-2c53-4c02-837d-c2b9d2cf0207",
-    "addedMinOffset": -28524,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "c0d6e24b-87b2-4f48-8f60-c4fea47f5a9e",
-    "addedMinOffset": -20000,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8cb4ad2d-ab53-415d-840c-3a3852ea56f5",
-    "addedMinOffset": -2179,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1e163641-7ac2-4d5a-a814-0adcce12c81f",
-    "addedMinOffset": -1860,
-    "ticketStatus": "has_ticket"
-   }
-  ]
- },
- {
-  "id": "e1d92e1c-00a8-41e6-89c4-e938350a020f",
-  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "id": "4ea0d4e2-480e-4217-8b4a-247e499a0eef",
+  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
   "kind": "custom",
   "title": "Fuera de España",
   "description": "Viajes por concierto.",
   "items": [
    {
-    "gigId": "f2fb8ad6-4b54-42a8-99e2-aafb1d047067",
-    "addedMinOffset": -127659,
+    "gigId": "34e169c1-ace9-4fe2-83a8-c78eb0ec1d38",
+    "addedMinOffset": -140526,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "c1dad27e-8c5a-4722-b1c4-d2656058c966",
-    "addedMinOffset": -53997,
+    "gigId": "c383c512-7d06-4a22-8c38-e19eea8d7187",
+    "addedMinOffset": -27240,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "dcea52f6-ddd0-46d5-b9c2-f686db7788aa",
-    "addedMinOffset": -157157,
+    "gigId": "186c03e4-c269-4b1b-ad4e-d2a8735ed0fd",
+    "addedMinOffset": -21592,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "062a6f69-6d45-4872-b73e-34d70d4fc214",
-    "addedMinOffset": -116266,
+    "gigId": "0f19fe2c-91d1-4ad2-8ff4-be7612be16ee",
+    "addedMinOffset": -140067,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "b7150d34-8559-49be-8d25-af8cfdd4c3cd",
-    "addedMinOffset": -100887,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fbefb05f-4aa6-42d4-8011-449a2eb39c9a",
-    "addedMinOffset": -83388,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "cefb3869-4617-4854-8f4f-2ae6a6ea6c89",
-    "addedMinOffset": -48628,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "919ea79d-3cfa-400e-8c16-46f217207b38",
-    "addedMinOffset": -76924,
+    "gigId": "18e3011b-f637-4209-8c7a-c86c26e24693",
+    "addedMinOffset": -84474,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "bf764933-d69d-4aed-b748-f26493812f20",
-  "userId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "kind": "custom",
-  "title": "Festivales",
-  "description": null,
-  "items": [
-   {
-    "gigId": "b2a563da-839b-4346-aea4-682631ae44e4",
-    "addedMinOffset": -75878,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "232c392b-bedd-4b77-8848-3533c7f29260",
-    "addedMinOffset": -166882,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "edecd7b7-6962-431a-b305-2892df2a4bf4",
-    "addedMinOffset": -115289,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "7e349339-9dea-4b40-8347-dd8d5d5fda80",
-    "addedMinOffset": -21151,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "458f2b19-a0fb-4b68-9f2a-b9ebdaa04985",
-  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "kind": "wishlist",
-  "title": "Wishlist",
-  "description": null,
-  "items": [
-   {
-    "gigId": "ff47f6d4-f972-4d68-abbf-62cbd764663c",
-    "addedMinOffset": -51811,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d31d33b5-ec47-4775-b4d7-7f551409aef9",
-    "addedMinOffset": -23029,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "69ecd3c4-1981-4dbb-a3ea-117c48cc3254",
-    "addedMinOffset": -9053,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "85828e84-c6f6-4f90-af65-e23a689b796e",
-    "addedMinOffset": -55999,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "da25c1c0-2c53-4c02-837d-c2b9d2cf0207",
-    "addedMinOffset": -33375,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "862f8b3d-6493-4cfa-b4f7-6bba0ababbbf",
-    "addedMinOffset": -42443,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -61601,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -49890,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8373a242-2c33-4a7f-83c1-3ccee690ebe8",
-    "addedMinOffset": -49684,
-    "ticketStatus": "has_ticket"
-   }
-  ]
- },
- {
-  "id": "ff8dd69c-8d35-4474-814b-45e047e724e4",
-  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "kind": "custom",
-  "title": "Salas pequeñas",
-  "description": "Aforo reducido y mucho ruido.",
-  "items": [
-   {
-    "gigId": "086fd45c-12fb-4acb-8481-e55cf3a9231c",
-    "addedMinOffset": -129254,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "0efbcbef-c5d8-4da8-b31f-570c4092a245",
-    "addedMinOffset": -38695,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "a4f693e7-fbab-4136-af96-c7aa48a335af",
-    "addedMinOffset": -74904,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "3928567d-7377-4848-a39d-32f8ff35d61a",
-    "addedMinOffset": -7474,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1a9e07cd-2f12-4b39-9935-e3168be5001e",
-    "addedMinOffset": -83703,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "717579d9-a62f-423b-b649-83bdb0428b37",
-  "userId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "kind": "custom",
-  "title": "Mis mejores directos",
-  "description": "Los conciertos que más recuerdo.",
-  "items": [
-   {
-    "gigId": "6868bd5c-4704-4eea-8b3d-48475844fcd6",
-    "addedMinOffset": -47035,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fbefb05f-4aa6-42d4-8011-449a2eb39c9a",
-    "addedMinOffset": -85513,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "53a23c90-0e5b-4589-9429-9ee46154f6e2",
-    "addedMinOffset": -50712,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8f22e3f9-5880-48c7-a97c-724adee5eb09",
-    "addedMinOffset": -59213,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "5a7ea373-0e7d-466c-8fa5-b6e44b09cbb7",
-    "addedMinOffset": -104361,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fd6d8fb1-f075-4896-af18-626077bafb44",
-    "addedMinOffset": -79699,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "88ca743f-3931-49bb-93f3-cfdcd8634b29",
-    "addedMinOffset": -167835,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "f09c6fd5-de74-472a-adbb-447bcda3a87b",
-    "addedMinOffset": -100330,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "9280fe29-ce30-41a1-ac94-051ed28edcb1",
+  "id": "6869982b-7353-495c-93c4-4677dac2de37",
   "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "f8d20e9a-b9b0-4542-9866-5c3b08fb7502",
-    "addedMinOffset": -14789,
+    "gigId": "2a774cd9-dd56-437e-9979-d04be7ec3775",
+    "addedMinOffset": -39051,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "0b967c16-c3e1-4e1b-9fb4-7f2495dc15ea",
-    "addedMinOffset": -58639,
+    "gigId": "98c28cf7-0700-471d-b3a0-b6cd7d57630f",
+    "addedMinOffset": -15273,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "675ddeae-57ac-46bf-92e7-77643efd41e2",
-    "addedMinOffset": -42281,
+    "gigId": "7aa3e61d-bbbc-4cd7-8c2f-7818bb264f9b",
+    "addedMinOffset": -14716,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e4b67d4b-719a-420b-a0b0-265242daa588",
+    "addedMinOffset": -17469,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "84cc2602-a45d-492c-9e8a-b2c7c53da2c4",
+    "addedMinOffset": -99,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "2cd1afee-3f28-43d2-8856-f65aa3f22bde",
-    "addedMinOffset": -20231,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "6c6b829c-d6fb-4d42-9b2f-c86c37da2a85",
-    "addedMinOffset": -46188,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "18c2aef5-e1f7-44c1-a704-48af206abcdd",
-    "addedMinOffset": -40501,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fb3aac10-be99-4ef1-9e6c-cb544fbdb91a",
-    "addedMinOffset": -48954,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "51402e82-fe8c-4a17-8d2c-d386f60f07af",
-    "addedMinOffset": -58045,
+    "gigId": "3e39ebb9-de60-4470-b5d7-9a1294b5753e",
+    "addedMinOffset": -20864,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "1acdc193-980d-4653-b90f-33133d913f4f",
-    "addedMinOffset": -28456,
+    "gigId": "900e5b58-9742-499e-b461-54f6e2ece899",
+    "addedMinOffset": -12237,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "0d9fcdfa-2337-4d85-a551-6b60bffe617a",
-    "addedMinOffset": -11710,
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -40468,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "4ff8adad-674a-4abb-baf2-90e82a190d09",
+    "addedMinOffset": -4017,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "46b0659d-bcec-4b29-ac9d-fbc153e4bfa9",
-    "addedMinOffset": -3613,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "80238aaa-03b0-4acd-9b9d-524eea2dfc56",
-    "addedMinOffset": -61542,
+    "gigId": "491aa7b3-e1f8-4cf5-bfe0-86fd45c12fba",
+    "addedMinOffset": -53777,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "e8a99e2d-9f06-4ce0-9b78-2c5fcd3ec303",
-    "addedMinOffset": -36332,
+    "gigId": "d5e533fd-cd96-43eb-bc94-ad3c3cb15578",
+    "addedMinOffset": -56684,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "715841d4-2bc7-44c5-ba5d-e4176f3043ab",
-    "addedMinOffset": -1449,
+    "gigId": "f52e7776-43ef-4d41-b2fa-e1ae904fea0a",
+    "addedMinOffset": -2566,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "f0cc206c-34c2-46ac-b13d-551d42939b17",
+  "id": "c62aa0fc-1f38-491b-ad8c-6cb9c635b16b",
+  "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "kind": "custom",
+  "title": "Pendientes de repetir",
+  "description": null,
+  "items": [
+   {
+    "gigId": "4305575e-6d27-44a9-b1db-6e17f41d1c47",
+    "addedMinOffset": -19964,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0b4d283f-a442-459a-ad99-6c9199f6a6bf",
+    "addedMinOffset": -134733,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "98c28cf7-0700-471d-b3a0-b6cd7d57630f",
+    "addedMinOffset": -87476,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3f983947-f071-4159-8a93-cb51c1e0625c",
+    "addedMinOffset": -62577,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9ea2e895-6800-4640-8c26-f18ce4741790",
+    "addedMinOffset": -73226,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d682f0da-b001-40be-820f-a2dac1162620",
+    "addedMinOffset": -106534,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "4b9daa36-fa49-43af-834c-a99814681425",
+  "userId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "kind": "custom",
+  "title": "Para ir en grupo",
+  "description": "Planes con amigos.",
+  "items": [
+   {
+    "gigId": "ac1ce15a-1a89-4a7a-aacb-0651ffbeb564",
+    "addedMinOffset": -156857,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "4aa09af0-1b8a-4929-a119-580dbe6f6806",
+    "addedMinOffset": -103330,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3c99bf8b-c002-4b5f-90d6-3ab69d3a033d",
+    "addedMinOffset": -522,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9a17f58e-15ea-43b1-8f5a-0067170838ad",
+    "addedMinOffset": -48757,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f206abcd-d356-4920-9f54-556959fd9b1c",
+    "addedMinOffset": -172800,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "62df1124-ea26-4f66-aec2-ca9155dc012c",
+    "addedMinOffset": -41072,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e8012a52-2a5d-414f-9d7e-bd8f50d160f4",
+    "addedMinOffset": -131263,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "a81e629c-4e93-4835-8a02-0fe24d555a18",
   "userId": "420479bc-c3a8-4777-9542-8488a6202f1d",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "f8d20e9a-b9b0-4542-9866-5c3b08fb7502",
-    "addedMinOffset": -21545,
+    "gigId": "e4b67d4b-719a-420b-a0b0-265242daa588",
+    "addedMinOffset": -480,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "157db781-333c-43dd-8f7f-72738db75ad7",
+    "addedMinOffset": -62138,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "d53b1871-29c3-4254-9c19-adf0f19fe2c9",
-    "addedMinOffset": -11233,
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -53536,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "ff47f6d4-f972-4d68-abbf-62cbd764663c",
-    "addedMinOffset": -60437,
+    "gigId": "b70897ab-3758-4e21-8c95-460a137ed163",
+    "addedMinOffset": -12193,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "8b38a4c2-18d1-48c1-a3c6-700d11a088d8",
+    "addedMinOffset": -58200,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "7deebe04-078b-47e8-b5da-fa671c8bbf77",
+    "addedMinOffset": -52771,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "85828e84-c6f6-4f90-af65-e23a689b796e",
-    "addedMinOffset": -11304,
+    "gigId": "692c695c-0b67-4385-b525-e4da8e8757f0",
+    "addedMinOffset": -12135,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -45508,
+    "gigId": "843268a8-0652-4347-824d-712fabd03d8d",
+    "addedMinOffset": -4633,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "086c554c-60d3-49e9-bf02-e86d885188db",
-    "addedMinOffset": -2990,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2c126486-8c18-47f9-a2b4-0dfde5ed6899",
-    "addedMinOffset": -38501,
-    "ticketStatus": "no_ticket"
+    "gigId": "75f2d070-84aa-4074-8a36-b47492f274e5",
+    "addedMinOffset": -188,
+    "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "0c7488cc-5c34-4387-87f4-fd2f03aa17fd",
+  "id": "15f327d2-9335-4d87-a900-8634a8204241",
   "userId": "420479bc-c3a8-4777-9542-8488a6202f1d",
   "kind": "custom",
-  "title": "Mis mejores directos",
-  "description": "Los conciertos que más recuerdo.",
+  "title": "Fuera de España",
+  "description": "Viajes por concierto.",
   "items": [
    {
-    "gigId": "937f418a-57ba-4aa1-9834-f9349399759e",
-    "addedMinOffset": -57061,
+    "gigId": "d4d45abb-dea2-4708-8b6d-2c73c750ca9c",
+    "addedMinOffset": -137144,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "fe175ec7-11f6-4f45-8cc6-a099b67609cc",
-    "addedMinOffset": -169130,
+    "gigId": "f52e7776-43ef-4d41-b2fa-e1ae904fea0a",
+    "addedMinOffset": -64463,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "21797829-2572-42d5-9226-08d3c04cd9cd",
-    "addedMinOffset": -79342,
+    "gigId": "843268a8-0652-4347-824d-712fabd03d8d",
+    "addedMinOffset": -13299,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "7e349339-9dea-4b40-8347-dd8d5d5fda80",
-    "addedMinOffset": -10248,
+    "gigId": "0992849e-c48c-432b-aada-a089069d170b",
+    "addedMinOffset": -100943,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -19888,
+    "gigId": "0a9882c4-2f54-417c-805f-86795d66f39f",
+    "addedMinOffset": -34807,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "dc609a8d-a358-4899-82ac-d1cd61dabf7d",
+    "addedMinOffset": -118333,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3c99bf8b-c002-4b5f-90d6-3ab69d3a033d",
+    "addedMinOffset": -171809,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "1d160f12-ae80-409d-a0dd-e5d764d56f00",
+  "id": "82591518-afb9-4d4b-bab7-b5746ed0025e",
   "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "96a3723c-e286-49d8-a815-47e8db3b50ab",
-    "addedMinOffset": -57784,
+    "gigId": "e196e8de-1e67-4681-846c-3324c2fad5d1",
+    "addedMinOffset": -14597,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "87635f35-9f98-4b5a-824e-3f5a6c7eae79",
-    "addedMinOffset": -11289,
+    "gigId": "692c695c-0b67-4385-b525-e4da8e8757f0",
+    "addedMinOffset": -45231,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "a507fa01-0322-40c4-80fd-5ab9ad047019",
-    "addedMinOffset": -44505,
+    "gigId": "7deebe04-078b-47e8-b5da-fa671c8bbf77",
+    "addedMinOffset": -22400,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "66876238-2af3-415e-81db-4f45a2699ed6",
-    "addedMinOffset": -4714,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "862f8b3d-6493-4cfa-b4f7-6bba0ababbbf",
-    "addedMinOffset": -62837,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "08874ce2-f69a-4373-a2f4-b4ef26a78ea9",
-    "addedMinOffset": -37371,
+    "gigId": "33064652-824d-4b8a-815e-ec3d8dcef9a6",
+    "addedMinOffset": -31490,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "e8261d07-bb6f-42a4-8d1a-a0f1ddf3a88f",
-    "addedMinOffset": -47937,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b5df0159-49a3-4c70-b206-e1c2f4ec977f",
-    "addedMinOffset": -59309,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "e8a99e2d-9f06-4ce0-9b78-2c5fcd3ec303",
-    "addedMinOffset": -51845,
+    "gigId": "b70897ab-3758-4e21-8c95-460a137ed163",
+    "addedMinOffset": -57438,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "1acdc193-980d-4653-b90f-33133d913f4f",
-    "addedMinOffset": -55173,
+    "gigId": "488c0697-5df3-458a-8427-f5450b3c3e34",
+    "addedMinOffset": -35950,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -13817,
+    "gigId": "d03e131b-954a-4de3-837e-73c849bf0ced",
+    "addedMinOffset": -13385,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "938d2754-f872-411c-82da-fde63aa7106c",
+    "addedMinOffset": -51524,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "900e5b58-9742-499e-b461-54f6e2ece899",
+    "addedMinOffset": -24402,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "eac88bce-2676-4b21-ab7b-59b952575b89",
+    "addedMinOffset": -23580,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -15155,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "48e5c244-1414-4c3e-82c4-5997ad8229a1",
+    "addedMinOffset": -55779,
     "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "3700f8eb-8cfb-4290-a745-66e16cd6abea",
+  "id": "194e1bd5-b663-4aa2-9f2a-3582668919dc",
   "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
   "kind": "custom",
   "title": "Festivales",
   "description": null,
   "items": [
    {
-    "gigId": "062a6f69-6d45-4872-b73e-34d70d4fc214",
-    "addedMinOffset": -70634,
+    "gigId": "79754e39-16a3-41dd-9fa8-eed85db6233e",
+    "addedMinOffset": -34432,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "f09c6fd5-de74-472a-adbb-447bcda3a87b",
-    "addedMinOffset": -126304,
+    "gigId": "f206abcd-d356-4920-9f54-556959fd9b1c",
+    "addedMinOffset": -8044,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "af384c86-37e8-4de9-9010-98faaeee13cd",
-    "addedMinOffset": -149786,
+    "gigId": "61a223c7-b073-4793-b7ea-c08572055ad1",
+    "addedMinOffset": -70833,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "0b26f250-631c-4029-a09d-5546da2c6420",
-    "addedMinOffset": -33951,
+    "gigId": "cf4090d0-aada-47e7-a434-0c840994387e",
+    "addedMinOffset": -118966,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "69ecd3c4-1981-4dbb-a3ea-117c48cc3254",
-    "addedMinOffset": -83717,
+    "gigId": "d09dab4e-260c-4222-848c-703459e559ef",
+    "addedMinOffset": -9404,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "a700968d-80b3-44bb-aaf3-4b2a11cd3919",
-    "addedMinOffset": -52137,
+    "gigId": "843268a8-0652-4347-824d-712fabd03d8d",
+    "addedMinOffset": -136739,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "edc60a88-1fd5-4bd1-9d97-5f5d7683ed01",
-    "addedMinOffset": -130294,
+    "gigId": "6fc99f65-d458-4837-b658-2b56cea0509f",
+    "addedMinOffset": -132386,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f5ff7c45-b02c-41df-96bf-159e6c624071",
+    "addedMinOffset": -21749,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "5c9f76b7-c9aa-4b1e-8e98-9bcbd7cfbe66",
-  "userId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "kind": "custom",
-  "title": "Fuera de España",
-  "description": "Viajes por concierto.",
-  "items": [
-   {
-    "gigId": "0b30c5d3-2770-46ca-84c0-0d8b1d87de62",
-    "addedMinOffset": -120799,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "eacd18e4-92a7-43ad-b870-0c5229fa6586",
-    "addedMinOffset": -69723,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "88ca743f-3931-49bb-93f3-cfdcd8634b29",
-    "addedMinOffset": -157978,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "21797829-2572-42d5-9226-08d3c04cd9cd",
-    "addedMinOffset": -125833,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1c39974b-478b-4ae7-b576-6de4ab6f04bf",
-    "addedMinOffset": -29006,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fbefb05f-4aa6-42d4-8011-449a2eb39c9a",
-    "addedMinOffset": -65477,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ffcab680-36aa-4c64-aa86-3d562a495c99",
-    "addedMinOffset": -121345,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d31d33b5-ec47-4775-b4d7-7f551409aef9",
-    "addedMinOffset": -22461,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "f1ab886e-0fbe-439b-aa6b-8721f998b344",
+  "id": "89a61196-228d-4b11-8605-dde9ff9b2baa",
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "6664e9ed-6678-4bbb-9551-88251dd33736",
-    "addedMinOffset": -50324,
+    "gigId": "23966887-9eda-4351-818b-61251f59ed85",
+    "addedMinOffset": -28237,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "87635f35-9f98-4b5a-824e-3f5a6c7eae79",
-    "addedMinOffset": -6285,
+    "gigId": "f55137ed-6cac-4c63-bb40-930156c1af34",
+    "addedMinOffset": -60273,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b9587b96-c5bd-4e8b-bf56-9c275cac2bef",
+    "addedMinOffset": -15521,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9d3d615f-f76e-4f41-a642-173c0d345366",
+    "addedMinOffset": -28727,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e4b67d4b-719a-420b-a0b0-265242daa588",
+    "addedMinOffset": -30746,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "1e163641-7ac2-4d5a-a814-0adcce12c81f",
-    "addedMinOffset": -7069,
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -35520,
     "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -58725,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "85828e84-c6f6-4f90-af65-e23a689b796e",
-    "addedMinOffset": -40369,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8eed85db-6233-4e59-88fc-dc95352784fe",
-    "addedMinOffset": -57391,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "e8a99e2d-9f06-4ce0-9b78-2c5fcd3ec303",
-    "addedMinOffset": -38978,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b5a767f3-aafe-4329-9371-864647c33736",
-    "addedMinOffset": -38655,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "de43f097-1590-4e0f-abd1-7fd1438603f3",
-    "addedMinOffset": -5066,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "48ba631c-abd8-419b-951e-18af88824354",
-    "addedMinOffset": -2077,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "75978a6b-5907-4de9-a3bb-394ca925d805",
-    "addedMinOffset": -25830,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1acdc193-980d-4653-b90f-33133d913f4f",
-    "addedMinOffset": -41570,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "18c2aef5-e1f7-44c1-a704-48af206abcdd",
-    "addedMinOffset": -60660,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2c695c0b-6738-45f5-85e4-da8e8757f096",
-    "addedMinOffset": -15673,
-    "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "b178f89d-dfed-42ec-a106-636ee6738ef4",
+  "id": "d36f5263-d135-4151-a8f0-e72c3a07866e",
   "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
   "kind": "custom",
-  "title": "Mis mejores directos",
-  "description": "Los conciertos que más recuerdo.",
+  "title": "Pendientes de repetir",
+  "description": null,
   "items": [
    {
-    "gigId": "27e829ca-3631-4b88-89f1-7df82d9cc710",
-    "addedMinOffset": -59093,
+    "gigId": "34e169c1-ace9-4fe2-83a8-c78eb0ec1d38",
+    "addedMinOffset": -161324,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "130864ca-26ec-42c7-91d1-b9489c2af536",
-    "addedMinOffset": -37772,
+    "gigId": "5d161086-1c89-48d3-a967-0f1a5ee55f45",
+    "addedMinOffset": -95010,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "949bcaa5-7219-4678-8757-34ebe172471e",
-    "addedMinOffset": -48874,
+    "gigId": "cf4090d0-aada-47e7-a434-0c840994387e",
+    "addedMinOffset": -139862,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "be64e344-4230-405e-bff6-59ff3c5e61c5",
-    "addedMinOffset": -34456,
+    "gigId": "0ccd600e-f0dc-4d43-b67a-d1835e9fed36",
+    "addedMinOffset": -91303,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "4997fddd-72e8-40e5-8d32-963d2fe6abcf",
-    "addedMinOffset": -15919,
+    "gigId": "ba016b3d-2cd7-403f-88bb-a4ac6e838262",
+    "addedMinOffset": -17204,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "6859db99-25a5-4660-9a26-7a2db800bed4",
-    "addedMinOffset": -151665,
+    "gigId": "20df2cf7-7b2c-430e-8fe1-70a4af6ccfac",
+    "addedMinOffset": -61985,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "a0e139d5-a6ac-4002-9319-2c837236d58a",
-    "addedMinOffset": -114424,
+    "gigId": "73b17d85-4df6-4cb1-a133-8cbb5a3ea6db",
+    "addedMinOffset": -69982,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "9ae65c64-e9ac-4053-af20-9e11dfe3ed7e",
-    "addedMinOffset": -149902,
+    "gigId": "611e4beb-0a75-4ae6-b078-4437c5ca30f3",
+    "addedMinOffset": -671,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "8a2bde68-cf6d-4f84-8bd2-32beba0e9413",
+  "id": "ce292c7c-620a-4ede-a11c-fe9aa8b90f5f",
+  "userId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "kind": "custom",
+  "title": "Fuera de España",
+  "description": "Viajes por concierto.",
+  "items": [
+   {
+    "gigId": "93eebeb8-30d3-484d-a90f-f07a404cbc76",
+    "addedMinOffset": -15714,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9638d2aa-d4f1-4cd3-b3e3-5d5fe9ec1dad",
+    "addedMinOffset": -162785,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "1c5c444a-7779-442d-8bfc-acf052b228b8",
+    "addedMinOffset": -73782,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "5b250e3a-a54e-4c1b-88ce-e13ce5433da2",
+    "addedMinOffset": -74574,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "00b62883-43c4-44a7-9b6f-70db67534819",
+    "addedMinOffset": -39320,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "39981bf5-6e27-474d-afe8-f8b678c27b54",
+    "addedMinOffset": -112316,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "715c9ca4-0021-48bb-8c3b-bca4798440d9",
+    "addedMinOffset": -34172,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "eac88bce-2676-4b21-ab7b-59b952575b89",
+    "addedMinOffset": -172472,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "5c343871-7f4f-4d2f-83aa-17fd6550b13e",
   "userId": "717ea679-b802-4116-bda1-04b4daee51a3",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "715841d4-2bc7-44c5-ba5d-e4176f3043ab",
-    "addedMinOffset": -48855,
+    "gigId": "692c695c-0b67-4385-b525-e4da8e8757f0",
+    "addedMinOffset": -6271,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "08874ce2-f69a-4373-a2f4-b4ef26a78ea9",
-    "addedMinOffset": -17116,
+    "gigId": "0a9882c4-2f54-417c-805f-86795d66f39f",
+    "addedMinOffset": -22506,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "85ab3497-15da-47e2-b6e4-8ea12c0e68d1",
-    "addedMinOffset": -29990,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b87c0f1f-1f4a-4974-b7b2-ae6cd13385f9",
-    "addedMinOffset": -43065,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "f8d20e9a-b9b0-4542-9866-5c3b08fb7502",
-    "addedMinOffset": -2613,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8eed85db-6233-4e59-88fc-dc95352784fe",
-    "addedMinOffset": -62586,
+    "gigId": "8b38a4c2-18d1-48c1-a3c6-700d11a088d8",
+    "addedMinOffset": -64364,
     "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "1a29fb6c-f499-4e98-873a-2422c33a7f23",
+    "addedMinOffset": -45094,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -2436,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0f19fe2c-91d1-4ad2-8ff4-be7612be16ee",
+    "addedMinOffset": -30786,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "b70897ab-3758-4e21-8c95-460a137ed163",
+    "addedMinOffset": -33545,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e11acdc1-9398-40d6-93e9-0f33133d913f",
+    "addedMinOffset": -51916,
+    "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "f3ab7ca8-abe8-4ba9-9d21-a59ea6aff7b4",
+  "id": "af55b540-8397-49a0-a467-5afe22355d6b",
   "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "3c96a214-35a0-4b97-a493-753a49f35f9e",
-    "addedMinOffset": -48343,
+    "gigId": "e8536a83-5f82-47c1-ae59-f42fb75d2185",
+    "addedMinOffset": -6608,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "fec58af0-7ba6-4361-a6db-30ce9c2c1426",
-    "addedMinOffset": -12386,
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -51538,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "0b967c16-c3e1-4e1b-9fb4-7f2495dc15ea",
-    "addedMinOffset": -46412,
+    "gigId": "f206abcd-d356-4920-9f54-556959fd9b1c",
+    "addedMinOffset": -61198,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "85828e84-c6f6-4f90-af65-e23a689b796e",
-    "addedMinOffset": -56048,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "de43f097-1590-4e0f-abd1-7fd1438603f3",
-    "addedMinOffset": -30612,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "af384c86-37e8-4de9-9010-98faaeee13cd",
-    "addedMinOffset": -59283,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "94646386-6ac8-462f-a98d-0ae2e9b1bb60",
-    "addedMinOffset": -11984,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2feaae5d-ad1c-45c4-94a7-77942d2bfcac",
-    "addedMinOffset": -9556,
+    "gigId": "ebab82cc-10a1-4c55-8338-2e60496278e0",
+    "addedMinOffset": -596,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "d543dde5-185d-4fb4-8e9d-5383a9c0ca92",
-    "addedMinOffset": -24485,
+    "gigId": "e82894d1-0bd0-49bb-9b6c-fa0169b933a4",
+    "addedMinOffset": -3474,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "c1dad27e-8c5a-4722-b1c4-d2656058c966",
-    "addedMinOffset": -40428,
+    "gigId": "89dc4d3c-7f2a-41bd-b68e-0337f8a7f3d3",
+    "addedMinOffset": -6298,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "ab2f4101-2b98-4604-83e6-4d40b46f89b5",
+    "addedMinOffset": -20213,
     "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "75b4caae-1bbd-4d59-9ef4-fa0b14288fbb",
+    "addedMinOffset": -22275,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "cc2d3d8e-28e6-426a-9669-bff6d538d9ee",
+    "addedMinOffset": -61648,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "77f55140-9aef-49c8-9235-24254f6a4dab",
+    "addedMinOffset": -52303,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "eac88bce-2676-4b21-ab7b-59b952575b89",
+    "addedMinOffset": -22808,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "06f3bd3c-a52d-40a6-9ca1-9442e0dd60bb",
+    "addedMinOffset": -5612,
+    "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "9f2970f2-31be-497d-90ea-00009212cacf",
+  "id": "0749ece0-eddd-4e3a-b851-5e54362f1391",
+  "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "kind": "custom",
+  "title": "Mis mejores directos",
+  "description": "Los conciertos que más recuerdo.",
+  "items": [
+   {
+    "gigId": "9a17f58e-15ea-43b1-8f5a-0067170838ad",
+    "addedMinOffset": -70533,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "4b380787-c76c-4eaf-8647-3a703fdbe281",
+    "addedMinOffset": -38872,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "34e169c1-ace9-4fe2-83a8-c78eb0ec1d38",
+    "addedMinOffset": -51300,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3d1dd6a2-5217-425d-8b4a-613bf8db31ca",
+    "addedMinOffset": -165862,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "24c592e6-6eb1-495d-8aaa-2fb89e1b5431",
+    "addedMinOffset": -52244,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "27174812-0264-4df7-8ba8-b1c268adace5",
+    "addedMinOffset": -6315,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "c32aa4fb-87e9-457e-8823-d15ecda53e3f",
+  "userId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "kind": "custom",
+  "title": "Salas pequeñas",
+  "description": "Aforo reducido y mucho ruido.",
+  "items": [
+   {
+    "gigId": "46ee214e-6a15-4ed1-b163-6417ac2d5aa8",
+    "addedMinOffset": -140743,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "734bd284-2d02-4c07-8744-ad9005fec837",
+    "addedMinOffset": -146253,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "19d2828d-a08d-4d3a-8c56-136c1906b89a",
+    "addedMinOffset": -161304,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "61a223c7-b073-4793-b7ea-c08572055ad1",
+    "addedMinOffset": -104315,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "2402b7b3-9b88-4ada-882f-3c9c6152f9a5",
+    "addedMinOffset": -106192,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "7f246f2c-afb4-493d-b578-aa7d942e82b6",
   "userId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "e8261d07-bb6f-42a4-8d1a-a0f1ddf3a88f",
-    "addedMinOffset": -52585,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d31d33b5-ec47-4775-b4d7-7f551409aef9",
-    "addedMinOffset": -53339,
+    "gigId": "e6069aa8-a1c6-4070-aade-8aaf95c6002b",
+    "addedMinOffset": -3648,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "48ba631c-abd8-419b-951e-18af88824354",
-    "addedMinOffset": -43105,
+    "gigId": "1c5c444a-7779-442d-8bfc-acf052b228b8",
+    "addedMinOffset": -44491,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "cb169d3d-c00d-40d0-8914-efa95f33ab55",
-    "addedMinOffset": -15223,
+    "gigId": "e5dc8280-633b-470e-ae6c-0d7313407fe2",
+    "addedMinOffset": -53295,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "1acdc193-980d-4653-b90f-33133d913f4f",
-    "addedMinOffset": -39048,
+    "gigId": "46ee214e-6a15-4ed1-b163-6417ac2d5aa8",
+    "addedMinOffset": -42079,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "af384c86-37e8-4de9-9010-98faaeee13cd",
-    "addedMinOffset": -14015,
+    "gigId": "9143ff27-09ec-4cbb-b01b-bd846ff59654",
+    "addedMinOffset": -33424,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "26c00ae0-63a0-4a85-b07a-7b47bbe2e781",
-    "addedMinOffset": -10699,
+    "gigId": "61a223c7-b073-4793-b7ea-c08572055ad1",
+    "addedMinOffset": -20208,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "8b38a4c2-18d1-48c1-a3c6-700d11a088d8",
+    "addedMinOffset": -3802,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f79aaae7-fb0b-4b99-9e09-b944d4438821",
+    "addedMinOffset": -4610,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "2a774cd9-dd56-437e-9979-d04be7ec3775",
+    "addedMinOffset": -50709,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "77f55140-9aef-49c8-9235-24254f6a4dab",
+    "addedMinOffset": -33924,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "50a4e777-67be-4ff5-8fd9-633a9ff7b11f",
+  "id": "440fc89d-a9a3-4106-990a-365bc3d1ab25",
   "userId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
   "kind": "custom",
   "title": "Pendientes de repetir",
   "description": null,
   "items": [
    {
-    "gigId": "19957e5e-b650-424c-baa5-3b15a50f29d9",
-    "addedMinOffset": -130114,
+    "gigId": "4354e6fe-de03-421a-99e8-507cde679dc9",
+    "addedMinOffset": -48587,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "41921049-4a79-498c-8669-8edeec347d04",
-    "addedMinOffset": -156928,
+    "gigId": "e140b1e5-3fa6-494b-815d-660d838a8357",
+    "addedMinOffset": -144644,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "53a23c90-0e5b-4589-9429-9ee46154f6e2",
-    "addedMinOffset": -6708,
+    "gigId": "fd9110f4-d7a2-4e86-b602-9a7f3fd36d1f",
+    "addedMinOffset": -124219,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "d247ab32-c1c9-4a2f-afcc-7de15ba383cb",
+  "id": "8a54a5af-8157-4ff6-80c5-6863d76d2c76",
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "bbaf3dc9-dc0b-4cd4-9bd8-4c7f6b5eb864",
-    "addedMinOffset": -483,
+    "gigId": "0a9882c4-2f54-417c-805f-86795d66f39f",
+    "addedMinOffset": -57170,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "46b0659d-bcec-4b29-ac9d-fbc153e4bfa9",
-    "addedMinOffset": -28254,
+    "gigId": "34e169c1-ace9-4fe2-83a8-c78eb0ec1d38",
+    "addedMinOffset": -31572,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "086fd45c-12fb-4acb-8481-e55cf3a9231c",
-    "addedMinOffset": -6108,
+    "gigId": "d5e533fd-cd96-43eb-bc94-ad3c3cb15578",
+    "addedMinOffset": -32945,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "fec58af0-7ba6-4361-a6db-30ce9c2c1426",
-    "addedMinOffset": -45523,
+    "gigId": "e196e8de-1e67-4681-846c-3324c2fad5d1",
+    "addedMinOffset": -55749,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "5aa0ab6d-a738-45c2-a9fe-9e844311bf65",
-    "addedMinOffset": -20786,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "0986f7dd-5a86-4828-9ce9-85751f50fca7",
-    "addedMinOffset": -24304,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ec9980e6-2909-42d1-b154-fbb60f5f1bb8",
-    "addedMinOffset": -42279,
+    "gigId": "22a2c266-377c-49c3-a4ba-768b58c0ce92",
+    "addedMinOffset": -30781,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "80eac88b-ce26-476b-819b-7b59b952575b",
-    "addedMinOffset": -12025,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "48ba631c-abd8-419b-951e-18af88824354",
-    "addedMinOffset": -14169,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "715841d4-2bc7-44c5-ba5d-e4176f3043ab",
-    "addedMinOffset": -47877,
+    "gigId": "f55137ed-6cac-4c63-bb40-930156c1af34",
+    "addedMinOffset": -21989,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "086c554c-60d3-49e9-bf02-e86d885188db",
-    "addedMinOffset": -53802,
+    "gigId": "a170fb4d-5715-479e-856d-db2632e130c8",
+    "addedMinOffset": -55561,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "85ab3497-15da-47e2-b6e4-8ea12c0e68d1",
-    "addedMinOffset": -14612,
+    "gigId": "70d2ab8b-93ab-4756-8631-5fdd981742a5",
+    "addedMinOffset": -37666,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "1254517a-e0cb-4978-b1ac-d36326ba7888",
+    "addedMinOffset": -23474,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3f983947-f071-4159-8a93-cb51c1e0625c",
+    "addedMinOffset": -61863,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "1349e2dd-2e7c-48f2-ad5d-0298b114e2e7",
+  "id": "a3da2f6b-1803-4155-91d3-de5b3520f4a2",
   "userId": "538c7747-0d56-4480-a1ec-ac098787790b",
   "kind": "custom",
   "title": "Pendientes de repetir",
   "description": null,
   "items": [
    {
-    "gigId": "f185b653-8d67-4e47-aaa6-f51f677611b1",
-    "addedMinOffset": -142799,
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -152680,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "2fafa22b-2135-4728-9ca8-bacb3ccd468e",
-    "addedMinOffset": -30793,
+    "gigId": "7d737784-8939-4d32-b8ff-35d61a3d98bc",
+    "addedMinOffset": -167444,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "0b30c5d3-2770-46ca-84c0-0d8b1d87de62",
-    "addedMinOffset": -118706,
+    "gigId": "1aaddf35-d3c4-4bf2-8191-ecd164130cd8",
+    "addedMinOffset": -27503,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "06cdb411-4f80-440a-a999-96b15bed03ee",
-    "addedMinOffset": -126377,
+    "gigId": "3c99bf8b-c002-4b5f-90d6-3ab69d3a033d",
+    "addedMinOffset": -10822,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "b1298e28-007b-4571-a95a-985fd170c27d",
-    "addedMinOffset": -170947,
+    "gigId": "4b380787-c76c-4eaf-8647-3a703fdbe281",
+    "addedMinOffset": -44105,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "908fd594-b4a1-48d8-981b-37968d066cbd",
+    "addedMinOffset": -166120,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "79486f2d-7c8b-4501-b12b-a45a502b7988",
+  "id": "f7b4313c-0b4f-4b3d-b121-e1b34f1c3152",
   "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "69ecd3c4-1981-4dbb-a3ea-117c48cc3254",
-    "addedMinOffset": -63361,
+    "gigId": "89dc4d3c-7f2a-41bd-b68e-0337f8a7f3d3",
+    "addedMinOffset": -43328,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "bbf7741d-ea36-4b4d-ae55-ea671d4fb60c",
-    "addedMinOffset": -13233,
+    "gigId": "8b38a4c2-18d1-48c1-a3c6-700d11a088d8",
+    "addedMinOffset": -38947,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "3e71c08e-3d70-4279-913c-24d78cb7aa3e",
-    "addedMinOffset": -19189,
+    "gigId": "8b36f8e2-5dbd-4fb9-8950-dd253495c599",
+    "addedMinOffset": -42559,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "6c6b829c-d6fb-4d42-9b2f-c86c37da2a85",
-    "addedMinOffset": -54298,
+    "gigId": "70d2ab8b-93ab-4756-8631-5fdd981742a5",
+    "addedMinOffset": -42184,
     "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2398f3b7-18ea-4da6-82d0-4f073ac8c6d6",
-    "addedMinOffset": -51000,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8eed85db-6233-4e59-88fc-dc95352784fe",
-    "addedMinOffset": -43599,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "08874ce2-f69a-4373-a2f4-b4ef26a78ea9",
-    "addedMinOffset": -36444,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d543dde5-185d-4fb4-8e9d-5383a9c0ca92",
-    "addedMinOffset": -11284,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -41349,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "fb3aac10-be99-4ef1-9e6c-cb544fbdb91a",
-    "addedMinOffset": -52821,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "715841d4-2bc7-44c5-ba5d-e4176f3043ab",
-    "addedMinOffset": -61142,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "af384c86-37e8-4de9-9010-98faaeee13cd",
-    "addedMinOffset": -47820,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "675ddeae-57ac-46bf-92e7-77643efd41e2",
-    "addedMinOffset": -53523,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "87635f35-9f98-4b5a-824e-3f5a6c7eae79",
-    "addedMinOffset": -18822,
-    "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "12eb179c-dd3b-46f7-a72a-a4d256752f09",
+  "id": "94c0d453-a506-4c43-b503-190a88e5d24e",
+  "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "kind": "custom",
+  "title": "Salas pequeñas",
+  "description": "Aforo reducido y mucho ruido.",
+  "items": [
+   {
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -38449,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3a57932f-7dc9-4407-830f-e620ffbdcfc0",
+    "addedMinOffset": -146273,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "389c1b70-62aa-4c40-9923-e4f9bbb051be",
+    "addedMinOffset": -44023,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "9814f4c4-f90e-45a9-810b-4ee09bb6e60f",
   "userId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
   "kind": "custom",
   "title": "Fuera de España",
   "description": "Viajes por concierto.",
   "items": [
    {
-    "gigId": "cd941560-b8ca-4b7a-b5d3-d4eec6574a52",
-    "addedMinOffset": -161791,
+    "gigId": "9a17f58e-15ea-43b1-8f5a-0067170838ad",
+    "addedMinOffset": -136412,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "ea31145f-1b5d-4161-8861-c898d399670f",
-    "addedMinOffset": -134272,
+    "gigId": "bb705f9d-978c-4f86-913d-d33fb3b05690",
+    "addedMinOffset": -162835,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "a9cd67c3-5f07-48b4-94df-9fbdf714610d",
-    "addedMinOffset": -127828,
+    "gigId": "3e39ebb9-de60-4470-b5d7-9a1294b5753e",
+    "addedMinOffset": -51221,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "675ddeae-57ac-46bf-92e7-77643efd41e2",
-    "addedMinOffset": -7834,
+    "gigId": "d8da8f31-f570-4c40-a2a2-459549922a23",
+    "addedMinOffset": -21609,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "ab303ab5-b93f-4d4b-b070-33ae6eef37db",
-    "addedMinOffset": -31394,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "cea5aab5-7cc6-4e20-aa59-0c2cb3e346bd",
-    "addedMinOffset": -18515,
+    "gigId": "3923e480-6e55-4e2c-b921-b0943f8dd72e",
+    "addedMinOffset": -26849,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "890b2cf4-9c8c-42ff-aa70-1a22a3c16298",
+  "id": "e61f8627-0eb8-4cdc-9068-d28bb47ee400",
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "086fd45c-12fb-4acb-8481-e55cf3a9231c",
-    "addedMinOffset": -52139,
+    "gigId": "23966887-9eda-4351-818b-61251f59ed85",
+    "addedMinOffset": -15331,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "8e47724f-c49c-4f74-93f1-982616b4c2b1",
-    "addedMinOffset": -20142,
+    "gigId": "e11acdc1-9398-40d6-93e9-0f33133d913f",
+    "addedMinOffset": -25722,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "33b4e5bb-26ab-4cee-9648-30bf7ac0dd8b",
+    "addedMinOffset": -19097,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -15451,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "96a3723c-e286-49d8-a815-47e8db3b50ab",
-    "addedMinOffset": -51632,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "5aa0ab6d-a738-45c2-a9fe-9e844311bf65",
-    "addedMinOffset": -37305,
+    "gigId": "d5e533fd-cd96-43eb-bc94-ad3c3cb15578",
+    "addedMinOffset": -20826,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "14906e1c-71ad-45f6-8235-b321cc0f2342",
-    "addedMinOffset": -31481,
+    "gigId": "22a2c266-377c-49c3-a4ba-768b58c0ce92",
+    "addedMinOffset": -62964,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "18c2aef5-e1f7-44c1-a704-48af206abcdd",
-    "addedMinOffset": -13553,
+    "gigId": "f79aaae7-fb0b-4b99-9e09-b944d4438821",
+    "addedMinOffset": -33525,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "d543dde5-185d-4fb4-8e9d-5383a9c0ca92",
-    "addedMinOffset": -32947,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "715841d4-2bc7-44c5-ba5d-e4176f3043ab",
-    "addedMinOffset": -39895,
+    "gigId": "0f19fe2c-91d1-4ad2-8ff4-be7612be16ee",
+    "addedMinOffset": -62783,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "75978a6b-5907-4de9-a3bb-394ca925d805",
-    "addedMinOffset": -22904,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "08874ce2-f69a-4373-a2f4-b4ef26a78ea9",
-    "addedMinOffset": -45411,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "85ab3497-15da-47e2-b6e4-8ea12c0e68d1",
-    "addedMinOffset": -57927,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2cd1afee-3f28-43d2-8856-f65aa3f22bde",
-    "addedMinOffset": -23531,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "87635f35-9f98-4b5a-824e-3f5a6c7eae79",
-    "addedMinOffset": -41678,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ecaf2048-e5c2-4441-914c-3e22c45997ad",
-    "addedMinOffset": -8211,
-    "ticketStatus": "has_ticket"
-   }
-  ]
- },
- {
-  "id": "7c551066-ad48-48bd-8087-9f40eba6948b",
-  "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "kind": "custom",
-  "title": "Salas pequeñas",
-  "description": "Aforo reducido y mucho ruido.",
-  "items": [
-   {
-    "gigId": "f8d20e9a-b9b0-4542-9866-5c3b08fb7502",
-    "addedMinOffset": -22495,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "e8a99e2d-9f06-4ce0-9b78-2c5fcd3ec303",
-    "addedMinOffset": -104952,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "3c5cdbcd-658a-4f4d-904f-7950423572c3",
-    "addedMinOffset": -170908,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b1298e28-007b-4571-a95a-985fd170c27d",
-    "addedMinOffset": -152050,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "3e71c08e-3d70-4279-913c-24d78cb7aa3e",
-    "addedMinOffset": -84838,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "cb169d3d-c00d-40d0-8914-efa95f33ab55",
-    "addedMinOffset": -121444,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "9ae65c64-e9ac-4053-af20-9e11dfe3ed7e",
-    "addedMinOffset": -121595,
+    "gigId": "e6069aa8-a1c6-4070-aade-8aaf95c6002b",
+    "addedMinOffset": -63828,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "0bfb0d9a-0a9a-44d0-8ed4-12b836bee09d",
+  "id": "bdec384e-e5b6-4402-8a5e-378025440b0c",
   "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
   "kind": "custom",
   "title": "Para ir en grupo",
   "description": "Planes con amigos.",
   "items": [
    {
-    "gigId": "086c554c-60d3-49e9-bf02-e86d885188db",
-    "addedMinOffset": -54954,
+    "gigId": "715c9ca4-0021-48bb-8c3b-bca4798440d9",
+    "addedMinOffset": -41575,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "69ecd3c4-1981-4dbb-a3ea-117c48cc3254",
-    "addedMinOffset": -100450,
+    "gigId": "02c24a34-bc0b-4aac-b9bc-d24d4f4f2059",
+    "addedMinOffset": -112417,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "dd72e9c7-cfe9-4f53-bd68-20dac3dd3ae3",
-    "addedMinOffset": -137734,
+    "gigId": "6a065ef1-f239-4418-9296-4a37e5fa5745",
+    "addedMinOffset": -148966,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "949bcaa5-7219-4678-8757-34ebe172471e",
-    "addedMinOffset": -117118,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8373a242-2c33-4a7f-83c1-3ccee690ebe8",
-    "addedMinOffset": -28465,
+    "gigId": "5cdbcd65-8af4-4d70-9f79-50423572c387",
+    "addedMinOffset": -110727,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "051566e7-a6f0-408b-a20a-129a91d3513f",
+  "id": "337fbbbc-78f4-4e04-aeca-e9330cb3bab7",
+  "userId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "kind": "custom",
+  "title": "Pendientes de repetir",
+  "description": null,
+  "items": [
+   {
+    "gigId": "042f4d29-0f9c-43be-9524-8777c06ec54a",
+    "addedMinOffset": -93739,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "40669b89-9617-4377-b210-55e391acdcc6",
+    "addedMinOffset": -4214,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "00b62883-43c4-44a7-9b6f-70db67534819",
+    "addedMinOffset": -9614,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "7ea7eedd-5a15-4914-bad9-4dc57a840fb5",
+    "addedMinOffset": -107513,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "70d2ab8b-93ab-4756-8631-5fdd981742a5",
+    "addedMinOffset": -43260,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "02c24a34-bc0b-4aac-b9bc-d24d4f4f2059",
+    "addedMinOffset": -29892,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "d488bd00-879f-440e-aa69-48bc6adb64ff",
   "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "3e71c08e-3d70-4279-913c-24d78cb7aa3e",
-    "addedMinOffset": -1881,
+    "gigId": "843268a8-0652-4347-824d-712fabd03d8d",
+    "addedMinOffset": -11040,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "8373a242-2c33-4a7f-83c1-3ccee690ebe8",
-    "addedMinOffset": -22603,
+    "gigId": "33b4e5bb-26ab-4cee-9648-30bf7ac0dd8b",
+    "addedMinOffset": -12439,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "715841d4-2bc7-44c5-ba5d-e4176f3043ab",
-    "addedMinOffset": -47362,
+    "gigId": "715c9ca4-0021-48bb-8c3b-bca4798440d9",
+    "addedMinOffset": -4337,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -2477,
+    "gigId": "d81d5696-c96a-4c0a-b2c2-26bfb39a5d49",
+    "addedMinOffset": -9305,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "de43f097-1590-4e0f-abd1-7fd1438603f3",
-    "addedMinOffset": -25586,
+    "gigId": "46ee214e-6a15-4ed1-b163-6417ac2d5aa8",
+    "addedMinOffset": -32418,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "d31d33b5-ec47-4775-b4d7-7f551409aef9",
-    "addedMinOffset": -62089,
+    "gigId": "cc2d3d8e-28e6-426a-9669-bff6d538d9ee",
+    "addedMinOffset": -24150,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "2c5d68ca-6ea8-4530-a4a4-9d620369b77d",
-    "addedMinOffset": -43346,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "f38b778d-1faa-453d-bb8f-4d690d27ae02",
-    "addedMinOffset": -10580,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "dcea52f6-ddd0-46d5-b9c2-f686db7788aa",
-    "addedMinOffset": -53220,
+    "gigId": "75f2d070-84aa-4074-8a36-b47492f274e5",
+    "addedMinOffset": -43385,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "48ba631c-abd8-419b-951e-18af88824354",
-    "addedMinOffset": -17765,
+    "gigId": "e6069aa8-a1c6-4070-aade-8aaf95c6002b",
+    "addedMinOffset": -7584,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "85828e84-c6f6-4f90-af65-e23a689b796e",
-    "addedMinOffset": -50833,
+    "gigId": "23966887-9eda-4351-818b-61251f59ed85",
+    "addedMinOffset": -50377,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b9587b96-c5bd-4e8b-bf56-9c275cac2bef",
+    "addedMinOffset": -21154,
     "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "908fd594-b4a1-48d8-981b-37968d066cbd",
+    "addedMinOffset": -802,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0ccd600e-f0dc-4d43-b67a-d1835e9fed36",
+    "addedMinOffset": -26671,
+    "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "1e6aeb45-90f8-40e8-a90a-46f306031781",
+  "id": "06a919ed-2ed0-42ba-adac-395af49553da",
+  "userId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "kind": "custom",
+  "title": "Fuera de España",
+  "description": "Viajes por concierto.",
+  "items": [
+   {
+    "gigId": "5f8170f9-df3a-4fe1-ac99-aa2c1131d532",
+    "addedMinOffset": -73036,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e0c30884-d1f7-4f37-b04c-014aa4abe80d",
+    "addedMinOffset": -105507,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "bd22462a-3f9b-4167-9bca-0d02222b6fb3",
+    "addedMinOffset": -62587,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0992849e-c48c-432b-aada-a089069d170b",
+    "addedMinOffset": -101078,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "cc2d3d8e-28e6-426a-9669-bff6d538d9ee",
+    "addedMinOffset": -18764,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "900e5b58-9742-499e-b461-54f6e2ece899",
+    "addedMinOffset": -52056,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "e2dd6b03-c450-4acf-be91-61dc42487658",
   "userId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "5a7ea373-0e7d-466c-8fa5-b6e44b09cbb7",
-    "addedMinOffset": -1162,
+    "gigId": "e8536a83-5f82-47c1-ae59-f42fb75d2185",
+    "addedMinOffset": -39924,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "89dc4d3c-7f2a-41bd-b68e-0337f8a7f3d3",
+    "addedMinOffset": -47004,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "dcea52f6-ddd0-46d5-b9c2-f686db7788aa",
-    "addedMinOffset": -49618,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "c2975e86-bf3d-434c-b2b9-9995b2cfdf7d",
-    "addedMinOffset": -39602,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "de4b975e-38f7-4cf1-a177-6d2ef2852877",
-    "addedMinOffset": -54048,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "69ecd3c4-1981-4dbb-a3ea-117c48cc3254",
-    "addedMinOffset": -51776,
+    "gigId": "e4b67d4b-719a-420b-a0b0-265242daa588",
+    "addedMinOffset": -24690,
     "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "1c5c444a-7779-442d-8bfc-acf052b228b8",
+    "addedMinOffset": -29293,
+    "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "3759184b-c65f-46dc-bda2-22c938c8b78f",
+  "id": "bc860a6a-001e-4488-b898-aa9bde06d559",
   "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "19957e5e-b650-424c-baa5-3b15a50f29d9",
-    "addedMinOffset": -11965,
+    "gigId": "6fc99f65-d458-4837-b658-2b56cea0509f",
+    "addedMinOffset": -115,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "46b0659d-bcec-4b29-ac9d-fbc153e4bfa9",
-    "addedMinOffset": -54813,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "5a7ea373-0e7d-466c-8fa5-b6e44b09cbb7",
-    "addedMinOffset": -31616,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "de43f097-1590-4e0f-abd1-7fd1438603f3",
-    "addedMinOffset": -61672,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "de4b975e-38f7-4cf1-a177-6d2ef2852877",
-    "addedMinOffset": -40358,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "94646386-6ac8-462f-a98d-0ae2e9b1bb60",
-    "addedMinOffset": -60025,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "dcea52f6-ddd0-46d5-b9c2-f686db7788aa",
-    "addedMinOffset": -41518,
+    "gigId": "6cb81507-dc64-4835-9973-fd6e1c10f65f",
+    "addedMinOffset": -8933,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "8e47724f-c49c-4f74-93f1-982616b4c2b1",
-    "addedMinOffset": -31271,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fb3aac10-be99-4ef1-9e6c-cb544fbdb91a",
-    "addedMinOffset": -60705,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "086c554c-60d3-49e9-bf02-e86d885188db",
-    "addedMinOffset": -27452,
+    "gigId": "33064652-824d-4b8a-815e-ec3d8dcef9a6",
+    "addedMinOffset": -16264,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "de4910f5-960e-42be-ab6b-e754ae9cfa31",
-    "addedMinOffset": -59245,
+    "gigId": "d81f7367-de57-465a-890f-e0bc23977c74",
+    "addedMinOffset": -27791,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "6c6b829c-d6fb-4d42-9b2f-c86c37da2a85",
-    "addedMinOffset": -35988,
+    "gigId": "d03e131b-954a-4de3-837e-73c849bf0ced",
+    "addedMinOffset": -57835,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "d53b1871-29c3-4254-9c19-adf0f19fe2c9",
-    "addedMinOffset": -26819,
+    "gigId": "f55137ed-6cac-4c63-bb40-930156c1af34",
+    "addedMinOffset": -31418,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "f38b778d-1faa-453d-bb8f-4d690d27ae02",
-    "addedMinOffset": -35683,
+    "gigId": "6954b475-9c16-4e24-8931-cfb26c00ae06",
+    "addedMinOffset": -50602,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -27177,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "34e169c1-ace9-4fe2-83a8-c78eb0ec1d38",
+    "addedMinOffset": -6795,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b70897ab-3758-4e21-8c95-460a137ed163",
+    "addedMinOffset": -34115,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "1254517a-e0cb-4978-b1ac-d36326ba7888",
+    "addedMinOffset": -54806,
     "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "eb2b61cc-df7c-4d59-a182-f08476716e41",
-  "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "kind": "wishlist",
-  "title": "Wishlist",
-  "description": null,
-  "items": [
-   {
-    "gigId": "48ba631c-abd8-419b-951e-18af88824354",
-    "addedMinOffset": -42219,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -50811,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d10bd09b-b5b6-4cfa-8169-b933a4e25162",
-    "addedMinOffset": -23084,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b5a767f3-aafe-4329-9371-864647c33736",
-    "addedMinOffset": -14538,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "85ab3497-15da-47e2-b6e4-8ea12c0e68d1",
-    "addedMinOffset": -30854,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "8cb4ad2d-ab53-415d-840c-3a3852ea56f5",
-    "addedMinOffset": -28180,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "51402e82-fe8c-4a17-8d2c-d386f60f07af",
-    "addedMinOffset": -16320,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "0986f7dd-5a86-4828-9ce9-85751f50fca7",
-    "addedMinOffset": -44424,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "b7150d34-8559-49be-8d25-af8cfdd4c3cd",
-    "addedMinOffset": -43629,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "c0d6e24b-87b2-4f48-8f60-c4fea47f5a9e",
-    "addedMinOffset": -47432,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "af384c86-37e8-4de9-9010-98faaeee13cd",
-    "addedMinOffset": -60794,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -27065,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "de4910f5-960e-42be-ab6b-e754ae9cfa31",
-    "addedMinOffset": -55649,
-    "ticketStatus": "has_ticket"
-   }
-  ]
- },
- {
-  "id": "99a0e6dc-6925-43ae-a909-8b0b2c995332",
-  "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "kind": "custom",
-  "title": "Mis mejores directos",
-  "description": "Los conciertos que más recuerdo.",
-  "items": [
-   {
-    "gigId": "c55c297a-a98b-4f16-8ed7-728eaf0e0b4a",
-    "addedMinOffset": -35445,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ededfa21-6e21-45eb-b346-c30939ccd769",
-    "addedMinOffset": -38062,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ecf1161b-6b25-4a04-b1e7-a4c22ee297b5",
-    "addedMinOffset": -147792,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "88ca743f-3931-49bb-93f3-cfdcd8634b29",
-    "addedMinOffset": -137358,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "3b7b38d3-d068-406c-bc8a-40ddc247fe29",
-    "addedMinOffset": -63373,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "dc239668-879e-4da3-9101-8b61251f59ed",
-    "addedMinOffset": -157502,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "22dceed8-25f4-4545-ad8a-fa9d6e0ed1cb",
-  "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "id": "63703012-7c60-4f6e-9dbf-084cc4535ddb",
+  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
   "kind": "custom",
   "title": "Salas pequeñas",
   "description": "Aforo reducido y mucho ruido.",
   "items": [
    {
-    "gigId": "edecd7b7-6962-431a-b305-2892df2a4bf4",
-    "addedMinOffset": -67991,
+    "gigId": "edbef1d7-0c1e-44ef-a0e3-956948e6e313",
+    "addedMinOffset": -40286,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "d10bd09b-b5b6-4cfa-8169-b933a4e25162",
-    "addedMinOffset": -31477,
+    "gigId": "db4b4d5d-7858-4706-a7f9-910cccb9b0bd",
+    "addedMinOffset": -127984,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "b45c8aec-6185-4513-a81b-0d68518bf913",
-    "addedMinOffset": -70345,
+    "gigId": "6885dc77-7f6b-41eb-af56-02f8e200d8a0",
+    "addedMinOffset": -172430,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "50587797-d8fa-417a-a3ff-a21cc61dd15d",
-    "addedMinOffset": -55019,
+    "gigId": "b0bb97b0-b7d6-4b1b-948c-e398b3fa9df8",
+    "addedMinOffset": -57928,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "4997fddd-72e8-40e5-8d32-963d2fe6abcf",
-    "addedMinOffset": -86861,
+    "gigId": "d50ce83a-ed0c-4125-9964-946607c6683d",
+    "addedMinOffset": -104343,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "242daa58-8c88-4229-be87-afb7307c0b76",
-    "addedMinOffset": -170690,
+    "gigId": "5386c6d6-b066-4ebb-8c4b-3d7b83f422d8",
+    "addedMinOffset": -67141,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "7e349339-9dea-4b40-8347-dd8d5d5fda80",
-    "addedMinOffset": -150663,
+    "gigId": "7e73b5cb-0072-40b9-9854-6f13ad1c9a4a",
+    "addedMinOffset": -46649,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "ce236a1a-1001-46b1-8c1f-d971363d9499",
+    "addedMinOffset": -130631,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "a77b7013-c486-471c-960e-ca10c198ec75",
+  "id": "b69d0d38-bc2e-4e51-8c9f-40d459a9c8b7",
+  "userId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "kind": "custom",
+  "title": "Fuera de España",
+  "description": "Viajes por concierto.",
+  "items": [
+   {
+    "gigId": "843268a8-0652-4347-824d-712fabd03d8d",
+    "addedMinOffset": -23263,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f203339d-c7b2-4cf3-a24a-382cd2841bbe",
+    "addedMinOffset": -88371,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "17150951-84ca-4ee5-84b9-ce4b4daaf879",
+    "addedMinOffset": -170510,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "3002211b-61f8-445b-9891-4b1738b9af1c",
+  "userId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "kind": "wishlist",
+  "title": "Wishlist",
+  "description": null,
+  "items": [
+   {
+    "gigId": "24c592e6-6eb1-495d-8aaa-2fb89e1b5431",
+    "addedMinOffset": -18610,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "715c9ca4-0021-48bb-8c3b-bca4798440d9",
+    "addedMinOffset": -12265,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "75f2d070-84aa-4074-8a36-b47492f274e5",
+    "addedMinOffset": -35615,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e6069aa8-a1c6-4070-aade-8aaf95c6002b",
+    "addedMinOffset": -31734,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "1a29fb6c-f499-4e98-873a-2422c33a7f23",
+    "addedMinOffset": -31326,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "d0555a92-1446-4bf4-833d-c5e22dceed82",
   "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "086fd45c-12fb-4acb-8481-e55cf3a9231c",
-    "addedMinOffset": -39194,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "48ba631c-abd8-419b-951e-18af88824354",
-    "addedMinOffset": -26897,
+    "gigId": "e82894d1-0bd0-49bb-9b6c-fa0169b933a4",
+    "addedMinOffset": -49855,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "af384c86-37e8-4de9-9010-98faaeee13cd",
-    "addedMinOffset": -9569,
+    "gigId": "4ff8adad-674a-4abb-baf2-90e82a190d09",
+    "addedMinOffset": -6606,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "75f2d070-84aa-4074-8a36-b47492f274e5",
+    "addedMinOffset": -7318,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "d5e533fd-cd96-43eb-bc94-ad3c3cb15578",
+    "addedMinOffset": -43815,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "c3a5403a-f94c-4d3e-840a-d05ca90aca58",
+    "addedMinOffset": -37191,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "48e5c244-1414-4c3e-82c4-5997ad8229a1",
+    "addedMinOffset": -27967,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "de4910f5-960e-42be-ab6b-e754ae9cfa31",
-    "addedMinOffset": -21707,
+    "gigId": "0ccd600e-f0dc-4d43-b67a-d1835e9fed36",
+    "addedMinOffset": -15362,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b70897ab-3758-4e21-8c95-460a137ed163",
+    "addedMinOffset": -48904,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "39266e4e-5496-4d34-b32a-1980cc5b3b4c",
+  "id": "bd8afa9d-6e0e-4d1c-ac1b-17edd688c0a8",
   "userId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
   "kind": "custom",
-  "title": "Festivales",
-  "description": null,
+  "title": "Para ir en grupo",
+  "description": "Planes con amigos.",
   "items": [
    {
-    "gigId": "0b1167a7-ef64-4ba7-bb6f-98aefb23981c",
-    "addedMinOffset": -49176,
+    "gigId": "5d161086-1c89-48d3-a967-0f1a5ee55f45",
+    "addedMinOffset": -40605,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "822ef580-ff7e-4361-a704-3f70672bf0e0",
-    "addedMinOffset": -71287,
+    "gigId": "8049deba-cbe1-49d6-8ce6-3283f27c5416",
+    "addedMinOffset": -116218,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "3b7b38d3-d068-406c-bc8a-40ddc247fe29",
-    "addedMinOffset": -56957,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "59b800da-d870-404e-ab52-7b67b0c375ce",
-    "addedMinOffset": -165798,
+    "gigId": "d682f0da-b001-40be-820f-a2dac1162620",
+    "addedMinOffset": -61246,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "ab3954d8-8ed6-41ee-a6c0-a9097f59633c",
+  "id": "ec7568cf-7739-4266-b4e5-496d34d32a19",
   "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "b87c0f1f-1f4a-4974-b7b2-ae6cd13385f9",
-    "addedMinOffset": -38645,
+    "gigId": "f82908bb-af3d-4c9d-b0bc-d47bd84c7f6b",
+    "addedMinOffset": -44867,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "75f2d070-84aa-4074-8a36-b47492f274e5",
+    "addedMinOffset": -2751,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "e415875c-3415-4a77-90e9-c63d8fffddc3",
-    "addedMinOffset": -58555,
+    "gigId": "98c28cf7-0700-471d-b3a0-b6cd7d57630f",
+    "addedMinOffset": -15033,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "70d2ab8b-93ab-4756-8631-5fdd981742a5",
+    "addedMinOffset": -17127,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "ac1ce15a-1a89-4a7a-aacb-0651ffbeb564",
+    "addedMinOffset": -28328,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "4b89db53-ad9c-4be9-9b79-69c6d2149d13",
+    "addedMinOffset": -7012,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e196e8de-1e67-4681-846c-3324c2fad5d1",
+    "addedMinOffset": -29524,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0ccd600e-f0dc-4d43-b67a-d1835e9fed36",
+    "addedMinOffset": -3859,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "1a29fb6c-f499-4e98-873a-2422c33a7f23",
+    "addedMinOffset": -49122,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "36c3d1d8-8050-4822-ab0b-bc22acbac9d8",
+    "addedMinOffset": -7204,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "66876238-2af3-415e-81db-4f45a2699ed6",
-    "addedMinOffset": -34825,
+    "gigId": "938d2754-f872-411c-82da-fde63aa7106c",
+    "addedMinOffset": -50896,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "3f1853c4-ffb8-4c84-acd4-b5c9f541ec5d",
-    "addedMinOffset": -54650,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "de4b975e-38f7-4cf1-a177-6d2ef2852877",
-    "addedMinOffset": -21318,
+    "gigId": "03615555-6a11-44ed-aedd-14b8b72b92b3",
+    "addedMinOffset": -38320,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "2e1eabd9-a76a-4f12-ae5e-eb89b1631c57",
+  "id": "3b4c4371-b48d-489b-a386-288ab9da7642",
+  "userId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "kind": "custom",
+  "title": "Festivales",
+  "description": null,
+  "items": [
+   {
+    "gigId": "9f2b7135-e733-4f47-b3d3-38f1b73381a7",
+    "addedMinOffset": -71468,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "7deebe04-078b-47e8-b5da-fa671c8bbf77",
+    "addedMinOffset": -37796,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "37ea04e8-342f-410e-8655-a59f832ed5af",
+    "addedMinOffset": -137081,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "837566a5-25a2-4cf2-989a-cd1f50a77f22",
+    "addedMinOffset": -78599,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "c4b90e42-df4c-49f6-9b70-0e8bdb6e4b4a",
+    "addedMinOffset": -24892,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e76e7fa7-6bd7-4083-a8dc-2d3931da36f4",
+    "addedMinOffset": -20095,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "18e3011b-f637-4209-8c7a-c86c26e24693",
+    "addedMinOffset": -85836,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "372dfe97-0cc2-4fc2-ab75-a47a5635aeaf",
+    "addedMinOffset": -66017,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "f3a69c57-d3cf-4b7e-9eee-0ef18bacb798",
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "de4b975e-38f7-4cf1-a177-6d2ef2852877",
-    "addedMinOffset": -37695,
+    "gigId": "70d2ab8b-93ab-4756-8631-5fdd981742a5",
+    "addedMinOffset": -45,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "94646386-6ac8-462f-a98d-0ae2e9b1bb60",
-    "addedMinOffset": -59357,
+    "gigId": "1a29fb6c-f499-4e98-873a-2422c33a7f23",
+    "addedMinOffset": -32092,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "086c554c-60d3-49e9-bf02-e86d885188db",
-    "addedMinOffset": -5683,
+    "gigId": "9638d2aa-d4f1-4cd3-b3e3-5d5fe9ec1dad",
+    "addedMinOffset": -22873,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "85828e84-c6f6-4f90-af65-e23a689b796e",
-    "addedMinOffset": -455,
+    "gigId": "f206abcd-d356-4920-9f54-556959fd9b1c",
+    "addedMinOffset": -25982,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "5a7ea373-0e7d-466c-8fa5-b6e44b09cbb7",
-    "addedMinOffset": -15717,
+    "gigId": "23966887-9eda-4351-818b-61251f59ed85",
+    "addedMinOffset": -15439,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "b5a767f3-aafe-4329-9371-864647c33736",
-    "addedMinOffset": -15881,
+    "gigId": "eac88bce-2676-4b21-ab7b-59b952575b89",
+    "addedMinOffset": -1121,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -36469,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "80238aaa-03b0-4acd-9b9d-524eea2dfc56",
-    "addedMinOffset": -2190,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "75978a6b-5907-4de9-a3bb-394ca925d805",
-    "addedMinOffset": -19105,
+    "gigId": "ab2f4101-2b98-4604-83e6-4d40b46f89b5",
+    "addedMinOffset": -15278,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "96a3723c-e286-49d8-a815-47e8db3b50ab",
-    "addedMinOffset": -59823,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "0986f7dd-5a86-4828-9ce9-85751f50fca7",
-    "addedMinOffset": -9871,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d543dde5-185d-4fb4-8e9d-5383a9c0ca92",
-    "addedMinOffset": -27291,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "14906e1c-71ad-45f6-8235-b321cc0f2342",
-    "addedMinOffset": -36631,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "f8d20e9a-b9b0-4542-9866-5c3b08fb7502",
-    "addedMinOffset": -30921,
+    "gigId": "f52e7776-43ef-4d41-b2fa-e1ae904fea0a",
+    "addedMinOffset": -10321,
     "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "51e3aa9f-fad6-4b5a-8a70-0f9d978bbc62",
+  "id": "1a43a38b-0865-4aa2-b82a-cbbcce36b507",
   "userId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
   "kind": "custom",
-  "title": "Pendientes de repetir",
-  "description": null,
+  "title": "Mis mejores directos",
+  "description": "Los conciertos que más recuerdo.",
   "items": [
    {
-    "gigId": "53772d82-2ee2-4d81-bef3-8ad374ac4fa8",
-    "addedMinOffset": -72918,
+    "gigId": "4aa09af0-1b8a-4929-a119-580dbe6f6806",
+    "addedMinOffset": -10439,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "2c126486-8c18-47f9-a2b4-0dfde5ed6899",
-    "addedMinOffset": -151165,
+    "gigId": "6885dc77-7f6b-41eb-af56-02f8e200d8a0",
+    "addedMinOffset": -117551,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "96a3723c-e286-49d8-a815-47e8db3b50ab",
-    "addedMinOffset": -124031,
+    "gigId": "491aa7b3-e1f8-4cf5-bfe0-86fd45c12fba",
+    "addedMinOffset": -18202,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "466739ed-37dc-46ac-b03b-7b518f201b50",
-    "addedMinOffset": -46685,
+    "gigId": "6b98c0d0-7445-425e-801f-c5507c75468b",
+    "addedMinOffset": -9592,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "17bd9a7b-3289-4aa5-a331-2a1bd6e947f3",
+    "addedMinOffset": -64436,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "ec08d559-54d5-4858-82ef-580ff7e36187",
+    "addedMinOffset": -38056,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "6fa800d0-f169-4d33-9e9c-f2daca0ce098",
+    "addedMinOffset": -161920,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "061f75c3-24e2-4524-a720-42b60e250d41",
+  "id": "7c2f11b6-db47-4e48-822d-ee38564d7008",
   "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "e415875c-3415-4a77-90e9-c63d8fffddc3",
-    "addedMinOffset": -35437,
+    "gigId": "1c5c444a-7779-442d-8bfc-acf052b228b8",
+    "addedMinOffset": -64258,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d50ce83a-ed0c-4125-9964-946607c6683d",
+    "addedMinOffset": -37119,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "bbaf3dc9-dc0b-4cd4-9bd8-4c7f6b5eb864",
-    "addedMinOffset": -64340,
+    "gigId": "d1dbef04-f62d-4e44-8507-f4c30a229aa1",
+    "addedMinOffset": -19160,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "08874ce2-f69a-4373-a2f4-b4ef26a78ea9",
-    "addedMinOffset": -44971,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -6264,
+    "gigId": "61a223c7-b073-4793-b7ea-c08572055ad1",
+    "addedMinOffset": -38667,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "e626a466-9bff-46d5-88d9-ee1ef7234a0e",
-    "addedMinOffset": -41234,
+    "gigId": "843268a8-0652-4347-824d-712fabd03d8d",
+    "addedMinOffset": -683,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "0b967c16-c3e1-4e1b-9fb4-7f2495dc15ea",
-    "addedMinOffset": -53319,
+    "gigId": "1b06429e-58b6-4c2f-aa84-03e92155c76e",
+    "addedMinOffset": -24161,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "1e163641-7ac2-4d5a-a814-0adcce12c81f",
-    "addedMinOffset": -29171,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "de4910f5-960e-42be-ab6b-e754ae9cfa31",
-    "addedMinOffset": -8798,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "27aa2654-c132-4d9a-a322-a52c80627625",
-    "addedMinOffset": -61765,
+    "gigId": "eac88bce-2676-4b21-ab7b-59b952575b89",
+    "addedMinOffset": -25849,
     "ticketStatus": "has_ticket"
    }
   ]
  },
  {
-  "id": "c16d4a9e-b93c-42d4-9716-16577f8548bc",
+  "id": "00372c28-7826-4685-9ee7-248e4e1546ea",
+  "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "kind": "custom",
+  "title": "Festivales",
+  "description": null,
+  "items": [
+   {
+    "gigId": "4e1192a0-c4d5-44c2-b346-20b7dc801841",
+    "addedMinOffset": -169946,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "37ea04e8-342f-410e-8655-a59f832ed5af",
+    "addedMinOffset": -127982,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "4b380787-c76c-4eaf-8647-3a703fdbe281",
+    "addedMinOffset": -141640,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "452f02b4-1174-4412-9cc7-07f08b14de13",
+  "userId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "kind": "custom",
+  "title": "Mis mejores directos",
+  "description": "Los conciertos que más recuerdo.",
+  "items": [
+   {
+    "gigId": "ae918d25-ac7f-4cf0-be73-43bcbe54276b",
+    "addedMinOffset": -119240,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "da3ac7f2-65f2-4a8d-89da-f4a8b79b5dd3",
+    "addedMinOffset": -87722,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "bf5cf84c-a139-4a6c-8adb-7ca271d48aee",
+    "addedMinOffset": -71257,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "76f82ce7-1a1c-4708-983b-9ef6fe84f0da",
+    "addedMinOffset": -42464,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "4a9eeedf-4aba-4e97-964e-92de9a06e71c",
   "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -12631,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "57e9997f-e721-49fc-a9bc-67b9e31d81f7",
-    "addedMinOffset": -20386,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "1acdc193-980d-4653-b90f-33133d913f4f",
-    "addedMinOffset": -61021,
+    "gigId": "3923e480-6e55-4e2c-b921-b0943f8dd72e",
+    "addedMinOffset": -46045,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "0986f7dd-5a86-4828-9ce9-85751f50fca7",
-    "addedMinOffset": -38971,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fb424cb8-9fa0-4168-931e-df485265eb54",
-    "addedMinOffset": -49518,
+    "gigId": "f79aaae7-fb0b-4b99-9e09-b944d4438821",
+    "addedMinOffset": -60779,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -62418,
+    "gigId": "692c695c-0b67-4385-b525-e4da8e8757f0",
+    "addedMinOffset": -14509,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "ec9980e6-2909-42d1-b154-fbb60f5f1bb8",
-    "addedMinOffset": -52266,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b87c0f1f-1f4a-4974-b7b2-ae6cd13385f9",
-    "addedMinOffset": -15133,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "48ba631c-abd8-419b-951e-18af88824354",
-    "addedMinOffset": -9539,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "18c2aef5-e1f7-44c1-a704-48af206abcdd",
-    "addedMinOffset": -10176,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "086fd45c-12fb-4acb-8481-e55cf3a9231c",
-    "addedMinOffset": -13578,
+    "gigId": "ebab82cc-10a1-4c55-8338-2e60496278e0",
+    "addedMinOffset": -21471,
     "ticketStatus": "has_ticket"
-   }
-  ]
- },
- {
-  "id": "abd8e36f-b0ee-4944-92c7-c18acbdd9485",
-  "userId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "kind": "custom",
-  "title": "Fuera de España",
-  "description": "Viajes por concierto.",
-  "items": [
+   },
    {
-    "gigId": "466739ed-37dc-46ac-b03b-7b518f201b50",
-    "addedMinOffset": -98953,
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -49281,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "e11acdc1-9398-40d6-93e9-0f33133d913f",
+    "addedMinOffset": -58699,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "b5df0159-49a3-4c70-b206-e1c2f4ec977f",
-    "addedMinOffset": -38787,
+    "gigId": "9abd67ef-8e4e-4959-a448-eaf5e0ab7b53",
+    "addedMinOffset": -25186,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "77f55140-9aef-49c8-9235-24254f6a4dab",
+    "addedMinOffset": -64411,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "e196e8de-1e67-4681-846c-3324c2fad5d1",
+    "addedMinOffset": -33166,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "5f8170f9-df3a-4fe1-ac99-aa2c1131d532",
+    "addedMinOffset": -19105,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "062a6f69-6d45-4872-b73e-34d70d4fc214",
-    "addedMinOffset": -69732,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ad01d6bb-a6c0-4223-9356-71a74dfb4459",
-    "addedMinOffset": -103262,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b2a563da-839b-4346-aea4-682631ae44e4",
-    "addedMinOffset": -40216,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "f2fb8ad6-4b54-42a8-99e2-aafb1d047067",
-    "addedMinOffset": -82696,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d543dde5-185d-4fb4-8e9d-5383a9c0ca92",
-    "addedMinOffset": -67619,
+    "gigId": "1c5c444a-7779-442d-8bfc-acf052b228b8",
+    "addedMinOffset": -15364,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "bda679b3-77e1-4549-8b8a-a02e3e52dc99",
+  "id": "9e593f8c-fb5c-410e-ba02-89f39d3db655",
   "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "36a6c94e-3500-47d4-b4c7-a8fc167df79f",
-    "addedMinOffset": -5851,
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -14531,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "46ee214e-6a15-4ed1-b163-6417ac2d5aa8",
+    "addedMinOffset": -24085,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "dc239668-879e-4da3-9101-8b61251f59ed",
-    "addedMinOffset": -60339,
+    "gigId": "d81d5696-c96a-4c0a-b2c2-26bfb39a5d49",
+    "addedMinOffset": -27822,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "de4b975e-38f7-4cf1-a177-6d2ef2852877",
-    "addedMinOffset": -46347,
+    "gigId": "6954b475-9c16-4e24-8931-cfb26c00ae06",
+    "addedMinOffset": -59878,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "de43f097-1590-4e0f-abd1-7fd1438603f3",
-    "addedMinOffset": -31584,
+    "gigId": "d1d3cfcd-fc87-4635-b359-f98b5a224e3f",
+    "addedMinOffset": -30483,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "e415875c-3415-4a77-90e9-c63d8fffddc3",
-    "addedMinOffset": -60624,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "bbf7741d-ea36-4b4d-ae55-ea671d4fb60c",
-    "addedMinOffset": -27166,
+    "gigId": "d81f7367-de57-465a-890f-e0bc23977c74",
+    "addedMinOffset": -374,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "de4910f5-960e-42be-ab6b-e754ae9cfa31",
-    "addedMinOffset": -57966,
+    "gigId": "9638d2aa-d4f1-4cd3-b3e3-5d5fe9ec1dad",
+    "addedMinOffset": -60927,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "e8a99e2d-9f06-4ce0-9b78-2c5fcd3ec303",
-    "addedMinOffset": -13131,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2cd1afee-3f28-43d2-8856-f65aa3f22bde",
-    "addedMinOffset": -51036,
-    "ticketStatus": "has_ticket"
-   }
-  ]
- },
- {
-  "id": "d2a614b1-c026-4e6f-a865-9ab4cde0a737",
-  "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "kind": "wishlist",
-  "title": "Wishlist",
-  "description": null,
-  "items": [
-   {
-    "gigId": "26c00ae0-63a0-4a85-b07a-7b47bbe2e781",
-    "addedMinOffset": -35545,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "dd024a96-df44-4cc0-a589-377ebbde4f84",
-    "addedMinOffset": -12986,
+    "gigId": "4b89db53-ad9c-4be9-9b79-69c6d2149d13",
+    "addedMinOffset": -17867,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "d53b1871-29c3-4254-9c19-adf0f19fe2c9",
-    "addedMinOffset": -23277,
+    "gigId": "4ff8adad-674a-4abb-baf2-90e82a190d09",
+    "addedMinOffset": -38870,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "49adb67e-d092-47a6-8812-b0ddbdc8c34d",
-    "addedMinOffset": -8992,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fec58af0-7ba6-4361-a6db-30ce9c2c1426",
-    "addedMinOffset": -52830,
+    "gigId": "70d2ab8b-93ab-4756-8631-5fdd981742a5",
+    "addedMinOffset": -8505,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "b7150d34-8559-49be-8d25-af8cfdd4c3cd",
-    "addedMinOffset": -11802,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "75978a6b-5907-4de9-a3bb-394ca925d805",
-    "addedMinOffset": -17196,
+    "gigId": "843268a8-0652-4347-824d-712fabd03d8d",
+    "addedMinOffset": -48285,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "14906e1c-71ad-45f6-8235-b321cc0f2342",
-    "addedMinOffset": -21489,
+    "gigId": "d50ce83a-ed0c-4125-9964-946607c6683d",
+    "addedMinOffset": -50278,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "94646386-6ac8-462f-a98d-0ae2e9b1bb60",
-    "addedMinOffset": -45665,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b87c0f1f-1f4a-4974-b7b2-ae6cd13385f9",
-    "addedMinOffset": -18050,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2c126486-8c18-47f9-a2b4-0dfde5ed6899",
-    "addedMinOffset": -11449,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "19957e5e-b650-424c-baa5-3b15a50f29d9",
-    "addedMinOffset": -27401,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ecaf2048-e5c2-4441-914c-3e22c45997ad",
-    "addedMinOffset": -4394,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -8517,
+    "gigId": "715c9ca4-0021-48bb-8c3b-bca4798440d9",
+    "addedMinOffset": -911,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "7b04fd43-9224-4b6c-a099-e593f8cfb5c1",
-  "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "kind": "custom",
-  "title": "Mis mejores directos",
-  "description": "Los conciertos que más recuerdo.",
-  "items": [
-   {
-    "gigId": "e0921b8e-a1bd-455a-ac9a-09185de78821",
-    "addedMinOffset": -96748,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "391acdcc-6ed8-40ef-801a-1d732856a189",
-    "addedMinOffset": -40070,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "fa03aae3-e7f3-4b8c-8f24-dc655434de5c",
-    "addedMinOffset": -49897,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "4901c0c1-2d72-4108-a4f5-0583db73c476",
-  "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "kind": "wishlist",
-  "title": "Wishlist",
-  "description": null,
-  "items": [
-   {
-    "gigId": "2e9f0521-c627-414d-8cc8-3afcfdd359dc",
-    "addedMinOffset": -55168,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "086fd45c-12fb-4acb-8481-e55cf3a9231c",
-    "addedMinOffset": -41049,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "2c5d68ca-6ea8-4530-a4a4-9d620369b77d",
-    "addedMinOffset": -52434,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "de4b975e-38f7-4cf1-a177-6d2ef2852877",
-    "addedMinOffset": -42185,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "e626a466-9bff-46d5-88d9-ee1ef7234a0e",
-    "addedMinOffset": -33948,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "3f1853c4-ffb8-4c84-acd4-b5c9f541ec5d",
-    "addedMinOffset": -25070,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "b5df0159-49a3-4c70-b206-e1c2f4ec977f",
-    "addedMinOffset": -20166,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "c0d6e24b-87b2-4f48-8f60-c4fea47f5a9e",
-    "addedMinOffset": -24836,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "0b967c16-c3e1-4e1b-9fb4-7f2495dc15ea",
-    "addedMinOffset": -35897,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "22e04ea5-0c14-4be8-95cc-3d726bc80c90",
-  "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "kind": "custom",
-  "title": "Fuera de España",
-  "description": "Viajes por concierto.",
-  "items": [
-   {
-    "gigId": "e00ecede-fd8c-4d34-a6c5-b86f3ca0731b",
-    "addedMinOffset": -132598,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "0821cab2-86f7-41cb-a70c-6c16c02e48b0",
-    "addedMinOffset": -104670,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "87c76cea-f264-473a-903f-dbe281d201e8",
-    "addedMinOffset": -2186,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "17528ac4-04dd-49d8-8871-1096aa32fedc",
-  "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "id": "d497ed73-bcce-4b64-b0c9-993e730cecd3",
+  "userId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
   "kind": "custom",
   "title": "Festivales",
   "description": null,
   "items": [
    {
-    "gigId": "5a7ea373-0e7d-466c-8fa5-b6e44b09cbb7",
-    "addedMinOffset": -50188,
+    "gigId": "7e87355e-d056-4ff9-89d5-af32fafa22b2",
+    "addedMinOffset": -62270,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "41921049-4a79-498c-8669-8edeec347d04",
-    "addedMinOffset": -9085,
+    "gigId": "92698da0-df7f-43ae-9faf-334a940bf470",
+    "addedMinOffset": -39525,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "b1298e28-007b-4571-a95a-985fd170c27d",
-    "addedMinOffset": -106273,
+    "gigId": "bfb80734-14bd-4fd8-ab0b-9e48948d124a",
+    "addedMinOffset": -55585,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "dc239668-879e-4da3-9101-8b61251f59ed",
-    "addedMinOffset": -137206,
+    "gigId": "3536ec6c-1255-43f0-aa22-c1cfe8e593e6",
+    "addedMinOffset": -45321,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "cd7086e9-62cb-493a-88cf-6a0fa6cfbdc7",
-    "addedMinOffset": -126729,
+    "gigId": "b3c61fe0-d323-4461-bdac-fee4afaccda2",
+    "addedMinOffset": -33611,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "6c0f034e-69aa-4535-8c61-e94af611f6fe",
-    "addedMinOffset": -104967,
+    "gigId": "e8dc0991-6e4e-49ae-80ec-edefd8cd3486",
+    "addedMinOffset": -78014,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "fbdbc0f6-6c5b-457d-91b9-9035e0b31d68",
+  "id": "cc3d726b-c80c-4900-9177-019c9875e1ce",
+  "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "kind": "wishlist",
+  "title": "Wishlist",
+  "description": null,
+  "items": [
+   {
+    "gigId": "0c4fea47-f5a9-4e32-8db1-7b9c66bed0d8",
+    "addedMinOffset": -2952,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "d03e131b-954a-4de3-837e-73c849bf0ced",
+    "addedMinOffset": -56922,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "3f983947-f071-4159-8a93-cb51c1e0625c",
+    "addedMinOffset": -23037,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "34e169c1-ace9-4fe2-83a8-c78eb0ec1d38",
+    "addedMinOffset": -51731,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "bf5cf84c-a139-4a6c-8adb-7ca271d48aee",
+    "addedMinOffset": -16761,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "488c0697-5df3-458a-8427-f5450b3c3e34",
+    "addedMinOffset": -59655,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "a170fb4d-5715-479e-856d-db2632e130c8",
+    "addedMinOffset": -28434,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "e2fae258-0139-45a4-8cec-8f1b3169d0a3",
+  "userId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "kind": "custom",
+  "title": "Para ir en grupo",
+  "description": "Planes con amigos.",
+  "items": [
+   {
+    "gigId": "b9587b96-c5bd-4e8b-bf56-9c275cac2bef",
+    "addedMinOffset": -126075,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d682f0da-b001-40be-820f-a2dac1162620",
+    "addedMinOffset": -96617,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9d3d615f-f76e-4f41-a642-173c0d345366",
+    "addedMinOffset": -107895,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "373b057c-4b5a-4af5-8bf0-f22d97bcc940",
+    "addedMinOffset": -151360,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "6bcb6dab-ef09-488b-bb3a-5ec875842cd5",
+    "addedMinOffset": -158770,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d1fd2b94-4db2-49df-97fd-9a7e54bb4ea6",
+    "addedMinOffset": -31544,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d81f7367-de57-465a-890f-e0bc23977c74",
+    "addedMinOffset": -43054,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0e0fbc98-afa2-41d1-beba-b303ab5b93fd",
+    "addedMinOffset": -162921,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "1b35e730-51d2-4bca-bda5-118c3e803fa2",
+  "userId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "kind": "wishlist",
+  "title": "Wishlist",
+  "description": null,
+  "items": [
+   {
+    "gigId": "715c9ca4-0021-48bb-8c3b-bca4798440d9",
+    "addedMinOffset": -35871,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "22a2c266-377c-49c3-a4ba-768b58c0ce92",
+    "addedMinOffset": -5315,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9d3d615f-f76e-4f41-a642-173c0d345366",
+    "addedMinOffset": -62659,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "33b4e5bb-26ab-4cee-9648-30bf7ac0dd8b",
+    "addedMinOffset": -3945,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "07137f25-9b16-41d4-952d-5d811f672883",
+    "addedMinOffset": -42523,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0c4fea47-f5a9-4e32-8db1-7b9c66bed0d8",
+    "addedMinOffset": -13654,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "36c3d1d8-8050-4822-ab0b-bc22acbac9d8",
+    "addedMinOffset": -42116,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "d1d3cfcd-fc87-4635-b359-f98b5a224e3f",
+    "addedMinOffset": -49217,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e196e8de-1e67-4681-846c-3324c2fad5d1",
+    "addedMinOffset": -48037,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "9abd67ef-8e4e-4959-a448-eaf5e0ab7b53",
+    "addedMinOffset": -28034,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "938d2754-f872-411c-82da-fde63aa7106c",
+    "addedMinOffset": -61396,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "24c592e6-6eb1-495d-8aaa-2fb89e1b5431",
+    "addedMinOffset": -48584,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "92a03bd7-6cb0-4267-82ce-d1891d1a4e36",
   "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "f8d20e9a-b9b0-4542-9866-5c3b08fb7502",
-    "addedMinOffset": -29513,
+    "gigId": "93eebeb8-30d3-484d-a90f-f07a404cbc76",
+    "addedMinOffset": -63860,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "b87c0f1f-1f4a-4974-b7b2-ae6cd13385f9",
-    "addedMinOffset": -22908,
+    "gigId": "1b06429e-58b6-4c2f-aa84-03e92155c76e",
+    "addedMinOffset": -64162,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "0d9fcdfa-2337-4d85-a551-6b60bffe617a",
-    "addedMinOffset": -16697,
+    "gigId": "12454026-33df-429d-8dc5-5108e87c8407",
+    "addedMinOffset": -30175,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "dd024a96-df44-4cc0-a589-377ebbde4f84",
-    "addedMinOffset": -22107,
+    "gigId": "51bb41e1-3d6d-4262-966b-33a0db9a6add",
+    "addedMinOffset": -12259,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "7b1f6450-88fc-4a73-9693-379f995c7e29",
-    "addedMinOffset": -60362,
+    "gigId": "9abd67ef-8e4e-4959-a448-eaf5e0ab7b53",
+    "addedMinOffset": -31596,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "938d2754-f872-411c-82da-fde63aa7106c",
+    "addedMinOffset": -53992,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "03615555-6a11-44ed-aedd-14b8b72b92b3",
+    "addedMinOffset": -28035,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "06f3bd3c-a52d-40a6-9ca1-9442e0dd60bb",
+    "addedMinOffset": -42277,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "157db781-333c-43dd-8f7f-72738db75ad7",
+    "addedMinOffset": -14710,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "0a9882c4-2f54-417c-805f-86795d66f39f",
+    "addedMinOffset": -54437,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b0542586-65c3-4b08-bb75-021794dfbf4f",
+    "addedMinOffset": -39020,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "d50ce83a-ed0c-4125-9964-946607c6683d",
+    "addedMinOffset": -3414,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "00b62883-43c4-44a7-9b6f-70db67534819",
+    "addedMinOffset": -51454,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "8379169a-48d2-46f9-b9ed-9572e08a30d3",
-  "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "kind": "custom",
-  "title": "Mis mejores directos",
-  "description": "Los conciertos que más recuerdo.",
-  "items": [
-   {
-    "gigId": "cefb3869-4617-4854-8f4f-2ae6a6ea6c89",
-    "addedMinOffset": -22652,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "bfa4fc13-8648-4c48-a41f-95e2a001dced",
-    "addedMinOffset": -47156,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "06cdb411-4f80-440a-a999-96b15bed03ee",
-    "addedMinOffset": -56504,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "ae0aaa01-209e-4daf-a0b6-c129566afc9a",
-    "addedMinOffset": -89813,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "d73df0de-4fdc-4348-a38a-4c218d18c1b3",
-    "addedMinOffset": -58409,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "0b26f250-631c-4029-a09d-5546da2c6420",
-    "addedMinOffset": -95034,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "9ae65c64-e9ac-4053-af20-9e11dfe3ed7e",
-    "addedMinOffset": -150784,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "1dc5ee7b-e851-4395-bd34-02d9f726015f",
-  "userId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "kind": "custom",
-  "title": "Fuera de España",
-  "description": "Viajes por concierto.",
-  "items": [
-   {
-    "gigId": "45f79b50-145e-4812-9e01-3e258593ad8e",
-    "addedMinOffset": -25563,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "06cdb411-4f80-440a-a999-96b15bed03ee",
-    "addedMinOffset": -41817,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "6c6b829c-d6fb-4d42-9b2f-c86c37da2a85",
-    "addedMinOffset": -66648,
-    "ticketStatus": "no_ticket"
-   }
-  ]
- },
- {
-  "id": "8e8455bd-3d78-41e8-8619-7383bdf2de37",
+  "id": "26f9e9ed-9572-4e08-a30d-3befc281082a",
   "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "5fba1ab7-50bb-4088-a019-fe9934ef3817",
-    "addedMinOffset": -12777,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "2c5d68ca-6ea8-4530-a4a4-9d620369b77d",
-    "addedMinOffset": -49846,
+    "gigId": "e82894d1-0bd0-49bb-9b6c-fa0169b933a4",
+    "addedMinOffset": -15614,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "bbaf3dc9-dc0b-4cd4-9bd8-4c7f6b5eb864",
-    "addedMinOffset": -53710,
+    "gigId": "61a223c7-b073-4793-b7ea-c08572055ad1",
+    "addedMinOffset": -53013,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "33b4e5bb-26ab-4cee-9648-30bf7ac0dd8b",
+    "addedMinOffset": -33887,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d81f7367-de57-465a-890f-e0bc23977c74",
+    "addedMinOffset": -34641,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "e196e8de-1e67-4681-846c-3324c2fad5d1",
+    "addedMinOffset": -30967,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "46ee214e-6a15-4ed1-b163-6417ac2d5aa8",
+    "addedMinOffset": -44624,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "9143ff27-09ec-4cbb-b01b-bd846ff59654",
+    "addedMinOffset": -14431,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "6cb81507-dc64-4835-9973-fd6e1c10f65f",
+    "addedMinOffset": -37712,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "2c695c0b-6738-45f5-85e4-da8e8757f096",
-    "addedMinOffset": -22692,
+    "gigId": "1a038911-93b5-4347-814a-81affcab6803",
+    "addedMinOffset": -26175,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "c0d6e24b-87b2-4f48-8f60-c4fea47f5a9e",
-    "addedMinOffset": -63525,
+    "gigId": "3f983947-f071-4159-8a93-cb51c1e0625c",
+    "addedMinOffset": -43149,
     "ticketStatus": "has_ticket"
    },
    {
-    "gigId": "87635f35-9f98-4b5a-824e-3f5a6c7eae79",
-    "addedMinOffset": -33894,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "6f78f897-98a8-479b-b3fb-f0da49fcbfbe",
-    "addedMinOffset": -14893,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "c1dad27e-8c5a-4722-b1c4-d2656058c966",
-    "addedMinOffset": -63286,
+    "gigId": "ab2f4101-2b98-4604-83e6-4d40b46f89b5",
+    "addedMinOffset": -34055,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "6f9f32c7-e9f5-462f-b29a-085658ba43be",
+  "id": "6124568e-d96e-4eb3-9d5e-151e8a684ddb",
+  "userId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "kind": "custom",
+  "title": "Festivales",
+  "description": null,
+  "items": [
+   {
+    "gigId": "d1dbef04-f62d-4e44-8507-f4c30a229aa1",
+    "addedMinOffset": -73277,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "f62f4815-a7a2-4970-95af-6e1cfc89cf7d",
+    "addedMinOffset": -16668,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "d1d3cfcd-fc87-4635-b359-f98b5a224e3f",
+    "addedMinOffset": -13003,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "b205f576-bf3b-4c48-94be-1b5d74e138ce",
+    "addedMinOffset": -40743,
+    "ticketStatus": "no_ticket"
+   }
+  ]
+ },
+ {
+  "id": "835eb622-cd60-4f33-aa1e-6df247c45436",
   "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
   "kind": "wishlist",
   "title": "Wishlist",
   "description": null,
   "items": [
    {
-    "gigId": "0986f7dd-5a86-4828-9ce9-85751f50fca7",
-    "addedMinOffset": -46581,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "de4b975e-38f7-4cf1-a177-6d2ef2852877",
-    "addedMinOffset": -22444,
+    "gigId": "f55137ed-6cac-4c63-bb40-930156c1af34",
+    "addedMinOffset": -29959,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "18c2aef5-e1f7-44c1-a704-48af206abcdd",
-    "addedMinOffset": -51728,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "e8261d07-bb6f-42a4-8d1a-a0f1ddf3a88f",
-    "addedMinOffset": -62919,
-    "ticketStatus": "has_ticket"
-   },
-   {
-    "gigId": "fec58af0-7ba6-4361-a6db-30ce9c2c1426",
-    "addedMinOffset": -55256,
+    "gigId": "4b89db53-ad9c-4be9-9b79-69c6d2149d13",
+    "addedMinOffset": -14699,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "69ecd3c4-1981-4dbb-a3ea-117c48cc3254",
-    "addedMinOffset": -17703,
+    "gigId": "84cc2602-a45d-492c-9e8a-b2c7c53da2c4",
+    "addedMinOffset": -12027,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "89dc4d3c-7f2a-41bd-b68e-0337f8a7f3d3",
+    "addedMinOffset": -58120,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "908fd594-b4a1-48d8-981b-37968d066cbd",
+    "addedMinOffset": -44358,
+    "ticketStatus": "has_ticket"
+   },
+   {
+    "gigId": "d1dbef04-f62d-4e44-8507-f4c30a229aa1",
+    "addedMinOffset": -39203,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "8b36f8e2-5dbd-4fb9-8950-dd253495c599",
+    "addedMinOffset": -38402,
+    "ticketStatus": "has_ticket"
+   }
+  ]
+ },
+ {
+  "id": "d6f03e4b-8f74-45a0-9e57-3ce06f4ae90b",
+  "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "kind": "custom",
+  "title": "Salas pequeñas",
+  "description": "Aforo reducido y mucho ruido.",
+  "items": [
+   {
+    "gigId": "b70897ab-3758-4e21-8c95-460a137ed163",
+    "addedMinOffset": -142510,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "464df9fb-df71-4461-8d08-49d4730ba139",
+    "addedMinOffset": -4404,
+    "ticketStatus": "no_ticket"
+   },
+   {
+    "gigId": "6fc99f65-d458-4837-b658-2b56cea0509f",
+    "addedMinOffset": -5985,
     "ticketStatus": "no_ticket"
    }
   ]
  },
  {
-  "id": "3d98241e-df9d-4233-a865-c39917375661",
+  "id": "64a31cbc-48e0-4d2a-bf7e-2b063ef9b6c1",
   "userId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
   "kind": "custom",
-  "title": "Pendientes de repetir",
-  "description": null,
+  "title": "Mis mejores directos",
+  "description": "Los conciertos que más recuerdo.",
   "items": [
    {
-    "gigId": "2aabd05d-7280-4b7a-8613-b76205578755",
-    "addedMinOffset": -143562,
+    "gigId": "e8dc0991-6e4e-49ae-80ec-edefd8cd3486",
+    "addedMinOffset": -42936,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "04bdea9a-8932-4cdb-8140-6a5f143c2af6",
-    "addedMinOffset": -103270,
+    "gigId": "e78d15fc-850a-4796-b9de-81bc66248146",
+    "addedMinOffset": -106581,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "949bcaa5-7219-4678-8757-34ebe172471e",
-    "addedMinOffset": -134149,
+    "gigId": "d031ae20-f89a-437b-90d2-f94becf2fb7f",
+    "addedMinOffset": -6728,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "8d4ddae8-e4af-4c4a-ac38-ee8a2aab4a28",
-    "addedMinOffset": -106462,
+    "gigId": "76212224-fb8d-4c0c-b94a-c742bf44305d",
+    "addedMinOffset": -123814,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "939e7961-a2ed-4eab-9b9a-310887ba1538",
-    "addedMinOffset": -139196,
+    "gigId": "7fc1d7c7-fe54-4679-a3fb-a49e35d79680",
+    "addedMinOffset": -99922,
     "ticketStatus": "no_ticket"
    },
    {
-    "gigId": "65bb3e37-82b3-4d63-825c-41abb06f373a",
-    "addedMinOffset": -108133,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "96a3723c-e286-49d8-a815-47e8db3b50ab",
-    "addedMinOffset": -61576,
-    "ticketStatus": "no_ticket"
-   },
-   {
-    "gigId": "88ca743f-3931-49bb-93f3-cfdcd8634b29",
-    "addedMinOffset": -40137,
+    "gigId": "6b98c0d0-7445-425e-801f-c5507c75468b",
+    "addedMinOffset": -81564,
     "ticketStatus": "no_ticket"
    }
   ]

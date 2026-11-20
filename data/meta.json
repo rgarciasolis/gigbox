@@ -4,14 +4,14 @@
  "note": "Fechas relativas a hoy: dayOffset en dias, *MinOffset en minutos respecto a \"ahora\".",
  "counts": {
   "users": 30,
-  "artists": 124,
+  "artists": 120,
   "venues": 40,
   "gigs": 300,
   "attendances": 500,
-  "gigslists": 60,
-  "tags": 139,
-  "follows": 234,
-  "artistFollows": 179,
-  "notifications": 46
+  "gigslists": 64,
+  "tags": 137,
+  "follows": 204,
+  "artistFollows": 206,
+  "notifications": 44
  }
 }
