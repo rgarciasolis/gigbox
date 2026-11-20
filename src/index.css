@@ -231,8 +231,8 @@ td {
   display: block;
   font-family: var(--font-display);
   font-weight: 800;
-  font-size: 48px;
-  line-height: 56px;
+  font-size: 40px;
+  line-height: 48px;
   overflow-wrap: break-word;
   color: var(--zinc-800);
   text-decoration: none;
@@ -322,6 +322,11 @@ td {
 }
 
 @media (min-width: 768px) {
+  .display-title {
+    font-size: 48px;
+    line-height: 56px;
+  }
+
   .home-row,
   .home-row--review {
     grid-template-columns: 312px 1fr;

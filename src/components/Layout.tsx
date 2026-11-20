@@ -58,7 +58,7 @@ function MobileMenu() {
   const hasUnread = useHasUnread()
   useEffect(() => setOpen(false), [pathname])
   return (
-    <div className="md:hidden">
+    <div className="ml-auto md:hidden">
       <button
         type="button"
         aria-label={hasUnread ? 'Menú, hay avisos nuevos' : 'Menú'}
@@ -103,9 +103,9 @@ export function Layout() {
   const width = wide ? 'max-w-[1120px]' : 'max-w-[600px]'
   return (
     <div>
-      <header className="relative h-14 border-b border-[var(--zinc-100)] bg-[var(--zinc-50)]">
+      <header className="relative h-14 md:border-b md:border-[var(--zinc-100)] md:bg-[var(--zinc-50)]">
         <div className={`mx-auto flex h-full ${width} items-center justify-between gap-3 px-4`}>
-          <NavLink to="/" end className="!text-[var(--zinc-800)] !no-underline whitespace-nowrap text-base font-bold">
+          <NavLink to="/" end className="absolute left-1/2 -translate-x-1/2 !text-[var(--zinc-800)] !no-underline whitespace-nowrap text-base font-bold md:static md:translate-x-0">
             Mis conciertos
           </NavLink>
           <nav aria-label="Principal" className="hidden items-center gap-4 md:flex">
