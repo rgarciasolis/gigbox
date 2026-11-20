@@ -26,7 +26,7 @@ Los cambios que haces en la app (Fui, notas, listas, follows...) se guardan en e
 - subir la probabilidad de error,
 - ver las pantallas con listas vacías,
 - quitar los contactos (Home en modo ciudad),
-- generar un aviso de artista de prueba (para ver subir el contador de la campana),
+- generar un aviso de artista de prueba (para ver aparecer el punto de novedades de la campana),
 - restablecer los datos.
 
 Para probar los avisos de artistas: **Perfil > Ajustes > Suscripción** y activar Plus (simulado). Los avisos están en la campana de la cabecera (`/avisos`). El radio se cambia en **Perfil > Ajustes > Avisos** (por defecto 50 km) y los artistas se siguen desde la ficha de un concierto.

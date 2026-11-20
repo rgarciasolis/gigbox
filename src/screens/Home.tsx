@@ -7,15 +7,23 @@ export function Home() {
   const feed = useHomeFeed()
   return (
     <div>
-      <div className="row" style={{ justifyContent: 'space-between' }}>
-        <h1>Home</h1>
-        <Link to="/personas">Buscar personas</Link>
+      <div className="row" style={{ justifyContent: 'flex-end' }}>
+        <Link to="/personas" className="see-all">
+          Buscar personas
+        </Link>
       </div>
       <Async query={feed}>
         {(f) =>
           f.mode === 'contacts' ? (
             <>
-              <h2>Últimos conciertos añadidos a las Wishlists de tus contactos</h2>
+              <div className="section-head">
+                <h2>Últimos conciertos añadidos a las Wishlists de tus contactos</h2>
+                {f.moreWishlistAdds && (
+                  <Link to="/actividad/wishlists" className="see-all">
+                    Ver todo
+                  </Link>
+                )}
+              </div>
               {f.wishlistAdds.length === 0 ? (
                 <Empty>Tus contactos no han añadido conciertos recientemente.</Empty>
               ) : (
@@ -34,7 +42,14 @@ export function Home() {
                   ))}
                 </GigList>
               )}
-              <h2>Últimas reseñas de tus contactos</h2>
+              <div className="section-head">
+                <h2>Últimas reseñas de tus contactos</h2>
+                {f.moreReviews && (
+                  <Link to="/actividad/resenas" className="see-all">
+                    Ver todo
+                  </Link>
+                )}
+              </div>
               {f.reviews.length === 0 ? (
                 <Empty>Tus contactos no han escrito reseñas recientemente.</Empty>
               ) : (

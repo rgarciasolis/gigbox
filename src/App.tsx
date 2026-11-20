@@ -5,6 +5,8 @@ import { Conciertos } from '@/screens/Conciertos'
 import { Ficha } from '@/screens/Ficha'
 import { Sala } from '@/screens/Sala'
 import { Wishlist } from '@/screens/Wishlist'
+import { ActividadWishlists } from '@/screens/ActividadWishlists'
+import { ActividadResenas } from '@/screens/ActividadResenas'
 import { Avisos } from '@/screens/Avisos'
 import { PerfilLayout } from '@/screens/perfil/PerfilLayout'
 import { PerfilResumen } from '@/screens/perfil/PerfilResumen'
@@ -39,6 +41,8 @@ export function App() {
         <Route path="conciertos/:id" element={<Ficha />} />
         <Route path="salas/:id" element={<Sala />} />
         <Route path="wishlist" element={<Wishlist />} />
+        <Route path="actividad/wishlists" element={<ActividadWishlists />} />
+        <Route path="actividad/resenas" element={<ActividadResenas />} />
         <Route path="avisos" element={<Avisos />} />
         <Route path="listas/:id" element={<ListaDetalle />} />
         <Route path="u/:id" element={<PerfilPublico />} />

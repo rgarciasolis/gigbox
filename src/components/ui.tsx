@@ -3,6 +3,20 @@ import { Link } from 'react-router-dom'
 import type { UseQueryResult } from '@tanstack/react-query'
 import type { GigSummary, ReviewView, User, UserSummary } from '@/domain/types'
 import { formatDate, formatRating, lineup, relativeTime } from '@/domain/format'
+
+const MONTHS = ['ENE', 'FEB', 'MAR', 'ABR', 'MAY', 'JUN', 'JUL', 'AGO', 'SEP', 'OCT', 'NOV', 'DIC']
+
+/** Cuadrado de fecha del Figma: mes / dia / ano. */
+export function DateSquare({ iso }: { iso: string }) {
+  const d = new Date(iso)
+  return (
+    <div className="date-sq" aria-label={formatDate(iso)}>
+      <span>{MONTHS[d.getMonth()]}</span>
+      <b>{d.getDate()}</b>
+      <span>{d.getFullYear()}</span>
+    </div>
+  )
+}
 import {
   useAddToWishlist,
   useFollow,
@@ -69,7 +83,7 @@ export function Avatar({ user, size = 40 }: { user: Pick<User, 'displayName'>; s
     <span
       aria-hidden
       style={{ width: size, height: size, lineHeight: `${size}px` }}
-      className="inline-block shrink-0 rounded-full bg-gray-300 text-center font-bold"
+      className="inline-block shrink-0 rounded-full bg-[var(--zinc-200)] text-center font-bold"
     >
       {user.displayName.charAt(0).toUpperCase()}
     </span>
@@ -137,7 +151,7 @@ export function GoingButton({ gig }: { gig: GigSummary }) {
   if (gig.isPast) return null
   const busy = add.isPending || remove.isPending
   return gig.inMyWishlist ? (
-    <button disabled={busy} onClick={() => remove.mutate(gig.gig.id)}>
+    <button className="primary" disabled={busy} onClick={() => remove.mutate(gig.gig.id)}>
       Quitar de Wishlist
     </button>
   ) : (
@@ -190,27 +204,31 @@ export function GigRow({
   actions?: ReactNode
   note?: ReactNode
 }) {
+  const status = [
+    s.isPast ? `Nota media ${formatRating(s.avgRating)} · ${s.attendeeCount} asistentes` : null,
+    s.attendedByMe ? 'Fui' : null,
+    s.inMyWishlist ? 'En tu Wishlist' : null,
+    s.likedByMe ? 'Like' : null,
+  ].filter(Boolean)
   return (
-    <li className="border-b border-gray-300 py-3">
-      <div>
-        <Link to={`/conciertos/${s.gig.id}`} className="font-bold">
-          {lineup(s.artists)}
-        </Link>
+    <li className="flex items-center justify-between gap-4 py-4">
+      <div className="flex items-start gap-4">
+        <DateSquare iso={s.gig.startsAt} />
+        <div className="flex flex-col gap-1">
+          <Link
+            to={`/conciertos/${s.gig.id}`}
+            className="!text-[var(--zinc-800)] text-base font-bold leading-6"
+          >
+            {lineup(s.artists)}
+          </Link>
+          <div className="muted">
+            <Link to={`/salas/${s.venue.id}`}>{s.venue.name}</Link>, {s.venue.city}
+          </div>
+          {note && <div className="muted text-[10px]">{note}</div>}
+          {status.length > 0 && <div className="muted text-[10px]">{status.join(' · ')}</div>}
+        </div>
       </div>
-      <div>
-        {formatDate(s.gig.startsAt)} · <Link to={`/salas/${s.venue.id}`}>{s.venue.name}</Link>,{' '}
-        {s.venue.city}
-      </div>
-      <div className="muted text-sm">
-        {s.isPast
-          ? `Nota media ${formatRating(s.avgRating)} · ${s.attendeeCount} asistentes`
-          : 'Próximo'}
-        {s.attendedByMe && ' · Fui'}
-        {s.inMyWishlist && ' · En tu Wishlist'}
-        {s.likedByMe && ' · Like'}
-      </div>
-      {note && <div className="text-sm">{note}</div>}
-      {actions && <div className="row mt-2">{actions}</div>}
+      {actions && <div className="row shrink-0">{actions}</div>}
     </li>
   )
 }
@@ -222,28 +240,39 @@ export function GigList({ children }: { children: ReactNode }) {
 export function ReviewCard({ r, footer }: { r: ReviewView; footer?: ReactNode }) {
   const like = useToggleReviewLike()
   return (
-    <li className="border-b border-gray-300 py-3">
-      <div>
-        <UserLink user={r.user} /> · {relativeTime(r.attendance.createdAt)}
+    <li className="flex flex-col gap-6 py-6">
+      <div className="flex items-start justify-between">
+        <div className="flex flex-col gap-1">
+          <Link
+            to={`/conciertos/${r.gig.gig.id}`}
+            className="!text-[var(--zinc-800)] text-base font-bold leading-6"
+          >
+            {lineup(r.gig.artists)}
+          </Link>
+          <div className="muted">
+            <Link to={`/salas/${r.gig.venue.id}`}>{r.gig.venue.name}</Link>, {r.gig.venue.city}
+          </div>
+          <div className="muted">
+            <UserLink user={r.user} /> · {relativeTime(r.attendance.createdAt)}
+            {r.attendance.rating !== null && ` · Nota ${formatRating(r.attendance.rating)} / 5`}
+          </div>
+        </div>
+        <DateSquare iso={r.gig.gig.startsAt} />
       </div>
-      <div>
-        <Link to={`/conciertos/${r.gig.gig.id}`} className="font-bold">
-          {lineup(r.gig.artists)}
-        </Link>{' '}
-        · {formatDate(r.gig.gig.startsAt)} · {r.gig.venue.city}
-      </div>
-      {r.attendance.rating !== null && <div>Nota: {formatRating(r.attendance.rating)} / 5</div>}
-      <p className="my-1">{r.attendance.review}</p>
-      <div className="row">
-        <button
-          aria-pressed={r.likedByMe}
-          disabled={like.isPending}
-          onClick={() => like.mutate({ attendanceId: r.attendance.id, liked: !r.likedByMe })}
-        >
-          {r.likedByMe ? 'Quitar like' : 'Like'}
-        </button>
-        <span className="muted text-sm">{r.likeCount} likes</span>
-        {footer}
+      <div className="flex flex-col gap-2">
+        <p className="m-0 text-base leading-6 text-[var(--zinc-500)]">{r.attendance.review}</p>
+        <div className="row !gap-1">
+          <button
+            aria-pressed={r.likedByMe}
+            disabled={like.isPending}
+            className="!border-0 !bg-transparent !p-0 !normal-case"
+            onClick={() => like.mutate({ attendanceId: r.attendance.id, liked: !r.likedByMe })}
+          >
+            {r.likedByMe ? '❤️' : '🤍'}
+          </button>
+          <span className="muted text-[10px]">{r.likeCount} Me gusta</span>
+          {footer}
+        </div>
       </div>
     </li>
   )
@@ -251,7 +280,7 @@ export function ReviewCard({ r, footer }: { r: ReviewView; footer?: ReactNode })
 
 export function UserRow({ s }: { s: UserSummary }) {
   return (
-    <li className="row border-b border-gray-300 py-3">
+    <li className="row py-3">
       <Avatar user={s.user} />
       <div className="grow">
         <UserLink user={s.user} />
