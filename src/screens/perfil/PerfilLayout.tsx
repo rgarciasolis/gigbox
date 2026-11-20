@@ -1,4 +1,5 @@
-import { NavLink, Outlet } from 'react-router-dom'
+import { useEffect, useRef } from 'react'
+import { NavLink, Outlet, useLocation } from 'react-router-dom'
 
 const SECTIONS = [
   { to: '/perfil', label: 'Resumen', end: true },
@@ -14,9 +15,16 @@ const SECTIONS = [
 ]
 
 export function PerfilLayout() {
+  const nav = useRef<HTMLElement>(null)
+  const { pathname } = useLocation()
+  // Deja la seccion activa a la vista cuando el menu hace scroll horizontal
+  useEffect(() => {
+    const el = nav.current?.querySelector<HTMLElement>('a.active')
+    if (el && nav.current) nav.current.scrollTo({ left: Math.max(0, el.offsetLeft - 16) })
+  }, [pathname])
   return (
     <div>
-      <nav aria-label="Secciones del perfil" className="subnav">
+      <nav ref={nav} aria-label="Secciones del perfil" className="subnav">
         {SECTIONS.map((s) => (
           <NavLink
             key={s.to}
