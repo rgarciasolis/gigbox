@@ -38,7 +38,6 @@ import type {
   Venue,
 } from '@/domain/types'
 
-const STORAGE_KEY = 'concis.mock.state.v1'
 const NOW = Date.now()
 
 const minToIso = (min: number) => new Date(NOW + min * 60_000).toISOString()
@@ -98,6 +97,11 @@ export const userById = new Map(users.map((u) => [u.id, u]))
 export const artistById = new Map(artists.map((a) => [a.id, a]))
 export const venueById = new Map(venues.map((v) => [v.id, v]))
 export const gigById = new Map(gigs.map((g) => [g.id, g]))
+
+// La clave incluye una huella de los datos del seed: si se regeneran (npm run seed, artistas nuevos...),
+// el estado guardado en el navegador referencia ids que ya no existen y rompe la app. Con otra clave se descarta solo.
+const DATA_SIG = `${gigs.length}.${artists.length}.${venues.length}.${gigs[0]?.id ?? ''}.${artists[0]?.id ?? ''}`
+const STORAGE_KEY = `concis.mock.state.v1.${[...DATA_SIG].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`
 
 // ---- Datos mutables
 export interface MockState {
