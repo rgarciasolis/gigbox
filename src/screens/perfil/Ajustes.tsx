@@ -64,7 +64,7 @@ function RadiusSetting() {
               </option>
             ))}
           </select>
-          <p className="muted text-sm">
+          <p className="muted">
             Solo se te avisa de conciertos de artistas que sigues dentro de este radio desde tu ciudad.
           </p>
           <MutationError error={set.error} />
@@ -95,7 +95,7 @@ function ProfileForm({ user }: { user: User }) {
       <input id="city" value={city} onChange={(e) => setCity(e.target.value)} />
       <label htmlFor="bio">Bio</label>
       <textarea id="bio" value={bio} onChange={(e) => setBio(e.target.value)} />
-      <button className="primary mt-2" disabled={!displayName.trim() || !city.trim() || update.isPending}>
+      <button className="mt-2" disabled={!displayName.trim() || !city.trim() || update.isPending}>
         Guardar
       </button>
       {saved && <span role="status"> Guardado.</span>}

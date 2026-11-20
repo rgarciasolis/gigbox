@@ -18,10 +18,10 @@ export function Suscripcion() {
               Plan actual: <strong>{s.plus ? 'Plus' : 'Gratuito'}</strong>
             </p>
             <p className="muted">Plus incluye los avisos de conciertos nuevos de los artistas que sigues.</p>
-            <button className="primary" disabled={set.isPending} onClick={() => set.mutate(!s.plus)}>
+            <button  disabled={set.isPending} onClick={() => set.mutate(!s.plus)}>
               {s.plus ? 'Volver al plan gratuito' : 'Activar Plus (simulado)'}
             </button>
-            <p className="muted text-sm">En el MVP no hay pagos: el botón solo simula el cambio de plan.</p>
+            <p className="muted">En el MVP no hay pagos: el botón solo simula el cambio de plan.</p>
             <MutationError error={set.error} />
           </div>
         )}

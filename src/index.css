@@ -39,11 +39,14 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Titulo de pagina: misma tipografia que los titulos del Home (.display-title) */
 h1 {
-  font-size: var(--fs-lg);
-  line-height: var(--lh-2xl);
-  font-weight: 700;
-  margin: 0 0 0.75rem;
+  font-family: var(--font-display);
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 800;
+  margin: 0 0 24px;
+  overflow-wrap: break-word;
 }
 
 h2 {
@@ -153,6 +156,30 @@ td {
 .box {
   border: 1px solid var(--zinc-200);
   padding: 0.75rem;
+  max-width: 640px;
+}
+
+/* Navegacion secundaria del perfil */
+.subnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  margin-bottom: 40px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--zinc-200);
+  font-size: var(--fs-md);
+}
+
+.subnav a {
+  color: var(--zinc-500);
+  text-transform: uppercase;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+}
+
+.subnav a.active {
+  color: var(--zinc-800);
+  text-decoration: underline;
 }
 
 .row {
@@ -268,6 +295,14 @@ td {
   row-gap: 16px;
 }
 
+/* Sin fecha (resenas dentro de la ficha): solo autor y texto */
+.home-row--nodate {
+  grid-template-areas:
+    'meta'
+    'body';
+  grid-template-columns: 1fr;
+}
+
 .home-row__date {
   grid-area: date;
 }
@@ -338,8 +373,17 @@ td {
     padding: 20px 0;
   }
 
+  .home-row--nodate {
+    grid-template-areas: 'meta body';
+  }
+
   .home-row:first-child {
     padding-top: 20px;
+  }
+
+  h1 {
+    font-size: 48px;
+    line-height: 56px;
   }
 
   .review-text {

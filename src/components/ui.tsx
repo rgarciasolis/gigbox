@@ -169,7 +169,7 @@ export function FollowButton({ userId, isFollowing }: { userId: string; isFollow
       Dejar de seguir
     </button>
   ) : (
-    <button className="primary" disabled={busy} onClick={() => follow.mutate(userId)}>
+    <button disabled={busy} onClick={() => follow.mutate(userId)}>
       Seguir
     </button>
   )
@@ -194,6 +194,17 @@ export function FollowArtistButton({ artistId }: { artistId: string }) {
 
 // ---------------------------------------------------------------- Filas y tarjetas
 
+/** Lugar del concierto: 📍 sala, ciudad. */
+export function Venue({ gig, className }: { gig: GigSummary; className?: string }) {
+  return (
+    <div className={className}>
+      <span aria-hidden>📍 </span>
+      <Link to={`/salas/${gig.venue.id}`}>{gig.venue.name}</Link>, {gig.venue.city}
+    </div>
+  )
+}
+
+/** Fila de concierto (diseno del Home): fecha y datos a la izquierda, titulo grande y sala a la derecha. */
 export function GigRow({
   s,
   actions,
@@ -210,24 +221,21 @@ export function GigRow({
     s.likedByMe ? 'Like' : null,
   ].filter(Boolean)
   return (
-    <li className="flex flex-col gap-3 py-4 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
-      <div className="flex items-start gap-4">
+    <li className="home-row">
+      <div className="home-row__date">
         <DateSquare iso={s.gig.startsAt} />
-        <div className="flex flex-col gap-1">
-          <Link
-            to={`/conciertos/${s.gig.id}`}
-            className="!text-[var(--zinc-800)] text-base font-bold leading-6"
-          >
-            {lineup(s.artists)}
-          </Link>
-          <div className="muted">
-            <Link to={`/salas/${s.venue.id}`}>{s.venue.name}</Link>, {s.venue.city}
-          </div>
-          {note && <div className="muted text-[10px]">{note}</div>}
-          {status.length > 0 && <div className="muted text-[10px]">{status.join(' · ')}</div>}
-        </div>
       </div>
-      {actions && <div className="row sm:shrink-0">{actions}</div>}
+      <div className="home-row__meta">
+        {note && <div className="muted">{note}</div>}
+        {status.length > 0 && <div className="muted">{status.join(' · ')}</div>}
+        {actions && <div className="row">{actions}</div>}
+      </div>
+      <div className="home-row__body">
+        <Link to={`/conciertos/${s.gig.id}`} className="display-title">
+          {lineup(s.artists)}
+        </Link>
+        <Venue gig={s} className="mt-2 text-base leading-6 text-[var(--zinc-500)]" />
+      </div>
     </li>
   )
 }
@@ -236,31 +244,43 @@ export function GigList({ children }: { children: ReactNode }) {
   return <ul className="m-0 list-none p-0">{children}</ul>
 }
 
-export function ReviewCard({ r, footer }: { r: ReviewView; footer?: ReactNode }) {
+/** Resena (diseno del Home). Con `hideGig` solo muestra autor y texto (p. ej. dentro de la ficha del concierto). */
+export function ReviewCard({
+  r,
+  footer,
+  hideGig,
+}: {
+  r: ReviewView
+  footer?: ReactNode
+  hideGig?: boolean
+}) {
   const like = useToggleReviewLike()
+  const rating = r.attendance.rating !== null ? `Nota ${formatRating(r.attendance.rating)} / 5` : null
   return (
-    <li className="flex flex-col gap-6 py-6">
-      <div className="flex items-start justify-between">
-        <div className="flex flex-col gap-1">
-          <Link
-            to={`/conciertos/${r.gig.gig.id}`}
-            className="!text-[var(--zinc-800)] text-base font-bold leading-6"
-          >
+    <li className={`home-row home-row--review${hideGig ? ' home-row--nodate' : ''}`}>
+      {!hideGig && (
+        <div className="home-row__date">
+          <DateSquare iso={r.gig.gig.startsAt} />
+        </div>
+      )}
+      <div className="home-row__meta">
+        <div className="text-xl leading-8">
+          <UserLink user={r.user} />
+        </div>
+        <div className="muted">
+          {relativeTime(r.attendance.createdAt)}
+          {rating && ` · ${rating}`}
+        </div>
+        {!hideGig && <Venue gig={r.gig} className="muted" />}
+      </div>
+      <div className="home-row__body">
+        {!hideGig && (
+          <Link to={`/conciertos/${r.gig.gig.id}`} className="display-title">
             {lineup(r.gig.artists)}
           </Link>
-          <div className="muted">
-            <Link to={`/salas/${r.gig.venue.id}`}>{r.gig.venue.name}</Link>, {r.gig.venue.city}
-          </div>
-          <div className="muted">
-            <UserLink user={r.user} /> · {relativeTime(r.attendance.createdAt)}
-            {r.attendance.rating !== null && ` · Nota ${formatRating(r.attendance.rating)} / 5`}
-          </div>
-        </div>
-        <DateSquare iso={r.gig.gig.startsAt} />
-      </div>
-      <div className="flex flex-col gap-2">
-        <p className="m-0 text-base leading-6 text-[var(--zinc-500)]">{r.attendance.review}</p>
-        <div className="row !gap-1">
+        )}
+        <p className={hideGig ? 'review-text !mt-0' : 'review-text'}>{r.attendance.review}</p>
+        <div className="row mt-4 !gap-2">
           <button
             aria-pressed={r.likedByMe}
             disabled={like.isPending}
@@ -269,7 +289,7 @@ export function ReviewCard({ r, footer }: { r: ReviewView; footer?: ReactNode })
           >
             {r.likedByMe ? '❤️' : '🤍'}
           </button>
-          <span className="muted text-[10px]">{r.likeCount} Me gusta</span>
+          <span className="muted">{r.likeCount} Me gusta</span>
           {footer}
         </div>
       </div>
@@ -283,7 +303,7 @@ export function UserRow({ s }: { s: UserSummary }) {
       <Avatar user={s.user} />
       <div className="grow">
         <UserLink user={s.user} />
-        <div className="muted text-sm">
+        <div className="muted">
           @{s.user.username} · {s.user.city} · {s.concertsTotal} conciertos
         </div>
       </div>

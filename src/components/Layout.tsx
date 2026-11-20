@@ -95,12 +95,10 @@ function MobileMenu() {
   )
 }
 
-// Pantallas ya rediseñadas segun Figma: columna ancha (1120 px). El resto sigue a 600 px.
-const WIDE = (path: string) => path === '/' || path.startsWith('/actividad/')
+// Columna ancha (1120 px) en todas las pantallas, como el artboard del Home.
 
 export function Layout() {
-  const wide = WIDE(useLocation().pathname)
-  const width = wide ? 'max-w-[1120px]' : 'max-w-[600px]'
+  const width = 'max-w-[1120px]'
   return (
     <div>
       <header className="relative h-14 md:border-b md:border-[var(--zinc-100)] md:bg-[var(--zinc-50)]">

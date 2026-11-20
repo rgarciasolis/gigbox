@@ -36,7 +36,7 @@ export function Listas() {
         <input id="title" value={title} onChange={(e) => setTitle(e.target.value)} placeholder="Título" />
         <label htmlFor="desc">Descripción (opcional)</label>
         <input id="desc" value={description} onChange={(e) => setDescription(e.target.value)} />
-        <button className="primary mt-2" disabled={!title.trim() || create.isPending}>
+        <button className="mt-2" disabled={!title.trim() || create.isPending}>
           Crear lista
         </button>
         <MutationError error={create.error} />
@@ -52,7 +52,7 @@ export function Listas() {
                     <div className="row">
                       <input value={editTitle} onChange={(e) => setEditTitle(e.target.value)} />
                       <button
-                        className="primary"
+                        
                         disabled={!editTitle.trim() || update.isPending}
                         onClick={() =>
                           update.mutate({ id: l.id, title: editTitle.trim() }, { onSuccess: () => setEditing(null) })
@@ -68,7 +68,7 @@ export function Listas() {
                         {l.title}
                       </Link>{' '}
                       <span className="muted">({l.items.length} conciertos)</span>
-                      {l.description && <div className="muted text-sm">{l.description}</div>}
+                      {l.description && <div className="muted">{l.description}</div>}
                       <div className="row mt-2">
                         <button
                           onClick={() => {

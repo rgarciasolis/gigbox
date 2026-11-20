@@ -68,7 +68,7 @@ export function Conciertos() {
           }}
         />
         {debounced.trim() && !get('artistId') && suggestions.data && suggestions.data.length > 0 && (
-          <ul className="m-0 list-none p-0 text-sm">
+          <ul className="m-0 list-none p-0">
             {suggestions.data.map((a) => (
               <li key={a.id}>
                 <button

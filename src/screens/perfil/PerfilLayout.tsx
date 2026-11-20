@@ -16,19 +16,19 @@ const SECTIONS = [
 export function PerfilLayout() {
   return (
     <div>
-      <nav aria-label="Secciones del perfil" className="row border-b border-gray-300 pb-2">
+      <nav aria-label="Secciones del perfil" className="subnav">
         {SECTIONS.map((s) => (
           <NavLink
             key={s.to}
             to={s.to}
             end={s.end ?? false}
-            className={({ isActive }) => (isActive ? 'font-bold underline' : '')}
+            className={({ isActive }) => (isActive ? 'active' : '')}
           >
             {s.label}
           </NavLink>
         ))}
       </nav>
-      <div className="mt-4">
+      <div>
         <Outlet />
       </div>
     </div>
