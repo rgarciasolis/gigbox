@@ -18,7 +18,7 @@ export function Sala() {
           </p>
           <h1>{venue.name}</h1>
           <p>
-            {venue.address}, {venue.city} ({venue.country})
+            {venue.address ? `${venue.address}, ` : ''}{venue.city} ({venue.country})
           </p>
 
           <h2>Próximos conciertos</h2>

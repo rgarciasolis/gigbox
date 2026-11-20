@@ -39,7 +39,7 @@ export function Ficha() {
           <p>
             {formatDateTime(d.gig.startsAt)}
             <br />
-            <Link to={`/salas/${d.venue.id}`}>{d.venue.name}</Link>, {d.venue.address}, {d.venue.city} (
+            <Link to={`/salas/${d.venue.id}`}>{d.venue.name}</Link>, {d.venue.address ? `${d.venue.address}, ` : ''}{d.venue.city} (
             {d.venue.country})
           </p>
           <div
@@ -64,7 +64,7 @@ export function Ficha() {
             {d.artists.map((a) => (
               <li key={a.id} className="row border-b border-gray-300 py-2">
                 <span className="grow">
-                  {a.name} <span className="muted">· {a.genre}</span>
+                  {a.name} {a.genre && <span className="muted">· {a.genre}</span>}
                 </span>
                 <FollowArtistButton artistId={a.id} />
               </li>

@@ -1,362 +1,2414 @@
 [
  {
-  "id": "709377c0-a034-4b41-81aa-135d7a6b8c6c",
-  "name": "Sala Candil",
-  "address": "Calle del Carmen 31",
-  "city": "Madrid",
-  "country": "España",
-  "lat": 40.42188,
-  "lng": -3.719
- },
- {
-  "id": "04964e5a-0c09-403b-beec-4cf645581533",
-  "name": "Auditorio Delta",
-  "address": "Calle Real 10",
-  "city": "Madrid",
-  "country": "España",
-  "lat": 40.43471,
-  "lng": -3.70722
- },
- {
-  "id": "59ad9e71-ef9d-4c6e-80f2-61d6abf9a0d9",
-  "name": "Auditorio Vereda",
-  "address": "Calle del Carmen 66",
-  "city": "Madrid",
-  "country": "España",
-  "lat": 40.42937,
-  "lng": -3.69614
- },
- {
-  "id": "d01384ea-1e76-43ee-8e62-1c337f17bbf8",
-  "name": "Café Mercurio",
-  "address": "Calle del Puerto 54",
-  "city": "Madrid",
-  "country": "España",
-  "lat": 40.43541,
-  "lng": -3.69703
- },
- {
-  "id": "28e4a49d-9f59-433d-a1dc-edcc497cd6e4",
-  "name": "Fábrica Marea",
-  "address": "Calle de San Roque 35",
-  "city": "Madrid",
-  "country": "España",
-  "lat": 40.41123,
-  "lng": -3.71657
- },
- {
-  "id": "a5ce09f6-a030-4656-a2d7-7c414484bf82",
-  "name": "Auditorio Panorama",
-  "address": "Calle de la Estación 2",
+  "id": "916fb644-6755-45da-ba5b-22b09f9ac6dd",
+  "name": "Aclam Club",
+  "address": "Consell de Cent, 201 (local)",
   "city": "Barcelona",
   "country": "España",
-  "lat": 41.39842,
-  "lng": 2.17931
+  "lat": 41.38445,
+  "lng": 2.15665
  },
  {
-  "id": "5ad24f2b-4e8b-433e-a52b-7911b231b3bd",
-  "name": "Sala Órbita",
-  "address": "Calle Real 57",
+  "id": "de3479c2-5d56-49f5-98b5-a21c2d0c069d",
+  "name": "Almo2bar",
+  "address": "Bruniquer 59-61",
   "city": "Barcelona",
   "country": "España",
-  "lat": 41.37785,
-  "lng": 2.15819
+  "lat": 41.40562,
+  "lng": 2.16212
  },
  {
-  "id": "3f8d0d5c-c14b-4b29-8211-5b64c3385a5d",
-  "name": "Sala Solsticio",
-  "address": "Calle Mayor 45",
+  "id": "1d19f155-27b8-4030-8dc4-7f91d2e3aff8",
+  "name": "Antigua Fàbrica Estrella Damm",
+  "address": "Carrer del Rosselló 515",
   "city": "Barcelona",
   "country": "España",
-  "lat": 41.37029,
-  "lng": 2.15248
+  "lat": 41.40943,
+  "lng": 2.17886
  },
  {
-  "id": "26725de4-d0c8-4c89-867b-3486d036f1f1",
-  "name": "Café Atlántico",
-  "address": "Calle del Río 31",
+  "id": "36e3735f-b92c-4ab6-879e-9d3a7635e1b4",
+  "name": "Arena Experience",
+  "address": "Rda. de Sant Pere, 21",
   "city": "Barcelona",
   "country": "España",
-  "lat": 41.38305,
-  "lng": 2.16887
+  "lat": 41.38962,
+  "lng": 2.17396
  },
  {
-  "id": "bc1f1c23-8d59-4c62-8e56-87f3f88d01d8",
-  "name": "Fábrica Brasa",
-  "address": "Calle del Carmen 5",
+  "id": "c6231f8e-7af4-4927-9d18-6d606086eb80",
+  "name": "Arts Santa Mònica",
+  "address": "La Rambla, 7",
   "city": "Barcelona",
   "country": "España",
-  "lat": 41.40365,
-  "lng": 2.17868
+  "lat": 41.37743,
+  "lng": 2.1759
  },
  {
-  "id": "a074dc57-189f-448d-aa9a-2f4211b9c4b7",
-  "name": "Auditorio Cobre",
-  "address": "Calle del Río 58",
+  "id": "4aff09cf-511c-497f-bc42-7dca04ba5593",
+  "name": "Asociación Freedonia",
+  "address": "Lleialtat 6",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37736,
+  "lng": 2.16694
+ },
+ {
+  "id": "8cf74d45-4d1b-43db-936a-f22f31700a49",
+  "name": "Atlantic Sound BCN",
+  "address": "Carrer del Plom, 1, Sants-Montjuïc",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.35173,
+  "lng": 2.13538
+ },
+ {
+  "id": "26f9afde-e637-4b54-b9dc-4705ac9c3dda",
+  "name": "Bar Ceferino",
+  "address": "Pamplona 88",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39701,
+  "lng": 2.19112
+ },
+ {
+  "id": "fb67f3d4-c998-4976-921d-445dedf65605",
+  "name": "Barcelona",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39605,
+  "lng": 2.15474
+ },
+ {
+  "id": "32fe15f6-cbf2-4b72-bd00-5df3bd610d8a",
+  "name": "Cafè Del Teatre De L'escorxador De Lleida",
+  "address": "Carrer de Roca Labrador, 2, bis, Lleida",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.61372,
+  "lng": 0.61532
+ },
+ {
+  "id": "31dbb185-be6d-433e-beca-b2ef4c1f7f4a",
+  "name": "Can Balmes",
+  "address": "",
+  "city": "Santa Maria de Palautordera",
+  "country": "España",
+  "lat": 41.6981,
+  "lng": 2.45186
+ },
+ {
+  "id": "ae0aaa01-209e-4daf-a0b6-c129566afc9a",
+  "name": "Can Luna",
+  "address": "Ctra. Nova, 28, 08530 La Garriga, Barcelona",
+  "city": "La Garriga",
+  "country": "España",
+  "lat": 41.68622,
+  "lng": 2.2835
+ },
+ {
+  "id": "de7d6ec9-ab2c-44b8-ab1f-409bf28d3cc6",
+  "name": "Casa Montjuïc",
+  "address": "65 Carrer De Vila I Vilà",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37387,
+  "lng": 2.16966
+ },
+ {
+  "id": "07e55db8-8970-4af6-b905-6b8c27bbc41e",
+  "name": "Casa Popular Boira Baixa",
+  "address": "",
+  "city": "Manlleu",
+  "country": "España",
+  "lat": 42.00578,
+  "lng": 2.27964
+ },
+ {
+  "id": "806b616a-d016-47fb-b02a-544f74fe87ad",
+  "name": "Casino Barcelona",
+  "address": "Calle Marina, 19-21",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38736,
+  "lng": 2.19639
+ },
+ {
+  "id": "d80c984a-7257-496b-be42-7849dade2de7",
+  "name": "Casino de l'Aliança del Poblenou",
+  "address": "Rambla del Poblenou 42",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3998,
+  "lng": 2.20317
+ },
+ {
+  "id": "8669879d-df0a-498b-8405-972ec6324131",
+  "name": "City Hall",
+  "address": "Rambla de Catalunya, 4",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38773,
+  "lng": 2.16831
+ },
+ {
+  "id": "65284753-7f06-4983-843b-007401f19fe6",
+  "name": "Club P62",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38237,
+  "lng": 2.14454
+ },
+ {
+  "id": "02e7ff2b-fdc3-4eac-ad36-c4d1eb53e0d2",
+  "name": "Club Sauvage",
+  "address": "Pl. Reial, 7, Ciutat Vella,",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37962,
+  "lng": 2.17617
+ },
+ {
+  "id": "776885dc-777f-46b1-bb8f-5602f8e200d8",
+  "name": "Dilla",
+  "address": "Gran Via de les Corts Catalanes, 498, Eixample, 08015 Barcelona, Spain",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38067,
+  "lng": 2.15728
+ },
+ {
+  "id": "a0bdf7a5-14ed-42fa-af1a-48b0237dd718",
+  "name": "Dr Flow",
+  "address": "Carrer dels Vigatans, 8",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38434,
+  "lng": 2.18006
+ },
+ {
+  "id": "e3f63a69-0953-4772-b822-ee2d81cef38a",
+  "name": "El Centre - Ateneu democràtic i progressista",
+  "address": "C/Corredossos de baix, 7",
+  "city": "Caldes de Montbui",
+  "country": "España",
+  "lat": 41.63327,
+  "lng": 2.1633
+ },
+ {
+  "id": "d374ac4f-a8d5-47b9-a602-16440d62e1fc",
+  "name": "El Medi (Pub Mediterráneo)",
+  "address": "C/ Balmes, 129",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3931,
+  "lng": 2.15737
+ },
+ {
+  "id": "4f7fe563-bc70-49b8-8a00-4cf23534e7f6",
+  "name": "El Pumarejo",
+  "address": "Av. del Carrilet, 187, Nau 4",
+  "city": "L'Hospitalet de Llobregat",
+  "country": "España",
+  "lat": 41.36122,
+  "lng": 2.11356
+ },
+ {
+  "id": "a9f92698-da0d-4f7f-8ae4-faf334a940bf",
+  "name": "El Teatre més Petit del Món",
+  "address": "Carrer Encarnació 25",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.40587,
+  "lng": 2.15897
+ },
+ {
+  "id": "470e0289-12d7-4ed6-a2ee-8e29107ba642",
+  "name": "Espai Salvadiscos",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39677,
+  "lng": 2.15294
+ },
+ {
+  "id": "708a0914-cb00-4ae5-b299-1d420a6e3d8c",
+  "name": "Fira Gran Via",
+  "address": "Av. Botánica, 62",
+  "city": "L'Hospitalet de Llobregat",
+  "country": "España",
+  "lat": 41.35349,
+  "lng": 2.13245
+ },
+ {
+  "id": "19731e8f-bdd3-4752-b755-23ff155027fd",
+  "name": "Foment Vilanoví",
+  "address": "Santa Madrona, 1",
+  "city": "Vilanova i la Geltrú",
+  "country": "España",
+  "lat": 41.22652,
+  "lng": 1.72597
+ },
+ {
+  "id": "43a362b3-5676-4296-af6b-3d5a34df2c9e",
+  "name": "Granollers",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38381,
+  "lng": 2.11778
+ },
+ {
+  "id": "89377621-2224-4fb8-bc0c-e94ac742bf44",
+  "name": "Hard Rock Barcelona",
+  "address": "21 Plaça De Catalunya",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38575,
+  "lng": 2.17092
+ },
+ {
+  "id": "305df2d2-4ba8-459d-8a3f-18d337083af0",
+  "name": "Heliogàbal",
+  "address": "C/ Ramón y Cajal, 80 - Metro L4 Joanic",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.40235,
+  "lng": 2.15608
+ },
+ {
+  "id": "e95fcbb7-3e92-4f01-b800-ecb1c602061b",
+  "name": "INPUT High Fidelity Dance Club",
+  "address": "Avenida de Francesc Ferrer i Guàrdia, 13-27",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36885,
+  "lng": 2.14686
+ },
+ {
+  "id": "bd302782-60be-4281-ab20-438e189f88f0",
+  "name": "Institut Français",
+  "address": "Carrer de Moià 8",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39532,
+  "lng": 2.1519
+ },
+ {
+  "id": "86d2a868-614a-4502-a754-94bd0ddb78c7",
+  "name": "Jamboree Dance Club",
+  "address": "Plaça Reial, 17, Ciutat Vella",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37993,
+  "lng": 2.17598
+ },
+ {
+  "id": "8f7c6d34-4df6-40e7-bfbe-dd3aa82f4ead",
+  "name": "Jamboree Jazz Club",
+  "address": "Plaça Reial, 17",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37969,
+  "lng": 2.17522
+ },
+ {
+  "id": "b0d2b6e1-011d-4270-bd42-9b22932caf1f",
+  "name": "L'Auditori de Barcelona",
+  "address": "Calle Lepanto, 150",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.44779,
+  "lng": 2.22172
+ },
+ {
+  "id": "53382508-e7ef-4fbd-b736-b0c28ad70e17",
+  "name": "La [2] de Apolo",
+  "address": "113 Carrer Nou de la Rambla",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3743,
+  "lng": 2.16968
+ },
+ {
+  "id": "e0d1b582-266b-4e23-aaff-0fbb6a18dd39",
+  "name": "La Bastida",
+  "address": "Creueta 31",
+  "city": "Igualada",
+  "country": "España",
+  "lat": 41.57802,
+  "lng": 1.61063
+ },
+ {
+  "id": "397e0724-cfcb-47a9-8543-a59d4a53a26e",
+  "name": "La Bàscula",
+  "address": "Carrer Foc, 128",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.35913,
+  "lng": 2.14462
+ },
+ {
+  "id": "249323f6-2f48-415a-9a29-7045af6e1cfc",
+  "name": "La continental",
+  "address": "Carrer de la Providència, 30, Gràcia",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.40624,
+  "lng": 2.1564
+ },
+ {
+  "id": "89cf7d10-aaff-44b1-a5d9-88051693cc9f",
+  "name": "La Deskomunal",
+  "address": "Tenor Massini, 5",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37584,
+  "lng": 2.13233
+ },
+ {
+  "id": "1123d7bd-4e81-4cc4-972e-0973478e40ec",
+  "name": "La Nau",
+  "address": "Carrer d'Àlaba 30",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38309,
+  "lng": 2.13698
+ },
+ {
+  "id": "c3388197-e61e-486e-a713-e2a4aab35db3",
+  "name": "La Paloma",
+  "address": "Carrer del Tigre 27",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38239,
+  "lng": 2.16424
+ },
+ {
+  "id": "ba421a76-f596-4b5d-943a-d8285865dd21",
+  "name": "La Terrrazza",
+  "address": "Avenida Francesc Ferrer I Guardia, s/n, Poble Espanyol",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36881,
+  "lng": 2.14827
+ },
+ {
+  "id": "7e0d314c-e236-4a1a-8001-6b10c1fd9713",
+  "name": "La Terrrazza Barcelona",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38357,
+  "lng": 2.15462
+ },
+ {
+  "id": "63d9499b-78db-499c-be51-f9fd64dc7b7e",
+  "name": "Lamaro Hotel",
+  "address": "Av. de la Catedral, 7, Ciutat Vella",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38507,
+  "lng": 2.17573
+ },
+ {
+  "id": "dfc85a4c-5057-462a-80ef-14c0781a5922",
+  "name": "LAUT",
+  "address": "C/Vila i Vilà, 61 bis",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37374,
+  "lng": 2.17
+ },
+ {
+  "id": "7219cb6e-1b85-4dff-9f75-a3a2a9657772",
+  "name": "Luz de Gas",
+  "address": "Muntaner, 246",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39463,
+  "lng": 2.14906
+ },
+ {
+  "id": "f95f0445-4428-4619-a793-a354872adf7e",
+  "name": "Magnifico Club",
+  "address": "Passeig de Picasso, 40",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38593,
+  "lng": 2.18492
+ },
+ {
+  "id": "d882d11d-5386-4c6d-9b06-6ebb0c4b3d7b",
+  "name": "Manso Espacio",
+  "address": "43 Carrer de Milà i Fontanals",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.40188,
+  "lng": 2.16145
+ },
+ {
+  "id": "83f422d8-a397-43f6-9765-6778545daca5",
+  "name": "Marula Café",
+  "address": "Calle Escudellers 49",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38013,
+  "lng": 2.17688
+ },
+ {
+  "id": "0db00793-2bd9-485f-af4e-4bf80d625c94",
+  "name": "New Fizz",
+  "address": "Calle Balmes 83",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39099,
+  "lng": 2.16023
+ },
+ {
+  "id": "838624cf-73bc-46a7-b33b-25ee0d76c0a9",
+  "name": "Oasys",
+  "address": "Passatge de Sant Antoni Abat, 2",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37957,
+  "lng": 2.16117
+ },
+ {
+  "id": "5afb91a3-6498-43df-a018-10278ae9d345",
+  "name": "Opium Barcelona",
+  "address": "34 Passeig Marítim De La Barceloneta",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38534,
+  "lng": 2.19676
+ },
+ {
+  "id": "e6bba14b-199f-4894-b620-79de1c56936f",
+  "name": "OUTPUT",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39293,
+  "lng": 2.15594
+ },
+ {
+  "id": "c2549be1-3b9e-4d1a-a6be-137fbe1f767c",
+  "name": "Palau Sant Jordi",
+  "address": "Passeig Olímpic 5",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3625,
+  "lng": 2.15257
+ },
+ {
+  "id": "b6a4cb9e-f0a7-48d2-b4ac-8b41ad122f67",
+  "name": "Paral·lel 62",
+  "address": "Avda. del Paral·el, 62",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3752,
+  "lng": 2.1696
+ },
+ {
+  "id": "6f540140-c49f-4d25-8587-797d8fa17a93",
+  "name": "Plaza de Toros la Monumental",
+  "address": "Gran Via de les Corts Catalanes, 749, L'Eixample",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39978,
+  "lng": 2.18163
+ },
+ {
+  "id": "ffa21cc6-1dd1-45d3-9c9b-f549b15cf1c0",
+  "name": "Port Olimipic, Moll Vell",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38849,
+  "lng": 2.13986
+ },
+ {
+  "id": "9ed21e23-12cf-4409-8d0a-ada7e7a4340c",
+  "name": "Razzmatazz",
+  "address": "122 Carrer dels Almogàvers",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39773,
+  "lng": 2.19111
+ },
+ {
+  "id": "84099438-7e75-410a-8f69-57c10b43232f",
+  "name": "Razzmatazz 2",
+  "address": "88 Carrer de Pamplona",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39703,
+  "lng": 2.19151
+ },
+ {
+  "id": "6611dcfe-748f-497a-bf0b-9318ee1a6c4b",
+  "name": "Razzmatazz 3",
+  "address": "Pamplona 88",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39703,
+  "lng": 2.19151
+ },
+ {
+  "id": "353e0c19-5806-475d-bcc8-faaef768070a",
+  "name": "Safari Disco Club",
+  "address": "Carrer de Tarragona, 141",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37806,
+  "lng": 2.14501
+ },
+ {
+  "id": "733fb325-bf9b-4ea3-b0b9-9547360a1f9c",
+  "name": "Sala 2, Jamboree",
+  "address": "Plaza Reial, 17",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37969,
+  "lng": 2.17522
+ },
+ {
+  "id": "29607ad3-a619-4a17-b58e-15ea3b10f5a0",
+  "name": "Sala Apolo",
+  "address": "Carrer Nou de la Rambla, 113",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3743,
+  "lng": 2.16968
+ },
+ {
+  "id": "06717083-8ad9-4076-8a4f-870ca8850c3a",
+  "name": "Sala Bikini",
+  "address": "Av.Diagonal,547 - L'Illa",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39051,
+  "lng": 2.13652
+ },
+ {
+  "id": "e3d1d564-fd26-413d-92e7-14deb825cda3",
+  "name": "Sala Bóveda",
+  "address": "Carrer de Roc Boronat 33",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39833,
+  "lng": 2.19995
+ },
+ {
+  "id": "44e24b34-3e35-4a07-93a5-90312861df44",
+  "name": "Sala Input",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36361,
+  "lng": 2.15239
+ },
+ {
+  "id": "4d1f2c65-56c6-4d31-8f53-576f1f0a856b",
+  "name": "Sala Paral·lel 62",
+  "address": "Avinguda del Paral·lel, 62, Ciutat Vella",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3752,
+  "lng": 2.16959
+ },
+ {
+  "id": "e3acd258-9e51-4d6a-8f24-7e45fd60de68",
+  "name": "Sala Radikal",
+  "address": "Francesc de Quevedo 11",
+  "city": "Granollers",
+  "country": "España",
+  "lat": 41.60434,
+  "lng": 2.29186
+ },
+ {
+  "id": "f1e256f3-8208-42df-b6f7-f8ebb503b6bc",
+  "name": "Sala Taro",
+  "address": "Carrer de Rossend Arús, 9",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37369,
+  "lng": 2.1374
+ },
+ {
+  "id": "de373043-1afd-4ff4-8de9-239d1930d78d",
+  "name": "Sala Upload",
+  "address": "Av. Francesc Ferrer I Guàrdia,  13, (Poble Espanyol), Barcelona",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36881,
+  "lng": 2.14827
+ },
+ {
+  "id": "d680528f-8c18-4aa1-8112-621a144bdca0",
+  "name": "Sala Upload Barcelona",
+  "address": "Avinguda de Francesc Ferrer i Guàrdia, 13, Barcelona",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36881,
+  "lng": 2.14827
+ },
+ {
+  "id": "e139d5a6-ac00-4273-892c-837236d58a26",
+  "name": "Sala Vivaldi",
+  "address": "Carrer de Llançà, 5",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37547,
+  "lng": 2.1516
+ },
+ {
+  "id": "d4a7df16-9ecc-4743-94e6-fede0321a69e",
+  "name": "Sala Vol",
+  "address": "Carrer de Sancho de Ávila, 78, Sant Martí",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39943,
+  "lng": 2.19116
+ },
+ {
+  "id": "8507cde6-79dc-49d5-a65d-2dff1e03e607",
+  "name": "Salamandra",
+  "address": "Av. Carrilet 235",
+  "city": "L'Hospitalet de Llobregat",
+  "country": "España",
+  "lat": 41.36017,
+  "lng": 2.10938
+ },
+ {
+  "id": "08843676-5b94-4e39-9b3d-70f60e07d8d7",
+  "name": "Sant Jordi Club",
+  "address": "5-7 Passeig Olímpic",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36336,
+  "lng": 2.15257
+ },
+ {
+  "id": "12d4bd36-e8ba-40cf-a0be-0c11308474e6",
+  "name": "Secret Venue",
+  "address": "",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38777,
+  "lng": 2.14142
+ },
+ {
+  "id": "d968d4dd-ae8e-44af-b4a9-c38ee8a2aab4",
+  "name": "Sidecar",
+  "address": "Plaça Reial, 7",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38054,
+  "lng": 2.17517
+ },
+ {
+  "id": "a2866fdc-f3f9-4299-9928-1170c5c6fb69",
+  "name": "Sidecar Club",
+  "address": "Plaça Reial, 7",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37962,
+  "lng": 2.17617
+ },
+ {
+  "id": "04f2b120-0c4f-4dd4-a362-c34a2630420c",
+  "name": "Sinestesia",
+  "address": "Carrer de Santa Caterina, 52-54",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37961,
+  "lng": 2.13618
+ },
+ {
+  "id": "b214ebe9-0910-439f-80e9-aeedf3939111",
+  "name": "Slow Barcelona",
+  "address": "Paris 186",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39358,
+  "lng": 2.15336
+ },
+ {
+  "id": "9aac42a6-4646-4b84-86d3-98e12949cd79",
+  "name": "Slow Club",
+  "address": "c. Paris 186",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39358,
+  "lng": 2.15336
+ },
+ {
+  "id": "c334a115-d1b2-40ba-8ded-a8c3722cdedc",
+  "name": "Teatre Apolo",
+  "address": "Av. del Paraŀlel, 59",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37472,
+  "lng": 2.17046
+ },
+ {
+  "id": "3211b9dc-2fb4-4bae-a192-6af3255627b4",
+  "name": "Teatre Coliseum",
+  "address": "Gran Via de les Corts Catalanes 595",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38816,
+  "lng": 2.16617
+ },
+ {
+  "id": "1abfd3d0-c5ff-4080-9642-c3df2fa48480",
+  "name": "Teatre de la Societat Recreativa de Santa Coloma de Cervelló",
+  "address": "Plaça del Pi Tallat, 1",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36802,
+  "lng": 2.01744
+ },
+ {
+  "id": "73f41b29-97d3-449e-8333-8afa7f727910",
+  "name": "Teatro Arteria Paralel",
+  "address": "Avenida Paralel, 62",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37515,
+  "lng": 2.16956
+ },
+ {
+  "id": "e79fddbd-d5ba-45d2-bb0e-bad99c70a13b",
+  "name": "The BCN Studio",
+  "address": "Carrer d'Elkano, 26, 0 1A, Sants-Montjuïc, 08004 Barcelona",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3729,
+  "lng": 2.1643
+ },
+ {
+  "id": "27356406-95a3-4958-8d07-239b74bf6a18",
+  "name": "The Club M7",
+  "address": "Calle Mexic 7",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37305,
+  "lng": 2.14831
+ },
+ {
+  "id": "a309f218-7b04-40fd-ae15-491e40bbaf11",
+  "name": "Time Out Market Barcelona",
+  "address": "Maremagnum",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37465,
+  "lng": 2.18237
+ },
+ {
+  "id": "6379a23c-8e44-4478-bf3b-1344e0439727",
+  "name": "Upload",
+  "address": "Plaça Major, 9 Poble Espanyol",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.36946,
+  "lng": 2.14703
+ },
+ {
+  "id": "7b5213be-ce0f-40fd-a99b-1f4a5638236a",
+  "name": "Velvet Room",
+  "address": "Carrer de l'Aviació, 5",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38729,
+  "lng": 2.13537
+ },
+ {
+  "id": "a76c4e20-82d0-41ae-b0b8-cbb4ac4397a3",
+  "name": "Vol",
+  "address": "Calle Sancho de Ávila, 78",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39944,
+  "lng": 2.19117
+ },
+ {
+  "id": "4d65da4e-06c9-44a2-819c-56e083c93af0",
+  "name": "Wolf Barcelona",
+  "address": "Carrer dels Almogàvers, 88, Sant Martí",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.3959,
+  "lng": 2.18869
+ },
+ {
+  "id": "5e88e40f-8bb1-4a1f-b398-9df0b9be40df",
+  "name": "Bilbao",
+  "address": "",
   "city": "Bilbao",
   "country": "España",
-  "lat": 43.27469,
-  "lng": -2.94194
+  "lat": 43.25,
+  "lng": -2.91914
  },
  {
-  "id": "5bb2a711-3fac-4fce-930e-045f67232398",
-  "name": "Nave Ágora",
-  "address": "Calle Nueva 12",
+  "id": "1dd6b34b-60aa-479d-b02e-627941bf8016",
+  "name": "Bilbao Arena Miribilla",
+  "address": "Parque de Miribilla",
   "city": "Bilbao",
   "country": "España",
-  "lat": 43.27306,
-  "lng": -2.95192
+  "lat": 43.25038,
+  "lng": -2.9305
  },
  {
-  "id": "0ef346fb-9da1-4719-8af0-7efc89b360a2",
-  "name": "Auditorio Boreal",
-  "address": "Calle Real 15",
+  "id": "2b4f860d-ec30-4962-a971-296684b336f6",
+  "name": "Bizkaia Arena, BEC",
+  "address": "AZKUE KALEA, 1",
+  "city": "Barakaldo",
+  "country": "España",
+  "lat": 43.28778,
+  "lng": -2.99037
+ },
+ {
+  "id": "c41700f9-7279-4c68-bbcd-6da20fb24d53",
+  "name": "Cotton Club",
+  "address": "C/ Gregorio De La Revilla, 25",
   "city": "Bilbao",
   "country": "España",
-  "lat": 43.28151,
-  "lng": -2.91737
+  "lat": 43.26059,
+  "lng": -2.94056
  },
  {
-  "id": "46455ad4-c5a7-47f1-b200-5b83553fa30a",
-  "name": "Auditorio Cascada",
-  "address": "Calle del Carmen 43",
+  "id": "ff9f642b-d22c-4e21-adfb-9e230b30c5d3",
+  "name": "D8 Sorkuntza Faktoria",
+  "address": "Carretera Zorroza a Castrexana, 30",
   "city": "Bilbao",
   "country": "España",
-  "lat": 43.25903,
-  "lng": -2.95015
+  "lat": 43.25995,
+  "lng": -2.92989
  },
  {
-  "id": "801221e4-f697-4b28-b38a-3a5e7a3b0741",
-  "name": "Nave Ribera",
-  "address": "Calle de la Estación 23",
-  "city": "Valencia",
+  "id": "27706ca2-4c00-4d8b-8d87-de62fe0349ca",
+  "name": "Ermua Antzokia",
+  "address": "Iparraguirre s/n",
+  "city": "Ermua",
   "country": "España",
-  "lat": 39.47147,
-  "lng": -0.37963
+  "lat": 43.18618,
+  "lng": -2.50088
  },
  {
-  "id": "085d1e66-2097-4f6f-aed6-f67b8b469991",
-  "name": "Café Eclipse",
-  "address": "Calle de la Estación 58",
-  "city": "Valencia",
+  "id": "4212f956-5001-4ce2-a65c-8f74616a312b",
+  "name": "Estudios Groove",
+  "address": "Polígono Ballonti, 23",
+  "city": "Portugalete",
   "country": "España",
-  "lat": 39.46152,
-  "lng": -0.38554
+  "lat": 43.31209,
+  "lng": -3.02368
  },
  {
-  "id": "906306e9-39b2-4ad0-88e6-386dd5096d55",
-  "name": "Nave Umbral",
-  "address": "Calle de San Roque 5",
-  "city": "Valencia",
+  "id": "48296489-6b7e-4fc8-b108-39055d2d9ca6",
+  "name": "Euskalduna",
+  "address": "Avda. Abandoibarra, N° 4",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 39.47323,
-  "lng": -0.39521
+  "lat": 43.26877,
+  "lng": -2.93725
  },
  {
-  "id": "e8d1d09b-c567-4f85-960a-daa7e3a7e1b5",
-  "name": "Fábrica Tinta",
-  "address": "Calle Mayor 57",
-  "city": "Sevilla",
+  "id": "b62e12fc-b4b5-48bf-9de7-928bec57f434",
+  "name": "Guggenheim Museum / Museo Guggenheim",
+  "address": "Abandoibarra Etorbidea, 2",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 37.39542,
-  "lng": -5.98023
+  "lat": 43.26813,
+  "lng": -2.93447
  },
  {
-  "id": "625cf06a-769c-4398-90d4-59b31a3892e1",
-  "name": "Auditorio Nácar",
-  "address": "Calle de la Estación 26",
-  "city": "Sevilla",
+  "id": "20d49e31-fd02-49ff-9ae6-d12450049529",
+  "name": "Guridi",
+  "address": "",
+  "city": "Eibar",
   "country": "España",
-  "lat": 37.39572,
-  "lng": -5.99132
+  "lat": 43.18706,
+  "lng": -2.47234
  },
  {
-  "id": "c4da9675-3cfa-401a-8d07-86352a891f40",
-  "name": "Nave Cantera",
-  "address": "Calle Real 76",
-  "city": "Zaragoza",
+  "id": "f0dd5f49-f0ef-4d81-a68a-188feaddf1cb",
+  "name": "Kafe Antzokia",
+  "address": "Done Bikendi Kalea 2",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 41.6683,
-  "lng": -0.8762
+  "lat": 43.26371,
+  "lng": -2.92808
  },
  {
-  "id": "985e2341-0fae-4bdf-bb9e-e24889c449cf",
-  "name": "Café Bruma",
-  "address": "Calle del Carmen 20",
-  "city": "Zaragoza",
+  "id": "d1d5cb49-98c0-4903-a362-325fc27e9e8a",
+  "name": "Kultur Leioa",
+  "address": "",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 41.6373,
-  "lng": -0.89079
+  "lat": 43.26301,
+  "lng": -2.93499
  },
  {
-  "id": "94240bb8-b87b-48db-94ff-7615f42a3c13",
-  "name": "Club Resol",
-  "address": "Calle del Carmen 79",
-  "city": "Málaga",
+  "id": "18a8afaf-22a4-4c53-a7eb-4b0d12b526d5",
+  "name": "Nave 9 (Maritime Museum)",
+  "address": "Muelle Ramon de La Sota 1",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 36.71192,
-  "lng": -4.42232
+  "lat": 43.26633,
+  "lng": -2.9462
  },
  {
-  "id": "b0fe3abe-6d01-4481-b15a-51008915def4",
-  "name": "Auditorio Pleamar",
-  "address": "Calle del Río 17",
-  "city": "Málaga",
+  "id": "53ef9b82-30a6-4a45-849e-f4e7116331a5",
+  "name": "Palacio Euskalduna",
+  "address": "Avda. Abandoibarra, N° 4",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 36.71965,
-  "lng": -4.42057
+  "lat": 43.26877,
+  "lng": -2.93725
  },
  {
-  "id": "8627a244-2b51-4d17-afc7-ad85ee0bcaa9",
-  "name": "Fábrica Lunar",
-  "address": "Calle de las Flores 35",
-  "city": "Granada",
+  "id": "9439c365-11d0-4c6f-83e3-5d223b3d4ea7",
+  "name": "Sala Azkena",
+  "address": "Ibanz de Bilbao 26",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 37.15778,
-  "lng": -3.60099
+  "lat": 43.26368,
+  "lng": -2.92993
  },
  {
-  "id": "ab954a4e-0652-4f74-852a-95b93f1b08e6",
-  "name": "Sala Cometa",
-  "address": "Calle del Río 46",
-  "city": "Vigo",
+  "id": "99ddb004-517b-45ee-9e6e-1d031ae20f89",
+  "name": "Sala Bilborock",
+  "address": "Muelle de la Merced, 1",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 42.24022,
-  "lng": -8.73769
+  "lat": 43.25725,
+  "lng": -2.92754
  },
  {
-  "id": "77393d51-b8b6-41f1-87ca-88c5e6333319",
-  "name": "Teatro Duna",
-  "address": "Calle del Puerto 47",
-  "city": "Santander",
+  "id": "a37b70d2-f94b-4ecf-8fb7-f7ede90d62fc",
+  "name": "Sala Lumiére",
+  "address": "3 Calle Ripa",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 43.44462,
-  "lng": -3.79127
+  "lat": 43.26115,
+  "lng": -2.92524
  },
  {
-  "id": "f8b94252-2b29-4a41-9efd-3c41690d2998",
-  "name": "Sala Taller",
-  "address": "Calle de la Luna 6",
-  "city": "Pamplona",
+  "id": "31032b84-666d-4aea-9ee5-538864b6af22",
+  "name": "Sala Sonora",
+  "address": "Ribera de Axpe, 27",
+  "city": "Erandio",
   "country": "España",
-  "lat": 42.80663,
-  "lng": -1.65727
+  "lat": 43.314,
+  "lng": -2.98724
  },
  {
-  "id": "89ecaaf5-0170-4c31-97dc-66c05282722b",
-  "name": "Café Aurora",
-  "address": "Calle del Puerto 41",
-  "city": "Valladolid",
+  "id": "987a528d-a4c2-4145-a20f-2108880e4672",
+  "name": "Santana 27",
+  "address": "Polígono Industrial Santa Ana, Tellería Kalea, 27",
+  "city": "Bilbao",
   "country": "España",
-  "lat": 41.65087,
-  "lng": -4.72158
+  "lat": 43.25015,
+  "lng": -2.89977
  },
  {
-  "id": "9ecda8c8-fcfb-4d8c-bf7b-b7ff9c7c4106",
-  "name": "Nave Faro",
-  "address": "Calle del Carmen 16",
+  "id": "6d39f31a-1c20-4a80-bbdb-f6e58cf0453f",
+  "name": "Stage Live",
+  "address": "Uribitarte Kalea, 8 bajo",
+  "city": "Bilbao",
+  "country": "España",
+  "lat": 43.26439,
+  "lng": -2.92754
+ },
+ {
+  "id": "5e91426a-9cd6-47c3-9f07-8b464df9fbdf",
+  "name": "Andoaingo Gaztetxea",
+  "address": "",
+  "city": "Andoain",
+  "country": "España",
+  "lat": 43.21864,
+  "lng": -2.0212
+ },
+ {
+  "id": "714610d0-849d-4473-8ba1-39843b47f9e1",
+  "name": "Dabadaba",
+  "address": "8 Mundaitz Kalea",
   "city": "San Sebastián",
   "country": "España",
-  "lat": 43.30326,
-  "lng": -1.97181
+  "lat": 43.31547,
+  "lng": -1.9763
  },
  {
-  "id": "d5c3b6b2-e76c-45ff-b3e8-86d683525d2b",
-  "name": "Sala Ámbar",
-  "address": "Calle de las Flores 47",
-  "city": "Cádiz",
+  "id": "57b4be23-7c24-4ca1-b6b3-be77e5682f4d",
+  "name": "DOKA - Donostiako Kafe Antzokia",
+  "address": "Erregezaintza Kalea, 20",
+  "city": "San Sebastián",
   "country": "España",
-  "lat": 36.52553,
-  "lng": -6.27296
+  "lat": 43.3126,
+  "lng": -2.00155
  },
  {
-  "id": "ff88cb9b-82d9-423e-9765-d52024e39577",
-  "name": "Club Hélice",
-  "address": "Calle de la Luna 19",
-  "city": "Murcia",
+  "id": "f5a16a94-370a-402a-a3ba-9ceeed921e56",
+  "name": "Intxaurrondo Kultur Etxea",
+  "address": "Felix Gabilondo plaza, 1",
+  "city": "San Sebastián",
   "country": "España",
-  "lat": 37.98762,
-  "lng": -1.14936
+  "lat": 43.31529,
+  "lng": -1.95147
  },
  {
-  "id": "79ef420f-3405-463f-b326-b95b452ffeb9",
-  "name": "Nave Zenit",
-  "address": "Calle del Río 51",
-  "city": "Gijón",
+  "id": "15841e69-5528-45cb-b350-f04b9920da87",
+  "name": "Kursaal",
+  "address": "Avda. de Zurriola, 1",
+  "city": "San Sebastián",
   "country": "España",
-  "lat": 43.52443,
-  "lng": -5.66953
+  "lat": 43.32417,
+  "lng": -1.97884
  },
  {
-  "id": "c9eafefa-4a5c-4cb6-9435-1a997964a734",
-  "name": "Fábrica Hangar",
-  "address": "Calle de la Luna 35",
-  "city": "A Coruña",
+  "id": "48817543-fb88-4499-9fdd-d72e80e52d32",
+  "name": "Larratxo Kultur Etxea",
+  "address": "Intxaurrondo, 57",
+  "city": "San Sebastián",
   "country": "España",
-  "lat": 43.37368,
-  "lng": -8.40667
+  "lat": 43.3206,
+  "lng": -1.9533
  },
  {
-  "id": "6b56c496-32ec-4588-aa08-a71b9e21d414",
-  "name": "Auditorio Mirador",
-  "address": "Calle del Puerto 28",
-  "city": "Alicante",
+  "id": "963d2fe6-abcf-4c92-9a7a-a3bf2c8268fc",
+  "name": "Teatro Amaia",
+  "address": "Plaza Pio XII",
+  "city": "Irún",
   "country": "España",
-  "lat": 38.35428,
-  "lng": -0.4925
+  "lat": 43.33837,
+  "lng": -1.79652
  },
  {
-  "id": "7c6863f7-a18c-442f-a08d-213514464109",
-  "name": "Club Cierzo",
-  "address": "Calle Mayor 62",
-  "city": "Córdoba",
+  "id": "f85a4d5d-9928-480e-8ac3-1157d00fe697",
+  "name": "Ateneo De Madrid",
+  "address": "Calle del Prado 21",
+  "city": "Madrid",
   "country": "España",
-  "lat": 37.86958,
-  "lng": -4.78918
+  "lat": 40.41522,
+  "lng": -3.69823
  },
  {
-  "id": "0eec0127-fab2-4a49-aa8e-2a98e24190ed",
-  "name": "Fábrica Fragua",
-  "address": "Calle del Puerto 78",
-  "city": "Salamanca",
+  "id": "c275220e-831f-4855-9dca-0e8d5932e535",
+  "name": "Auditorio Nacional De Música De Madrid",
+  "address": "Calle del Príncipe de Vergara, 146",
+  "city": "Madrid",
   "country": "España",
-  "lat": 40.96139,
-  "lng": -5.66574
+  "lat": 40.44597,
+  "lng": -3.67769
  },
  {
-  "id": "7f2dcfd1-e57a-49b8-a77a-1109a2b5ed0a",
-  "name": "Fábrica Almacén",
-  "address": "Calle de las Flores 8",
-  "city": "Lisboa",
-  "country": "Portugal",
-  "lat": 38.70385,
-  "lng": -9.15587
+  "id": "be1b024b-d49b-4fc5-81b2-939b2a4995d4",
+  "name": "Babylon Madrid",
+  "address": "Calle de Cedaceros 7",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.4173,
+  "lng": -3.69833
  },
  {
-  "id": "e4387764-ae44-4769-b0b8-5a3c4a410f3f",
-  "name": "Club Vértice",
-  "address": "Calle de la Luna 28",
-  "city": "París",
-  "country": "Francia",
-  "lat": 48.8765,
-  "lng": 2.36086
+  "id": "702dae06-ea56-4746-9168-59db9925a566",
+  "name": "Cadavra",
+  "address": "C.caballero de gracia 10",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41937,
+  "lng": -3.70082
  },
  {
-  "id": "32345c11-05cb-4870-957a-60a5e8670270",
-  "name": "Auditorio Kiosko",
-  "address": "Calle Mayor 18",
-  "city": "Londres",
-  "country": "Reino Unido",
-  "lat": 51.51249,
-  "lng": -0.13183
+  "id": "06a267a2-db80-40be-b415-ce04e4676b9c",
+  "name": "Cafe Berlin - Old Location",
+  "address": "C / Jacometrezo",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42022,
+  "lng": -3.70739
  },
  {
-  "id": "d4bafb24-2cca-4714-b615-69fb246f091c",
-  "name": "Café Trama",
-  "address": "Calle Real 73",
-  "city": "Berlín",
-  "country": "Alemania",
-  "lat": 52.50969,
-  "lng": 13.41773
+  "id": "50763a3c-0064-4b20-9ba9-ce96de6356e7",
+  "name": "Café Berlín",
+  "address": "Costanilla de los Angeles 20",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41959,
+  "lng": -3.70794
+ },
+ {
+  "id": "b7215045-e691-4e72-b0ff-717205f0fd97",
+  "name": "Canopy by HOTEL HILTON - Madrid Castellana",
+  "address": "Pl. de Carlos Trías Bertrán, 4",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.45138,
+  "lng": -3.69359
+ },
+ {
+  "id": "b9742083-0ee8-47fb-ae0a-7d9fe03d56b9",
+  "name": "Casabanchel",
+  "address": "26 Calle Santiago Estevez",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.39196,
+  "lng": -3.73463
+ },
+ {
+  "id": "44e45a2e-7680-49a0-8e5a-cd62aabd05d7",
+  "name": "Changó Live",
+  "address": "Calle de Covarrubias, 42",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43161,
+  "lng": -3.69802
+ },
+ {
+  "id": "280b7a06-13b7-4620-9578-7559d0cc4dd9",
+  "name": "Cine & Teatro Capitol",
+  "address": "Gran Vía, 41",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.4204,
+  "lng": -3.70662
+ },
+ {
+  "id": "790c0c2a-d726-4ba5-901d-6bebd1f98ac3",
+  "name": "Club Habana",
+  "address": "12 Calle de la Ballesta",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42162,
+  "lng": -3.70323
+ },
+ {
+  "id": "5d104b5c-03b8-4365-ae52-bed042a74fcb",
+  "name": "Copérnico",
+  "address": "Fernández de los Ríos 67",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43521,
+  "lng": -3.71369
+ },
+ {
+  "id": "ebacb825-c42e-4311-bd5f-34b9c1d6f3dd",
+  "name": "El Café de la Ópera",
+  "address": "C. de Arrieta, 6, Centro",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43787,
+  "lng": -3.69018
+ },
+ {
+  "id": "19e0ab7e-f67b-4fe0-a8aa-061ab8d7b455",
+  "name": "El Perro de la Parte de Atrás del Coche",
+  "address": "Calle De La Puebla 15",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42226,
+  "lng": -3.70391
+ },
+ {
+  "id": "599c7e5a-e3ad-4ba1-8a03-e9bc4db221ff",
+  "name": "El Pez Gato Bar Musical",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42203,
+  "lng": -3.69714
+ },
+ {
+  "id": "66557852-3e95-44d7-8132-807ccf6daf67",
+  "name": "El Sótano",
+  "address": "Maldonadas 6",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41093,
+  "lng": -3.7077
+ },
+ {
+  "id": "b17a28fe-e9d9-4944-868c-8432233d5fc0",
+  "name": "Espacio Alma",
+  "address": "Calle Montera 24, 3 planta letra L",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41851,
+  "lng": -3.70193
+ },
+ {
+  "id": "af515123-1c25-4545-b030-d8fa40215f87",
+  "name": "Fabrik",
+  "address": "Av. de la Industria, 82, Humanes de Madrid",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.26519,
+  "lng": -3.84025
+ },
+ {
+  "id": "f23b4372-18da-4d5d-9c7a-482c341252ce",
+  "name": "Fotomatón",
+  "address": "Plaza Conde De Toreno, 2",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42448,
+  "lng": -3.70941
+ },
+ {
+  "id": "ae577459-d2ed-4069-b98d-e7c5cd2a2d56",
+  "name": "Fotomatón Bar",
+  "address": "Plaza Conde de Toreno, 2",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42458,
+  "lng": -3.70949
+ },
+ {
+  "id": "bbc032cd-64f4-477d-b01f-42e60d0cb9ef",
+  "name": "Fun House",
+  "address": "Calle de Palafox, 8",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43122,
+  "lng": -3.70122
+ },
+ {
+  "id": "b07ad983-4269-454c-a170-1d174cfd297c",
+  "name": "Fundación Casa de México en España",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42455,
+  "lng": -3.7035
+ },
+ {
+  "id": "b228e662-2cde-4adf-83ee-b58cc14d2962",
+  "name": "Galileo Galilei",
+  "address": "Calle Galileo, 100",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43852,
+  "lng": -3.70966
+ },
+ {
+  "id": "54bc6a2f-4182-4dac-989a-77ae657917bd",
+  "name": "Gran Teatro Caixabank Príncipe Pío",
+  "address": "Cuesta San Vicente 44",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42042,
+  "lng": -3.71908
+ },
+ {
+  "id": "9a7b3289-aa5b-4331-8a1b-d6e947f346af",
+  "name": "Hangar 48",
+  "address": "Calle de Bailén, 24",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.4114,
+  "lng": -3.71404
+ },
+ {
+  "id": "e26a8309-3936-4bb2-9f1b-0cd01378e5ec",
+  "name": "Ifema – Escenario Discoteca",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.46789,
+  "lng": -3.57115
+ },
+ {
+  "id": "6d8ab6cc-c487-4d61-ac07-d2d043df6f30",
+  "name": "Independance",
+  "address": "C/ Atocha 127",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.40967,
+  "lng": -3.69262
+ },
+ {
+  "id": "46693b9a-80e6-4dd1-9bba-3d4a0082e4b7",
+  "name": "Intruso Bar",
+  "address": "Augusto Figueroa, 3",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42306,
+  "lng": -3.7003
+ },
+ {
+  "id": "664021bd-c949-4d6c-9839-4a4dfc82ef5f",
+  "name": "JazzVille",
+  "address": "Calle Jesús Aprendiz 19",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.40963,
+  "lng": -3.67102
+ },
+ {
+  "id": "f7c45b02-c1df-476b-b159-e6c62407151a",
+  "name": "La Nueva Cubierta De Leganés",
+  "address": "",
+  "city": "Leganés",
+  "country": "España",
+  "lat": 40.31825,
+  "lng": -3.79432
+ },
+ {
+  "id": "5509a312-ea32-4a8a-9653-a7fa95504608",
+  "name": "La Realidad Club",
+  "address": "Calle de Echegaray, 11, Centro, Madrid",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41564,
+  "lng": -3.69945
+ },
+ {
+  "id": "7a59bb05-6699-406c-b55f-813cfe6b7cc3",
+  "name": "La Riviera",
+  "address": "Paseo Bajo de la Virgen del Puerto, s/n",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.4133,
+  "lng": -3.72194
+ },
+ {
+  "id": "9e2823fd-3686-4499-ae96-6e5cc8f10ecb",
+  "name": "La Sala del Movistar Arena",
+  "address": "Calle de la Fuente del Berro, 36",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42451,
+  "lng": -3.67089
+ },
+ {
+  "id": "8751ffe5-c481-42b2-b225-a2abf5a83c0e",
+  "name": "La Sala Madrid",
+  "address": "C/ Fuente del Berro, Edificio WiZink Center",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42388,
+  "lng": -3.67175
+ },
+ {
+  "id": "0fbc98af-a21d-41ee-aab3-03ab5b93fd4b",
+  "name": "Lenovo Garage, Autocine Madrid",
+  "address": "Calle de la Isla de Java, 2",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.48689,
+  "lng": -3.67799
+ },
+ {
+  "id": "e07033ae-6eef-437d-aa18-6694ebd874fe",
+  "name": "Live Las Ventas",
+  "address": "CALLE ALCALA 237",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43224,
+  "lng": -3.66338
+ },
+ {
+  "id": "3f5e41ad-438e-44bf-be8f-19243bcc358d",
+  "name": "Lula Club",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41896,
+  "lng": -3.71178
+ },
+ {
+  "id": "fe706a32-2951-4d6b-9867-69cf6e97bd8b",
+  "name": "Madrid International Jazz Festival 2026",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41423,
+  "lng": -3.73134
+ },
+ {
+  "id": "b1cdceaa-3421-40b9-befe-c00715d284d7",
+  "name": "Maravillas Club",
+  "address": "San Vicente Ferrer 33",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42577,
+  "lng": -3.70432
+ },
+ {
+  "id": "e87355ed-056f-4f90-ad5a-f32fafa22b21",
+  "name": "Mon Madrid",
+  "address": "36 Calle de Hilarión Eslava",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43591,
+  "lng": -3.71646
+ },
+ {
+  "id": "357286ca-8bac-4b3c-bd46-8e22115a6d5b",
+  "name": "Mondo Disko",
+  "address": "Calle de Alcalá, 20",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41751,
+  "lng": -3.69898
+ },
+ {
+  "id": "20e9c820-c3ff-4e13-b3cf-5cafccb399dc",
+  "name": "Movistar Arena",
+  "address": "S/N Avenida Felipe II",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42414,
+  "lng": -3.67498
+ },
+ {
+  "id": "3a2112b9-743f-4e71-945a-60bc26ad2a56",
+  "name": "Nazca",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42323,
+  "lng": -3.69378
+ },
+ {
+  "id": "419c87f4-f48b-4612-a55b-5980fec60c4b",
+  "name": "Nuevo Teatro Alcalá",
+  "address": "Calle de Jorge Juan, 62",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42326,
+  "lng": -3.67813
+ },
+ {
+  "id": "af3505bf-89bf-4c78-8242-abe2175937f4",
+  "name": "Ochoymedio - Old Location",
+  "address": "11 Calle Barceló",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42708,
+  "lng": -3.69973
+ },
+ {
+  "id": "18a57baa-a158-434f-a349-399759e9a02a",
+  "name": "Oscar Patanegra & Cia",
+  "address": "C. de Aniceto Marinas, 98, Madrid",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42838,
+  "lng": -3.73013
+ },
+ {
+  "id": "16e29e5c-ea32-4907-b92c-aa460666d1de",
+  "name": "Pabellon 12 & 14, IFEMA Madrid",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.46789,
+  "lng": -3.57115
+ },
+ {
+  "id": "a3c40bde-4720-46a5-8a77-538eb295f6e8",
+  "name": "Pabellón 12, IFEMA Madrid",
+  "address": "Av. del Partenón, 5",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41639,
+  "lng": -3.6921
+ },
+ {
+  "id": "0684e54b-1400-4523-953c-f4b86169afa7",
+  "name": "Pabellón 2, IFEMA Madrid",
+  "address": "Avenida del Partenón, 5",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.46539,
+  "lng": -3.61659
+ },
+ {
+  "id": "cb205f57-6bf3-4bc4-a64b-e1b5d74e138c",
+  "name": "Palacio Municipal, IFEMA Madrid",
+  "address": "Av. de la Capital de España 7",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.46226,
+  "lng": -3.61635
+ },
+ {
+  "id": "edecd7b7-6962-431a-b305-2892df2a4bf4",
+  "name": "Palacio Vistalegre",
+  "address": "Calle de Utebo, 1",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.38657,
+  "lng": -3.73863
+ },
+ {
+  "id": "f9cf57cb-1901-4cc4-abbe-78951f58dbc2",
+  "name": "Revi Live",
+  "address": "Calle los Cavilas",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.40077,
+  "lng": -3.58963
+ },
+ {
+  "id": "ceff30d0-35eb-4330-ac5f-96a509db659e",
+  "name": "Sala But",
+  "address": "C. de Barceló, 11",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.427,
+  "lng": -3.6997
+ },
+ {
+  "id": "eea64a16-4ce5-4640-b501-7fc7fa7876e6",
+  "name": "Sala Clamores",
+  "address": "14 Calle de Alburquerque",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43103,
+  "lng": -3.70088
+ },
+ {
+  "id": "aa04c22e-c54d-45f8-874e-6ac2857d3f65",
+  "name": "Sala Copérnico",
+  "address": "Calle de Fernández de los Ríos, 67, Madrid",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43519,
+  "lng": -3.71367
+ },
+ {
+  "id": "f8c1524c-e34a-43cd-97f7-28ff0fcfeec0",
+  "name": "Sala El Sol",
+  "address": "Calle de los Jardines 3",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41898,
+  "lng": -3.70162
+ },
+ {
+  "id": "16122474-e293-4fba-8771-83b27add8c8c",
+  "name": "Sala La Riviera",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41579,
+  "lng": -3.68838
+ },
+ {
+  "id": "12ec1034-7ec8-4729-86c1-e6a6c3d7f83b",
+  "name": "Sala La Trinchera",
+  "address": "C. de Josefa Díaz, 4",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.3932,
+  "lng": -3.6584
+ },
+ {
+  "id": "26e2debf-4b5a-4495-8b57-b53a872cbf69",
+  "name": "Sala Nazca",
+  "address": "Calle Orense 24",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.45146,
+  "lng": -3.69482
+ },
+ {
+  "id": "f6f4f000-da25-499a-8c6d-618918ee15d2",
+  "name": "Sala Nazca Live",
+  "address": "Calle de Orense, 24, Madrid",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.45149,
+  "lng": -3.69439
+ },
+ {
+  "id": "c22087f2-bc26-4790-a9d6-538f9399dca4",
+  "name": "Sala Republik",
+  "address": "Calle Puebla, 6",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42211,
+  "lng": -3.70232
+ },
+ {
+  "id": "e9499fc3-a48d-40db-a0db-1076bb5bb54a",
+  "name": "Sala Sinfónica, Auditorio Nacional de Música",
+  "address": "Calle del Príncipe de Vergara, 146",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.44605,
+  "lng": -3.67812
+ },
+ {
+  "id": "7db82b0d-1b03-49dd-8bb2-8b2b7d498905",
+  "name": "Sala Specka",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.45637,
+  "lng": -3.69529
+ },
+ {
+  "id": "9eb37d19-34fa-456c-93f2-bb3c3f7441fe",
+  "name": "Sala Starving",
+  "address": "C/fermín Caballero Nº 69",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.48212,
+  "lng": -3.71207
+ },
+ {
+  "id": "12a37900-b08c-46d1-b2cc-4dee479acbdf",
+  "name": "Sala Uni",
+  "address": "C. de Cea Bermúdez, 21, Madrid",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43864,
+  "lng": -3.70951
+ },
+ {
+  "id": "e2c21e0f-7922-451d-a8ca-743f39319bb6",
+  "name": "Sala UNI Madrid",
+  "address": "Calle Cea Bermúdez, 21",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43864,
+  "lng": -3.70951
+ },
+ {
+  "id": "3f3cfdcd-8634-4b29-a31b-0fbce65c78e0",
+  "name": "Sala Vesta",
+  "address": "Barquillo, 29",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42298,
+  "lng": -3.69563
+ },
+ {
+  "id": "ad5f1fb6-beaf-4584-bf77-ca386295eb51",
+  "name": "Sala Villanos",
+  "address": "C/ Bernardino Obregón, 18",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.40395,
+  "lng": -3.70022
+ },
+ {
+  "id": "17ef69d5-a4e2-4419-8c06-ef5ceec85d74",
+  "name": "Sala Vizzio",
+  "address": "Calle Industrias, 32, Poligono Urtinsa",
+  "city": "Alcorcón",
+  "country": "España",
+  "lat": 40.3374,
+  "lng": -3.81779
+ },
+ {
+  "id": "d8d7d804-9deb-4acb-b19d-62ce63283f27",
+  "name": "Sala Wagon",
+  "address": "Estación de Chamartín, Planta Ático",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.47145,
+  "lng": -3.682
+ },
+ {
+  "id": "c5416146-f5af-41ff-9b1c-8a700968d80b",
+  "name": "Shôko Madrid",
+  "address": "Toledo 86",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.4087,
+  "lng": -3.71058
+ },
+ {
+  "id": "34bbbaf3-4b2a-411c-b391-9c8347acffe7",
+  "name": "Silikona",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41555,
+  "lng": -3.70386
+ },
+ {
+  "id": "833bbcbc-ff5a-4c9a-8ad8-a0e7f8c7f018",
+  "name": "Siroco",
+  "address": "C/ San Dimas, 3",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.427,
+  "lng": -3.70776
+ },
+ {
+  "id": "d4f7da3b-114a-429e-9dbd-dcc9419d726c",
+  "name": "Teatro Calderón",
+  "address": "C/ Atocha 18",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41409,
+  "lng": -3.70341
+ },
+ {
+  "id": "8135506f-a800-4d0f-869d-337e9cf2daca",
+  "name": "Teatro Cervantes",
+  "address": "",
+  "city": "Arnedo",
+  "country": "España",
+  "lat": 42.22568,
+  "lng": -2.10208
+ },
+ {
+  "id": "0ce098bd-ba0c-4186-819d-39960da01183",
+  "name": "Teatro Circo Price",
+  "address": "Ronda de Atocha, 35",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.40597,
+  "lng": -3.69855
+ },
+ {
+  "id": "c17cfc64-c31d-4162-b5d2-4e76deb385f0",
+  "name": "Teatro Eslava",
+  "address": "11 Calle del Arenal",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41711,
+  "lng": -3.70651
+ },
+ {
+  "id": "78200812-7e77-438e-9ade-5d4db9ac5460",
+  "name": "Teatro Fernán Gómez",
+  "address": "Plaza De Colón, 4",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42558,
+  "lng": -3.68976
+ },
+ {
+  "id": "ad17e178-5958-40a8-a30e-c2d3cad8f4a4",
+  "name": "Teatro La Latina",
+  "address": "Plaza de la Cebada, 2",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.4114,
+  "lng": -3.70887
+ },
+ {
+  "id": "34cd3be7-7710-4e3c-80a1-165ab8e03bc8",
+  "name": "Teatro Lope de Vega",
+  "address": "C/ Gran Vía, 57",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42182,
+  "lng": -3.70887
+ },
+ {
+  "id": "1a2ab723-509a-4da8-b02b-de36bc04e827",
+  "name": "Teatro Monumental",
+  "address": "Calle Atocha, 65",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41255,
+  "lng": -3.69917
+ },
+ {
+  "id": "442e3c57-43c3-4c1e-9628-b537a957dda2",
+  "name": "Teatro Municipal José María Rodero",
+  "address": "Calle Londres 3",
+  "city": "Torrejón de Ardoz",
+  "country": "España",
+  "lat": 40.46005,
+  "lng": -3.47425
+ },
+ {
+  "id": "90874c17-2bf7-4a3b-b15d-32f4ddc896c2",
+  "name": "Teatro Real",
+  "address": "Plaza Isabel II s/n.",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41806,
+  "lng": -3.70936
+ },
+ {
+  "id": "544f53b4-1bea-43b1-838f-8a966d4817b8",
+  "name": "Teatro Rialto",
+  "address": "Gran Vía 54",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42116,
+  "lng": -3.70741
+ },
+ {
+  "id": "a906c271-8dff-4e65-b4e2-a5ea872c9f49",
+  "name": "Teatro San Pol",
+  "address": "",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43139,
+  "lng": -3.68802
+ },
+ {
+  "id": "d8c2404b-8ae8-4c31-9fa2-a72a7deee21c",
+  "name": "Tempo Audiophile Club",
+  "address": "Calle Duque de Osuna 8",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42524,
+  "lng": -3.71185
+ },
+ {
+  "id": "68314309-ae94-45c3-b8ba-4de67d2acc53",
+  "name": "Tempo Club",
+  "address": "Calle del Duque de Osuna, 8",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42527,
+  "lng": -3.71185
+ },
+ {
+  "id": "4701b36f-ccbf-4142-ba01-1e5bd821b44b",
+  "name": "The Bassement Club",
+  "address": "C. de Galileo, 26",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43245,
+  "lng": -3.71014
+ },
+ {
+  "id": "ec467835-b359-493b-b22c-a153051d1613",
+  "name": "The RockLab",
+  "address": "C. de Constantino Lobo",
+  "city": "Coslada",
+  "country": "España",
+  "lat": 40.43559,
+  "lng": -3.53094
+ },
+ {
+  "id": "97806a13-7032-4c00-abf9-ea64c28d3715",
+  "name": "Uñas Chung Lee",
+  "address": "38 Calle de Hilarión Eslava",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43615,
+  "lng": -3.71632
+ },
+ {
+  "id": "d3bb93d2-1457-474a-872e-a2660df91317",
+  "name": "Wagon",
+  "address": "Estación de Chamartín, Planta Ático, Chamartín",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.47145,
+  "lng": -3.682
+ },
+ {
+  "id": "2bc02b08-0a94-4540-ba1f-7cf352dd7d11",
+  "name": "Wurlitzer Ballroom",
+  "address": "Tres cruces, 12",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41973,
+  "lng": -3.70253
+ },
+ {
+  "id": "04b701b0-f189-4dec-9a5e-0644d185e6ef",
+  "name": "Yas'ta Club",
+  "address": "Calle Valverde 10",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42094,
+  "lng": -3.70205
+ },
+ {
+  "id": "2ec05435-477f-40ee-9e2b-b60371d581e4",
+  "name": "Auditorio De La Cartuja",
+  "address": "Avda. de los Descubrimientos s/n",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.4017,
+  "lng": -6.00429
+ },
+ {
+  "id": "89b81b66-e2a0-4700-b8c7-d448253c77e9",
+  "name": "Bar Mutante",
+  "address": "C. Fresa, 15, Casco Antiguo",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.4019,
+  "lng": -5.99398
+ },
+ {
+  "id": "a9e1c572-a552-4892-a5fb-2a65ac166d04",
+  "name": "Cartuja Center",
+  "address": "Calle Leonardo Da Vinci, 5",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40369,
+  "lng": -6.00809
+ },
+ {
+  "id": "7b403f25-91b1-423a-b01d-6bba6c022353",
+  "name": "Cartuja Center CITE",
+  "address": "C/ Leonardo da Vinci, 7",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40466,
+  "lng": -6.0078
+ },
+ {
+  "id": "5671a74d-fb44-4597-9847-fa6f2ceed3b5",
+  "name": "FIBES Palacio de Congresos & Exposiciones",
+  "address": "Avda. Alcalde Luis Uruñuela 1",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40291,
+  "lng": -5.94257
+ },
+ {
+  "id": "913f8039-59d0-4952-ba72-2e09ab99c69a",
+  "name": "Fun Club",
+  "address": "Alameda de Hercules 61",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.39779,
+  "lng": -5.99354
+ },
+ {
+  "id": "c9bf0d48-a935-4db9-aea8-3abc87135552",
+  "name": "Pandora",
+  "address": "C. Gramil, 2",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.39202,
+  "lng": -5.99058
+ },
+ {
+  "id": "1aa23b21-a216-4391-87f6-46ffdc47f27d",
+  "name": "Pandora Club",
+  "address": "",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40366,
+  "lng": -5.97282
+ },
+ {
+  "id": "632e44e5-a7c5-41d7-8b63-1861d044a225",
+  "name": "Pandora Sevilla",
+  "address": "Calle Gramil, 2, Sevilla",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40476,
+  "lng": -5.96217
+ },
+ {
+  "id": "4a046948-d1fa-4d36-b960-c75d019260ed",
+  "name": "Sala Custom",
+  "address": "Calle Metalurgia 25 Pol. Ind. Calonge",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40868,
+  "lng": -5.95688
+ },
+ {
+  "id": "86d7d863-3deb-4703-bf8d-7d9b2174c44a",
+  "name": "Sala la Calle",
+  "address": "Calle José Díaz, 6",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40866,
+  "lng": -5.98988
+ },
+ {
+  "id": "b34e6dfc-a984-460c-a7dd-0a076a297f9d",
+  "name": "Sala LA2",
+  "address": "C/ José Díaz, 7",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40868,
+  "lng": -5.99002
+ },
+ {
+  "id": "23e3e850-37c7-4de7-9d6a-139c4b46f4dc",
+  "name": "Sala Malandar",
+  "address": "Avenida Torneo, 43 (Calle Curtidurías)",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.39834,
+  "lng": -6.00004
+ },
+ {
+  "id": "4182db1b-3740-42ff-8807-799bd7bf318a",
+  "name": "Sala X",
+  "address": "Calle José Díaz, 7",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.40867,
+  "lng": -5.98999
+ },
+ {
+  "id": "179d01a9-4a16-49a2-a087-62049163e0b0",
+  "name": "Supra (antes Sala Fanatic)",
+  "address": "C/ Herramientas, 35",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.36651,
+  "lng": -5.95969
+ },
+ {
+  "id": "329f7191-9849-445f-aa6a-f299d9498380",
+  "name": "Supra Music Hall",
+  "address": "C. Herramientas, 35",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.36664,
+  "lng": -5.95948
+ },
+ {
+  "id": "f95fda46-c9c1-40c3-a3c5-127d06a221c3",
+  "name": "Teatro Lope De Vega",
+  "address": "Avda. María Luisa, s/n",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.37767,
+  "lng": -5.99045
+ },
+ {
+  "id": "8e19eea8-d718-475c-b978-b2e87aa09dca",
+  "name": "16 Toneladas",
+  "address": "Ricardo Micó 3",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.48187,
+  "lng": -0.38788
+ },
+ {
+  "id": "118c2815-efdc-4118-9ee0-c7b11935bba3",
+  "name": "Auditorio - Roig Arena",
+  "address": "C/ del Bomber Ramon Duart, 12, Quatre Carreres",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.4495,
+  "lng": -0.36353
+ },
+ {
+  "id": "147257a4-9436-498f-90bf-83ad111d1af7",
+  "name": "Auditorio del Palau de les Arts Reina Sofía",
+  "address": "Av. del profesor López Piñero,1",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.45697,
+  "lng": -0.35681
+ },
+ {
+  "id": "0116f9f6-a8d2-43cc-9855-079881bf494d",
+  "name": "Ca Revolta",
+  "address": "Santa Teresa 10",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.47479,
+  "lng": -0.3811
+ },
+ {
+  "id": "adcd11cc-c81a-428b-8bb9-7b0b7d6b1b54",
+  "name": "Centro Comercial Saler",
+  "address": "Avenida del Professor López Piñero 16",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.45258,
+  "lng": -0.3563
+ },
+ {
+  "id": "8ce398b3-fa9d-4f84-acbb-eb6742e654c0",
+  "name": "Centro Excursionista",
+  "address": "Marqués de Zenete 4",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.46569,
+  "lng": -0.38468
+ },
+ {
+  "id": "2c938359-b2ad-4fe3-a020-1debd743249e",
+  "name": "Iglesia San Juan del Hospital",
+  "address": "Lieu C. del Trinquet de Cavallers, 5, Ciutat Vella",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.47436,
+  "lng": -0.37294
+ },
+ {
+  "id": "6f65510e-de82-47b4-b26f-67c015f2f2d4",
+  "name": "Jerusalem Club",
+  "address": "C/Jerusalem 55",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.46462,
+  "lng": -0.38021
+ },
+ {
+  "id": "af571599-24cf-49da-afae-3e6f217d68da",
+  "name": "La Marina",
+  "address": "",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.44714,
+  "lng": -0.33484
+ },
+ {
+  "id": "79a9f024-7b0d-494f-8ecc-608e45c97d26",
+  "name": "La Pérgola de la Marina",
+  "address": "Calle de la Aduana s/n, Moll de Ponent",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.46244,
+  "lng": -0.32712
+ },
+ {
+  "id": "f6e8838c-7d49-4d07-8dae-42ef716fc24c",
+  "name": "La Rambleta",
+  "address": "Bulevar Sur esquina C/ Pío IX",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.44492,
+  "lng": -0.3932
+ },
+ {
+  "id": "927da182-911a-4037-82b1-d5a57cf814cc",
+  "name": "Loco Club",
+  "address": "Erudito Orellana, 12",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.47122,
+  "lng": -0.38706
+ },
+ {
+  "id": "5bcd02f7-e5ac-448a-9949-fa4a783dea79",
+  "name": "Palacio de Congresos",
+  "address": "Avenida de las Cortes Valencianas, 60",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.50632,
+  "lng": -0.36602
+ },
+ {
+  "id": "bda4a8e8-bffc-4056-aa56-7e6405565700",
+  "name": "Parc Central (Muelle de Malilla)",
+  "address": "Av. de Peris i Valero, 21, L'Eixample",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.45626,
+  "lng": -0.37829
+ },
+ {
+  "id": "12d4e39f-5bba-44ab-a6ad-1a6754cbd08d",
+  "name": "Peter Rock Club",
+  "address": "Calle Quart, 26",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.47621,
+  "lng": -0.38162
+ },
+ {
+  "id": "006a30fe-2fb1-4c90-8d4a-0742c4ae9e64",
+  "name": "Pluto",
+  "address": "6 Entrada de Tamarit",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.43112,
+  "lng": -0.36318
+ },
+ {
+  "id": "ba210e07-b4e7-4e07-a359-5e1daae7662c",
+  "name": "Radio City",
+  "address": "Santa Teresa, 19",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.47466,
+  "lng": -0.38137
+ },
+ {
+  "id": "282d326a-0294-4aad-a20e-16ae41a7c788",
+  "name": "Rock City",
+  "address": "C/ Els Coheters, 6",
+  "city": "Almassera",
+  "country": "España",
+  "lat": 39.51174,
+  "lng": -0.36064
+ },
+ {
+  "id": "66bc8257-9774-4f13-9f8a-91d52b20258f",
+  "name": "Roig Arena",
+  "address": "C/ del Bomber Ramon Duart 12",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.4495,
+  "lng": -0.36353
+ },
+ {
+  "id": "981fdf53-fb20-482f-b5ba-016b3d2cd703",
+  "name": "Sala Auditorio - Roig Arena",
+  "address": "C/ del Bomber Ramon Duart, 12, Quatre Carreres",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.4495,
+  "lng": -0.36353
+ },
+ {
+  "id": "f38bba4a-c6e8-4382-9263-bd8f706a41ff",
+  "name": "Sala Jerusalem",
+  "address": "",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.46253,
+  "lng": -0.3819
+ },
+ {
+  "id": "1ccc4f76-e107-4dfd-8f31-1dd7996be4f3",
+  "name": "Sala Moon",
+  "address": "Calle San Vicente, 200",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.4592,
+  "lng": -0.38336
+ },
+ {
+  "id": "8330ebf8-eab8-4d09-a7fd-3adf91790384",
+  "name": "Sala Real 101",
+  "address": "Avinguda Real de Madrid, Pobles del Sud, 46017 València, Valencia, España",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.43184,
+  "lng": -0.39209
+ },
+ {
+  "id": "c2ab869c-0f15-4e89-a5b6-4d73806582be",
+  "name": "Sala Repvblicca",
+  "address": "Pol. Industrial Mislata, Carrer Baix Vinalopó, 2",
+  "city": "Mislata",
+  "country": "España",
+  "lat": 39.47248,
+  "lng": -0.42703
+ },
+ {
+  "id": "d8231c7d-dc34-4d38-bb5f-21847beab40d",
+  "name": "Spook",
+  "address": "Carr. del Río, 399, Poblados del Sur",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.44829,
+  "lng": -0.34108
+ },
+ {
+  "id": "35931d26-95a3-43a2-b532-5f5ba8ae2558",
+  "name": "Teatre El Progrés",
+  "address": "Carrer del Dr. Moliner, 12",
+  "city": "Burjassot",
+  "country": "España",
+  "lat": 39.51016,
+  "lng": -0.41548
+ },
+ {
+  "id": "6956dcac-10cb-42fa-b89b-6f44532ccae3",
+  "name": "Teatro Flumen",
+  "address": "Carrer de Gregori Gea, 15,",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.48277,
+  "lng": -0.38532
+ },
+ {
+  "id": "79e900c4-0200-4146-9209-d62aa00241bb",
+  "name": "Teatro Olympia",
+  "address": "C/ San Vicente",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.4698,
+  "lng": -0.37248
+ },
+ {
+  "id": "a90af92e-323c-4934-9f61-b100c5e6664e",
+  "name": "Errekaleor Auzo Askea",
+  "address": "",
+  "city": "Vitoria-Gasteiz",
+  "country": "España",
+  "lat": 42.86045,
+  "lng": -2.67154
+ },
+ {
+  "id": "ca8a03e7-5566-4353-bc34-e76e7fa76bd7",
+  "name": "Fernando Buesa Arena",
+  "address": "Carretera a Zurbano S/n",
+  "city": "Vitoria-Gasteiz",
+  "country": "España",
+  "lat": 42.86414,
+  "lng": -2.64499
+ },
+ {
+  "id": "08398dc2-d393-41da-86f4-2524b9df9249",
+  "name": "Fábrica de Tornillos",
+  "address": "",
+  "city": "Miranda de Ebro",
+  "country": "España",
+  "lat": 42.68978,
+  "lng": -2.93654
+ },
+ {
+  "id": "4899db4d-0608-46cc-bbfc-fa3710f4510d",
+  "name": "Hell Dorado",
+  "address": "Pol. Ind. de Uritiasolo, C. Venta de la Estrella, 6, Vitoria-Gasteiz",
+  "city": "Vitoria-Gasteiz",
+  "country": "España",
+  "lat": 42.8367,
+  "lng": -2.6574
+ },
+ {
+  "id": "ef6e21a9-e2a9-40b5-a425-1f8545bb43fa",
+  "name": "Hell Dorado Kultur Elkartea",
+  "address": "Venta de la Estrella, 6 Pabellón 44",
+  "city": "Vitoria-Gasteiz",
+  "country": "España",
+  "lat": 42.83552,
+  "lng": -2.65616
+ },
+ {
+  "id": "1a3c5ad8-87f4-4c12-87b0-8c89952b3bcf",
+  "name": "Jimmy Jazz",
+  "address": "Coronación de la Virgen Blanca, 4",
+  "city": "Vitoria-Gasteiz",
+  "country": "España",
+  "lat": 42.85917,
+  "lng": -2.68179
+ },
+ {
+  "id": "da09336e-c853-4793-9ebc-d4aa09af01b8",
+  "name": "Jimmy Jazz Night Club",
+  "address": "Coronación de la Virgen Blanca Kalea, 4, Gasteiz",
+  "city": "Vitoria-Gasteiz",
+  "country": "España",
+  "lat": 42.85224,
+  "lng": -2.67659
+ },
+ {
+  "id": "a929a119-580d-4be6-b680-6d650f110a76",
+  "name": "Ttipia Club",
+  "address": "Zapatari Kalea 94",
+  "city": "Vitoria-Gasteiz",
+  "country": "España",
+  "lat": 42.85011,
+  "lng": -2.67418
+ },
+ {
+  "id": "e95216d0-ce68-40f2-964e-63f4895260d6",
+  "name": "Verdury Hall",
+  "address": "Foruen Enparantza Plaza, 4, 20560 Oñati, Gipuzkoa",
+  "city": "Onati",
+  "country": "España",
+  "lat": 43.03269,
+  "lng": -2.41434
  }
 ]
