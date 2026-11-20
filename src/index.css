@@ -231,8 +231,8 @@ td {
   display: block;
   font-family: var(--font-display);
   font-weight: 800;
-  font-size: 40px;
-  line-height: 48px;
+  font-size: 32px;
+  line-height: 40px;
   overflow-wrap: break-word;
   color: var(--zinc-800);
   text-decoration: none;
