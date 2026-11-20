@@ -1,0 +1,498 @@
+[
+ {
+  "name": "Berri Txarrak",
+  "genre": "Rock"
+ },
+ {
+  "name": "Kortatu",
+  "genre": "Rock"
+ },
+ {
+  "name": "Egan",
+  "genre": "Rock"
+ },
+ {
+  "name": "Gatibu",
+  "genre": "Rock"
+ },
+ {
+  "name": "Ken Zazpi",
+  "genre": "Rock"
+ },
+ {
+  "name": "Itoiz",
+  "genre": "Rock"
+ },
+ {
+  "name": "Hertzainak",
+  "genre": "Rock"
+ },
+ {
+  "name": "Barricada",
+  "genre": "Rock"
+ },
+ {
+  "name": "Platero y Tú",
+  "genre": "Rock"
+ },
+ {
+  "name": "Extremoduro",
+  "genre": "Rock"
+ },
+ {
+  "name": "Fito & Fitipaldis",
+  "genre": "Rock"
+ },
+ {
+  "name": "Loquillo",
+  "genre": "Rock"
+ },
+ {
+  "name": "Los Suaves",
+  "genre": "Rock"
+ },
+ {
+  "name": "Leiva",
+  "genre": "Rock"
+ },
+ {
+  "name": "Dover",
+  "genre": "Rock"
+ },
+ {
+  "name": "Vetusta Morla",
+  "genre": "Rock"
+ },
+ {
+  "name": "Izal",
+  "genre": "Indie"
+ },
+ {
+  "name": "Sidonie",
+  "genre": "Indie"
+ },
+ {
+  "name": "Love of Lesbian",
+  "genre": "Indie"
+ },
+ {
+  "name": "Hinds",
+  "genre": "Indie"
+ },
+ {
+  "name": "Biznaga",
+  "genre": "Indie"
+ },
+ {
+  "name": "Triángulo de Amor Bizarro",
+  "genre": "Indie"
+ },
+ {
+  "name": "Carolina Durante",
+  "genre": "Indie"
+ },
+ {
+  "name": "Elefante",
+  "genre": "Indie"
+ },
+ {
+  "name": "La Bien Querida",
+  "genre": "Indie"
+ },
+ {
+  "name": "Mikel Erentxun",
+  "genre": "Indie"
+ },
+ {
+  "name": "Arctic Monkeys",
+  "genre": "Indie"
+ },
+ {
+  "name": "The Strokes",
+  "genre": "Indie"
+ },
+ {
+  "name": "Phoenix",
+  "genre": "Indie"
+ },
+ {
+  "name": "Tame Impala",
+  "genre": "Indie"
+ },
+ {
+  "name": "Beach House",
+  "genre": "Indie"
+ },
+ {
+  "name": "Wilco",
+  "genre": "Indie"
+ },
+ {
+  "name": "Fermin Muguruza",
+  "genre": "Punk"
+ },
+ {
+  "name": "Kaotiko",
+  "genre": "Punk"
+ },
+ {
+  "name": "La Polla Records",
+  "genre": "Punk"
+ },
+ {
+  "name": "Eskorbuto",
+  "genre": "Punk"
+ },
+ {
+  "name": "Ramones",
+  "genre": "Punk"
+ },
+ {
+  "name": "Dropkick Murphys",
+  "genre": "Punk"
+ },
+ {
+  "name": "Green Day",
+  "genre": "Punk"
+ },
+ {
+  "name": "The Clash",
+  "genre": "Punk"
+ },
+ {
+  "name": "Rancid",
+  "genre": "Punk"
+ },
+ {
+  "name": "Sex Pistols",
+  "genre": "Punk"
+ },
+ {
+  "name": "Refused",
+  "genre": "Hardcore"
+ },
+ {
+  "name": "Minor Threat",
+  "genre": "Hardcore"
+ },
+ {
+  "name": "Converge",
+  "genre": "Hardcore"
+ },
+ {
+  "name": "Turnstile",
+  "genre": "Hardcore"
+ },
+ {
+  "name": "Descendents",
+  "genre": "Hardcore"
+ },
+ {
+  "name": "Gorilla Biscuits",
+  "genre": "Hardcore"
+ },
+ {
+  "name": "Aiva",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Kraftwerk",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Moderat",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Caribou",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Four Tet",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Jon Hopkins",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Bonobo",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Justice",
+  "genre": "Electronica"
+ },
+ {
+  "name": "Kase.O",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Natos y Waor",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Rosalía",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Foyone",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Kendrick Lamar",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Tyler, the Creator",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Nach",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Violadores del Verso",
+  "genre": "Hip hop"
+ },
+ {
+  "name": "Kamasi Washington",
+  "genre": "Jazz"
+ },
+ {
+  "name": "Esperanza Spalding",
+  "genre": "Jazz"
+ },
+ {
+  "name": "Chano Domínguez",
+  "genre": "Jazz"
+ },
+ {
+  "name": "Madeleine Peyroux",
+  "genre": "Jazz"
+ },
+ {
+  "name": "Brad Mehldau",
+  "genre": "Jazz"
+ },
+ {
+  "name": "Jorge Pardo",
+  "genre": "Jazz"
+ },
+ {
+  "name": "Gregory Porter",
+  "genre": "Jazz"
+ },
+ {
+  "name": "Mikel Urdangarin",
+  "genre": "Folk"
+ },
+ {
+  "name": "Oreka TX",
+  "genre": "Folk"
+ },
+ {
+  "name": "Kepa Junkera",
+  "genre": "Folk"
+ },
+ {
+  "name": "Amparanoia",
+  "genre": "Folk"
+ },
+ {
+  "name": "Mumford & Sons",
+  "genre": "Folk"
+ },
+ {
+  "name": "Fleet Foxes",
+  "genre": "Folk"
+ },
+ {
+  "name": "Bon Iver",
+  "genre": "Folk"
+ },
+ {
+  "name": "Iron & Wine",
+  "genre": "Folk"
+ },
+ {
+  "name": "Amaia",
+  "genre": "Folk"
+ },
+ {
+  "name": "Anari",
+  "genre": "Folk"
+ },
+ {
+  "name": "Zea Mays",
+  "genre": "Pop"
+ },
+ {
+  "name": "Alaska y Dinarama",
+  "genre": "Pop"
+ },
+ {
+  "name": "Amaral",
+  "genre": "Pop"
+ },
+ {
+  "name": "La Oreja de Van Gogh",
+  "genre": "Pop"
+ },
+ {
+  "name": "Rigoberta Bandini",
+  "genre": "Pop"
+ },
+ {
+  "name": "Aitana",
+  "genre": "Pop"
+ },
+ {
+  "name": "Dua Lipa",
+  "genre": "Pop"
+ },
+ {
+  "name": "Billie Eilish",
+  "genre": "Pop"
+ },
+ {
+  "name": "Lorde",
+  "genre": "Pop"
+ },
+ {
+  "name": "Mala Rodríguez",
+  "genre": "Pop"
+ },
+ {
+  "name": "Metallica",
+  "genre": "Metal"
+ },
+ {
+  "name": "Iron Maiden",
+  "genre": "Metal"
+ },
+ {
+  "name": "Gojira",
+  "genre": "Metal"
+ },
+ {
+  "name": "Mastodon",
+  "genre": "Metal"
+ },
+ {
+  "name": "Opeth",
+  "genre": "Metal"
+ },
+ {
+  "name": "Soziedad Alkoholika",
+  "genre": "Metal"
+ },
+ {
+  "name": "Angelus Apatrida",
+  "genre": "Metal"
+ },
+ {
+  "name": "Ghost",
+  "genre": "Metal"
+ },
+ {
+  "name": "Leon Bridges",
+  "genre": "Soul"
+ },
+ {
+  "name": "Michael Kiwanuka",
+  "genre": "Soul"
+ },
+ {
+  "name": "Alabama Shakes",
+  "genre": "Soul"
+ },
+ {
+  "name": "Sharon Jones",
+  "genre": "Soul"
+ },
+ {
+  "name": "Cory Henry",
+  "genre": "Soul"
+ },
+ {
+  "name": "Lido Pimienta",
+  "genre": "Soul"
+ },
+ {
+  "name": "Bob Marley",
+  "genre": "Reggae"
+ },
+ {
+  "name": "Alborosie",
+  "genre": "Reggae"
+ },
+ {
+  "name": "Chronixx",
+  "genre": "Reggae"
+ },
+ {
+  "name": "Ska-P",
+  "genre": "Reggae"
+ },
+ {
+  "name": "Los Cafres",
+  "genre": "Reggae"
+ },
+ {
+  "name": "Gentleman",
+  "genre": "Reggae"
+ },
+ {
+  "name": "Charlotte de Witte",
+  "genre": "Techno"
+ },
+ {
+  "name": "Richie Hawtin",
+  "genre": "Techno"
+ },
+ {
+  "name": "Amelie Lens",
+  "genre": "Techno"
+ },
+ {
+  "name": "Nina Kraviz",
+  "genre": "Techno"
+ },
+ {
+  "name": "Jeff Mills",
+  "genre": "Techno"
+ },
+ {
+  "name": "Oscar Mulero",
+  "genre": "Techno"
+ },
+ {
+  "name": "Estrella Morente",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "name": "Kiki Morente",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "name": "Diego del Morao",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "name": "Niña Pastori",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "name": "Los Delinqüentes",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "name": "Muchachito Bombo Infierno",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "name": "Rodrigo Cuevas",
+  "genre": "Flamenco fusion"
+ }
+]

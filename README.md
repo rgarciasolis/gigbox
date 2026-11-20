@@ -87,10 +87,9 @@ Primero PWA o Capacitor sobre esta web; después Expo reutilizando `src/domain`,
 
 Importación masiva, pagos, cuentas reales, fotos en servidor, setlists, enlaces a plataformas.
 
-## Artistas reales (Kulturklik)
+## Artistas reales
 
-Solo los artistas pueden ser reales; salas, conciertos, usuarios y reseñas siguen siendo dummy.
+Solo los artistas son reales; salas, conciertos, usuarios, reseñas, seguidores y avisos siguen siendo dummy.
 
-1. `npm run scrape:artists` recoge los títulos de la agenda de conciertos de [Kulturklik](https://www.kulturklik.euskadi.eus) y escribe `data/source/artists.json` (y `kulturklik-raw.json` con los títulos sin tocar). Hay que ejecutarlo en tu máquina; revisa antes el `robots.txt` y el aviso legal de la web.
-2. Revisa `data/source/artists.json` a mano: la limpieza de títulos es heurística y puede colar festivales o ciclos.
-3. `npm run seed` usa esos nombres (hasta 120) y completa con nombres inventados si faltan. Sin el fichero, el seed sale idéntico al de siempre.
+- `data/source/artists.json` es una lista curada de artistas reales (vascos, españoles e internacionales, con género). `npm run seed` la usa y completa con nombres inventados hasta 120. Para cambiar artistas, edita ese fichero y vuelve a lanzar el seed. Si el fichero no existe, el seed genera todo inventado.
+- Opcional: `npm run scrape:artists` recoge títulos de la agenda de conciertos de [Kulturklik](https://www.kulturklik.euskadi.eus) y **sobrescribe** `data/source/artists.json`. Ejecútalo en tu máquina, revisa antes `robots.txt` y el aviso legal, y repasa el resultado a mano (la limpieza de títulos es heurística).
