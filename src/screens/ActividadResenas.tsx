@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
-import { Async, ReviewCard } from '@/components/ui'
+import { Async } from '@/components/ui'
+import { HomeReviewRow } from '@/components/home'
 import { useContactReviews } from '@/queries'
 
 export function ActividadResenas() {
@@ -14,7 +15,7 @@ export function ActividadResenas() {
         {(list) => (
           <ul className="m-0 list-none p-0">
             {list.map((r) => (
-              <ReviewCard key={r.attendance.id} r={r} />
+              <HomeReviewRow key={r.attendance.id} r={r} />
             ))}
           </ul>
         )}

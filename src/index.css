@@ -17,6 +17,8 @@
   --fs-md: 12px;
   --fs-lg: 16px;
   --lh-lg: 16px;
+  /* Titulos: la fuente del Figma (ES Klarheit Kurrent) es de prueba; Inter ExtraBold como alternativa */
+  --font-display: 'ES Klarheit Kurrent', 'Inter', system-ui, sans-serif;
   --lh-2xl: 24px;
   font-family: 'Inter', system-ui, sans-serif;
 }
@@ -189,20 +191,168 @@ td {
 
 /* Cuadrado de fecha (Dat_sq) */
 .date-sq {
+  box-sizing: border-box;
+  width: 74px;
+  height: 74px;
+  justify-content: center;
+  padding: 0 !important;
   display: flex;
   flex-direction: column;
   align-items: center;
   flex-shrink: 0;
-  padding: 8px 19px;
   background: var(--zinc-700);
   border: 1px solid var(--zinc-800);
   color: var(--zinc-50);
-  font-size: var(--fs-sm);
-  line-height: var(--lh-lg);
+  font-size: 11.5px;
+  line-height: 18.5px;
   text-transform: uppercase;
 }
 
 .date-sq b {
   font-weight: 400;
-  font-size: var(--fs-md);
+  font-size: 13.9px;
+}
+
+@media (min-width: 768px) {
+  .date-sq {
+    width: 64px;
+    height: 64px;
+    font-size: var(--fs-sm);
+    line-height: var(--lh-lg);
+  }
+
+  .date-sq b {
+    font-size: var(--fs-md);
+  }
+}
+
+/* ---------------------------------------------------------------- Home (artboards 01_Home escritorio y movil) */
+.display-title {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 40px;
+  overflow-wrap: break-word;
+  color: var(--zinc-800);
+  text-decoration: none;
+}
+
+.display-title:hover {
+  text-decoration: underline;
+}
+
+/* Movil: concierto = titulo y sala arriba; debajo, fecha (74 px) y a su derecha quien lo guardo + accion */
+.home-row {
+  display: grid;
+  grid-template-columns: 74px 1fr;
+  grid-template-areas:
+    'body body'
+    'date meta';
+  column-gap: 49px;
+  row-gap: 24px;
+  padding: 24px 0;
+  align-items: start;
+}
+
+.home-row:first-child {
+  padding-top: 0;
+}
+
+/* Movil: resena = fecha y autor arriba; debajo, titulo y texto */
+.home-row--review {
+  grid-template-areas:
+    'date meta'
+    'body body';
+  column-gap: 17px;
+  row-gap: 16px;
+}
+
+.home-row__date {
+  grid-area: date;
+}
+
+.home-row__meta {
+  grid-area: meta;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.home-row__body {
+  grid-area: body;
+}
+
+.review-text {
+  margin: 24px 0 0;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--zinc-500);
+}
+
+/* "Ver mas" a ancho completo (solo movil); en escritorio se usa "Ver todo" en la cabecera */
+.btn-block {
+  display: block;
+  margin-top: 24px;
+  padding: 8px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+  line-height: 32px;
+  color: var(--zinc-800);
+  background: var(--zinc-100);
+  border: 1px solid var(--zinc-200);
+}
+
+.btn-block:hover {
+  text-decoration: none;
+}
+
+@media (hover: hover) {
+  .btn-block:hover {
+    background: var(--green-active);
+    border-color: var(--green-600);
+    color: var(--zinc-950);
+  }
+}
+
+.see-all--desktop {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .display-title {
+    font-size: 48px;
+    line-height: 56px;
+  }
+
+  .home-row,
+  .home-row--review {
+    grid-template-columns: 312px 1fr;
+    grid-template-areas:
+      'date body'
+      'meta body';
+    column-gap: 0;
+    row-gap: 16px;
+    padding: 20px 0;
+  }
+
+  .home-row:first-child {
+    padding-top: 20px;
+  }
+
+  .review-text {
+    margin-top: 16px;
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .btn-block {
+    display: none;
+  }
+
+  .see-all--desktop {
+    display: inline;
+  }
 }
