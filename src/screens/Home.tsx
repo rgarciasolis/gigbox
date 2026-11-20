@@ -20,7 +20,7 @@ export function Home() {
               <div className="section-head">
                 <h2>Últimos conciertos añadidos a las Wishlists de tus contactos</h2>
                 {f.moreWishlistAdds && (
-                  <Link to="/actividad/wishlists" className="see-all">
+                  <Link to="/actividad/wishlists" className="see-all see-all--desktop">
                     Ver todo
                   </Link>
                 )}
@@ -43,10 +43,15 @@ export function Home() {
                   ))}
                 </GigList>
               )}
+              {f.moreWishlistAdds && (
+                <Link to="/actividad/wishlists" className="btn-block">
+                  Ver más
+                </Link>
+              )}
               <div className="section-head">
                 <h2>ÚLTIMAS RESEÑAS DE TUS CONTACTOS</h2>
                 {f.moreReviews && (
-                  <Link to="/actividad/resenas" className="see-all">
+                  <Link to="/actividad/resenas" className="see-all see-all--desktop">
                     Ver todo
                   </Link>
                 )}
@@ -59,6 +64,11 @@ export function Home() {
                     <HomeReviewRow key={r.attendance.id} r={r} />
                   ))}
                 </ul>
+              )}
+              {f.moreReviews && (
+                <Link to="/actividad/resenas" className="btn-block">
+                  Ver más
+                </Link>
               )}
             </>
           ) : (

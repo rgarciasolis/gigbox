@@ -40,7 +40,7 @@ export function HomeGigRow({ s, note, actions }: { s: GigSummary; note?: ReactNo
 /** Resena en una lista del Home: autor, tiempo y sala a la izquierda; titulo y texto a la derecha. */
 export function HomeReviewRow({ r }: { r: ReviewView }) {
   return (
-    <li className="home-row">
+    <li className="home-row home-row--review">
       <div className="home-row__date">
         <DateSquare iso={r.gig.gig.startsAt} />
       </div>
@@ -49,7 +49,7 @@ export function HomeReviewRow({ r }: { r: ReviewView }) {
           <UserLink user={r.user} />
         </div>
         <div className="muted">{relativeTime(r.attendance.createdAt)}</div>
-        <Venue gig={r.gig} className="muted mt-4" />
+        <Venue gig={r.gig} className="muted" />
       </div>
       <div className="home-row__body">
         <Link to={`/conciertos/${r.gig.gig.id}`} className="display-title">
