@@ -2,6 +2,8 @@
 
 Web para registrar y descubrir conciertos. Esta versión funciona solo con datos de ejemplo. Stack: Vite, React, TypeScript, React Router, TanStack Query.
 
+Historial de cambios: [CHANGELOG.md](CHANGELOG.md).
+
 ## Arrancar
 
 ```bash
