@@ -10,13 +10,15 @@
 // - Normaliza las salas contra songkick-venues.json (misma ciudad); las nuevas se crean con coordenadas
 //   aproximadas (centro de la ciudad + variacion estable por nombre), porque el Excel no trae direccion.
 // - Descarta eventos que ya estan en Songkick (misma fecha y sala, con algun artista en comun).
-// - La clave de comparacion ignora mayusculas, tildes, puntuacion y espacios ("Bad Gyal" = "BadGyal" = "Bad  Gyal!").
+// - La clave de comparacion de artistas esta en scripts/lib/artist-key.mjs: ignora mayusculas, tildes, puntuacion,
+//   espacios, articulos iniciales y "y/&/and/i"; las erratas se corrigen en data/source/artist-aliases.json.
 // - Cartel limitado a MAX_LINEUP artistas por evento.
 // Salida: data/source/excel-{venues,artists,events}.json y un resumen por consola.
 
 import { readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { createNormalizer } from './lib/artist-key.mjs'
 
 const SRC = join(dirname(fileURLToPath(import.meta.url)), '..', 'data/source')
 const input = process.argv[2] ?? join(SRC, 'excel-events-raw.json')
@@ -25,6 +27,7 @@ const skArtists = JSON.parse(readFileSync(join(SRC, 'songkick-artists.json'), 'u
 const skVenues = JSON.parse(readFileSync(join(SRC, 'songkick-venues.json'), 'utf8'))
 const skEvents = JSON.parse(readFileSync(join(SRC, 'songkick-events.json'), 'utf8'))
 
+const norm = createNormalizer(SRC)
 const MAX_LINEUP = 10
 const CITY_CENTER = { Madrid: [40.4168, -3.7038] }
 
@@ -51,7 +54,8 @@ const splitArtists = (name) =>
     .filter((p) => /[\p{L}\p{N}]/u.test(p) && !/^\d+$/.test(p))
 
 // --- 1. Artistas
-const skByKey = new Map(skArtists.map((a) => [key(a.name), a]))
+const skByKey = new Map()
+for (const a of skArtists) if (!skByKey.has(norm.key(a.name))) skByKey.set(norm.key(a.name), a) // la primera es la canonica
 const spelling = new Map() // key -> Map(nombre -> veces)
 const events = []
 let split = 0
@@ -66,7 +70,7 @@ for (const e of raw) {
   const keys = []
   for (const n of names) {
     if (seen.size >= MAX_LINEUP) break
-    const k = key(n)
+    const k = norm.key(n)
     if (!k || seen.has(k)) continue
     seen.add(k)
     keys.push(k)
@@ -76,13 +80,14 @@ for (const e of raw) {
   }
   if (keys.length) events.push({ date: e.date, venue: e.venue.trim(), city: e.city.trim(), keys })
 }
-const best = (m) => [...m].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0][0]
+const best = (m) =>
+  [...m].sort((a, b) => b[1] - a[1] || (a[0] === a[0].toUpperCase()) - (b[0] === b[0].toUpperCase()) || b[0].length - a[0].length || a[0].localeCompare(b[0]))[0][0]
 
 const newArtists = []
 const matched = new Set()
 for (const [k, m] of [...spelling].sort((a, b) => a[0].localeCompare(b[0]))) {
   if (skByKey.has(k)) matched.add(k)
-  else newArtists.push({ id: `xl-artist-${newArtists.length + 1}`, name: best(m), genre: '', k })
+  else newArtists.push({ id: `xl-artist-${newArtists.length + 1}`, name: norm.display(best(m)), genre: '', k })
 }
 const artistRef = new Map([...skByKey].map(([k, a]) => [k, a.sk]))
 for (const a of newArtists) artistRef.set(a.k, a.id)

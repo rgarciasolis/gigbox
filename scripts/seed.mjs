@@ -18,6 +18,7 @@ import { execFileSync } from 'node:child_process'
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { createNormalizer } from './lib/artist-key.mjs'
 
 const DATASETS = ['reales', 'dummy']
 const datasetArg = process.argv.find((a) => a.startsWith('--dataset='))
@@ -227,13 +228,28 @@ function loadRealArtists() {
   return [...seen]
 }
 const skArtistId = new Map()
+const skArtistsUnique = []
 let artists
 if (SK) {
-  artists = SK.artists.map((a) => {
+  // Artistas de Songkick sin duplicados: los que comparten clave (articulos, mayusculas, erratas) se unifican
+  const norm = createNormalizer(SRC)
+  const byKey = new Map()
+  artists = []
+  for (const a of SK.artists) {
+    const k = norm.key(a.name)
+    const first = byKey.get(k)
+    if (first) {
+      skArtistId.set(a.sk, first.id)
+      if (!first.genre && a.genre) first.genre = a.genre
+      continue
+    }
     const id = uuid()
     skArtistId.set(a.sk, id)
-    return { id, name: a.name, genre: a.genre }
-  })
+    const art = { id, name: norm.display(a.name), genre: a.genre }
+    byKey.set(k, art)
+    artists.push(art)
+    skArtistsUnique.push(a)
+  }
   for (const a of XL?.artists ?? []) {
     const id = uuid()
     skArtistId.set(a.id, id)
@@ -301,7 +317,7 @@ if (SK) {
     const recentlyAdded = chance(dayOffset < 0 ? 0.15 : 0.6)
     gigs.push({
       id: uuid(),
-      artistIds: e.artists.slice(0, 6).map((id) => skArtistId.get(id)),
+      artistIds: [...new Set(e.artists.map((id) => skArtistId.get(id)))].slice(0, 6),
       venueId: skVenueId.get(e.venue),
       dayOffset,
       hour: e.hour ?? int(20, 22),
@@ -315,7 +331,7 @@ if (SK) {
     const dayOffset = Math.round((Date.UTC(y, m - 1, d) - SK_ANCHOR) / 86400000)
     gigs.push({
       id: uuid(),
-      artistIds: e.artists.map((id) => skArtistId.get(id)),
+      artistIds: [...new Set(e.artists.map((id) => skArtistId.get(id)))],
       venueId: skVenueId.get(e.venue),
       dayOffset,
       hour: int(20, 22),
@@ -485,7 +501,7 @@ const favorites = users.map((u) => {
 // Referencias externas (ids ficticios)
 const externalRefs = SK
   ? [
-      ...SK.artists.map((a) => ({ id: uuid(), entityType: 'artist', entityId: skArtistId.get(a.sk), provider: 'songkick', externalId: a.sk.replace('sk-artist-', '') })),
+      ...skArtistsUnique.map((a) => ({ id: uuid(), entityType: 'artist', entityId: skArtistId.get(a.sk), provider: 'songkick', externalId: a.sk.replace('sk-artist-', '') })),
       ...SK.venues.map((v) => ({ id: uuid(), entityType: 'venue', entityId: skVenueId.get(v.sk), provider: 'songkick', externalId: v.sk.replace('sk-venue-', '') })),
     ]
   : [

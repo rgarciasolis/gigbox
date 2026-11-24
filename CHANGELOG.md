@@ -1,5 +1,15 @@
 # Changelog
 
+## Artistas sin duplicados (2026-11-24)
+
+Corrige duplicados como "Lagos de Hinault", "Lo Lagos de Hinault" y "Los Lagos de Hinault", que la primera normalización no detectaba.
+
+- **Clave de comparación común** (`scripts/lib/artist-key.mjs`, usada por la importación del Excel y por el seed): ignora mayúsculas, tildes, puntuación, espacios, el artículo inicial (El, La, Los, Las, Lo, The, Les, Els, L') y "y/&/and/i".
+- **Erratas:** `data/source/artist-aliases.json` recoge 80 nombres con su grafía correcta y las grafías erróneas que se unifican con ella (por ejemplo "Mulatu Astakte" y "Kamashi Washington"). Se puede editar a mano; solo incluye casos claros.
+- **Songkick también:** los duplicados dentro de los artistas de Songkick se unifican en el seed.
+- **Resultado:** de 9.523 a 9.352 artistas (171 duplicados unidos), 0 claves repetidas en la base y ningún concierto con el mismo artista dos veces. Los nombres en cirílico, que antes se descartaban, ahora se conservan. El conjunto dummy no cambia.
+- **No se unen solos** los nombres que difieren en una letra y podrían ser artistas distintos (Bob Dylan y Bob Vylan, Ana Muñiz y Ana Muñoz). Si hay más erratas, se añaden al fichero de alias.
+
 ## Función intermedia de setlist.fm (2026-11-24)
 
 - **`api/setlist.ts`:** busca conciertos por artista (y fecha opcional) y devuelve fecha, artista, sala y enlace de atribución. No devuelve ni usa los temas del setlist.
