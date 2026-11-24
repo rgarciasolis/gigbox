@@ -194,6 +194,10 @@ const SRC = join(dirname(fileURLToPath(import.meta.url)), '..', 'data/source')
 const SK = ['venues', 'artists', 'events'].every((n) => existsSync(join(SRC, `songkick-${n}.json`)))
   ? Object.fromEntries(['venues', 'artists', 'events'].map((n) => [n, JSON.parse(readFileSync(join(SRC, `songkick-${n}.json`), 'utf8'))]))
   : null
+// Eventos reales del Excel (`node scripts/import-excel-events.mjs`): opcionales, se suman a los de Songkick
+const XL = SK && ['venues', 'artists', 'events'].every((n) => existsSync(join(SRC, `excel-${n}.json`)))
+  ? Object.fromEntries(['venues', 'artists', 'events'].map((n) => [n, JSON.parse(readFileSync(join(SRC, `excel-${n}.json`), 'utf8'))]))
+  : null
 // Fecha en la que se capturaron los datos reales: los dayOffset se calculan respecto a ella
 const SK_ANCHOR = Date.UTC(2026, 10, 20)
 
@@ -216,6 +220,11 @@ if (SK) {
     skArtistId.set(a.sk, id)
     return { id, name: a.name, genre: a.genre }
   })
+  for (const a of XL?.artists ?? []) {
+    const id = uuid()
+    skArtistId.set(a.id, id)
+    artists.push({ id, name: a.name, genre: a.genre })
+  }
 } else {
   const realArtists = loadRealArtists()
   const realArtistNames = realArtists.map(([n]) => n)
@@ -232,6 +241,11 @@ if (SK) {
   for (const v of SK.venues) {
     const id = uuid()
     skVenueId.set(v.sk, id)
+    venues.push({ id, name: v.name, address: v.address, city: v.city, country: 'España', lat: v.lat, lng: v.lng })
+  }
+  for (const v of XL?.venues ?? []) {
+    const id = uuid()
+    skVenueId.set(v.id, id)
     venues.push({ id, name: v.name, address: v.address, city: v.city, country: 'España', lat: v.lat, lng: v.lng })
   }
 } else {
@@ -266,7 +280,7 @@ if (SK) {
 // Conciertos
 const gigs = []
 if (SK) {
-  // Reales: todos los eventos de Songkick (casi todos futuros). Cartel limitado a 6 artistas.
+  // Reales: todos los eventos de Songkick (casi todos futuros). Cartel limitado a 6 artistas (10 en los del Excel).
   for (const e of SK.events) {
     const [y, m, d] = e.date.split('-').map(Number)
     const dayOffset = Math.round((Date.UTC(y, m - 1, d) - SK_ANCHOR) / 86400000)
@@ -281,10 +295,24 @@ if (SK) {
       createdMinOffset: -(recentlyAdded ? int(10, 60 * 24 * 40) : int(60 * 24 * 40, 60 * 24 * 400)),
     })
   }
+  // Eventos del Excel (pasados y futuros). El Excel no trae hora: se reparte entre las 20 y las 22.
+  for (const e of XL?.events ?? []) {
+    const [y, m, d] = e.date.split('-').map(Number)
+    const dayOffset = Math.round((Date.UTC(y, m - 1, d) - SK_ANCHOR) / 86400000)
+    gigs.push({
+      id: uuid(),
+      artistIds: e.artists.map((id) => skArtistId.get(id)),
+      venueId: skVenueId.get(e.venue),
+      dayOffset,
+      hour: int(20, 22),
+      imageUrl: null,
+      createdMinOffset: -(chance(dayOffset < 0 ? 0.15 : 0.6) ? int(10, 60 * 24 * 40) : int(60 * 24 * 40, 60 * 24 * 400)),
+    })
+  }
   // Sinteticos: historial pasado con artistas y salas reales (Songkick solo trae agenda futura)
   const evCount = new Map()
-  for (const e of SK.events) evCount.set(e.venue, (evCount.get(e.venue) ?? 0) + 1)
-  const venueW = SK.venues.map((v) => [skVenueId.get(v.sk), evCount.get(v.sk) ?? 1])
+  for (const e of [...SK.events, ...(XL?.events ?? [])]) evCount.set(e.venue, (evCount.get(e.venue) ?? 0) + 1)
+  const venueW = [...SK.venues.map((v) => [v.sk, v]), ...(XL?.venues ?? []).map((v) => [v.id, v])].map(([k]) => [skVenueId.get(k), evCount.get(k) ?? 1])
   const realPast = gigs.filter((g) => g.dayOffset < 0).length
   for (let i = realPast; i < 205; i++) {
     gigs.push({

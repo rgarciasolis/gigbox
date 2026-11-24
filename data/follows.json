@@ -1,1022 +1,1107 @@
 [
  {
   "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "createdMinOffset": -58408
- },
- {
-  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "createdMinOffset": -175160
- },
- {
-  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -277008
- },
- {
-  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
   "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -89493
+  "createdMinOffset": -315369
  },
  {
   "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -173415
+  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "createdMinOffset": -293100
+ },
+ {
+  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "createdMinOffset": -238110
+ },
+ {
+  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -247834
+ },
+ {
+  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "createdMinOffset": -374962
+ },
+ {
+  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "createdMinOffset": -105386
  },
  {
   "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
   "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "createdMinOffset": -371263
+  "createdMinOffset": -345726
  },
  {
   "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -371936
+  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "createdMinOffset": -390646
  },
  {
   "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "createdMinOffset": -243683
+  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "createdMinOffset": -370313
  },
  {
-  "followerId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "createdMinOffset": -292633
- },
- {
-  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
   "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -307771
+  "createdMinOffset": -52064
  },
  {
-  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
   "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -135418
+  "createdMinOffset": -266109
+ },
+ {
+  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "createdMinOffset": -23804
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "createdMinOffset": -294487
+ },
+ {
+  "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "createdMinOffset": -332965
  },
  {
   "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
   "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -428763
- },
- {
-  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -282044
- },
- {
-  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -371102
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -246220
+  "createdMinOffset": -192501
  },
  {
   "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "createdMinOffset": -22722
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -386019
  },
  {
   "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "createdMinOffset": -10228
+  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "createdMinOffset": -26562
+ },
+ {
+  "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "createdMinOffset": -83186
  },
  {
   "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
   "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "createdMinOffset": -147800
- },
- {
-  "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "createdMinOffset": -239982
+  "createdMinOffset": -222679
  },
  {
   "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
   "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "createdMinOffset": -287491
+  "createdMinOffset": -159554
  },
  {
   "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
   "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -143580
+  "createdMinOffset": -11662
+ },
+ {
+  "followerId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -398333
  },
  {
   "followerId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "createdMinOffset": -116493
+  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "createdMinOffset": -87016
  },
  {
   "followerId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -79314
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -101384
  },
  {
   "followerId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
   "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -95656
- },
- {
-  "followerId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "createdMinOffset": -251769
- },
- {
-  "followerId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -317
- },
- {
-  "followerId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -273358
- },
- {
-  "followerId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "createdMinOffset": -66416
- },
- {
-  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -228309
- },
- {
-  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -31304
- },
- {
-  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "createdMinOffset": -386055
- },
- {
-  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -428255
+  "createdMinOffset": -360359
  },
  {
   "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
   "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "createdMinOffset": -200738
+  "createdMinOffset": -120975
  },
  {
   "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -287039
+  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "createdMinOffset": -317928
  },
  {
   "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "createdMinOffset": -383179
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -333175
  },
  {
   "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -77154
+  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "createdMinOffset": -135048
+ },
+ {
+  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "createdMinOffset": -365570
+ },
+ {
+  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "createdMinOffset": -90014
+ },
+ {
+  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "createdMinOffset": -101346
+ },
+ {
+  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "createdMinOffset": -364391
  },
  {
   "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
   "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "createdMinOffset": -364350
+  "createdMinOffset": -46162
+ },
+ {
+  "followerId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -234861
  },
  {
   "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -228322
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -87733
+ },
+ {
+  "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -310719
+ },
+ {
+  "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -319179
+ },
+ {
+  "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -378431
+ },
+ {
+  "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -147886
  },
  {
   "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
   "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "createdMinOffset": -274969
- },
- {
-  "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -373455
- },
- {
-  "followerId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -418633
+  "createdMinOffset": -286348
  },
  {
   "followerId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "createdMinOffset": -348874
+ },
+ {
+  "followerId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "createdMinOffset": -390960
+ },
+ {
+  "followerId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "createdMinOffset": -344544
+ },
+ {
+  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -414915
+ },
+ {
+  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "createdMinOffset": -325931
+ },
+ {
+  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "createdMinOffset": -251741
+ },
+ {
+  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -239556
+ },
+ {
+  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -412758
+ },
+ {
+  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
   "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -112922
+  "createdMinOffset": -31195
  },
  {
-  "followerId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "createdMinOffset": -94109
- },
- {
-  "followerId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "createdMinOffset": -231414
- },
- {
-  "followerId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
   "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "createdMinOffset": -332161
- },
- {
-  "followerId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -166961
+  "createdMinOffset": -57613
  },
  {
   "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "createdMinOffset": -159893
- },
- {
-  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "createdMinOffset": -223927
- },
- {
-  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "createdMinOffset": -195249
- },
- {
-  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -278636
- },
- {
-  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -423399
- },
- {
-  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -163977
- },
- {
-  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "createdMinOffset": -41317
- },
- {
-  "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "createdMinOffset": -250159
+  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "createdMinOffset": -347192
  },
  {
   "followerId": "420479bc-c3a8-4777-9542-8488a6202f1d",
   "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "createdMinOffset": -89620
+  "createdMinOffset": -292652
  },
  {
   "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "createdMinOffset": -129554
+  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "createdMinOffset": -51363
+ },
+ {
+  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "createdMinOffset": -164241
+ },
+ {
+  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -97488
+ },
+ {
+  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -145272
+ },
+ {
+  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -155693
+ },
+ {
+  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "createdMinOffset": -84233
  },
  {
   "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
   "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "createdMinOffset": -268647
+  "createdMinOffset": -127759
+ },
+ {
+  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -349511
  },
  {
   "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
   "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -18039
- },
- {
-  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -357980
- },
- {
-  "followerId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -107741
+  "createdMinOffset": -169080
  },
  {
   "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "createdMinOffset": -43177
- },
- {
-  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "createdMinOffset": -347691
- },
- {
-  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -165063
- },
- {
-  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -120882
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -233938
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "createdMinOffset": -122008
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "createdMinOffset": -51368
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -97560
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "createdMinOffset": -161910
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "createdMinOffset": -236482
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "createdMinOffset": -276728
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -405432
- },
- {
-  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -8412
- },
- {
-  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -215210
- },
- {
-  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -63805
- },
- {
-  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -261882
- },
- {
-  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "createdMinOffset": -271630
- },
- {
-  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "createdMinOffset": -326322
- },
- {
-  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -115402
- },
- {
-  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -323592
- },
- {
-  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "createdMinOffset": -314149
- },
- {
-  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -26267
- },
- {
-  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -206489
- },
- {
-  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -137663
- },
- {
-  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "createdMinOffset": -316994
- },
- {
-  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -248531
- },
- {
-  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "createdMinOffset": -208127
- },
- {
-  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "createdMinOffset": -414792
- },
- {
-  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -428392
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -381294
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "createdMinOffset": -251749
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -162002
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "createdMinOffset": -301568
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "createdMinOffset": -363014
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "createdMinOffset": -118719
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -174323
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "createdMinOffset": -66009
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "createdMinOffset": -251994
- },
- {
-  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -94558
- },
- {
-  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "createdMinOffset": -291391
- },
- {
-  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -35504
- },
- {
-  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "createdMinOffset": -104936
- },
- {
-  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -327390
- },
- {
-  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -231999
- },
- {
-  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "createdMinOffset": -138464
- },
- {
-  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -66531
- },
- {
-  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -403445
- },
- {
-  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "createdMinOffset": -90238
- },
- {
-  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
   "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "createdMinOffset": -413792
+  "createdMinOffset": -142107
  },
  {
-  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -173841
+  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "createdMinOffset": -277212
  },
  {
-  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
-  "createdMinOffset": -355799
- },
- {
-  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "createdMinOffset": -175285
- },
- {
-  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "createdMinOffset": -358539
- },
- {
-  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -76372
- },
- {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -393433
- },
- {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
   "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -413929
+  "createdMinOffset": -392386
  },
  {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -62530
+  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -341785
  },
  {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "createdMinOffset": -180253
- },
- {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -323989
- },
- {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "createdMinOffset": -166703
- },
- {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "createdMinOffset": -116860
- },
- {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
-  "createdMinOffset": -62326
- },
- {
-  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
   "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "createdMinOffset": -6838
+  "createdMinOffset": -302393
  },
  {
-  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -24573
+  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -65275
  },
  {
-  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "createdMinOffset": -3840
+  "followerId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "createdMinOffset": -145295
  },
  {
-  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "createdMinOffset": -199454
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "createdMinOffset": -356038
  },
  {
-  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "createdMinOffset": -367832
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "createdMinOffset": -165362
  },
  {
-  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -203445
- },
- {
-  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "createdMinOffset": -95724
- },
- {
-  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -93823
- },
- {
-  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "createdMinOffset": -391286
- },
- {
-  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "createdMinOffset": -134851
- },
- {
-  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -140295
- },
- {
-  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "createdMinOffset": -403385
- },
- {
-  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "createdMinOffset": -239403
- },
- {
-  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -426800
- },
- {
-  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -372142
- },
- {
-  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
   "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
-  "createdMinOffset": -223968
+  "createdMinOffset": -319466
+ },
+ {
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "createdMinOffset": -385573
+ },
+ {
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "createdMinOffset": -2623
+ },
+ {
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "createdMinOffset": -64669
+ },
+ {
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "createdMinOffset": -315798
+ },
+ {
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -350163
+ },
+ {
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "createdMinOffset": -321071
+ },
+ {
+  "followerId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "createdMinOffset": -266484
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "createdMinOffset": -106345
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "createdMinOffset": -273964
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "createdMinOffset": -212452
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -394498
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -19518
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "createdMinOffset": -21932
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "createdMinOffset": -256248
+ },
+ {
+  "followerId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "createdMinOffset": -389308
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "createdMinOffset": -35039
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "createdMinOffset": -427121
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "createdMinOffset": -401068
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "createdMinOffset": -365661
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "createdMinOffset": -258077
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -32720
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "createdMinOffset": -125768
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "createdMinOffset": -317533
+ },
+ {
+  "followerId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -151744
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "createdMinOffset": -109753
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -258413
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "createdMinOffset": -361770
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -128930
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "createdMinOffset": -327712
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "createdMinOffset": -321068
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "createdMinOffset": -226468
+ },
+ {
+  "followerId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -4981
+ },
+ {
+  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "createdMinOffset": -209008
+ },
+ {
+  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -121786
+ },
+ {
+  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "createdMinOffset": -50908
+ },
+ {
+  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "createdMinOffset": -422840
+ },
+ {
+  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -319100
+ },
+ {
+  "followerId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "createdMinOffset": -90720
+ },
+ {
+  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "createdMinOffset": -43470
+ },
+ {
+  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -184102
+ },
+ {
+  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "createdMinOffset": -214824
+ },
+ {
+  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "createdMinOffset": -321463
+ },
+ {
+  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "createdMinOffset": -101254
+ },
+ {
+  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "createdMinOffset": -76972
+ },
+ {
+  "followerId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "createdMinOffset": -198754
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "createdMinOffset": -381441
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "createdMinOffset": -336201
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "createdMinOffset": -249037
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -107042
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "createdMinOffset": -99675
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -12872
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -311049
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "createdMinOffset": -370185
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -44466
+ },
+ {
+  "followerId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -143224
+ },
+ {
+  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "createdMinOffset": -40631
+ },
+ {
+  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -414316
+ },
+ {
+  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "createdMinOffset": -66795
+ },
+ {
+  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -234946
+ },
+ {
+  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "createdMinOffset": -305623
+ },
+ {
+  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -397619
+ },
+ {
+  "followerId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "createdMinOffset": -359911
+ },
+ {
+  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "createdMinOffset": -173703
+ },
+ {
+  "followerId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "createdMinOffset": -283089
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "createdMinOffset": -178600
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
+  "createdMinOffset": -129303
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -49591
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "createdMinOffset": -425895
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "createdMinOffset": -248946
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -50163
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "createdMinOffset": -123818
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "createdMinOffset": -103377
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "createdMinOffset": -34850
+ },
+ {
+  "followerId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -54579
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "createdMinOffset": -346850
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -260137
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -72487
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "createdMinOffset": -220294
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -2462
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "createdMinOffset": -261287
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
+  "createdMinOffset": -310427
+ },
+ {
+  "followerId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -315722
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "createdMinOffset": -257584
  },
  {
   "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
   "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -47914
+  "createdMinOffset": -260489
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "createdMinOffset": -392328
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -413785
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -123134
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "createdMinOffset": -230672
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -15430
+ },
+ {
+  "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
+  "createdMinOffset": -419699
  },
  {
   "followerId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
   "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "createdMinOffset": -311688
+  "createdMinOffset": -152069
  },
  {
   "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -421050
+  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "createdMinOffset": -276384
+ },
+ {
+  "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "createdMinOffset": -297591
+ },
+ {
+  "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
+  "createdMinOffset": -51052
+ },
+ {
+  "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "createdMinOffset": -288982
+ },
+ {
+  "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
+  "createdMinOffset": -12158
+ },
+ {
+  "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "createdMinOffset": -354380
  },
  {
   "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
   "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "createdMinOffset": -248596
+  "createdMinOffset": -25579
  },
  {
   "followerId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -211713
+  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "createdMinOffset": -371505
  },
  {
   "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
-  "createdMinOffset": -349323
+  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "createdMinOffset": -352923
  },
  {
   "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
-  "createdMinOffset": -323062
- },
- {
-  "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "createdMinOffset": -343986
- },
- {
-  "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -234589
+  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "createdMinOffset": -384262
  },
  {
   "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
   "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "createdMinOffset": -72042
- },
- {
-  "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -115906
- },
- {
-  "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "createdMinOffset": -168778
- },
- {
-  "followerId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -329056
+  "createdMinOffset": -183188
  },
  {
   "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -194486
- },
- {
-  "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -430372
- },
- {
-  "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "createdMinOffset": -72558
+  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "createdMinOffset": -175876
  },
  {
   "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
   "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -88101
+  "createdMinOffset": -247296
  },
  {
   "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -139977
+  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
+  "createdMinOffset": -232996
  },
  {
-  "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "createdMinOffset": -66094
+ },
+ {
+  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -104477
+ },
+ {
+  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -175141
+ },
+ {
+  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
+  "createdMinOffset": -106893
+ },
+ {
+  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "followeeId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+  "createdMinOffset": -158839
+ },
+ {
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
   "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -369696
+  "createdMinOffset": -362050
  },
  {
-  "followerId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -402540
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
+  "createdMinOffset": -316285
  },
  {
-  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -377043
- },
- {
-  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
   "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "createdMinOffset": -326003
- },
- {
-  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "createdMinOffset": -273380
- },
- {
-  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "createdMinOffset": -113813
- },
- {
-  "followerId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -208129
- },
- {
-  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "createdMinOffset": -306038
- },
- {
-  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -301681
- },
- {
-  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -278622
- },
- {
-  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
-  "createdMinOffset": -44755
+  "createdMinOffset": -390335
  },
  {
   "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
   "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "createdMinOffset": -307791
+  "createdMinOffset": -88618
+ },
+ {
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
+  "createdMinOffset": -152511
+ },
+ {
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "createdMinOffset": -237512
+ },
+ {
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "createdMinOffset": -65874
+ },
+ {
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
+  "createdMinOffset": -368363
+ },
+ {
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -98521
+ },
+ {
+  "followerId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "createdMinOffset": -120752
  },
  {
   "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -21647
+  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
+  "createdMinOffset": -234683
+ },
+ {
+  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "createdMinOffset": -19185
+ },
+ {
+  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -180051
+ },
+ {
+  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -383497
+ },
+ {
+  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
+  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
+  "createdMinOffset": -32941
  },
  {
   "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
   "followeeId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "createdMinOffset": -105608
+  "createdMinOffset": -157427
  },
  {
   "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "createdMinOffset": -354269
- },
- {
-  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -109685
- },
- {
-  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "followeeId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "createdMinOffset": -138916
- },
- {
-  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
-  "createdMinOffset": -314061
- },
- {
-  "followerId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -96139
+  "followeeId": "0b240c1b-875a-494c-bba7-59f4664a53ac",
+  "createdMinOffset": -409914
  },
  {
   "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
   "followeeId": "f3f48634-fa58-4572-aea8-e9d7a79aa620",
-  "createdMinOffset": -105349
+  "createdMinOffset": -327118
  },
  {
   "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "fd1ebd31-d69d-4658-84ff-9831e44fa343",
-  "createdMinOffset": -394867
+  "followeeId": "5c62d50b-aee3-4972-8bb4-4503f9f22846",
+  "createdMinOffset": -131606
+ },
+ {
+  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
+  "createdMinOffset": -214282
+ },
+ {
+  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "followeeId": "407b2b34-9559-47d1-85ed-f72a9cf662e9",
+  "createdMinOffset": -33299
+ },
+ {
+  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -340835
+ },
+ {
+  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
+  "followeeId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "createdMinOffset": -104039
  },
  {
   "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
   "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -130401
+  "createdMinOffset": -192822
  },
  {
   "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "9f8a8ee1-3e6b-4875-95ad-e3978b96f360",
-  "createdMinOffset": -189399
- },
- {
-  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -66839
- },
- {
-  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
-  "createdMinOffset": -400936
- },
- {
-  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "createdMinOffset": -139921
- },
- {
-  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "3a34bd83-441a-4abe-8f6f-210579e1be4b",
-  "createdMinOffset": -418430
- },
- {
-  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "91cbe100-533f-49d5-a0bc-63c821c6dc7f",
-  "createdMinOffset": -347565
- },
- {
-  "followerId": "29795777-a3ac-4925-8d18-c4071c73988d",
-  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
-  "createdMinOffset": -217713
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "createdMinOffset": -320014
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "followeeId": "dac5d7ea-425b-4023-a5af-6cb0ae49e76d",
-  "createdMinOffset": -336404
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "createdMinOffset": -325792
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
   "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
-  "createdMinOffset": -29720
+  "createdMinOffset": -50954
+ },
+ {
+  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "followeeId": "f7ddb012-8acf-4dad-b957-ea5fa5d2501a",
+  "createdMinOffset": -83152
+ },
+ {
+  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "followeeId": "57989354-5a32-4b51-9093-76bec72d8de7",
+  "createdMinOffset": -339867
+ },
+ {
+  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -4042
  },
  {
   "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
   "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "createdMinOffset": -17877
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "createdMinOffset": -211840
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -3584
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -21074
- },
- {
-  "followerId": "143c7249-bbf7-4deb-b530-894ffbf3c148",
-  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "createdMinOffset": -314241
- },
- {
-  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
-  "createdMinOffset": -321971
- },
- {
-  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
-  "createdMinOffset": -30112
- },
- {
-  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "followeeId": "91ac69d6-92f2-4ab9-aaec-001e0080ba06",
-  "createdMinOffset": -24465
+  "createdMinOffset": -297632
  },
  {
   "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
   "followeeId": "49e70977-7c1b-49fd-90e0-87a89dafffcf",
-  "createdMinOffset": -155004
+  "createdMinOffset": -282207
  },
  {
   "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "followeeId": "420479bc-c3a8-4777-9542-8488a6202f1d",
-  "createdMinOffset": -404832
- },
- {
-  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "followeeId": "76fb75b4-941d-461f-8c91-9e3d3f760606",
-  "createdMinOffset": -20286
+  "followeeId": "6d40902b-2326-4f7b-bc4d-540bce749a4e",
+  "createdMinOffset": -284173
  },
  {
   "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
   "followeeId": "a9d96969-32bb-44ef-995a-feb5e8e325f8",
-  "createdMinOffset": -150495
+  "createdMinOffset": -77268
  },
  {
   "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
   "followeeId": "538c7747-0d56-4480-a1ec-ac098787790b",
-  "createdMinOffset": -209229
+  "createdMinOffset": -75598
  },
  {
   "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "followeeId": "0c0e5ffc-2541-4a89-a91e-a96c361f3399",
-  "createdMinOffset": -249139
+  "followeeId": "13bcfde3-b8d3-40de-b320-faa1abc0d385",
+  "createdMinOffset": -216306
  },
  {
   "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
-  "followeeId": "e69595b4-7dbf-4e68-91b5-ce17d2f2bb36",
-  "createdMinOffset": -239961
+  "followeeId": "19aaed7c-27a6-43fe-9ee1-7d47c5b5f0fb",
+  "createdMinOffset": -286044
+ },
+ {
+  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "followeeId": "7c8a88ff-c4aa-4d6e-9e65-8d9db24f74ac",
+  "createdMinOffset": -246994
+ },
+ {
+  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "followeeId": "32a983e8-b0f9-4405-ac4d-72a83d12f378",
+  "createdMinOffset": -132447
+ },
+ {
+  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "followeeId": "3b91fcac-8c82-4110-9aa8-f0654d83ff48",
+  "createdMinOffset": -316683
+ },
+ {
+  "followerId": "cd9e5805-3b3a-43c4-823f-f55eb3529ebc",
+  "followeeId": "717ea679-b802-4116-bda1-04b4daee51a3",
+  "createdMinOffset": -151912
  }
 ]
