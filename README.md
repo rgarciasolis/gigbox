@@ -80,6 +80,10 @@ Las variables `VITE_*` se incluyen en el código del navegador: no pongas secret
 
 Nota: con el adaptador mock los JSON de `/data/<conjunto>` no van dentro del bundle principal (~355 KB): se cargan bajo demanda, solo los del conjunto elegido. El conjunto reales pesa unos 4,3 MB (los conciertos, 2,6 MB). Con datos reales de servidor desaparece.
 
+## setlist.fm (función `/api/setlist`)
+
+`api/setlist.ts` es una función serverless de Vercel que busca conciertos en setlist.fm (`/api/setlist?artist=Nombre&date=DD-MM-YYYY`) y devuelve solo fecha, artista, sala y el enlace de atribución. Necesita la variable `SETLISTFM_API_KEY` en Vercel (Settings > Environment Variables); sin ella responde 503. No funciona con `npm run dev` (usa `vercel dev`). Condiciones de la API: solo uso no comercial, la clave nunca va al navegador, caché corta (10 min), no se guardan sus datos y hay que mostrar siempre el enlace de atribución (`url`) sin `nofollow`; si falta, enlazar a https://www.setlist.fm.
+
 ## Hacia iOS y Android
 
 Primero PWA o Capacitor sobre esta web; después Expo reutilizando `src/domain`, `src/data` y `src/queries`. Detalles en `docs/ROADMAP.md` (fase 5).

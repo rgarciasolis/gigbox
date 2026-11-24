@@ -1,5 +1,12 @@
 # Changelog
 
+## Función intermedia de setlist.fm (2026-11-24)
+
+- **`api/setlist.ts`:** busca conciertos por artista (y fecha opcional) y devuelve fecha, artista, sala y enlace de atribución. No devuelve ni usa los temas del setlist.
+- **Condiciones de setlist.fm:** clave solo en el servidor (`SETLISTFM_API_KEY`, ver `.env.example`), caché de 10 minutos, sin guardar datos, solo uso no comercial.
+- **`vercel.json`:** la regla de reescritura a `index.html` excluye `/api/`.
+- Aún no hay interfaz que la use. Probada solo con respuestas simuladas.
+
 ## Datos bajo demanda y selector reales/dummy (2026-11-24)
 
 - **Dos conjuntos:** `npm run seed` genera `data/reales/` (Songkick y Excel) y `data/dummy/` (todo inventado: 120 artistas, 40 salas, 300 conciertos). El conjunto reales es idéntico al anterior (mismo md5).
