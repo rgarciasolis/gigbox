@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 // Genera los datos dummy en /data/*.json de forma reproducible.
 //
-//   npm run seed                 -> seed por defecto (42)
+//   npm run seed                 -> genera data/reales y data/dummy con la semilla 42
 //   node scripts/seed.mjs --seed=7
+//   node scripts/seed.mjs --dataset=dummy   (solo uno de los dos)
 //
 // Las fechas se guardan RELATIVAS A HOY (dayOffset / minutos) y el adaptador mock las
 // convierte a fechas reales al arrancar, asi los datos nunca quedan "viejos".
@@ -13,11 +14,23 @@
 // si existe data/source/artists.json (lista curada de artistas reales, o la que genera `npm run scrape:artists` desde Kulturklik) se usan
 // esos nombres; si faltan para llegar a 120, se completan con nombres inventados.
 
+import { execFileSync } from 'node:child_process'
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const OUT = join(dirname(fileURLToPath(import.meta.url)), '..', 'data')
+const DATASETS = ['reales', 'dummy']
+const datasetArg = process.argv.find((a) => a.startsWith('--dataset='))
+if (!datasetArg) {
+  // Sin --dataset genera los dos conjuntos (data/reales y data/dummy)
+  for (const d of DATASETS) {
+    execFileSync(process.execPath, [fileURLToPath(import.meta.url), `--dataset=${d}`, ...process.argv.slice(2)], { stdio: 'inherit' })
+  }
+  process.exit(0)
+}
+const DATASET = datasetArg.split('=')[1]
+if (!DATASETS.includes(DATASET)) throw new Error(`--dataset debe ser ${DATASETS.join(' o ')}`)
+const OUT = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', DATASET)
 const seedArg = process.argv.find((a) => a.startsWith('--seed='))
 const SEED = seedArg ? Number(seedArg.split('=')[1]) : 42
 
@@ -191,7 +204,8 @@ const ME = users[0]
 
 // Datos reales (Songkick), opcionales
 const SRC = join(dirname(fileURLToPath(import.meta.url)), '..', 'data/source')
-const SK = ['venues', 'artists', 'events'].every((n) => existsSync(join(SRC, `songkick-${n}.json`)))
+// En el conjunto "dummy" no se usan: todo es inventado (con la lista curada de artistas si existe)
+const SK = DATASET === 'reales' && ['venues', 'artists', 'events'].every((n) => existsSync(join(SRC, `songkick-${n}.json`)))
   ? Object.fromEntries(['venues', 'artists', 'events'].map((n) => [n, JSON.parse(readFileSync(join(SRC, `songkick-${n}.json`), 'utf8'))]))
   : null
 // Eventos reales del Excel (`node scripts/import-excel-events.mjs`): opcionales, se suman a los de Songkick

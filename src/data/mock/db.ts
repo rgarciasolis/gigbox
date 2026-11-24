@@ -1,24 +1,10 @@
 // "Base de datos" en memoria del adaptador mock.
-// - Datos estaticos (usuarios, artistas, salas, conciertos): se cargan de /data/*.json.
+// - Datos estaticos (usuarios, artistas, salas, conciertos): se cargan bajo demanda de /data/<conjunto>/*.json.
 // - Datos mutables (asistencias, listas, follows...): se copian a memoria y se persisten en
 //   localStorage para que los cambios sobrevivan a recargar la pagina.
 // Las fechas del JSON son relativas a hoy y se convierten aqui a fechas ISO reales.
 
-import usersRaw from '../../../data/users.json'
-import artistsRaw from '../../../data/artists.json'
-import venuesRaw from '../../../data/venues.json'
-import gigsRaw from '../../../data/gigs.json'
-import attendancesRaw from '../../../data/attendances.json'
-import tagsRaw from '../../../data/tags.json'
-import gigslistsRaw from '../../../data/gigslists.json'
-import followsRaw from '../../../data/follows.json'
-import activitiesRaw from '../../../data/activities.json'
-import gigLikesRaw from '../../../data/gigLikes.json'
-import reviewLikesRaw from '../../../data/reviewLikes.json'
-import favoritesRaw from '../../../data/favorites.json'
-import artistFollowsRaw from '../../../data/artistFollows.json'
-import notificationsRaw from '../../../data/notifications.json'
-import metaRaw from '../../../data/meta.json'
+import { DATASET, loadDataset } from './dataset'
 
 import { DEFAULT_NOTIFICATION_RADIUS_KM } from '@/domain/types'
 import type {
@@ -37,6 +23,26 @@ import type {
   User,
   Venue,
 } from '@/domain/types'
+
+// Se carga solo el conjunto elegido (reales o dummy), en trozos aparte y bajo demanda.
+const raw = await loadDataset(DATASET)
+const {
+  users: usersRaw,
+  artists: artistsRaw,
+  venues: venuesRaw,
+  gigs: gigsRaw,
+  attendances: attendancesRaw,
+  tags: tagsRaw,
+  gigslists: gigslistsRaw,
+  follows: followsRaw,
+  activities: activitiesRaw,
+  gigLikes: gigLikesRaw,
+  reviewLikes: reviewLikesRaw,
+  favorites: favoritesRaw,
+  artistFollows: artistFollowsRaw,
+  notifications: notificationsRaw,
+  meta: metaRaw,
+} = raw
 
 const NOW = Date.now()
 
@@ -101,7 +107,7 @@ export const gigById = new Map(gigs.map((g) => [g.id, g]))
 // La clave incluye una huella de los datos del seed: si se regeneran (npm run seed, artistas nuevos...),
 // el estado guardado en el navegador referencia ids que ya no existen y rompe la app. Con otra clave se descarta solo.
 const DATA_SIG = `${gigs.length}.${artists.length}.${venues.length}.${gigs[0]?.id ?? ''}.${artists[0]?.id ?? ''}`
-const STORAGE_KEY = `concis.mock.state.v1.${[...DATA_SIG].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`
+const STORAGE_KEY = `concis.mock.state.v1.${DATASET}.${[...DATA_SIG].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`
 
 // ---- Datos mutables
 export interface MockState {

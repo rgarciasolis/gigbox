@@ -1,0 +1,362 @@
+[
+ {
+  "id": "709377c0-a034-4b41-81aa-135d7a6b8c6c",
+  "name": "Sala Candil",
+  "address": "Calle del Carmen 31",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42188,
+  "lng": -3.719
+ },
+ {
+  "id": "04964e5a-0c09-403b-beec-4cf645581533",
+  "name": "Auditorio Delta",
+  "address": "Calle Real 10",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43471,
+  "lng": -3.70722
+ },
+ {
+  "id": "59ad9e71-ef9d-4c6e-80f2-61d6abf9a0d9",
+  "name": "Auditorio Vereda",
+  "address": "Calle del Carmen 66",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.42937,
+  "lng": -3.69614
+ },
+ {
+  "id": "d01384ea-1e76-43ee-8e62-1c337f17bbf8",
+  "name": "Café Mercurio",
+  "address": "Calle del Puerto 54",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.43541,
+  "lng": -3.69703
+ },
+ {
+  "id": "28e4a49d-9f59-433d-a1dc-edcc497cd6e4",
+  "name": "Fábrica Marea",
+  "address": "Calle de San Roque 35",
+  "city": "Madrid",
+  "country": "España",
+  "lat": 40.41123,
+  "lng": -3.71657
+ },
+ {
+  "id": "a5ce09f6-a030-4656-a2d7-7c414484bf82",
+  "name": "Auditorio Panorama",
+  "address": "Calle de la Estación 2",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.39842,
+  "lng": 2.17931
+ },
+ {
+  "id": "5ad24f2b-4e8b-433e-a52b-7911b231b3bd",
+  "name": "Sala Órbita",
+  "address": "Calle Real 57",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37785,
+  "lng": 2.15819
+ },
+ {
+  "id": "3f8d0d5c-c14b-4b29-8211-5b64c3385a5d",
+  "name": "Sala Solsticio",
+  "address": "Calle Mayor 45",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.37029,
+  "lng": 2.15248
+ },
+ {
+  "id": "26725de4-d0c8-4c89-867b-3486d036f1f1",
+  "name": "Café Atlántico",
+  "address": "Calle del Río 31",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.38305,
+  "lng": 2.16887
+ },
+ {
+  "id": "bc1f1c23-8d59-4c62-8e56-87f3f88d01d8",
+  "name": "Fábrica Brasa",
+  "address": "Calle del Carmen 5",
+  "city": "Barcelona",
+  "country": "España",
+  "lat": 41.40365,
+  "lng": 2.17868
+ },
+ {
+  "id": "a074dc57-189f-448d-aa9a-2f4211b9c4b7",
+  "name": "Auditorio Cobre",
+  "address": "Calle del Río 58",
+  "city": "Bilbao",
+  "country": "España",
+  "lat": 43.27469,
+  "lng": -2.94194
+ },
+ {
+  "id": "5bb2a711-3fac-4fce-930e-045f67232398",
+  "name": "Nave Ágora",
+  "address": "Calle Nueva 12",
+  "city": "Bilbao",
+  "country": "España",
+  "lat": 43.27306,
+  "lng": -2.95192
+ },
+ {
+  "id": "0ef346fb-9da1-4719-8af0-7efc89b360a2",
+  "name": "Auditorio Boreal",
+  "address": "Calle Real 15",
+  "city": "Bilbao",
+  "country": "España",
+  "lat": 43.28151,
+  "lng": -2.91737
+ },
+ {
+  "id": "46455ad4-c5a7-47f1-b200-5b83553fa30a",
+  "name": "Auditorio Cascada",
+  "address": "Calle del Carmen 43",
+  "city": "Bilbao",
+  "country": "España",
+  "lat": 43.25903,
+  "lng": -2.95015
+ },
+ {
+  "id": "801221e4-f697-4b28-b38a-3a5e7a3b0741",
+  "name": "Nave Ribera",
+  "address": "Calle de la Estación 23",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.47147,
+  "lng": -0.37963
+ },
+ {
+  "id": "085d1e66-2097-4f6f-aed6-f67b8b469991",
+  "name": "Café Eclipse",
+  "address": "Calle de la Estación 58",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.46152,
+  "lng": -0.38554
+ },
+ {
+  "id": "906306e9-39b2-4ad0-88e6-386dd5096d55",
+  "name": "Nave Umbral",
+  "address": "Calle de San Roque 5",
+  "city": "Valencia",
+  "country": "España",
+  "lat": 39.47323,
+  "lng": -0.39521
+ },
+ {
+  "id": "e8d1d09b-c567-4f85-960a-daa7e3a7e1b5",
+  "name": "Fábrica Tinta",
+  "address": "Calle Mayor 57",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.39542,
+  "lng": -5.98023
+ },
+ {
+  "id": "625cf06a-769c-4398-90d4-59b31a3892e1",
+  "name": "Auditorio Nácar",
+  "address": "Calle de la Estación 26",
+  "city": "Sevilla",
+  "country": "España",
+  "lat": 37.39572,
+  "lng": -5.99132
+ },
+ {
+  "id": "c4da9675-3cfa-401a-8d07-86352a891f40",
+  "name": "Nave Cantera",
+  "address": "Calle Real 76",
+  "city": "Zaragoza",
+  "country": "España",
+  "lat": 41.6683,
+  "lng": -0.8762
+ },
+ {
+  "id": "985e2341-0fae-4bdf-bb9e-e24889c449cf",
+  "name": "Café Bruma",
+  "address": "Calle del Carmen 20",
+  "city": "Zaragoza",
+  "country": "España",
+  "lat": 41.6373,
+  "lng": -0.89079
+ },
+ {
+  "id": "94240bb8-b87b-48db-94ff-7615f42a3c13",
+  "name": "Club Resol",
+  "address": "Calle del Carmen 79",
+  "city": "Málaga",
+  "country": "España",
+  "lat": 36.71192,
+  "lng": -4.42232
+ },
+ {
+  "id": "b0fe3abe-6d01-4481-b15a-51008915def4",
+  "name": "Auditorio Pleamar",
+  "address": "Calle del Río 17",
+  "city": "Málaga",
+  "country": "España",
+  "lat": 36.71965,
+  "lng": -4.42057
+ },
+ {
+  "id": "8627a244-2b51-4d17-afc7-ad85ee0bcaa9",
+  "name": "Fábrica Lunar",
+  "address": "Calle de las Flores 35",
+  "city": "Granada",
+  "country": "España",
+  "lat": 37.15778,
+  "lng": -3.60099
+ },
+ {
+  "id": "ab954a4e-0652-4f74-852a-95b93f1b08e6",
+  "name": "Sala Cometa",
+  "address": "Calle del Río 46",
+  "city": "Vigo",
+  "country": "España",
+  "lat": 42.24022,
+  "lng": -8.73769
+ },
+ {
+  "id": "77393d51-b8b6-41f1-87ca-88c5e6333319",
+  "name": "Teatro Duna",
+  "address": "Calle del Puerto 47",
+  "city": "Santander",
+  "country": "España",
+  "lat": 43.44462,
+  "lng": -3.79127
+ },
+ {
+  "id": "f8b94252-2b29-4a41-9efd-3c41690d2998",
+  "name": "Sala Taller",
+  "address": "Calle de la Luna 6",
+  "city": "Pamplona",
+  "country": "España",
+  "lat": 42.80663,
+  "lng": -1.65727
+ },
+ {
+  "id": "89ecaaf5-0170-4c31-97dc-66c05282722b",
+  "name": "Café Aurora",
+  "address": "Calle del Puerto 41",
+  "city": "Valladolid",
+  "country": "España",
+  "lat": 41.65087,
+  "lng": -4.72158
+ },
+ {
+  "id": "9ecda8c8-fcfb-4d8c-bf7b-b7ff9c7c4106",
+  "name": "Nave Faro",
+  "address": "Calle del Carmen 16",
+  "city": "San Sebastián",
+  "country": "España",
+  "lat": 43.30326,
+  "lng": -1.97181
+ },
+ {
+  "id": "d5c3b6b2-e76c-45ff-b3e8-86d683525d2b",
+  "name": "Sala Ámbar",
+  "address": "Calle de las Flores 47",
+  "city": "Cádiz",
+  "country": "España",
+  "lat": 36.52553,
+  "lng": -6.27296
+ },
+ {
+  "id": "ff88cb9b-82d9-423e-9765-d52024e39577",
+  "name": "Club Hélice",
+  "address": "Calle de la Luna 19",
+  "city": "Murcia",
+  "country": "España",
+  "lat": 37.98762,
+  "lng": -1.14936
+ },
+ {
+  "id": "79ef420f-3405-463f-b326-b95b452ffeb9",
+  "name": "Nave Zenit",
+  "address": "Calle del Río 51",
+  "city": "Gijón",
+  "country": "España",
+  "lat": 43.52443,
+  "lng": -5.66953
+ },
+ {
+  "id": "c9eafefa-4a5c-4cb6-9435-1a997964a734",
+  "name": "Fábrica Hangar",
+  "address": "Calle de la Luna 35",
+  "city": "A Coruña",
+  "country": "España",
+  "lat": 43.37368,
+  "lng": -8.40667
+ },
+ {
+  "id": "6b56c496-32ec-4588-aa08-a71b9e21d414",
+  "name": "Auditorio Mirador",
+  "address": "Calle del Puerto 28",
+  "city": "Alicante",
+  "country": "España",
+  "lat": 38.35428,
+  "lng": -0.4925
+ },
+ {
+  "id": "7c6863f7-a18c-442f-a08d-213514464109",
+  "name": "Club Cierzo",
+  "address": "Calle Mayor 62",
+  "city": "Córdoba",
+  "country": "España",
+  "lat": 37.86958,
+  "lng": -4.78918
+ },
+ {
+  "id": "0eec0127-fab2-4a49-aa8e-2a98e24190ed",
+  "name": "Fábrica Fragua",
+  "address": "Calle del Puerto 78",
+  "city": "Salamanca",
+  "country": "España",
+  "lat": 40.96139,
+  "lng": -5.66574
+ },
+ {
+  "id": "7f2dcfd1-e57a-49b8-a77a-1109a2b5ed0a",
+  "name": "Fábrica Almacén",
+  "address": "Calle de las Flores 8",
+  "city": "Lisboa",
+  "country": "Portugal",
+  "lat": 38.70385,
+  "lng": -9.15587
+ },
+ {
+  "id": "e4387764-ae44-4769-b0b8-5a3c4a410f3f",
+  "name": "Club Vértice",
+  "address": "Calle de la Luna 28",
+  "city": "París",
+  "country": "Francia",
+  "lat": 48.8765,
+  "lng": 2.36086
+ },
+ {
+  "id": "32345c11-05cb-4870-957a-60a5e8670270",
+  "name": "Auditorio Kiosko",
+  "address": "Calle Mayor 18",
+  "city": "Londres",
+  "country": "Reino Unido",
+  "lat": 51.51249,
+  "lng": -0.13183
+ },
+ {
+  "id": "d4bafb24-2cca-4714-b615-69fb246f091c",
+  "name": "Café Trama",
+  "address": "Calle Real 73",
+  "city": "Berlín",
+  "country": "Alemania",
+  "lat": 52.50969,
+  "lng": 13.41773
+ }
+]

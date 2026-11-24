@@ -1,0 +1,602 @@
+[
+ {
+  "id": "1e0c3448-8faa-4697-8af2-0ec308a7c1d6",
+  "name": "Platero y Tú",
+  "genre": "Rock"
+ },
+ {
+  "id": "2ffaba60-4c3a-4ba2-b8dc-3d903ae485a1",
+  "name": "Extremoduro",
+  "genre": "Rock"
+ },
+ {
+  "id": "48123d22-b750-49ab-89c2-c06595176b7f",
+  "name": "Los Enemigos",
+  "genre": "Rock"
+ },
+ {
+  "id": "9c8ea2ee-06f7-4874-a5e4-4c83b5a9e635",
+  "name": "Loquillo",
+  "genre": "Rock"
+ },
+ {
+  "id": "5bc7e409-e8ad-4ab7-94d1-6b0ca67165ef",
+  "name": "Los Suaves",
+  "genre": "Rock"
+ },
+ {
+  "id": "4d0eba0f-2023-4fd4-80fb-ef6dfa2c1884",
+  "name": "Leiva",
+  "genre": "Rock"
+ },
+ {
+  "id": "8462bdaa-8a88-4131-9231-e6ab7dd1ffd3",
+  "name": "Dover",
+  "genre": "Rock"
+ },
+ {
+  "id": "757a84a6-7203-471f-9390-a224baf5572d",
+  "name": "Vetusta Morla",
+  "genre": "Rock"
+ },
+ {
+  "id": "312449b3-354e-4522-8c4f-27daa6e0a9bf",
+  "name": "Izal",
+  "genre": "Indie"
+ },
+ {
+  "id": "ee3f5431-f72b-473d-a2de-7862271980a5",
+  "name": "Sidonie",
+  "genre": "Indie"
+ },
+ {
+  "id": "2e2324c0-aef9-4393-a036-bf0a21a180b7",
+  "name": "Love of Lesbian",
+  "genre": "Indie"
+ },
+ {
+  "id": "7ffc83ec-6a85-447f-b78b-0102e8e63c07",
+  "name": "Hinds",
+  "genre": "Indie"
+ },
+ {
+  "id": "4c70a742-d8bf-45d0-a1e4-2c85ee9c8a92",
+  "name": "Biznaga",
+  "genre": "Indie"
+ },
+ {
+  "id": "751af03c-2ed6-43f6-b052-90e885a8eba7",
+  "name": "Triángulo de Amor Bizarro",
+  "genre": "Indie"
+ },
+ {
+  "id": "617b8fd8-ebd1-44a8-a7d7-363f0aaae743",
+  "name": "Carolina Durante",
+  "genre": "Indie"
+ },
+ {
+  "id": "0830d957-21a1-4201-82b0-d6d1086e3de3",
+  "name": "Elefante",
+  "genre": "Indie"
+ },
+ {
+  "id": "072f0498-cf58-40e0-ac9f-82d9025367a3",
+  "name": "La Bien Querida",
+  "genre": "Indie"
+ },
+ {
+  "id": "424d7bce-7a39-433d-999f-a0ed9d7883e6",
+  "name": "Arctic Monkeys",
+  "genre": "Indie"
+ },
+ {
+  "id": "fecf173c-c4d4-495b-bdab-a3aae14ba6bc",
+  "name": "The Strokes",
+  "genre": "Indie"
+ },
+ {
+  "id": "15f411be-8590-4abd-bea2-8c61d574b11b",
+  "name": "Phoenix",
+  "genre": "Indie"
+ },
+ {
+  "id": "960cbab5-452d-482f-9051-6216c1fe9104",
+  "name": "Tame Impala",
+  "genre": "Indie"
+ },
+ {
+  "id": "db959b9d-5b5f-4ae9-b109-f092fb64ad7f",
+  "name": "Beach House",
+  "genre": "Indie"
+ },
+ {
+  "id": "164c8ca1-cdae-4125-a271-f8b40d8301da",
+  "name": "Wilco",
+  "genre": "Indie"
+ },
+ {
+  "id": "66469282-2342-46c2-944f-1d374496d9e0",
+  "name": "Siniestro Total",
+  "genre": "Punk"
+ },
+ {
+  "id": "3cbb3be6-d42b-4814-bc39-f5788dcc10bc",
+  "name": "Parálisis Permanente",
+  "genre": "Punk"
+ },
+ {
+  "id": "f923c5b1-6710-4b6a-8a59-183e81b56d05",
+  "name": "Ramones",
+  "genre": "Punk"
+ },
+ {
+  "id": "a0eb63f2-341a-43b7-a2db-dfe2488217d9",
+  "name": "Dropkick Murphys",
+  "genre": "Punk"
+ },
+ {
+  "id": "f2d92654-9a2f-4540-ae55-b0e4618c5e48",
+  "name": "Green Day",
+  "genre": "Punk"
+ },
+ {
+  "id": "eb4c9eec-33d5-450f-9636-4aa5a9dac0d8",
+  "name": "The Clash",
+  "genre": "Punk"
+ },
+ {
+  "id": "4dc903a5-9f77-4d66-a4c1-18d3ac17f143",
+  "name": "Rancid",
+  "genre": "Punk"
+ },
+ {
+  "id": "3aed8c01-63eb-4078-823c-66f03a2ded01",
+  "name": "Sex Pistols",
+  "genre": "Punk"
+ },
+ {
+  "id": "ade15c26-173a-42e1-9f88-2ac22a5cd35d",
+  "name": "Refused",
+  "genre": "Hardcore"
+ },
+ {
+  "id": "3fe3fc34-3101-4f15-bce8-1aae85a1925b",
+  "name": "Minor Threat",
+  "genre": "Hardcore"
+ },
+ {
+  "id": "62d3f191-00c4-40fb-aac3-039dff53a8b8",
+  "name": "Converge",
+  "genre": "Hardcore"
+ },
+ {
+  "id": "cf129f61-c203-41a3-98b8-b7af5c85ba1e",
+  "name": "Turnstile",
+  "genre": "Hardcore"
+ },
+ {
+  "id": "4be78cf5-5a86-4db4-b9b9-80540a5f63cd",
+  "name": "Descendents",
+  "genre": "Hardcore"
+ },
+ {
+  "id": "e33d5a3f-f79d-4379-b019-6954c1357d0b",
+  "name": "Gorilla Biscuits",
+  "genre": "Hardcore"
+ },
+ {
+  "id": "44799d0d-514c-44d3-9eae-77d9e2218b5f",
+  "name": "Aiva",
+  "genre": "Electronica"
+ },
+ {
+  "id": "d0914518-8d95-45fc-bcba-84cb7cc9ca76",
+  "name": "Kraftwerk",
+  "genre": "Electronica"
+ },
+ {
+  "id": "4c996b56-6366-412f-a7b0-c5dbfada4954",
+  "name": "Moderat",
+  "genre": "Electronica"
+ },
+ {
+  "id": "77df046d-c0a8-4a7e-9f2a-77674c34c02a",
+  "name": "Caribou",
+  "genre": "Electronica"
+ },
+ {
+  "id": "376310bc-f29e-4f8e-bd7e-39f5fb049ed1",
+  "name": "Four Tet",
+  "genre": "Electronica"
+ },
+ {
+  "id": "7e2bf71c-4bfa-4665-8999-533a8f64ce23",
+  "name": "Jon Hopkins",
+  "genre": "Electronica"
+ },
+ {
+  "id": "6c785655-cf2c-4789-a24d-9ed67cfa6566",
+  "name": "Bonobo",
+  "genre": "Electronica"
+ },
+ {
+  "id": "88664c14-330e-43ff-af55-61c6d0275aea",
+  "name": "Justice",
+  "genre": "Electronica"
+ },
+ {
+  "id": "7a5f2700-ed7f-43cd-8af1-ac8d957a4c0e",
+  "name": "Kase.O",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "565c4c36-7834-4202-81bc-96dc2841796b",
+  "name": "Natos y Waor",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "1930ed3c-71e3-46ac-98c4-49c95a9557f8",
+  "name": "Rosalía",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "71b50bd3-0b11-4ef7-b412-268db50f70f4",
+  "name": "Foyone",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "0bd9fdaa-60d6-4b19-9293-8c62fbba618b",
+  "name": "Kendrick Lamar",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "e17dadbe-c176-43f2-ae59-aa14f71761c8",
+  "name": "Tyler, the Creator",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "aa45e2a8-7542-4a89-a82f-325ff974a67c",
+  "name": "Nach",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "5329b786-8089-4045-907a-8b150e7ff6ce",
+  "name": "Violadores del Verso",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "a3f93c6b-15b0-464d-870c-ee3d9fe44840",
+  "name": "Kamasi Washington",
+  "genre": "Jazz"
+ },
+ {
+  "id": "c58df5c5-5980-4a6e-a19d-6f732aa133e5",
+  "name": "Esperanza Spalding",
+  "genre": "Jazz"
+ },
+ {
+  "id": "da463594-38ed-430c-998a-e9d98c08e372",
+  "name": "Chano Domínguez",
+  "genre": "Jazz"
+ },
+ {
+  "id": "b72843ea-1e5c-4b8e-b925-ab70d4115b3e",
+  "name": "Madeleine Peyroux",
+  "genre": "Jazz"
+ },
+ {
+  "id": "fad320ae-c2ce-4047-a67e-7c254019032a",
+  "name": "Brad Mehldau",
+  "genre": "Jazz"
+ },
+ {
+  "id": "eed7b4f9-979e-44d8-be00-eb99d02a9733",
+  "name": "Jorge Pardo",
+  "genre": "Jazz"
+ },
+ {
+  "id": "5ba28beb-4203-4144-a5fa-ea78f278eb67",
+  "name": "Gregory Porter",
+  "genre": "Jazz"
+ },
+ {
+  "id": "82c6136e-16a7-49b7-ba5e-f15294d535e4",
+  "name": "Amparanoia",
+  "genre": "Folk"
+ },
+ {
+  "id": "728c1402-c3b0-4a75-9d44-a9de041bdd39",
+  "name": "Mumford & Sons",
+  "genre": "Folk"
+ },
+ {
+  "id": "daf36509-a401-4c58-9129-5bffc2472d9b",
+  "name": "Fleet Foxes",
+  "genre": "Folk"
+ },
+ {
+  "id": "5cb8eda2-cc42-48ae-bef4-981f0e734d3c",
+  "name": "Bon Iver",
+  "genre": "Folk"
+ },
+ {
+  "id": "6f81be51-2ab3-45a4-bd46-2696897c1589",
+  "name": "Iron & Wine",
+  "genre": "Folk"
+ },
+ {
+  "id": "fe6ca7f7-91e2-47fc-aeb3-33767db7bd6a",
+  "name": "Alaska y Dinarama",
+  "genre": "Pop"
+ },
+ {
+  "id": "1ae1bfbc-a182-4be9-97f5-499a24456f93",
+  "name": "Amaral",
+  "genre": "Pop"
+ },
+ {
+  "id": "938afee1-1897-4396-8e38-0d2a3f34c771",
+  "name": "Fangoria",
+  "genre": "Pop"
+ },
+ {
+  "id": "972eff1b-f4d7-44e2-915a-3fe4f57376b9",
+  "name": "Rigoberta Bandini",
+  "genre": "Pop"
+ },
+ {
+  "id": "9fe78cbb-4bd7-4e8c-92a7-0ca35b961fd2",
+  "name": "Aitana",
+  "genre": "Pop"
+ },
+ {
+  "id": "9422a637-879f-4244-9663-a86c712cca1e",
+  "name": "Dua Lipa",
+  "genre": "Pop"
+ },
+ {
+  "id": "9d09e856-01fd-414a-863e-7755716609b8",
+  "name": "Billie Eilish",
+  "genre": "Pop"
+ },
+ {
+  "id": "f7572303-e401-464e-9414-ac24cf14b933",
+  "name": "Lorde",
+  "genre": "Pop"
+ },
+ {
+  "id": "2a6ca75e-518a-4668-8bde-d567a400e20b",
+  "name": "Mala Rodríguez",
+  "genre": "Pop"
+ },
+ {
+  "id": "2db3136b-efb5-4c4a-98a5-29aaa60163cd",
+  "name": "Metallica",
+  "genre": "Metal"
+ },
+ {
+  "id": "838e8d3f-9fd9-433f-a268-8a4340174de9",
+  "name": "Iron Maiden",
+  "genre": "Metal"
+ },
+ {
+  "id": "864362fc-8804-4315-bb02-b26109d67c1a",
+  "name": "Gojira",
+  "genre": "Metal"
+ },
+ {
+  "id": "1bcbad63-ea7a-470f-ae9d-f14f4aebf84d",
+  "name": "Mastodon",
+  "genre": "Metal"
+ },
+ {
+  "id": "78b82e3c-3133-4b5d-b628-a94b5b135ec8",
+  "name": "Opeth",
+  "genre": "Metal"
+ },
+ {
+  "id": "4dcb67bc-9511-47d5-8ff7-e3e007c5ea8f",
+  "name": "Angelus Apatrida",
+  "genre": "Metal"
+ },
+ {
+  "id": "98167b2a-0d86-4387-8e1b-8f0f1b6740cc",
+  "name": "Ghost",
+  "genre": "Metal"
+ },
+ {
+  "id": "f8091470-7f04-4f30-99ad-82def83afe6c",
+  "name": "Leon Bridges",
+  "genre": "Soul"
+ },
+ {
+  "id": "e41f91c0-3525-4c2d-a938-cea45f52b45f",
+  "name": "Michael Kiwanuka",
+  "genre": "Soul"
+ },
+ {
+  "id": "9dcc102b-d40d-4458-a49a-c84d01c56cd7",
+  "name": "Alabama Shakes",
+  "genre": "Soul"
+ },
+ {
+  "id": "9642f01f-333b-4283-bf9e-a6fd36bd7518",
+  "name": "Sharon Jones",
+  "genre": "Soul"
+ },
+ {
+  "id": "db797486-d133-4dda-b592-5945d0d77cec",
+  "name": "Cory Henry",
+  "genre": "Soul"
+ },
+ {
+  "id": "a616274b-f0ff-4377-8df8-14f7fb2a4470",
+  "name": "Lido Pimienta",
+  "genre": "Soul"
+ },
+ {
+  "id": "3fc8ff4c-be54-4b46-9288-76b895bee5f5",
+  "name": "Bob Marley",
+  "genre": "Reggae"
+ },
+ {
+  "id": "670d9155-95ca-42d3-9a64-b31856d4c72b",
+  "name": "Alborosie",
+  "genre": "Reggae"
+ },
+ {
+  "id": "1b73846b-50b9-4d10-bedb-a7c15d217d79",
+  "name": "Chronixx",
+  "genre": "Reggae"
+ },
+ {
+  "id": "00c4e035-f0d7-46e5-9d0a-cc9011c0bc98",
+  "name": "Ska-P",
+  "genre": "Reggae"
+ },
+ {
+  "id": "d5bf79ee-151c-44cf-9771-14d9aa1f35f7",
+  "name": "Los Cafres",
+  "genre": "Reggae"
+ },
+ {
+  "id": "2ef0bcbe-44f8-4d1b-8b1e-eda626b52dee",
+  "name": "Gentleman",
+  "genre": "Reggae"
+ },
+ {
+  "id": "f5733284-7679-4bff-b33c-5a6e4c34e3b0",
+  "name": "Charlotte de Witte",
+  "genre": "Techno"
+ },
+ {
+  "id": "3d054778-d884-420c-b222-d818c9ed8739",
+  "name": "Richie Hawtin",
+  "genre": "Techno"
+ },
+ {
+  "id": "34070db8-37bd-4f0e-a19b-5a08039c86ba",
+  "name": "Amelie Lens",
+  "genre": "Techno"
+ },
+ {
+  "id": "fc820b7a-c9e8-4aa0-a660-ffc6d2afa3a6",
+  "name": "Nina Kraviz",
+  "genre": "Techno"
+ },
+ {
+  "id": "0600d209-0251-41fb-9754-f14f8f7d0b90",
+  "name": "Jeff Mills",
+  "genre": "Techno"
+ },
+ {
+  "id": "855a8369-5488-40a5-8d8d-01ae011dbc10",
+  "name": "Oscar Mulero",
+  "genre": "Techno"
+ },
+ {
+  "id": "1d6b13e5-ebdd-46a5-a9dc-5ec291253384",
+  "name": "Estrella Morente",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "id": "03a63b1b-55d8-4233-b0e7-ce174ff53f51",
+  "name": "Kiki Morente",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "id": "f16ea05a-f363-42a5-bb2c-2c3666acba6a",
+  "name": "Diego del Morao",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "id": "82008f8f-d95e-4953-9c25-d05735780df8",
+  "name": "Niña Pastori",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "id": "3f4bf26f-8dab-446b-9f78-f85226fcd7db",
+  "name": "Los Delinqüentes",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "id": "6ff2f804-0992-45fc-8532-9eabcef8bcfb",
+  "name": "Muchachito Bombo Infierno",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "id": "bf49fb2e-30de-43a8-88d0-5ec97fd8fdf0",
+  "name": "Rodrigo Cuevas",
+  "genre": "Flamenco fusion"
+ },
+ {
+  "id": "b44b0a94-b8cc-4f80-bf23-13791bc38213",
+  "name": "Joaquín Sabina",
+  "genre": "Rock"
+ },
+ {
+  "id": "85af1dc9-395a-48ed-b1dd-1c4d17c2397e",
+  "name": "Los Planetas",
+  "genre": "Indie"
+ },
+ {
+  "id": "b66e4783-2031-4bca-b8b3-c1cf29eca112",
+  "name": "Viva Suecia",
+  "genre": "Indie"
+ },
+ {
+  "id": "133d02c1-74f6-4d57-93b9-894f2b15eca0",
+  "name": "Radiohead",
+  "genre": "Indie"
+ },
+ {
+  "id": "e40ac4ec-c308-4a15-acbb-e852f04727b7",
+  "name": "Pixies",
+  "genre": "Indie"
+ },
+ {
+  "id": "8ea89d13-1ec1-4b47-8e22-88a204f65560",
+  "name": "Mogwai",
+  "genre": "Indie"
+ },
+ {
+  "id": "1aebb822-eadd-4429-87d3-76ab64bc4038",
+  "name": "Slowdive",
+  "genre": "Indie"
+ },
+ {
+  "id": "a0b629e5-d90f-4e7e-a084-c3f2f5eaee50",
+  "name": "C. Tangana",
+  "genre": "Hip hop"
+ },
+ {
+  "id": "ce18fcbd-62aa-4cee-9714-698f94b5e71a",
+  "name": "Nils Frahm",
+  "genre": "Electronica"
+ },
+ {
+  "id": "d9690dd9-2e5f-4140-94c6-354a75d396ac",
+  "name": "Khruangbin",
+  "genre": "Soul"
+ },
+ {
+  "id": "e8092778-c77f-47b2-9e9d-b6ca3b062201",
+  "name": "Jorge Drexler",
+  "genre": "Folk"
+ },
+ {
+  "id": "ecda975b-70a8-4956-8bbf-4029fbe62f4f",
+  "name": "Calexico",
+  "genre": "Folk"
+ },
+ {
+  "id": "d196ada3-e2a4-4389-9ec6-81d08937db71",
+  "name": "Zahara",
+  "genre": "Pop"
+ },
+ {
+  "id": "618cae19-3fba-4800-9f34-b9949cdafd3e",
+  "name": "Nick Cave & The Bad Seeds",
+  "genre": "Rock"
+ }
+]
