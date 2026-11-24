@@ -1,0 +1,17 @@
+{
+ "seed": 42,
+ "currentUserId": "a2849d73-eb43-48a9-87d0-90402c802d7c",
+ "note": "Fechas relativas a hoy: dayOffset en dias, *MinOffset en minutos respecto a \"ahora\".",
+ "counts": {
+  "users": 30,
+  "artists": 120,
+  "venues": 40,
+  "gigs": 300,
+  "attendances": 500,
+  "gigslists": 64,
+  "tags": 137,
+  "follows": 204,
+  "artistFollows": 206,
+  "notifications": 44
+ }
+}

@@ -1,6 +1,9 @@
-import { useEffect, useState } from 'react'
+import { lazy, Suspense, useEffect, useState } from 'react'
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useUnreadCount } from '@/queries'
+
+// Selector de datos (reales/dummy) del adaptador mock; se carga aparte y solo existe en modo mock.
+const DatasetSwitch = lazy(() => import('@/data/mock/DatasetSwitch'))
 
 // Destinos segun el Figma: la marca lleva a Home; la campana abre Avisos.
 const links = [
@@ -121,6 +124,13 @@ export function Layout() {
       <main className={`mx-auto ${width} px-4 pb-16 pt-10`}>
         <Outlet />
       </main>
+      {import.meta.env.VITE_DATA_ADAPTER !== 'real' && (
+        <footer className={`mx-auto ${width} border-t border-[var(--zinc-100)] px-4 py-6`}>
+          <Suspense fallback={null}>
+            <DatasetSwitch />
+          </Suspense>
+        </footer>
+      )}
     </div>
   )
 }

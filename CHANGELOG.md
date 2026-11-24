@@ -1,5 +1,12 @@
 # Changelog
 
+## Datos bajo demanda y selector reales/dummy (2026-11-24)
+
+- **Dos conjuntos:** `npm run seed` genera `data/reales/` (Songkick y Excel) y `data/dummy/` (todo inventado: 120 artistas, 40 salas, 300 conciertos). El conjunto reales es idéntico al anterior (mismo md5).
+- **Carga bajo demanda:** los JSON ya no van en el bundle principal (de 4,5 MB a ~355 KB). Cada fichero es un trozo aparte y solo se descargan los del conjunto elegido. El adaptador mock usa `await` de nivel superior (`build.target: es2022`), y `index.html` muestra "Cargando datos…" mientras llegan.
+- **Selector en el pie:** "Datos: Reales | Dummy". Cambiarlo recarga la página y se recuerda en `localStorage`. Cada conjunto guarda su propio estado (Fui, notas, listas, follows…).
+- Por defecto se abre Reales. Solo aparece con el adaptador mock.
+
 ## Eventos Excel (2026-11-24)
 
 Añade los eventos reales del Excel (pasados y futuros) como datos de ejemplo.
