@@ -5,13 +5,13 @@
  "counts": {
   "users": 30,
   "artists": 9352,
-  "venues": 946,
-  "gigs": 10814,
+  "venues": 808,
+  "gigs": 10790,
   "attendances": 500,
-  "gigslists": 61,
-  "tags": 140,
-  "follows": 182,
-  "artistFollows": 195,
-  "notifications": 35
+  "gigslists": 70,
+  "tags": 141,
+  "follows": 197,
+  "artistFollows": 198,
+  "notifications": 43
  }
 }

@@ -1,5 +1,14 @@
 # Changelog
 
+## Salas sin duplicados y con su ciudad (2026-11-24)
+
+- **Ciudad primero:** las salas se comparan siempre dentro de la misma ciudad (`scripts/lib/venue-key.mjs`, usada por la importación del Excel y por el seed). La clave ignora mayúsculas, tildes, puntuación, el contenido entre paréntesis, la palabra "Madrid" y palabras genéricas (Sala, Club, Teatro, Auditorio, Café, Bar, artículos...). "Sala But", "But" y "Sala But (Madrid)" son la misma sala.
+- **Ciudades corregidas:** el Excel pone "Madrid" en todas las salas. `data/source/venue-cities.json` asigna su ciudad real a 35 nombres, como "Dabadaba (Donosti)" (San Sebastián), "Auditorio Miguel Ríos (Rivas Vaciamadrid)" o "Plaza Toros Getafe". Hay 29 ciudades y municipios con coordenadas aproximadas. Así las salas casan con las de Songkick de su ciudad.
+- **Alias:** `data/source/venue-aliases.json` unifica casos que la clave no cubre (el Palacio de Deportes, Wizink Center y Movistar Arena como una sola sala, "La Sala" del Movistar Arena, Ca2M Móstoles, Wurlitzer) y marca nombres que no deben unirse.
+- **Songkick también:** las salas duplicadas dentro de Songkick se unifican en el seed (por ejemplo "Copérnico" y "Sala Copérnico").
+- **Resultado:** de 946 a 808 salas (138 duplicados unidos), 0 claves repetidas por ciudad. Eventos ya presentes en Songkick: de 8 a 32. Conciertos: 10.790. El conjunto dummy no cambia.
+- **No se unen** salas parecidas pero distintas (Razzmatazz 2 y 3, Pabellón 2 y 12 de IFEMA, Nave 10 y 11 de Matadero).
+
 ## Artistas sin duplicados (2026-11-24)
 
 Corrige duplicados como "Lagos de Hinault", "Lo Lagos de Hinault" y "Los Lagos de Hinault", que la primera normalización no detectaba.

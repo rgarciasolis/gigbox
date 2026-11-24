@@ -19,6 +19,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { createNormalizer } from './lib/artist-key.mjs'
+import { createVenueNormalizer } from './lib/venue-key.mjs'
 
 const DATASETS = ['reales', 'dummy']
 const datasetArg = process.argv.find((a) => a.startsWith('--dataset='))
@@ -267,11 +268,25 @@ if (SK) {
 
 const venues = []
 const skVenueId = new Map()
+const skVenuesUnique = []
 if (SK) {
+  // Salas de Songkick sin duplicados: misma ciudad y misma clave (ver scripts/lib/venue-key.mjs) = misma sala
+  const vn = createVenueNormalizer(SRC)
+  const byKey = new Map()
   for (const v of SK.venues) {
+    const k = vn.key(v.name, v.city)
+    const first = byKey.get(k)
+    if (first) {
+      skVenueId.set(v.sk, first.id)
+      if (!first.address && v.address) first.address = v.address
+      continue
+    }
     const id = uuid()
     skVenueId.set(v.sk, id)
-    venues.push({ id, name: v.name, address: v.address, city: v.city, country: 'España', lat: v.lat, lng: v.lng })
+    const venue = { id, name: vn.display(v.name), address: v.address, city: v.city, country: 'España', lat: v.lat, lng: v.lng }
+    byKey.set(k, venue)
+    venues.push(venue)
+    skVenuesUnique.push(v)
   }
   for (const v of XL?.venues ?? []) {
     const id = uuid()
@@ -342,7 +357,12 @@ if (SK) {
   // Sinteticos: historial pasado con artistas y salas reales (Songkick solo trae agenda futura)
   const evCount = new Map()
   for (const e of [...SK.events, ...(XL?.events ?? [])]) evCount.set(e.venue, (evCount.get(e.venue) ?? 0) + 1)
-  const venueW = [...SK.venues.map((v) => [v.sk, v]), ...(XL?.venues ?? []).map((v) => [v.id, v])].map(([k]) => [skVenueId.get(k), evCount.get(k) ?? 1])
+  const weightById = new Map()
+  for (const k of [...SK.venues.map((v) => v.sk), ...(XL?.venues ?? []).map((v) => v.id)]) {
+    const id = skVenueId.get(k)
+    weightById.set(id, (weightById.get(id) ?? 0) + (evCount.get(k) ?? 1))
+  }
+  const venueW = [...weightById]
   const realPast = gigs.filter((g) => g.dayOffset < 0).length
   for (let i = realPast; i < 205; i++) {
     gigs.push({
@@ -502,7 +522,7 @@ const favorites = users.map((u) => {
 const externalRefs = SK
   ? [
       ...skArtistsUnique.map((a) => ({ id: uuid(), entityType: 'artist', entityId: skArtistId.get(a.sk), provider: 'songkick', externalId: a.sk.replace('sk-artist-', '') })),
-      ...SK.venues.map((v) => ({ id: uuid(), entityType: 'venue', entityId: skVenueId.get(v.sk), provider: 'songkick', externalId: v.sk.replace('sk-venue-', '') })),
+      ...skVenuesUnique.map((v) => ({ id: uuid(), entityType: 'venue', entityId: skVenueId.get(v.sk), provider: 'songkick', externalId: v.sk.replace('sk-venue-', '') })),
     ]
   : [
       ...sample(artists, 70).map((a) => ({ id: uuid(), entityType: 'artist', entityId: a.id, provider: 'musicbrainz', externalId: uuid() })),
